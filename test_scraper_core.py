@@ -67,7 +67,7 @@ class RoleAndLocationPolicy(unittest.TestCase):
         for title in (
             "RN Case Manager", "Nurse Care Manager", "Pharmacist, Clinical Operations",
             "Engineering Program Manager", "Software Support Engineer",
-            "Technical Program Manager", "Data Analyst, Operations",
+            "Technical Program Manager", "Technical Project Manager", "Data Analyst, Operations",
             "Account Executive", "Sales Development Representative",
             "Warehouse Operations Manager", "Operations Manager - 1st Shift",
             "Hotel Operations Manager", "Branch Operations Manager",

@@ -1562,7 +1562,7 @@
   const EXCLUDED_TITLE_RE = /\b(principal|distinguished|founding|director|vice president|vp|svp|evp|chief|head\s+of|executive director|associate director|managing director)\b|\b(senior|sr\.?)\s+manager\b|\b(general|group|regional|national|district)\s+manager\b/i;
   // Domain veto (licensed-clinical / engineering / quota-sales / industrial
   // titles) — keep in sync with EXCLUDED_DOMAIN_RE in scrape_jobs.py.
-  const EXCLUDED_DOMAIN_RE = /\b(rn|lpn|lvn|nurse|nursing|pharmacist|pharmd|physician|md|np|pa-c|therapist|social worker|lcsw|msw|cna|medical assistant|phlebotom\w*|dietitian|software|engineer|engineering|developer|scientist|machine learning|devops|sre|technical program|data analyst|analytics engineer|account executive|sales development|sdr|bdr|quota|inside sales|outside sales|warehouse|distribution center|fulfillment|manufacturing|production|plant|shift|construction|logistics|fleet|trucking|restaurant|hotel|hospitality|retail|store manager|branch|hvac|janitorial|security guard)\b/i;
+  const EXCLUDED_DOMAIN_RE = /\b(rn|lpn|lvn|nurse|nursing|pharmacist|pharmd|physician|md|np|pa-c|therapist|social worker|lcsw|msw|cna|medical assistant|phlebotom\w*|dietitian|software|engineer|engineering|developer|scientist|machine learning|devops|sre|technical program|technical project|data analyst|analytics engineer|account executive|sales development|sdr|bdr|quota|inside sales|outside sales|warehouse|distribution center|fulfillment|manufacturing|production|plant|shift|construction|logistics|fleet|trucking|restaurant|hotel|hospitality|retail|store manager|branch|hvac|janitorial|security guard)\b/i;
   function pruneState() {
     const cutoff = Date.now() - 30 * 86400000;
     const before = state.jobs.length;

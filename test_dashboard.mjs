@@ -69,7 +69,7 @@ if (!domainMatch) throw new Error('EXCLUDED_DOMAIN_RE not found');
 const domainVeto = new Function(`return ${domainMatch[1]}`)();
 for (const title of [
   'RN Case Manager', 'Nurse Care Manager', 'Pharmacist, Clinical Operations',
-  'Engineering Program Manager', 'Software Support Engineer', 'Technical Program Manager',
+  'Engineering Program Manager', 'Software Support Engineer', 'Technical Program Manager', 'Technical Project Manager',
   'Account Executive', 'Sales Development Representative',
   'Warehouse Operations Manager', 'Operations Manager - 1st Shift', 'Hotel Operations Manager',
 ]) check(`domain veto: ${title}`, domainVeto.test(title));

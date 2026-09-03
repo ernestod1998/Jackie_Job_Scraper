@@ -124,7 +124,7 @@ EXCLUDED_DOMAIN_RE = re.compile(
     r'therapist|social worker|lcsw|msw|cna|medical assistant|phlebotom\w*|'
     r'dietitian|'
     r'software|engineer|engineering|developer|scientist|machine learning|'
-    r'devops|sre|technical program|data analyst|analytics engineer|'
+    r'devops|sre|technical program|technical project|data analyst|analytics engineer|'
     r'account executive|sales development|sdr|bdr|quota|inside sales|'
     r'outside sales|'
     r'warehouse|distribution center|fulfillment|manufacturing|production|'
