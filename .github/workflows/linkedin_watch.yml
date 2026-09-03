@@ -1,0 +1,69 @@
+name: Jackie · LinkedIn Watcher
+
+on:
+  schedule:
+    # 5x/day, 7am-6pm Pacific (PDT). Hours chosen to avoid the other
+    # scrapers' crons: they all share one concurrency group and GitHub
+    # cancels the older pending run when a third queues. The watchdog
+    # (linkedin_watch_backup.yml) re-dispatches a lost fire in the same hours.
+    - cron: "5 16,19,21,23,2 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    name: LinkedIn scrape
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Scrape LinkedIn (last 1h)
+        run: python scrape_jobs.py --linkedin-only
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          NOTIFY_TERMS: ${{ vars.NOTIFY_TERMS }}
+
+      - name: Record workflow run
+        run: |
+          python - <<'EOF'
+          import json
+          import os
+          from datetime import datetime, timezone
+
+          with open("linkedin_jobs.json", encoding="utf-8") as f:
+              data = json.load(f)
+
+          entry = {
+              "workflow": "linkedin",
+              "timestamp": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+              "job_count": int(data.get("total", 0)),
+              "run_id": os.environ.get("GITHUB_RUN_ID", ""),
+              "run_attempt": os.environ.get("GITHUB_RUN_ATTEMPT", ""),
+          }
+
+          with open("workflow_runs.jsonl", "a", encoding="utf-8") as f:
+              f.write(json.dumps(entry, sort_keys=True) + "\n")
+          EOF
+
+      - name: Commit results to repo
+        run: |
+          git config user.name  "ernestod1998"
+          git config user.email "61074783+ernestod1998@users.noreply.github.com"
+          python ci_commit_push.py \
+            --message "chore: update linkedin listings [$(date -u '+%Y-%m-%d %H:%MZ')]" \
+            linkedin_jobs.json linkedin_jobs.md linkedin_jobs.html \
+            workflow_runs.jsonl all_jobs.json notified.json
