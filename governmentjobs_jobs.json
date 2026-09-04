@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-03 22:23 UTC",
+  "scraped_at": "2026-09-04 19:43 UTC",
   "total": 3,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Oakland",
@@ -40,44 +40,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Oakland",
-      "title": "Project Manager II (SC-CeaseFire)",
-      "location": "Oakland, CA",
-      "url": "https://www.governmentjobs.com/jobs/5432702-0/project-manager-ii-sc-ceasefire",
-      "date_posted": "",
-      "salary": "$172,963.68 - $212,374.44 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "State of South Carolina",
-      "title": "Client Advocate I / Peer Support Specialist - Outpatient Services PART-TIME (Berkeley)",
-      "location": "Berkeley County, SC",
-      "url": "https://www.governmentjobs.com/jobs/5470071-0/client-advocate-i-peer-support-specialist-outpatient-services-part-time-berk",
-      "date_posted": "",
-      "salary": "$18,972.00 - $24,633.00 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AC Transit",
-      "title": "Program Manager (Regulatory Compliance)",
-      "location": "Downtown Oakland, CA",
-      "url": "https://www.governmentjobs.com/jobs/5449461-0/program-manager-regulatory-compliance",
-      "date_posted": "",
-      "salary": "$156,059.00 - $186,365.00 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
