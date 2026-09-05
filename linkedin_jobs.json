@@ -1,113 +1,37 @@
 {
-  "scraped_at": "2026-09-05 21:08 UTC",
-  "total": 25,
-  "new_count": 16,
+  "scraped_at": "2026-09-05 23:23 UTC",
+  "total": 16,
+  "new_count": 9,
   "jobs": [
     {
-      "company": "Nen Creative",
-      "title": "Operations Associate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463771563/",
+      "company": "LHH",
+      "title": "Human Resources Operations Coordinator",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462649182/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
+      "salary": "$25.45/hr - $28.15/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Strong Tower Consulting",
-      "title": "Program Manager (II)",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463778450/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Buck Institute for Research on Aging",
-      "title": "Clinical Project Manager",
-      "location": "Novato, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459874278/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Western Exterminator Company",
-      "title": "Operations Manager, US Pest",
-      "location": "Hayward, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451292165/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ByteDance",
-      "title": "Product Operations Manager - PICO Store",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462670039/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Product Operations Manager (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462622295/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Early Warning",
-      "title": "Sr. Lead Partnership Operations Manager - Digital Assets",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4436168732/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Homebase",
-      "title": "Senior Marketing Operations Manager (Hybrid)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463771565/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$170,000.00/yr - $200,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sargent & Lundy",
-      "title": "Project Manager 2 - Substation & Transmission",
+      "company": "Skyrocket Ventures",
+      "title": "IT / Information Technology Project Manager",
       "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406241513/",
+      "url": "https://www.linkedin.com/jobs/view/4448547546/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
+      "salary": "$130,000.00/yr - $150,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Skanska",
-      "title": "Senior Project Manager",
+      "company": "HGA",
+      "title": "Project Coordinator",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451294783/",
+      "url": "https://www.linkedin.com/jobs/view/4461806475/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -115,65 +39,10 @@
       ]
     },
     {
-      "company": "Cumming Group",
-      "title": "Senior Project Manager",
-      "location": "San Rafael, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426670183/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CBRE",
-      "title": "Sales Support Team Lead",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463783604/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Skanska",
-      "title": "Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4397999097/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EY",
-      "title": "Studio+ Sales Performance Management (SPM) Project Manager-Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451277732/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EY",
-      "title": "Studio+ Sales Performance Management (SPM) Project Manager-Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451289621/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Rakuten Viki",
-      "title": "Lead, Strategy and Business Operations",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417047188/",
+      "company": "StartX Med",
+      "title": "Sales Operations Assistant",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462666173/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -192,10 +61,21 @@
       ]
     },
     {
-      "company": "Colliers Engineering & Design",
-      "title": "Project Manager - Data Centers",
+      "company": "Jobright.ai",
+      "title": "Product Operations Manager (AI Recruiting Agent)",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462662282/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Product Operations Manager",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4435828577/",
+      "url": "https://www.linkedin.com/jobs/view/4462656244/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -203,10 +83,10 @@
       ]
     },
     {
-      "company": "EY",
-      "title": "Studio+ Sales Performance Management (SPM) Project Manager-Manager",
+      "company": "Homebase",
+      "title": "Senior Marketing Operations Manager (Hybrid)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451277723/",
+      "url": "https://www.linkedin.com/jobs/view/4463771565/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -214,10 +94,10 @@
       ]
     },
     {
-      "company": "Bloom Energy",
-      "title": "Sr. Materials Program Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4444077796/",
+      "company": "CBRE",
+      "title": "Sales Support Team Lead",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463783604/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -236,10 +116,34 @@
       ]
     },
     {
-      "company": "Littelfuse",
-      "title": "Key Account Manager",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451261657/",
+      "company": "Stanford Federal Credit Union",
+      "title": "Contact Center Specialist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457555448/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "salary": "$29.00/hr - $32.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Meta",
+      "title": "Program Manager, Domains and Off-Platform Enforcement",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461488586/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "salary": "$152,000.00/yr - $218,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Citi",
+      "title": "Wealth Growth Program Manager | San Francisco, CA",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462649189/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -258,10 +162,10 @@
       ]
     },
     {
-      "company": "Jobright.ai",
-      "title": "Product Operations Intern (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462626177/",
+      "company": "Nen Creative",
+      "title": "Operations Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463771563/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -282,10 +186,34 @@
   ],
   "new_jobs": [
     {
-      "company": "Nen Creative",
-      "title": "Operations Associate",
+      "company": "LHH",
+      "title": "Human Resources Operations Coordinator",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462649182/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "salary": "$25.45/hr - $28.15/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Skyrocket Ventures",
+      "title": "IT / Information Technology Project Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448547546/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "salary": "$130,000.00/yr - $150,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "HGA",
+      "title": "Project Coordinator",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463771563/",
+      "url": "https://www.linkedin.com/jobs/view/4461806475/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -293,32 +221,10 @@
       ]
     },
     {
-      "company": "Strong Tower Consulting",
-      "title": "Program Manager (II)",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463778450/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Buck Institute for Research on Aging",
-      "title": "Clinical Project Manager",
-      "location": "Novato, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459874278/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ByteDance",
-      "title": "Product Operations Manager - PICO Store",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462670039/",
+      "company": "StartX Med",
+      "title": "Sales Operations Assistant",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462666173/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -329,107 +235,7 @@
       "company": "Jobright.ai",
       "title": "Product Operations Manager (AI Recruiting Agent)",
       "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462622295/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Homebase",
-      "title": "Senior Marketing Operations Manager (Hybrid)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463771565/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$170,000.00/yr - $200,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cumming Group",
-      "title": "Senior Project Manager",
-      "location": "San Rafael, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426670183/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CBRE",
-      "title": "Sales Support Team Lead",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463783604/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EY",
-      "title": "Studio+ Sales Performance Management (SPM) Project Manager-Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451277732/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HGA",
-      "title": "Project Manager - Healthcare",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461428119/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EY",
-      "title": "Studio+ Sales Performance Management (SPM) Project Manager-Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451277723/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HGA",
-      "title": "Project Manager - Interior Designer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461806476/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Littelfuse",
-      "title": "Key Account Manager",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451261657/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Compass Family Services",
-      "title": "Case Manager, Compass SF HOME (Temporary)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463696119/",
+      "url": "https://www.linkedin.com/jobs/view/4462662282/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -438,9 +244,9 @@
     },
     {
       "company": "Jobright.ai",
-      "title": "Product Operations Intern (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462626177/",
+      "title": "AI Product Operations Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462656244/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -448,10 +254,34 @@
       ]
     },
     {
-      "company": "HGA",
-      "title": "Digital Design Support Lead",
+      "company": "Stanford Federal Credit Union",
+      "title": "Contact Center Specialist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457555448/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "salary": "$29.00/hr - $32.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Meta",
+      "title": "Program Manager, Domains and Off-Platform Enforcement",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461488586/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "salary": "$152,000.00/yr - $218,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Citi",
+      "title": "Wealth Growth Program Manager | San Francisco, CA",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459978846/",
+      "url": "https://www.linkedin.com/jobs/view/4462649189/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
