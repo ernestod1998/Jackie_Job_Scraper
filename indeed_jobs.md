@@ -1,8 +1,13 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-09-05 21:37 UTC*
+*Last updated: 2026-09-05 23:25 UTC*
 
-**1 new role(s)** since last run · 117 total in last 24h
+**2 new role(s)** since last run · 100 total in last 24h
 
-### [Support Lead Full Time](https://www.indeed.com/viewjob?jk=f2b587e14a4a5099) — Five Below
-- 📍 **Location:** Alameda, CA, US
+### [Operations Manager, Government Grants](https://www.indeed.com/viewjob?jk=f36676252f901c7c) — American Heart Association
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $68k–$88k/yr
+- 🕒 **Posted:** 2026-09-05
+
+### [Account Manager - Security](https://www.indeed.com/viewjob?jk=a5458666305e52be) — Prosegur
+- 📍 **Location:** San Carlos, CA, US
 - 🕒 **Posted:** 2026-09-05
