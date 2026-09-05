@@ -1,228 +1,176 @@
 # 🗃 Direct ATS Registry — Ops / Support / Care Roles
-*Last updated: 2026-09-04 16:40 UTC*
+*Last updated: 2026-09-05 15:33 UTC*
 
-**56 new role(s)** since last run · 56 total in current registry shard
+**43 new role(s)** since last run · 93 total in current registry shard
 
-### [Billing Implementation Specialist](https://jobs.ashbyhq.com/color-health/8179a89c-8c62-4caf-84b1-f9f2b95a09f6) — Color
-- 📍 **Location:** South San Francisco, California
-- 🕒 **Posted:** 2026-08-27
-
-### [People Enablement Partner](https://jobs.ashbyhq.com/Crusoe/55786c36-cc4a-4882-8a0d-97143bf259c3) — Crusoe
-- 📍 **Location:** San Francisco, CA - US
-- 🕒 **Posted:** 2026-09-01
-
-### [Customer Success Manager, Managed Inference](https://jobs.ashbyhq.com/Crusoe/648dc4df-6a51-4e99-822a-23f76e8ca53c) — Crusoe
-- 📍 **Location:** San Francisco, CA - US
-- 🕒 **Posted:** 2026-08-26
-
-### [Learning & Development Coordinator](https://jobs.ashbyhq.com/Crusoe/a9d08293-7016-455c-8590-8228755b5845) — Crusoe
-- 📍 **Location:** San Francisco, CA - US
-- 🕒 **Posted:** 2026-08-21
-
-### [Workplace Operations Manager](https://jobs.ashbyhq.com/mistral.ai/c0215b73-450d-461e-a74b-5cbb8cfe57da) — Mistral AI
-- 📍 **Location:** Palo Alto
+### [Implementation Manager](https://jobs.ashbyhq.com/benchling/6a18cd23-4c31-4df5-b321-442037b48b3a) — Benchling
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [GTM Strategy and Operations](https://jobs.ashbyhq.com/Sierra/6b9b6904-a4b1-444b-8c35-f2bbb5ee2ff5) — Sierra
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-24
+### [Account Manager, Enterprise](https://jobs.ashbyhq.com/fal-ai/a56e6520-c9a2-4ab7-8bb9-ac6b370e765d) — fal-ai
+- 📍 **Location:** SF Office
+- 🕒 **Posted:** 2026-09-02
 
-### [Legal Operations Associate](https://jobs.ashbyhq.com/voleon/86a44390-8423-45e8-8d3d-e7e08c8e382f) — The Voleon Group
-- 📍 **Location:** Berkeley, CA
+### [Program Manager, Global Mobility & Immigration](https://jobs.ashbyhq.com/fal-ai/e36ee1b1-92de-4cf3-86dc-4e71f565807c) — fal-ai
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-28
+
+### [Core Integration Business Analyst ](https://jobs.ashbyhq.com/meridianlink/9710ede8-6b50-4fc9-b91a-02e0b45d4dab) — Meridian Link
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-09-02
+
+### [Implementation Project Manager - Mortgage](https://jobs.ashbyhq.com/meridianlink/d6fbb81c-1db7-40d7-9152-ae04888cb954) — Meridian Link
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-09-03
+
+### [Research Program Manager ](https://jobs.ashbyhq.com/openai/c7c5ef17-af83-483c-a825-f461f9f63b17) — OpenAI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-31
+
+### [Trust & Safety Ads Operations Analyst, Programs](https://jobs.ashbyhq.com/openai/c9e9e3a5-fb93-4162-b876-6266016819c0) — OpenAI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-28
+
+### [Program Manager - IT Operations](https://jobs.ashbyhq.com/openai/c37587c4-39f3-40e0-b73c-c8bb55a7cd05) — OpenAI
+- 📍 **Location:** San Francisco
 - 🕒 **Posted:** 2026-08-26
 
-### [Program Manager](https://job-boards.greenhouse.io/9thwayinsignia/jobs/5393389008) — 9th Way Insignia
-- 📍 **Location:** United States - Remote
+### [Cyber Operations Lead, Critical Harm Operations](https://jobs.ashbyhq.com/openai/60089c12-762c-4369-9a7c-94f8959343a3) — OpenAI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-31
+
+### [GRC Program Manager, Product Lifecycle Assurance](https://jobs.ashbyhq.com/openai/cf1e5c80-f42e-45ab-a937-2a4024b961e1) — OpenAI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-09-01
+
+### [Trust & Safety Ads Operations Analyst, Data](https://jobs.ashbyhq.com/openai/26e8c199-7dcb-4144-b263-f35220421a6d) — OpenAI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-28
+
+### [Business Operations Manager, Business Marketing ](https://jobs.ashbyhq.com/openai/2df4df3a-7ac6-42f2-b8ec-d471627a80c8) — OpenAI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-26
+
+### [Lab Operations Manager, Systems Integration | Consumer Devices](https://jobs.ashbyhq.com/openai/d727cc4b-f4b6-49a0-806c-390f8a053e2f) — OpenAI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-25
+
+### [Safety Response Operations Lead](https://jobs.ashbyhq.com/openai/91653d95-27fc-44bd-bbb3-7078fd6a5718) — OpenAI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-28
+
+### [Infrastructure Sourcing Operations Lead](https://jobs.ashbyhq.com/openai/00f7eaa5-315d-44bd-9c11-047ee53f2b0d) — OpenAI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-09-01
+
+### [Support Program Manager, Support Delivery](https://jobs.ashbyhq.com/openai/862ffe2a-8261-4c46-8ed4-5178567ac7e0) — OpenAI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-09-02
+
+### [Strategy and Operations Lead, Hardware](https://jobs.ashbyhq.com/openai/669e43f3-4236-41ab-be78-d6fb9179fee4) — OpenAI
+- 📍 **Location:** San Francisco
 - 🕒 **Posted:** 2026-09-04
 
-### [Account Manager, Corporate](https://job-boards.greenhouse.io/alphasense/jobs/8769886002) — AlphaSense
-- 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-09-01
-
-### [Account Manager, Corporate](https://job-boards.greenhouse.io/alphasense/jobs/8726427002) — AlphaSense
-- 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-08-26
-
-### [Manager, Customer Success Operations](https://job-boards.greenhouse.io/alphasense/jobs/8658399002) — AlphaSense
-- 📍 **Location:** Remote - United States
+### [Staff Project Manager, Professional Services](https://jobs.ashbyhq.com/opengov/e1f1e849-4bc1-4c58-a4f7-6dd4d9e25cb7) — OpenGov
+- 📍 **Location:** US | California | San Francisco
 - 🕒 **Posted:** 2026-08-25
 
-### [Marketing Operations Specialist](https://job-boards.greenhouse.io/alphasense/jobs/8742424002) — AlphaSense
-- 📍 **Location:** Remote - United States
+### [Fraud Operations Manager](https://jobs.ashbyhq.com/polymarket/6703b7cd-2b97-4bed-9445-3ab8d74150f0) — Polymarket
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-09-04
+
+### [Sr. Talent Program Manager - Early Careers](https://job-boards.greenhouse.io/addepar1/jobs/8692244002) — Addepar
+- 📍 **Location:** Remote, USA
 - 🕒 **Posted:** 2026-08-31
 
-### [Sales Enablement Lead, Pipeline Generation](https://job-boards.greenhouse.io/alphasense/jobs/8661707002) — AlphaSense
-- 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-08-25
-
-### [Senior Analyst, Customer Success Operations](https://job-boards.greenhouse.io/alphasense/jobs/8658435002) — AlphaSense
-- 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-08-25
-
-### [Senior Program Manager, Content Partnerships](https://job-boards.greenhouse.io/alphasense/jobs/8627679002) — AlphaSense
-- 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-08-25
-
-### [Senior Student Program Manager](https://job-boards.greenhouse.io/alphasense/jobs/8585940002) — AlphaSense
-- 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-08-25
-
-### [Sr. Analyst, Revenue Operations](https://job-boards.greenhouse.io/alphasense/jobs/8442296002) — AlphaSense
-- 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-08-25
-
-### [Senior Customer Success Manager](https://job-boards.greenhouse.io/colabsoftware/jobs/5290946008) — CoLab Software
-- 📍 **Location:** Remote, Canada, Remote, United States
-- 🕒 **Posted:** 2026-08-24
-
-### [Senior Implementation Specialist ](https://job-boards.greenhouse.io/colabsoftware/jobs/5267165008) — CoLab Software
-- 📍 **Location:** Canada and US, Remote
-- 🕒 **Posted:** 2026-08-24
-
-### [Deal Strategy & Operations Manager](https://job-boards.greenhouse.io/cresta/jobs/5398116008) — Cresta
-- 📍 **Location:** United States (Remote)
-- 🕒 **Posted:** 2026-08-26
-
-### [Client Service Training Manager](https://job-boards.greenhouse.io/focuspartnerswealth/jobs/6122473004) — Focus Financial Partners
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-08-24
-
-### [Senior Sales Operations Specialist (North Central)](https://boards.greenhouse.io/guidepointsecurity/jobs/6179702004?gh_jid=6179702004) — GuidePoint Security
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-09-02
-
-### [Customer Support Manager, Provider Enablement](https://job-boards.greenhouse.io/interwellhealth/jobs/5397291008) — Interwell Health
-- 📍 **Location:** Remote,  United States
-- 🕒 **Posted:** 2026-08-28
-
-### [Senior Program Manager, Customer Experience](https://job-boards.greenhouse.io/kikoff/jobs/4387697009) — Kikoff
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-08-28
-
-### [Product Operations Specialist](https://job-boards.greenhouse.io/kodiak/jobs/4385434009) — Kodiak Robotics
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-27
-
-### [Sr. Program Manager, Sales Operations and Vehicle Build Planning](https://job-boards.greenhouse.io/lucidmotors/jobs/5222770007) — Lucid Motors
-- 📍 **Location:** Newark, CA
+### [Trading Operations Associate - America ](https://job-boards.greenhouse.io/alpaca/jobs/6161891004) — Alpaca
+- 📍 **Location:** Remote 
 - 🕒 **Posted:** 2026-09-03
 
-### [OSP Project Coordinator](https://job-boards.greenhouse.io/lumosfiber/jobs/5408534008) — Lumos
-- 📍 **Location:** United States of America (USA), Ohio; United States of America (USA), Remote
+### [Supplier Quality Manager  ](https://job-boards.greenhouse.io/atomicmachines/jobs/4284081009) — Atomic Machines
+- 📍 **Location:** Emeryville or Santa Clara, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [International Care Advocate (UK)](https://job-boards.greenhouse.io/mavenclinic/jobs/8760212002) — Maven Clinic
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-08-31
-
-### [Payment Operations Associate](https://job-boards.greenhouse.io/mavenclinic/jobs/8777165002) — Maven Clinic
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Member Services Specialist](https://job-boards.greenhouse.io/mavenclinic/jobs/8756820002) — Maven Clinic
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-08-27
-
-### [Power System Studies Project Manager - Data Center](https://job-boards.greenhouse.io/olsson/jobs/5412590008) — Olsson
-- 📍 **Location:** Remote
+### [Sr Technical Account Manager - East](https://job-boards.greenhouse.io/dataiku/jobs/6145122004) — Dataiku
+- 📍 **Location:** United States, Remote
 - 🕒 **Posted:** 2026-09-01
 
-### [Senior Renewals Operations Manager](https://job-boards.greenhouse.io/pingidentity/jobs/8743360002) — Ping Identity
-- 📍 **Location:** USA - Remote
-- 🕒 **Posted:** 2026-08-26
-
-### [Senior Technical Account Manager](https://job-boards.greenhouse.io/pingidentity/jobs/8593150002) — Ping Identity
-- 📍 **Location:** USA - Remote 
-- 🕒 **Posted:** 2026-08-25
-
-### [Technical Account Manager](https://job-boards.greenhouse.io/pingidentity/jobs/8435648002) — Ping Identity
-- 📍 **Location:** USA - Remote 
-- 🕒 **Posted:** 2026-08-25
-
-### [Associate Manager, Client Services](https://job-boards.greenhouse.io/precisionaq/jobs/6123603004) — Precision AQ
-- 📍 **Location:** Remote, United States
-- 🕒 **Posted:** 2026-09-03
-
-### [Client Services Business Analyst](https://job-boards.greenhouse.io/precisionaq/jobs/5826221004) — Precision AQ
-- 📍 **Location:** Remote, United States
-- 🕒 **Posted:** 2026-09-03
-
-### [Group Account Supervisor - Patient Support Programs (Healthcare Marketing)](https://job-boards.greenhouse.io/precisionaq/jobs/6138002004) — Precision AQ
-- 📍 **Location:** Remote, United States
-- 🕒 **Posted:** 2026-09-03
-
-### [Project Manager, Evidence Synthesis](https://job-boards.greenhouse.io/precisionaq/jobs/6117969004) — Precision AQ
-- 📍 **Location:** Remote, United States
-- 🕒 **Posted:** 2026-09-03
-
-### [Project Manager, Healthcare and Pharmaceutical Advertising ](https://job-boards.greenhouse.io/precisionaq/jobs/6119520004) — Precision AQ
-- 📍 **Location:** Remote, United States
-- 🕒 **Posted:** 2026-09-03
-
-### [Strategic Account Manager, Medical Communications](https://job-boards.greenhouse.io/precisionaq/jobs/6129050004) — Precision AQ
-- 📍 **Location:** Remote, United States
-- 🕒 **Posted:** 2026-09-03
-
-### [Implementation Specialist](https://job-boards.greenhouse.io/roadrunner/jobs/4343949009) — RoadRunner Recycling
-- 📍 **Location:** Remote - USA
-- 🕒 **Posted:** 2026-08-31
-
-### [Growth Strategy & Operations Lead](https://job-boards.greenhouse.io/scaleai/jobs/4701543005) — Scale AI
-- 📍 **Location:** San Francisco, CA; New York, NY
+### [Sr Technical Account Manager - West](https://job-boards.greenhouse.io/dataiku/jobs/6145144004) — Dataiku
+- 📍 **Location:** United States, Remote
 - 🕒 **Posted:** 2026-09-01
 
-### [Program Manager, Compliance](https://job-boards.greenhouse.io/scaleai/jobs/4727185005) — Scale AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-24
+### [Senior Marketing Operations Specialist](https://app.careerpuck.com/job-board/earnest/job/8092936?gh_jid=8092936) — earnest
+- 📍 **Location:** San Francisco, CA (Remote)
+- 🕒 **Posted:** 2026-09-02
 
-### [Program Manager, Technical Enablement](https://job-boards.greenhouse.io/scaleai/jobs/4727135005) — Scale AI
-- 📍 **Location:** San Francisco, CA; New York, NY
-- 🕒 **Posted:** 2026-08-27
-
-### [Account Manager](https://job-boards.greenhouse.io/soci/jobs/6151676004) — SOCi
-- 📍 **Location:** United States (Remote)
-- 🕒 **Posted:** 2026-09-03
-
-### [Account Manager (Property)](https://job-boards.greenhouse.io/soci/jobs/6181090004) — SOCi
-- 📍 **Location:** United States (Remote)
-- 🕒 **Posted:** 2026-09-03
-
-### [Pre-School Math Teacher + Business Operations Specialist ](https://job-boards.greenhouse.io/thinkacademyus/jobs/7976090003) — Think Academy International Education
+### [Senior People Operations Specialist](https://job-boards.greenhouse.io/figureai/jobs/4708750006) — Figure
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-25
+- 🕒 **Posted:** 2026-08-27
 
-### [Senior University Recruiting Program Manager](https://job-boards.greenhouse.io/togetherai/jobs/5209804007) — Together AI
-- 📍 **Location:** San Francisco
+### [Quality Training Coordinator](https://job-boards.greenhouse.io/oklo/jobs/6147480004) — Oklo
+- 📍 **Location:** Santa Clara, CA or Remote
+- 🕒 **Posted:** 2026-08-24
+
+### [Recycling Operations Manager](https://job-boards.greenhouse.io/oklo/jobs/6046310004) — Oklo
+- 📍 **Location:** Santa Clara, CA or Remote
+- 🕒 **Posted:** 2026-08-24
+
+### [Implementation Specialist](https://job-boards.greenhouse.io/ooma/jobs/5221817007) — Ooma
+- 📍 **Location:** Remote, US
 - 🕒 **Posted:** 2026-09-03
 
-### [SOX Compliance Program Manager - Salesforce](https://job-boards.greenhouse.io/twistbioscience/jobs/8125960) — Twist Bioscience
-- 📍 **Location:** USA - South San Francisco, CA
-- 🕒 **Posted:** 2026-08-26
-
-### [Human Data - Business Operations Analyst](https://job-boards.greenhouse.io/xai/jobs/5216863007) — xAI
-- 📍 **Location:**  Palo Alto, CA
-- 🕒 **Posted:** 2026-09-03
-
-### [Program Manager, Harmful Activity](https://job-boards.greenhouse.io/xai/jobs/5213773007) — xAI
-- 📍 **Location:**  Palo Alto, CA; Bastrop, TX; New York, NY
-- 🕒 **Posted:** 2026-09-03
-
-### [Program Manager, Prohibited & Regulated Content](https://job-boards.greenhouse.io/xai/jobs/5210378007) — xAI
-- 📍 **Location:**  Palo Alto, CA; Bastrop, TX; New York, NY
-- 🕒 **Posted:** 2026-09-03
-
-### [Legal Operations Specialist](https://jobs.lever.co/palantir/3c0c9552-f4ae-4467-b032-5809d2d62724) — Palantir
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-03
-
-### [IT Enterprise Project Manager](https://aah.wd5.myworkdayjobs.com/External/job/Remote/IT-Enterprise-Project-Manager-Senior_R222783) — Advocate Health Care
+### [Sales Operations Manager, Channel & Partnerships](https://boards.greenhouse.io/opensesame/jobs/8163544?gh_jid=8163544) — OpenSesame
 - 📍 **Location:** Remote
-- 🕒 **Posted:** Posted Yesterday
+- 🕒 **Posted:** 2026-09-03
 
-### [Digital Health Solutions, Project Manager (Lab Informatics)](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Digital-Health-Solutions-Project-Manager--Lab-Informatics-_31156518-1) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 2 Days Ago
+### [Sales Operations Manager, Direct Sales](https://boards.greenhouse.io/opensesame/jobs/8161867?gh_jid=8161867) — OpenSesame
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-09-03
 
-### [CIG Senior Specialist Quality Assurance](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/CIG-Senior-Specialist-Quality-Assurance_31159425-2) — Abbott
-- 📍 **Location:** United States - California - Alameda
-- 🕒 **Posted:** Posted 10 Days Ago
+### [Senior Customer Success Manager](https://boards.greenhouse.io/opensesame/jobs/8171769?gh_jid=8171769) — OpenSesame
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-09-01
+
+### [Customer Success Manager](https://job-boards.greenhouse.io/pingidentity/jobs/8765277002) — Ping Identity
+- 📍 **Location:** USA - Remote 
+- 🕒 **Posted:** 2026-09-04
+
+### [Associate Project Manager - Healthcare Advertising](https://job-boards.greenhouse.io/precisionaq/jobs/6145153004) — Precision AQ
+- 📍 **Location:** Remote, United States
+- 🕒 **Posted:** 2026-09-04
+
+### [Sr. Account Manager](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6146034004) — Sony Interactive Entertainment
+- 📍 **Location:** United States, San Mateo, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Staff Business Analyst, PlayStation Store](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5639568004) — Sony Interactive Entertainment
+- 📍 **Location:** United States, San Mateo, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Staff Program Manager, Innovation Go-to-Market ](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5987531004) — Sony Interactive Entertainment
+- 📍 **Location:** United States, San Mateo, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Senior Business Analyst ](https://job-boards.greenhouse.io/sustainabletalent/jobs/4723502005) — Sustainable Talent
+- 📍 **Location:** Santa Clara, CA- REMOTE
+- 🕒 **Posted:** 2026-08-28
+
+### [Customer Success Manager](https://job-boards.greenhouse.io/twilio/jobs/8162071) — Twilio
+- 📍 **Location:** Remote - US
+- 🕒 **Posted:** 2026-09-04
+
+### [Senior Program Manager, Disaster Recovery](https://job-boards.greenhouse.io/twilio/jobs/8065038) — Twilio
+- 📍 **Location:** Remote - US
+- 🕒 **Posted:** 2026-09-02
+
+### [Sr. Strategy & Operations Analyst, Deal Desk](https://job-boards.greenhouse.io/twilio/jobs/8128863) — Twilio
+- 📍 **Location:** Remote - US
+- 🕒 **Posted:** 2026-08-28
+
+### [Staff, Escalation Manager](https://job-boards.greenhouse.io/twilio/jobs/8026406) — Twilio
+- 📍 **Location:** Remote - US
+- 🕒 **Posted:** 2026-09-02
+
+### [Legal Operations Specialist](https://job-boards.greenhouse.io/xai/jobs/5231516007) — xAI
+- 📍 **Location:**  Palo Alto, CA
+- 🕒 **Posted:** 2026-09-04
