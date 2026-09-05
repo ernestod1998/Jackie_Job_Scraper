@@ -1,36 +1,62 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-09-05 01:28 UTC*
+*Last updated: 2026-09-05 06:54 UTC*
 
-**8 new role(s)** since last run · 74 total in last 4h
+**13 new role(s)** since last run · 13 total in last 4h
 
-### [Program Lead](https://www.linkedin.com/jobs/view/4463691434/) — Stealth Startup
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-04
-
-### [Operations Analyst](https://www.linkedin.com/jobs/view/4463675852/) — KQED
+### [Emergency Management Program Manager](https://www.linkedin.com/jobs/view/4434679785/) — Waymo
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Project Manager - Healthcare](https://www.linkedin.com/jobs/view/4461428119/) — HGA
+### [Senior Analyst, Process Improvement](https://www.linkedin.com/jobs/view/4461444212/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $91,000.00/yr - $169,000.00/yr
+- 🕒 **Posted:** 2026-09-04
+
+### [Program Manager (II) [AQ-16399]](https://www.linkedin.com/jobs/view/4461450305/) — Aquent
+- 📍 **Location:** San Bruno, CA
+- 💰 **Salary:** $95.00/hr - $104.00/hr
+- 🕒 **Posted:** 2026-09-04
+
+### [Member Services Coordinator II, Spanish](https://www.linkedin.com/jobs/view/4462356716/) — Native American Health Center
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $26.05/hr - $30.71/hr
+- 🕒 **Posted:** 2026-09-04
+
+### [Front Office Manager](https://www.linkedin.com/jobs/view/4462364426/) — Highgate
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Lead Implementation Specialist](https://www.linkedin.com/jobs/view/4454670229/) — FactSet
+### [Product Operations Manager, Model Quality](https://www.linkedin.com/jobs/view/4461443179/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $123,000.00/yr - $179,000.00/yr
+- 🕒 **Posted:** 2026-09-04
+
+### [Product Operations Manager, Model Quality](https://www.linkedin.com/jobs/view/4461441212/) — Meta
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $123,000.00/yr - $179,000.00/yr
+- 🕒 **Posted:** 2026-09-04
+
+### [Program Leader, Global U4B Customer Success](https://www.linkedin.com/jobs/view/4463714369/) — Uber
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Senior Implementation Specialist](https://www.linkedin.com/jobs/view/4454666270/) — FactSet
+### [Program Manager, Expansion](https://www.linkedin.com/jobs/view/4462355405/) — Waymo
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Program Manager, Expansion](https://www.linkedin.com/jobs/view/4462367323/) — Waymo
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Staff Program Manager, Sales Motion & Operations](https://www.linkedin.com/jobs/view/4463637964/) — Tesla
-- 📍 **Location:** Palo Alto, CA
+### [Program Manager, Airports & Venues CX](https://www.linkedin.com/jobs/view/4463708482/) — Uber
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Estimator/Project Manager](https://www.linkedin.com/jobs/view/4461192939/) — Brady Air
-- 📍 **Location:** South San Francisco, CA
+### [Program Manager, Security Risk Program](https://www.linkedin.com/jobs/view/4461445146/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $153,000.00/yr - $209,000.00/yr
 - 🕒 **Posted:** 2026-09-04
 
-### [Brand and Ad Operations Specialist](https://www.linkedin.com/jobs/view/4462343217/) — Roblox
-- 📍 **Location:** San Mateo, CA
+### [Senior Technical Compliance Program Manager, LCPO Solutions & Strategy](https://www.linkedin.com/jobs/view/4463710478/) — Intuit
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-09-04
