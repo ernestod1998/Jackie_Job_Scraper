@@ -1,15 +1,16 @@
 {
-  "scraped_at": "2026-09-05 06:54 UTC",
-  "total": 13,
-  "new_count": 13,
+  "scraped_at": "2026-09-05 07:08 UTC",
+  "total": 17,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "Waymo",
-      "title": "Emergency Management Program Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4434679785/",
-      "date_posted": "2026-09-04",
+      "company": "Native American Health Center",
+      "title": "Member Services Coordinator II, Spanish",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462356716/",
+      "date_posted": "2026-09-05",
       "ats": "LinkedIn",
+      "salary": "$26.05/hr - $30.71/hr",
       "feeds": [
         "general"
       ]
@@ -19,7 +20,7 @@
       "title": "Senior Analyst, Process Improvement",
       "location": "Sunnyvale, CA",
       "url": "https://www.linkedin.com/jobs/view/4461444212/",
-      "date_posted": "2026-09-04",
+      "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "salary": "$91,000.00/yr - $169,000.00/yr",
       "feeds": [
@@ -31,7 +32,7 @@
       "title": "Program Manager (II) [AQ-16399]",
       "location": "San Bruno, CA",
       "url": "https://www.linkedin.com/jobs/view/4461450305/",
-      "date_posted": "2026-09-04",
+      "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "salary": "$95.00/hr - $104.00/hr",
       "feeds": [
@@ -39,23 +40,11 @@
       ]
     },
     {
-      "company": "Native American Health Center",
-      "title": "Member Services Coordinator II, Spanish",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462356716/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn",
-      "salary": "$26.05/hr - $30.71/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Highgate",
-      "title": "Front Office Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462364426/",
-      "date_posted": "2026-09-04",
+      "company": "Varley",
+      "title": "Operations Lead - Palo Alto",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459346616/",
+      "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -66,7 +55,7 @@
       "title": "Product Operations Manager, Model Quality",
       "location": "Menlo Park, CA",
       "url": "https://www.linkedin.com/jobs/view/4461443179/",
-      "date_posted": "2026-09-04",
+      "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "salary": "$123,000.00/yr - $179,000.00/yr",
       "feeds": [
@@ -78,7 +67,7 @@
       "title": "Product Operations Manager, Model Quality",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4461441212/",
-      "date_posted": "2026-09-04",
+      "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "salary": "$123,000.00/yr - $179,000.00/yr",
       "feeds": [
@@ -86,33 +75,11 @@
       ]
     },
     {
-      "company": "Uber",
-      "title": "Program Leader, Global U4B Customer Success",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463714369/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Waymo",
-      "title": "Program Manager, Expansion",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462355405/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Waymo",
-      "title": "Program Manager, Expansion",
+      "title": "Emergency Management Program Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462367323/",
-      "date_posted": "2026-09-04",
+      "url": "https://www.linkedin.com/jobs/view/4434679785/",
+      "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -123,7 +90,51 @@
       "title": "Program Manager, Airports & Venues CX",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4463708482/",
-      "date_posted": "2026-09-04",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Highgate",
+      "title": "Front Office Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462364426/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Uber",
+      "title": "Program Leader, Global U4B Customer Success",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463714369/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Waymo",
+      "title": "Program Manager, Expansion",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462355405/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Waymo",
+      "title": "Program Manager, Expansion",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462367323/",
+      "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -134,7 +145,7 @@
       "title": "Program Manager, Security Risk Program",
       "location": "Menlo Park, CA",
       "url": "https://www.linkedin.com/jobs/view/4461445146/",
-      "date_posted": "2026-09-04",
+      "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "salary": "$153,000.00/yr - $209,000.00/yr",
       "feeds": [
@@ -146,7 +157,40 @@
       "title": "Senior Technical Compliance Program Manager, LCPO Solutions & Strategy",
       "location": "Mountain View, CA",
       "url": "https://www.linkedin.com/jobs/view/4463710478/",
-      "date_posted": "2026-09-04",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Automotive Account Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461441558/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Account Manager - Semiconductor",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461448455/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Roblox",
+      "title": "Brand and Ad Operations Specialist",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462343217/",
+      "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -155,149 +199,44 @@
   ],
   "new_jobs": [
     {
-      "company": "Waymo",
-      "title": "Emergency Management Program Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4434679785/",
-      "date_posted": "2026-09-04",
+      "company": "Varley",
+      "title": "Operations Lead - Palo Alto",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459346616/",
+      "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Walmart",
-      "title": "Senior Analyst, Process Improvement",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461444212/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn",
-      "salary": "$91,000.00/yr - $169,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Aquent",
-      "title": "Program Manager (II) [AQ-16399]",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461450305/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn",
-      "salary": "$95.00/hr - $104.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Native American Health Center",
-      "title": "Member Services Coordinator II, Spanish",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462356716/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn",
-      "salary": "$26.05/hr - $30.71/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Highgate",
-      "title": "Front Office Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462364426/",
-      "date_posted": "2026-09-04",
+      "company": "NVIDIA AI",
+      "title": "Automotive Account Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461441558/",
+      "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Meta",
-      "title": "Product Operations Manager, Model Quality",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461443179/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn",
-      "salary": "$123,000.00/yr - $179,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Meta",
-      "title": "Product Operations Manager, Model Quality",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461441212/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn",
-      "salary": "$123,000.00/yr - $179,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Uber",
-      "title": "Program Leader, Global U4B Customer Success",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463714369/",
-      "date_posted": "2026-09-04",
+      "company": "NVIDIA AI",
+      "title": "Account Manager - Semiconductor",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461448455/",
+      "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Waymo",
-      "title": "Program Manager, Expansion",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462355405/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Waymo",
-      "title": "Program Manager, Expansion",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462367323/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Uber",
-      "title": "Program Manager, Airports & Venues CX",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463708482/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Meta",
-      "title": "Program Manager, Security Risk Program",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461445146/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn",
-      "salary": "$153,000.00/yr - $209,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Intuit",
-      "title": "Senior Technical Compliance Program Manager, LCPO Solutions & Strategy",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463710478/",
-      "date_posted": "2026-09-04",
+      "company": "Roblox",
+      "title": "Brand and Ad Operations Specialist",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462343217/",
+      "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
         "general"
