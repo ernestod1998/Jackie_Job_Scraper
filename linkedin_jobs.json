@@ -1,37 +1,13 @@
 {
-  "scraped_at": "2026-09-05 23:23 UTC",
-  "total": 16,
-  "new_count": 9,
+  "scraped_at": "2026-09-06 00:50 UTC",
+  "total": 11,
+  "new_count": 5,
   "jobs": [
     {
-      "company": "LHH",
-      "title": "Human Resources Operations Coordinator",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462649182/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$25.45/hr - $28.15/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "IT / Information Technology Project Manager",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4448547546/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$130,000.00/yr - $150,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HGA",
-      "title": "Project Coordinator",
+      "company": "San Francisco Community Health Center",
+      "title": "Case Manager (Trans Services)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461806475/",
+      "url": "https://www.linkedin.com/jobs/view/4462658612/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -39,43 +15,10 @@
       ]
     },
     {
-      "company": "StartX Med",
-      "title": "Sales Operations Assistant",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462666173/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HGA",
-      "title": "Project Manager - Healthcare",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461428119/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Product Operations Manager (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462662282/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Product Operations Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462656244/",
+      "company": "Personal Touch Home Health Care Services Inc.",
+      "title": "Full-Time Social Services Case Manager",
+      "location": "Vacaville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462654489/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -86,105 +29,13 @@
       "company": "Homebase",
       "title": "Senior Marketing Operations Manager (Hybrid)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463771565/",
+      "url": "https://www.linkedin.com/jobs/view/4463767874/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
-    {
-      "company": "CBRE",
-      "title": "Sales Support Team Lead",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463783604/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HGA",
-      "title": "Project Manager - Interior Designer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461806476/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stanford Federal Credit Union",
-      "title": "Contact Center Specialist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457555448/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$29.00/hr - $32.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Meta",
-      "title": "Program Manager, Domains and Off-Platform Enforcement",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461488586/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$152,000.00/yr - $218,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Citi",
-      "title": "Wealth Growth Program Manager | San Francisco, CA",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462649189/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Compass Family Services",
-      "title": "Case Manager, Compass SF HOME (Temporary)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463696119/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nen Creative",
-      "title": "Operations Associate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463771563/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HGA",
-      "title": "Digital Design Support Lead",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459978846/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
-  "new_jobs": [
     {
       "company": "LHH",
       "title": "Human Resources Operations Coordinator",
@@ -205,28 +56,6 @@
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "salary": "$130,000.00/yr - $150,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HGA",
-      "title": "Project Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461806475/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "StartX Med",
-      "title": "Sales Operations Assistant",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462666173/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -254,13 +83,12 @@
       ]
     },
     {
-      "company": "Stanford Federal Credit Union",
-      "title": "Contact Center Specialist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457555448/",
+      "company": "APTIM",
+      "title": "Project Manager",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4445624185/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
-      "salary": "$29.00/hr - $32.00/hr",
       "feeds": [
         "general"
       ]
@@ -282,6 +110,74 @@
       "title": "Wealth Growth Program Manager | San Francisco, CA",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4462649189/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Product Operations Intern (AI Recruiting Agent)",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462652376/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "San Francisco Community Health Center",
+      "title": "Case Manager (Trans Services)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462658612/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Personal Touch Home Health Care Services Inc.",
+      "title": "Full-Time Social Services Case Manager",
+      "location": "Vacaville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462654489/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Homebase",
+      "title": "Senior Marketing Operations Manager (Hybrid)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463767874/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "APTIM",
+      "title": "Project Manager",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4445624185/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Product Operations Intern (AI Recruiting Agent)",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462652376/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -294,7 +190,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 2,
+    "location": 1,
     "stale": 0
   }
 }
