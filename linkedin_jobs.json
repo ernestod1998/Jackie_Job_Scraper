@@ -1,27 +1,15 @@
 {
-  "scraped_at": "2026-09-06 21:14 UTC",
-  "total": 15,
-  "new_count": 8,
+  "scraped_at": "2026-09-06 23:14 UTC",
+  "total": 10,
+  "new_count": 5,
   "jobs": [
     {
-      "company": "Pacific Clinics",
-      "title": "Educational Program Coordinator (BCBA)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4443657120/",
+      "company": "Heyday Dental",
+      "title": "Patient Care Coordinator",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462684874/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Protouch Staffing",
-      "title": "Behavioral Health Program Manager - San Francisco, CA",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459049001/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $106,090.00/yr",
       "feeds": [
         "general"
       ]
@@ -39,9 +27,43 @@
     },
     {
       "company": "Jobright.ai",
+      "title": "Product Operations Intern (AI Recruiting Agent)",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462916014/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Electric Power Systems",
+      "title": "Operations Manager",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464071141/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lighthouse Community Public Schools",
+      "title": "Operations Manager (26-27SY)",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450789041/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "salary": "$77,000.00/yr - $100,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobright.ai",
       "title": "Product Operations Manager (AI Recruiting Agent)",
       "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462673836/",
+      "url": "https://www.linkedin.com/jobs/view/4462900019/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -49,10 +71,10 @@
       ]
     },
     {
-      "company": "Varley",
-      "title": "Visual Merchandising and Operations Manager - Palo Alto",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464046154/",
+      "company": "lululemon",
+      "title": "Seasonal | Product Operations Lead | Broadway Plaza",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461869148/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -60,32 +82,10 @@
       ]
     },
     {
-      "company": "Cumming Group",
-      "title": "Project Manager",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427212602/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cumming Group",
-      "title": "Project Manager",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427224524/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DLA Piper",
-      "title": "Client Accounts Project Manager - PT/MT",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4445268109/",
+      "company": "OVERJET",
+      "title": "People Operations Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456377047/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -104,39 +104,6 @@
       ]
     },
     {
-      "company": "Heyday Dental",
-      "title": "Patient Care Coordinator",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462684874/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nimble",
-      "title": "Growth Customer Success Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463794826/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cash App",
-      "title": "Senior Technical Account Manager, Cash App Pay & Afterpay",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418037532/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Stripe",
       "title": "Customer Success Manager, Revenue Suite",
       "location": "San Francisco, CA",
@@ -146,50 +113,39 @@
       "feeds": [
         "general"
       ]
-    },
-    {
-      "company": "OVERJET",
-      "title": "People Operations Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456377047/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Product Operations Intern (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462687766/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
     }
   ],
   "new_jobs": [
     {
-      "company": "Protouch Staffing",
-      "title": "Behavioral Health Program Manager - San Francisco, CA",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459049001/",
+      "company": "Jobright.ai",
+      "title": "Product Operations Intern (AI Recruiting Agent)",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462916014/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $106,090.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Strong Tower Consulting",
-      "title": "Program Manager (II)",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464057365/",
+      "company": "Electric Power Systems",
+      "title": "Operations Manager",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464071141/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lighthouse Community Public Schools",
+      "title": "Operations Manager (26-27SY)",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450789041/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "salary": "$77,000.00/yr - $100,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -198,7 +154,7 @@
       "company": "Jobright.ai",
       "title": "Product Operations Manager (AI Recruiting Agent)",
       "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462673836/",
+      "url": "https://www.linkedin.com/jobs/view/4462900019/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -206,54 +162,10 @@
       ]
     },
     {
-      "company": "Varley",
-      "title": "Visual Merchandising and Operations Manager - Palo Alto",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464046154/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cumming Group",
-      "title": "Project Manager",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427224524/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DLA Piper",
-      "title": "Client Accounts Project Manager - PT/MT",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4445268109/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Heyday Dental",
-      "title": "Patient Care Coordinator",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462684874/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "OVERJET",
-      "title": "People Operations Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456377047/",
+      "company": "lululemon",
+      "title": "Seasonal | Product Operations Lead | Broadway Plaza",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461869148/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
