@@ -1,138 +1,136 @@
 {
-  "scraped_at": "2026-09-06 01:21 UTC",
+  "scraped_at": "2026-09-06 07:05 UTC",
   "total": 12,
-  "new_count": 1,
+  "new_count": 12,
   "jobs": [
     {
-      "company": "Personal Touch Home Health Care Services Inc.",
-      "title": "Full-Time Social Services Case Manager",
-      "location": "Vacaville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462654489/",
-      "date_posted": "2026-09-05",
+      "company": "Kaiser Permanente",
+      "title": "Research Project Manager III",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462681054/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "salary": "$93,500.00/yr - $120,890.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Enablement Solutions Specialist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461820439/",
+      "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "San Francisco Community Health Center",
-      "title": "Case Manager (Trans Services)",
+      "company": "CoreWeave",
+      "title": "Enablement Solutions Specialist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462658612/",
-      "date_posted": "2026-09-05",
+      "url": "https://www.linkedin.com/jobs/view/4461824432/",
+      "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Homebase",
-      "title": "Senior Marketing Operations Manager (Hybrid)",
+      "company": "CoreWeave",
+      "title": "People Operations Partner, Employee Lifecycle",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461822551/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Data Center Operations Program Manager",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461822422/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Data Center Operations Program Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463767874/",
-      "date_posted": "2026-09-05",
+      "url": "https://www.linkedin.com/jobs/view/4461807466/",
+      "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "LHH",
-      "title": "Human Resources Operations Coordinator",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462649182/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$25.45/hr - $28.15/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Skyrocket Ventures",
-      "title": "IT / Information Technology Project Manager",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4448547546/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$130,000.00/yr - $150,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Product Operations Intern (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462652376/",
-      "date_posted": "2026-09-05",
+      "company": "CoreWeave",
+      "title": "Senior Data Center Security Business Operations Program Manager",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461826526/",
+      "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "StartX Med",
-      "title": "Sales Operations Assistant",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462666173/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "APTIM",
-      "title": "Project Manager",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4445624185/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Product Operations Manager (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462662282/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Product Operations Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462656244/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Meta",
-      "title": "Program Manager, Domains and Off-Platform Enforcement",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461488586/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$152,000.00/yr - $218,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Citi",
-      "title": "Wealth Growth Program Manager | San Francisco, CA",
+      "company": "CoreWeave",
+      "title": "Senior Data Center Security Business Operations Program Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462649189/",
-      "date_posted": "2026-09-05",
+      "url": "https://www.linkedin.com/jobs/view/4461821524/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "People Operations Partner, Employee Lifecycle",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461812586/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Data Center OFCI Quality Manager",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461821383/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Weights & Biases",
+      "title": "Account Manager, Engaged - Sunnyvale",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461811578/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Senior Analyst, RevOps - Field Planning and Performance",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461808528/",
+      "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -141,11 +139,133 @@
   ],
   "new_jobs": [
     {
-      "company": "StartX Med",
-      "title": "Sales Operations Assistant",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462666173/",
-      "date_posted": "2026-09-05",
+      "company": "Kaiser Permanente",
+      "title": "Research Project Manager III",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462681054/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "salary": "$93,500.00/yr - $120,890.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Enablement Solutions Specialist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461820439/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Enablement Solutions Specialist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461824432/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "People Operations Partner, Employee Lifecycle",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461822551/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Data Center Operations Program Manager",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461822422/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Data Center Operations Program Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461807466/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Senior Data Center Security Business Operations Program Manager",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461826526/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Senior Data Center Security Business Operations Program Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461821524/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "People Operations Partner, Employee Lifecycle",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461812586/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Data Center OFCI Quality Manager",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461821383/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Weights & Biases",
+      "title": "Account Manager, Engaged - Sunnyvale",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461811578/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Senior Analyst, RevOps - Field Planning and Performance",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461808528/",
+      "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -157,7 +277,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 1,
+    "location": 0,
     "stale": 0
   }
 }
