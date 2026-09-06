@@ -1,13 +1,13 @@
 {
-  "scraped_at": "2026-09-06 00:50 UTC",
-  "total": 11,
-  "new_count": 5,
+  "scraped_at": "2026-09-06 01:21 UTC",
+  "total": 12,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "San Francisco Community Health Center",
-      "title": "Case Manager (Trans Services)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462658612/",
+      "company": "Personal Touch Home Health Care Services Inc.",
+      "title": "Full-Time Social Services Case Manager",
+      "location": "Vacaville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462654489/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -15,10 +15,10 @@
       ]
     },
     {
-      "company": "Personal Touch Home Health Care Services Inc.",
-      "title": "Full-Time Social Services Case Manager",
-      "location": "Vacaville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462654489/",
+      "company": "San Francisco Community Health Center",
+      "title": "Case Manager (Trans Services)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462658612/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -62,6 +62,39 @@
     },
     {
       "company": "Jobright.ai",
+      "title": "Product Operations Intern (AI Recruiting Agent)",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462652376/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "StartX Med",
+      "title": "Sales Operations Assistant",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462666173/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "APTIM",
+      "title": "Project Manager",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4445624185/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobright.ai",
       "title": "Product Operations Manager (AI Recruiting Agent)",
       "location": "Santa Clara County, CA",
       "url": "https://www.linkedin.com/jobs/view/4462662282/",
@@ -76,17 +109,6 @@
       "title": "AI Product Operations Manager",
       "location": "Santa Clara, CA",
       "url": "https://www.linkedin.com/jobs/view/4462656244/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "APTIM",
-      "title": "Project Manager",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4445624185/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -115,69 +137,14 @@
       "feeds": [
         "general"
       ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Product Operations Intern (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462652376/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
     }
   ],
   "new_jobs": [
     {
-      "company": "San Francisco Community Health Center",
-      "title": "Case Manager (Trans Services)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462658612/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Personal Touch Home Health Care Services Inc.",
-      "title": "Full-Time Social Services Case Manager",
-      "location": "Vacaville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462654489/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Homebase",
-      "title": "Senior Marketing Operations Manager (Hybrid)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463767874/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "APTIM",
-      "title": "Project Manager",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4445624185/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Product Operations Intern (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462652376/",
+      "company": "StartX Med",
+      "title": "Sales Operations Assistant",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462666173/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
