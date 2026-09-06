@@ -1,53 +1,66 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-09-06 07:05 UTC*
+*Last updated: 2026-09-06 18:14 UTC*
 
-**12 new role(s)** since last run · 12 total in last 4h
+**15 new role(s)** since last run · 15 total in last 4h
 
-### [Research Project Manager III](https://www.linkedin.com/jobs/view/4462681054/) — Kaiser Permanente
+### [Educational Program Coordinator (BCBA)](https://www.linkedin.com/jobs/view/4443657120/) — Pacific Clinics
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $93,500.00/yr - $120,890.00/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [Enablement Solutions Specialist](https://www.linkedin.com/jobs/view/4461820439/) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA
+### [AI Product Operations Manager](https://www.linkedin.com/jobs/view/4462694562/) — Jobright.ai
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Enablement Solutions Specialist](https://www.linkedin.com/jobs/view/4461824432/) — CoreWeave
+### [Senior Technical Operations Manager](https://www.linkedin.com/jobs/view/4427907009/) — AEye, Inc.
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-09-06
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4427212602/) — Cumming Group
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-09-06
+
+### [Senior Project Manager: Electrical Transmission & Distribution (EPC) (Bay Area)](https://www.linkedin.com/jobs/view/4408206788/) — Jacobs
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $164,800.00/yr - $216,300.00/yr
+- 🕒 **Posted:** 2026-09-06
+
+### [Program Manager, Card Network Office (Card Networks)](https://www.linkedin.com/jobs/view/4454533464/) — Stripe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [People Operations Partner, Employee Lifecycle](https://www.linkedin.com/jobs/view/4461822551/) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA
+### [GTM Enablement Manager](https://www.linkedin.com/jobs/view/4444628039/) — Glean
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Data Center Operations Program Manager](https://www.linkedin.com/jobs/view/4461822422/) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-06
-
-### [Data Center Operations Program Manager](https://www.linkedin.com/jobs/view/4461807466/) — CoreWeave
+### [Growth Customer Success Manager](https://www.linkedin.com/jobs/view/4463794826/) — Nimble
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Senior Data Center Security Business Operations Program Manager](https://www.linkedin.com/jobs/view/4461826526/) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-06
-
-### [Senior Data Center Security Business Operations Program Manager](https://www.linkedin.com/jobs/view/4461821524/) — CoreWeave
+### [Customer Success Manager, Revenue Suite](https://www.linkedin.com/jobs/view/4454550323/) — Stripe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [People Operations Partner, Employee Lifecycle](https://www.linkedin.com/jobs/view/4461812586/) — CoreWeave
+### [Senior Technical Account Manager, Cash App Pay & Afterpay](https://www.linkedin.com/jobs/view/4418037532/) — Cash App
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-06
+
+### [Technical Account Manager, Enterprise (East)](https://www.linkedin.com/jobs/view/4418023426/) — Hightouch
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-06
+
+### [GTM Strategy & Operations Lead](https://www.linkedin.com/jobs/view/4444381638/) — Perplexity
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $210,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [Data Center OFCI Quality Manager](https://www.linkedin.com/jobs/view/4461821383/) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA
+### [Product Operations Intern (AI Recruiting Agent)](https://www.linkedin.com/jobs/view/4462687766/) — Jobright.ai
+- 📍 **Location:** Santa Clara County, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Account Manager, Engaged - Sunnyvale](https://www.linkedin.com/jobs/view/4461811578/) — Weights & Biases
-- 📍 **Location:** Sunnyvale, CA
+### [Strategic Insights Excellence and Operations Associate](https://www.linkedin.com/jobs/view/4454545635/) — Joulé
+- 📍 **Location:** San Rafael, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Senior Analyst, RevOps - Field Planning and Performance](https://www.linkedin.com/jobs/view/4461808528/) — CoreWeave
+### [GTM Enablement Manager](https://www.linkedin.com/jobs/view/4415705036/) — Glean
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-06
