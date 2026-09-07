@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-09-07 01:19 UTC*
+*Last updated: 2026-09-07 07:16 UTC*
 
-**0 new role(s)** since last run · 9 total in last 4h
+**1 new role(s)** since last run · 1 total in last 4h
 
-No new roles since the last run.
+### [Associate Manager, Quality Assurance](https://www.linkedin.com/jobs/view/4464063829/) — Supermicro
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-07
