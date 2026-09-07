@@ -1,6 +1,8 @@
 # 🏛 CalOpps — California Local-Agency Roles
-*Last updated: 2026-09-06 19:19 UTC*
+*Last updated: 2026-09-07 20:40 UTC*
 
-**0 new role(s)** since last run · 5 total in recent CalOpps postings
+**1 new role(s)** since last run · 6 total in recent CalOpps postings
 
-No new CalOpps roles since the last run.
+### [Program Coordinator](https://www.calopps.org/san-rafael/job-20774381) — San Rafael
+- 📍 **Location:** Northern Bay Area
+- 💰 **Salary:** $6,381.00-$7,756.00 Monthly

@@ -1,8 +1,20 @@
 {
-  "scraped_at": "2026-09-06 19:19 UTC",
-  "total": 5,
-  "new_count": 0,
+  "scraped_at": "2026-09-07 20:40 UTC",
+  "total": 6,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "San Rafael",
+      "title": "Program Coordinator",
+      "location": "Northern Bay Area",
+      "url": "https://www.calopps.org/san-rafael/job-20774381",
+      "date_posted": "",
+      "salary": "$6,381.00-$7,756.00 Monthly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "Golden Gate Bridge Highway And Transportation District",
       "title": "Program Manager, Electronic Revenue Operations",
@@ -64,7 +76,20 @@
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "San Rafael",
+      "title": "Program Coordinator",
+      "location": "Northern Bay Area",
+      "url": "https://www.calopps.org/san-rafael/job-20774381",
+      "date_posted": "",
+      "salary": "$6,381.00-$7,756.00 Monthly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
