@@ -1,13 +1,13 @@
 {
-  "scraped_at": "2026-09-06 23:14 UTC",
-  "total": 10,
-  "new_count": 5,
+  "scraped_at": "2026-09-07 00:53 UTC",
+  "total": 9,
+  "new_count": 2,
   "jobs": [
     {
-      "company": "Heyday Dental",
-      "title": "Patient Care Coordinator",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462684874/",
+      "company": "Jobright.ai",
+      "title": "AI Product Operations Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462917128/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -15,10 +15,10 @@
       ]
     },
     {
-      "company": "Strong Tower Consulting",
-      "title": "Program Manager (II)",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464057365/",
+      "company": "Heyday Dental",
+      "title": "Patient Care Coordinator",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462684874/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -37,17 +37,6 @@
       ]
     },
     {
-      "company": "Electric Power Systems",
-      "title": "Operations Manager",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464071141/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Lighthouse Community Public Schools",
       "title": "Operations Manager (26-27SY)",
       "location": "Oakland, CA",
@@ -55,6 +44,17 @@
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "salary": "$77,000.00/yr - $100,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Electric Power Systems",
+      "title": "Operations Manager",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464071141/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -77,6 +77,18 @@
       "url": "https://www.linkedin.com/jobs/view/4461869148/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Talently",
+      "title": "Electrical Project Manager",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455955490/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "salary": "$125,000.00/yr - $175,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -91,36 +103,14 @@
       "feeds": [
         "general"
       ]
-    },
-    {
-      "company": "Stripe",
-      "title": "Program Manager, Card Network Office (Card Networks)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454533464/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stripe",
-      "title": "Customer Success Manager, Revenue Suite",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454550323/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
     }
   ],
   "new_jobs": [
     {
       "company": "Jobright.ai",
-      "title": "Product Operations Intern (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462916014/",
+      "title": "AI Product Operations Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462917128/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -128,46 +118,13 @@
       ]
     },
     {
-      "company": "Electric Power Systems",
-      "title": "Operations Manager",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464071141/",
+      "company": "Talently",
+      "title": "Electrical Project Manager",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455955490/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lighthouse Community Public Schools",
-      "title": "Operations Manager (26-27SY)",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450789041/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "salary": "$77,000.00/yr - $100,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Product Operations Manager (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462900019/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "lululemon",
-      "title": "Seasonal | Product Operations Lead | Broadway Plaza",
-      "location": "Walnut Creek, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461869148/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
+      "salary": "$125,000.00/yr - $175,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -178,7 +135,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 0,
+    "location": 1,
     "stale": 0
   }
 }
