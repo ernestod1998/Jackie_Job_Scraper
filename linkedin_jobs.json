@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-07 00:53 UTC",
+  "scraped_at": "2026-09-07 01:19 UTC",
   "total": 9,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Jobright.ai",
@@ -71,17 +71,6 @@
       ]
     },
     {
-      "company": "lululemon",
-      "title": "Seasonal | Product Operations Lead | Broadway Plaza",
-      "location": "Walnut Creek, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461869148/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Talently",
       "title": "Electrical Project Manager",
       "location": "Livermore, CA",
@@ -89,6 +78,17 @@
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "salary": "$125,000.00/yr - $175,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "lululemon",
+      "title": "Seasonal | Product Operations Lead | Broadway Plaza",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461869148/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -105,31 +105,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Jobright.ai",
-      "title": "AI Product Operations Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462917128/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Talently",
-      "title": "Electrical Project Manager",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455955490/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "salary": "$125,000.00/yr - $175,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
