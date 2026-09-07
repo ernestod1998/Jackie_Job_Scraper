@@ -1,18 +1,22 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-09-07 01:16 UTC*
+*Last updated: 2026-09-07 07:31 UTC*
 
-**3 new role(s)** since last run · 15 total in last 24h
+**4 new role(s)** since last run · 14 total in last 24h
 
-### [Seasonal | Product Operations Lead | Broadway Plaza](https://www.indeed.com/viewjob?jk=24b6a41dcd5d0e53) — lululemon
-- 📍 **Location:** Walnut Creek, CA, US
-- 💰 **Salary:** $24–$29/hr
-- 🕒 **Posted:** 2026-09-06
+### [Program Manager, Preclinical & Early Development](https://www.indeed.com/viewjob?jk=50bb5e81c2edad1b) — NURIX
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $213k–$271k/yr
+- 🕒 **Posted:** 2026-09-07
 
-### [Remote Client Services Representative](https://www.indeed.com/viewjob?jk=e2920f16270c0afc) — VELVET ENTERPRISE
+### [Implementation Specialist](https://www.indeed.com/viewjob?jk=849333cd50a8a252) — UNIMARKET
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $37k–$52k/yr
+- 🕒 **Posted:** 2026-09-07
+
+### [Senior Project Manager - Health & Life Sciences Market Research (Remote - US-based only)](https://www.indeed.com/viewjob?jk=cfe798b695780e8f) — Escalent
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $85k–$110k/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [Manager - Customer Success](https://www.indeed.com/viewjob?jk=c7a3977be9fa17fe) — Cordance
+### [Team Lead, Sales Operations](https://www.indeed.com/viewjob?jk=190fff81b2735236) — NexusTek
 - 📍 **Location:** Remote, US
 - 🕒 **Posted:** 2026-09-06
