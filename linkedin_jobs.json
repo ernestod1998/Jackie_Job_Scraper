@@ -1,13 +1,190 @@
 {
-  "scraped_at": "2026-09-07 07:16 UTC",
-  "total": 1,
-  "new_count": 1,
+  "scraped_at": "2026-09-07 19:52 UTC",
+  "total": 17,
+  "new_count": 17,
   "jobs": [
     {
-      "company": "Supermicro",
-      "title": "Associate Manager, Quality Assurance",
+      "company": "FASTSIGNS Oakland",
+      "title": "Sales / Project Coordinator",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464365321/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Judge Group",
+      "title": "Program Manager",
+      "location": "San Bruno, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464389058/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "salary": "$80.00/hr - $100.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Program Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462964919/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Product Operations Intern (AI Recruiting Agent)",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462977190/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Account Program Manager, Creative Operations",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427237099/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "iRhythm Technologies, Inc.",
+      "title": "Key Account Manager - San Francisco, California",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4406426013/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Uber",
+      "title": "Manager, Global Sales Operations, Account Management",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464390001/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Product Operations Manager (AI Recruiting Agent)",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462978001/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Product Operations Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462978140/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Broadcom",
+      "title": "SI/PI Tech Project Manager",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464063829/",
+      "url": "https://www.linkedin.com/jobs/view/4454268001/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "ByteDance",
+      "title": "Security Program Manager - Data Center Development",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462989102/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Revenue Operations Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462975321/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Uber",
+      "title": "Program Leader, Global Merchant Support Experience",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464369901/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Well Homecare",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464381851/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Azza HealthCare Agency",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462232415/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Well Homecare",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464387143/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Revenue Operations Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462976061/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -17,10 +194,187 @@
   ],
   "new_jobs": [
     {
-      "company": "Supermicro",
-      "title": "Associate Manager, Quality Assurance",
+      "company": "FASTSIGNS Oakland",
+      "title": "Sales / Project Coordinator",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464365321/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Judge Group",
+      "title": "Program Manager",
+      "location": "San Bruno, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464389058/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "salary": "$80.00/hr - $100.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Program Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462964919/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Product Operations Intern (AI Recruiting Agent)",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462977190/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Account Program Manager, Creative Operations",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427237099/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "iRhythm Technologies, Inc.",
+      "title": "Key Account Manager - San Francisco, California",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4406426013/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Uber",
+      "title": "Manager, Global Sales Operations, Account Management",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464390001/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Product Operations Manager (AI Recruiting Agent)",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462978001/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Product Operations Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462978140/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Broadcom",
+      "title": "SI/PI Tech Project Manager",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464063829/",
+      "url": "https://www.linkedin.com/jobs/view/4454268001/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "ByteDance",
+      "title": "Security Program Manager - Data Center Development",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462989102/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Revenue Operations Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462975321/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Uber",
+      "title": "Program Leader, Global Merchant Support Experience",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464369901/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Well Homecare",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464381851/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Azza HealthCare Agency",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462232415/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Well Homecare",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464387143/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Revenue Operations Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462976061/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
