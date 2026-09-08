@@ -1,25 +1,57 @@
 {
-  "scraped_at": "2026-09-07 23:26 UTC",
-  "total": 20,
-  "new_count": 15,
+  "scraped_at": "2026-09-08 01:28 UTC",
+  "total": 13,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "The Judge Group",
-      "title": "Program Manager",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464389058/",
+      "company": "Intuitive",
+      "title": "Project Manager, CMC",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464411090/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
-      "salary": "$80.00/hr - $100.00/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "LegalOS (YC W26)",
-      "title": "Immigration Operations Manager",
+      "company": "Lucky Strike Entertainment",
+      "title": "Event Operations Manager",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4432489082/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Crosslinked",
+      "title": "Project Manager - QAQC",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462978754/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "EOTECH",
+      "title": "Senior Program Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4434000350/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FUSE",
+      "title": "Advancing Population Health and Equity Outcomes",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4464393299/",
+      "url": "https://www.linkedin.com/jobs/view/4462982426/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -39,33 +71,10 @@
       ]
     },
     {
-      "company": "FUSE",
-      "title": "Advancing Population Health and Equity Outcomes",
+      "company": "LegalOS (YC W26)",
+      "title": "Immigration Operations Manager",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4462982426/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "salary": "$95,000.00/yr - $165,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Uber",
-      "title": "Manager, Global Sales Operations, Account Management",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464390001/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Wonderschool",
-      "title": "Customer & Marketplace Operations Leader",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460937135/",
+      "url": "https://www.linkedin.com/jobs/view/4464393299/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -84,21 +93,10 @@
       ]
     },
     {
-      "company": "EOTECH",
-      "title": "Senior Program Manager",
+      "company": "Jobright.ai",
+      "title": "AI Product Operations Manager",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4434000350/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lam Research",
-      "title": "Digital Transformation Program Manager",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462976523/",
+      "url": "https://www.linkedin.com/jobs/view/4462983582/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -128,10 +126,10 @@
       ]
     },
     {
-      "company": "Stripe",
-      "title": "Regulatory Reporting Program Manager, Stablecoin",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454552299/",
+      "company": "Lam Research",
+      "title": "Digital Transformation Program Manager",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462976523/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -146,83 +144,6 @@
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "salary": "$95,000.00/yr - $165,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CROSwiss",
-      "title": "Manager, Growth Strategy & Operations (Experiments/Campaigns)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462993390/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Live Well Homecare",
-      "title": "Care Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464381851/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Uber",
-      "title": "Program Leader, Global Merchant Support Experience",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464369901/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Mekion Consulting",
-      "title": "Customer Success Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464393192/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stripe",
-      "title": "Technical Account Manager, AI User Segment",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454554285/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Live Well Homecare",
-      "title": "Care Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464387143/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stripe",
-      "title": "Sales Strategy & Operations Business Partner",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454550343/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -230,10 +151,10 @@
   ],
   "new_jobs": [
     {
-      "company": "LegalOS (YC W26)",
-      "title": "Immigration Operations Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4464393299/",
+      "company": "Intuitive",
+      "title": "Project Manager, CMC",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464411090/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -241,34 +162,21 @@
       ]
     },
     {
-      "company": "FUSE",
-      "title": "Advancing Population Health Integration for Efficient Service Delivery",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4462998251/",
+      "company": "Lucky Strike Entertainment",
+      "title": "Event Operations Manager",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4432489082/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
-      "salary": "$95,000.00/yr - $165,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "FUSE",
-      "title": "Advancing Population Health and Equity Outcomes",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4462982426/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "salary": "$95,000.00/yr - $165,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Wonderschool",
-      "title": "Customer & Marketplace Operations Leader",
+      "company": "Crosslinked",
+      "title": "Project Manager - QAQC",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460937135/",
+      "url": "https://www.linkedin.com/jobs/view/4462978754/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -277,120 +185,9 @@
     },
     {
       "company": "Jobright.ai",
-      "title": "Product Operations Manager (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462991516/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EOTECH",
-      "title": "Senior Program Manager",
+      "title": "AI Product Operations Manager",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4434000350/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lam Research",
-      "title": "Digital Transformation Program Manager",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462976523/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lam Research",
-      "title": "Digital Transformation Program Manager",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462987403/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lam Research",
-      "title": "Digital Transformation Program Manager",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462985365/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stripe",
-      "title": "Regulatory Reporting Program Manager, Stablecoin",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454552299/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "FUSE",
-      "title": "Strengthening Coordinated Service Delivery for Residents Experiencing Homelessness",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4462994349/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "salary": "$95,000.00/yr - $165,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CROSwiss",
-      "title": "Manager, Growth Strategy & Operations (Experiments/Campaigns)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462993390/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Mekion Consulting",
-      "title": "Customer Success Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464393192/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stripe",
-      "title": "Technical Account Manager, AI User Segment",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454554285/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stripe",
-      "title": "Sales Strategy & Operations Business Partner",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454550343/",
+      "url": "https://www.linkedin.com/jobs/view/4462983582/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
