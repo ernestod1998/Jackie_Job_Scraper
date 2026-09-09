@@ -69,7 +69,7 @@ Bare `supervisor` / `team lead` / `manager` / `coordinator` / `specialist` are d
 | `calopps_jobs.json` / `.md` / `.html` | CalOpps | California local-agency results |
 | `calcareers_jobs.json` / `.md` / `.html` | CalCareers | California civil-service results |
 | `registry_jobs.json` / `.md` / `.html` | ATS registry | Verified-board shard output from the daily registry cycle |
-| `all_jobs.json` | All sources | Canonical 14-day master with `feeds` provenance |
+| `all_jobs.json` | All sources | Canonical master with no automatic age expiry and `feeds` provenance |
 
 The `.html` files are styled standalone digests; the `.md` files render nicely on GitHub. (Both are committed for history/browsing; the `triage.html` dashboard reads the `.json` files directly.)
 
@@ -91,7 +91,7 @@ How it identifies you: your browser generates a random 26-character code (~130 b
 
 Losing the code means losing the bucket — the server only knows its hash, by design. Use **Export** for a backup file.
 
-Dismissals older than 30 days are garbage-collected (safe: `all_jobs.json` prunes at 14 days, so such a job can't reappear). **Saved and applied are kept forever.**
+Listings no longer expire automatically. The existing sync behavior still garbage-collects dismissals after 30 days, so an old dismissed listing can reappear. **Saved and applied are kept forever.**
 
 The merge rule exists twice — inline in `triage.html` for the browser and in `sync/merge.js` for the server — because the dashboard is a single file with no build step. `sync/merge.test.mjs` extracts the browser's copy and asserts the two agree; CI fails on any drift.
 
@@ -173,7 +173,7 @@ The LinkedIn pipeline uses only the standard library. Indeed/boards require `pip
 ├── requirements.txt                # python-jobspy (Indeed/boards; LinkedIn is stdlib)
 ├── linkedin_jobs.{json,md,html}    # LinkedIn watcher output (last 1h)
 ├── indeed_jobs.{json,md,html}      # Indeed watcher output (last 24h, includes JD text)
-├── all_jobs.json                   # Cumulative 14-day master with feed provenance
+├── all_jobs.json                   # Cumulative master without age expiry
 ├── workflow_runs.jsonl             # Per-run job counts (scheduler observability)
 ├── triage.html                     # Interactive dashboard (fetches the JSONs at view time)
 └── .github/workflows/
