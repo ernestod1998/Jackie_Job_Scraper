@@ -114,10 +114,8 @@ class FreshnessFilterInteraction(unittest.TestCase):
 
 class MaxAgePolicy(unittest.TestCase):
     """
-    The 14-day ceiling added 2026-08-19: the ATS registry shipped with no
-    date filter and surfaced 2024 reqs. These tests pin the two parser
-    extensions that make the ceiling enforceable (Workday day-relative
-    strings; Lever epoch-ms) and the keep-when-unprovable rule.
+    Dates remain parseable for display and acquisition, but stored listings
+    must never be rejected just because their posting date is old.
     """
 
     NOW = datetime(2026, 8, 19, 12, 0, tzinfo=timezone.utc)
@@ -157,11 +155,11 @@ class MaxAgePolicy(unittest.TestCase):
     def test_small_integers_are_not_dates(self):
         self.assertIsNone(sj._parse_posted_at("12345", now=self.NOW))
 
-    def test_stale_boundary(self):
+    def test_old_postings_never_expire(self):
         self.assertFalse(self.stale("Posted 13 Days Ago"))
-        self.assertTrue(self.stale("Posted 15 Days Ago"))
-        self.assertTrue(self.stale("Posted 30+ Days Ago"))
-        self.assertTrue(self.stale("2024-09-04"))
+        self.assertFalse(self.stale("Posted 15 Days Ago"))
+        self.assertFalse(self.stale("Posted 30+ Days Ago"))
+        self.assertFalse(self.stale("2024-09-04"))
 
     def test_unprovable_staleness_is_kept(self):
         for value in ("", None, "next Tuesday"):

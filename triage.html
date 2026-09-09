@@ -1555,7 +1555,7 @@
   // ---------- Prune (keeps localStorage bounded) ----------
   // Drops untriaged jobs that carry senior-manager/exec markers (excluded at
   // the scraper — keep this regex in sync with EXCLUDED_SENIORITY_RE in
-  // scrape_jobs.py) or older than 30 days. Bare "senior"/"staff"/"manager"/
+  // scrape_jobs.py). Listings have no age cutoff. Bare "senior"/"staff"/"manager"/
   // "lead"/"supervisor" are deliberately ALLOWED — Operations Manager,
   // Support Team Lead, Senior Care Coordinator are core Jackie titles.
   // Anything saved/applied/dismissed is kept — triage history.
@@ -1564,17 +1564,15 @@
   // titles) — keep in sync with EXCLUDED_DOMAIN_RE in scrape_jobs.py.
   const EXCLUDED_DOMAIN_RE = /\b(rn|lpn|lvn|nurse|nursing|pharmacist|pharmd|physician|md|np|pa-c|therapist|social worker|lcsw|msw|cna|medical assistant|phlebotom\w*|dietitian|software|engineer|engineering|developer|scientist|machine learning|devops|sre|technical program|technical project|data analyst|analytics engineer|account executive|sales development|sdr|bdr|quota|inside sales|outside sales|warehouse|distribution center|fulfillment|manufacturing|production|plant|shift|construction|logistics|fleet|trucking|restaurant|hotel|hospitality|retail|store manager|branch|hvac|janitorial|security guard)\b/i;
   function pruneState() {
-    const cutoff = Date.now() - 30 * 86400000;
     const before = state.jobs.length;
     state.jobs = state.jobs.filter(j => {
       if (tri(j.url)) return true;   // tri(), not truthiness — a tombstone is an object
       if (EXCLUDED_TITLE_RE.test(j.title || '')) return false;
       if (EXCLUDED_DOMAIN_RE.test(j.title || '')) return false;
-      const t = jobFreshMs(j);
-      return t == null || t >= cutoff;
+      return true;
     });
     if (state.jobs.length < before) {
-      console.info(`[pruneState] dropped ${before - state.jobs.length} stale/excluded job(s)`);
+      console.info(`[pruneState] dropped ${before - state.jobs.length} excluded job(s)`);
     }
   }
 

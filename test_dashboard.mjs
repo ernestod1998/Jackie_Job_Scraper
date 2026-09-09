@@ -201,6 +201,21 @@ for (const file of ['triage.yml', 'evals.yml']) {
   check(`${file} has no push trigger`, !/^\s{2}push:/m.test(triggerBlock));
 }
 
+const retained = new Function(`
+  const state = { jobs: [
+    {url:'old',title:'Patient Services Coordinator',date_posted:'2020-01-01',first_seen:'2020-01-01'},
+    {url:'excluded',title:'Chief Operating Officer',date_posted:'2020-01-01'}
+  ] };
+  const tri = () => null;
+  const EXCLUDED_TITLE_RE = ${vetoMatch[1]};
+  const EXCLUDED_DOMAIN_RE = /software/;
+  ${extractFunction(html, 'pruneState')}
+  pruneState();
+  return state.jobs;
+`)();
+check('old undismissed listings survive pruning while title exclusions remain',
+  retained.length === 1 && retained[0].url === 'old');
+
 console.log(failed ? `\n${failed} DASHBOARD REGRESSION FAILURE(S)`
                    : '\nAll dashboard regression checks passed');
 process.exit(failed ? 1 : 0);
