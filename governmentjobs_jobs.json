@@ -1,9 +1,59 @@
 {
-  "scraped_at": "2026-09-10 19:52 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": [],
+  "scraped_at": "2026-09-11 19:51 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "State of South Carolina",
+      "title": "Client Advocate I / Peer Support Specialist - Outpatient Services PART-TIME (Berkeley)",
+      "location": "Berkeley County, SC",
+      "url": "https://www.governmentjobs.com/jobs/5470071-0/client-advocate-i-peer-support-specialist-outpatient-services-part-time-berk",
+      "date_posted": "",
+      "salary": "$18,972.00 - $24,633.00 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AC Transit",
+      "title": "Program Manager (Regulatory Compliance)",
+      "location": "Downtown Oakland, CA",
+      "url": "https://www.governmentjobs.com/jobs/5449461-0/program-manager-regulatory-compliance",
+      "date_posted": "",
+      "salary": "$156,059.00 - $186,365.00 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "State of South Carolina",
+      "title": "Client Advocate I / Peer Support Specialist - Outpatient Services PART-TIME (Berkeley)",
+      "location": "Berkeley County, SC",
+      "url": "https://www.governmentjobs.com/jobs/5470071-0/client-advocate-i-peer-support-specialist-outpatient-services-part-time-berk",
+      "date_posted": "",
+      "salary": "$18,972.00 - $24,633.00 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AC Transit",
+      "title": "Program Manager (Regulatory Compliance)",
+      "location": "Downtown Oakland, CA",
+      "url": "https://www.governmentjobs.com/jobs/5449461-0/program-manager-regulatory-compliance",
+      "date_posted": "",
+      "salary": "$156,059.00 - $186,365.00 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
