@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-10 17:51 UTC",
+  "scraped_at": "2026-09-11 17:53 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Transportation Security Administration",
@@ -16,26 +16,13 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Transportation Security Administration",
-      "title": "Training Manager",
-      "location": "San Francisco, California",
-      "url": "https://www.usajobs.gov/job/883998700",
-      "date_posted": "2026-09-09",
-      "salary": "Starting at $133,060 Per year (SV I)",
-      "ats": "USAJOBS",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 21,
+    "location": 19,
     "stale": 0
   }
 }
