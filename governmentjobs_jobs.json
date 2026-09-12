@@ -1,8 +1,20 @@
 {
-  "scraped_at": "2026-09-11 19:51 UTC",
-  "total": 2,
-  "new_count": 2,
+  "scraped_at": "2026-09-12 19:29 UTC",
+  "total": 3,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "AC Transit",
+      "title": "Project Manager II (Capital Projects)",
+      "location": "Downtown Oakland, CA",
+      "url": "https://www.governmentjobs.com/jobs/5434702-0/project-manager-ii-capital-projects",
+      "date_posted": "",
+      "salary": "$144,503.00 - $172,570.00 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "State of South Carolina",
       "title": "Client Advocate I / Peer Support Specialist - Outpatient Services PART-TIME (Berkeley)",
@@ -30,24 +42,12 @@
   ],
   "new_jobs": [
     {
-      "company": "State of South Carolina",
-      "title": "Client Advocate I / Peer Support Specialist - Outpatient Services PART-TIME (Berkeley)",
-      "location": "Berkeley County, SC",
-      "url": "https://www.governmentjobs.com/jobs/5470071-0/client-advocate-i-peer-support-specialist-outpatient-services-part-time-berk",
-      "date_posted": "",
-      "salary": "$18,972.00 - $24,633.00 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "AC Transit",
-      "title": "Program Manager (Regulatory Compliance)",
+      "title": "Project Manager II (Capital Projects)",
       "location": "Downtown Oakland, CA",
-      "url": "https://www.governmentjobs.com/jobs/5449461-0/program-manager-regulatory-compliance",
+      "url": "https://www.governmentjobs.com/jobs/5434702-0/project-manager-ii-capital-projects",
       "date_posted": "",
-      "salary": "$156,059.00 - $186,365.00 Annually",
+      "salary": "$144,503.00 - $172,570.00 Annually",
       "ats": "NEOGOV",
       "feeds": [
         "general"
