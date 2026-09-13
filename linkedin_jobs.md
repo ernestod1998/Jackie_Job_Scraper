@@ -1,20 +1,16 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-09-13 21:24 UTC*
+*Last updated: 2026-09-13 23:36 UTC*
 
-**4 new role(s)** since last run · 8 total in last 4h
+**3 new role(s)** since last run · 6 total in last 4h
 
-### [Product Strategy and Operations Manager, Creative Product](https://www.linkedin.com/jobs/view/4465479282/) — TikTok
-- 📍 **Location:** San Jose, CA
+### [Procurement Coordinator/office manager](https://www.linkedin.com/jobs/view/4467004088/) — gamble + design
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-13
 
-### [Senior Central Operations Manager, AM Tooling & Digital Transformation - Expansion Central Ops](https://www.linkedin.com/jobs/view/4466782548/) — Uber
-- 📍 **Location:** San Francisco, CA
+### [Product Operations Manager (AI Recruiting Agent)](https://www.linkedin.com/jobs/view/4465484336/) — Jobright.ai
+- 📍 **Location:** Santa Clara County, CA
 - 🕒 **Posted:** 2026-09-13
 
-### [Support Lead Part Time](https://www.linkedin.com/jobs/view/4464751556/) — Five Below
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-09-13
-
-### [Ad Operations Specialist, Uber Advertising (Online Food Delivery)](https://www.linkedin.com/jobs/view/4466780782/) — Uber Advertising
-- 📍 **Location:** San Francisco, CA
+### [AI Product Operations Manager](https://www.linkedin.com/jobs/view/4465499264/) — Jobright.ai
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-13
