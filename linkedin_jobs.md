@@ -1,24 +1,9 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-09-12 23:27 UTC*
+*Last updated: 2026-09-13 00:52 UTC*
 
-**5 new role(s)** since last run · 13 total in last 4h
+**1 new role(s)** since last run · 7 total in last 4h
 
-### [Office Manager](https://www.linkedin.com/jobs/view/4465176189/) — River AI
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-12
-
-### [Business Operations Manager, Strategic Program Management](https://www.linkedin.com/jobs/view/4466735172/) — Cisco
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-12
-
-### [Business Operations Manager, Strategic Program Management](https://www.linkedin.com/jobs/view/4466748008/) — Cisco
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-12
-
-### [Product Operations Manager (AI Recruiting Agent)](https://www.linkedin.com/jobs/view/4465435238/) — Jobright.ai
-- 📍 **Location:** Santa Clara County, CA
-- 🕒 **Posted:** 2026-09-12
-
-### [AI Product Operations Manager](https://www.linkedin.com/jobs/view/4465439217/) — Jobright.ai
-- 📍 **Location:** Santa Clara, CA
+### [Program Manager – Energy Storage Systems](https://www.linkedin.com/jobs/view/4465430349/) — Qcells North America
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-09-12

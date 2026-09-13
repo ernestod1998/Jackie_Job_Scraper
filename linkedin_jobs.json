@@ -1,31 +1,8 @@
 {
-  "scraped_at": "2026-09-12 23:27 UTC",
-  "total": 13,
-  "new_count": 5,
+  "scraped_at": "2026-09-13 00:52 UTC",
+  "total": 7,
+  "new_count": 1,
   "jobs": [
-    {
-      "company": "Net2Source (N2S)",
-      "title": "Program Manager, Commercial Learning & Development",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464287871/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "salary": "$64.75/hr - $68.35/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SEPHORA",
-      "title": "Senior Specialist, Client Services Continuous Improvement",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466716135/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
     {
       "company": "Valerie Health",
       "title": "AI Operations Specialist",
@@ -39,32 +16,10 @@
       ]
     },
     {
-      "company": "Barefoot Student",
-      "title": "Customer Experience Specialist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465427126/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "River AI",
-      "title": "Office Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4465176189/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Blue Acorn iCi",
-      "title": "Project Manager (San Jose, CA)",
+      "company": "Cisco",
+      "title": "Business Operations Manager, Strategic Program Management",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465427118/",
+      "url": "https://www.linkedin.com/jobs/view/4466748008/",
       "date_posted": "2026-09-12",
       "ats": "LinkedIn",
       "feeds": [
@@ -83,21 +38,22 @@
       ]
     },
     {
-      "company": "Cisco",
-      "title": "Business Operations Manager, Strategic Program Management",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466748008/",
+      "company": "Qcells North America",
+      "title": "Program Manager \u2013 Energy Storage Systems",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465430349/",
       "date_posted": "2026-09-12",
       "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $180,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Barefoot Student",
-      "title": "Customer Experience Specialist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465439078/",
+      "company": "River AI",
+      "title": "Office Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4465176189/",
       "date_posted": "2026-09-12",
       "ats": "LinkedIn",
       "feeds": [
@@ -120,28 +76,6 @@
       "title": "AI Product Operations Manager",
       "location": "Santa Clara, CA",
       "url": "https://www.linkedin.com/jobs/view/4465439217/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, PlusTAM (SDO)",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455915781/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BeFreed",
-      "title": "Quality Assurance Specialist",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4465164379/",
       "date_posted": "2026-09-12",
       "ats": "LinkedIn",
       "feeds": [
@@ -151,56 +85,13 @@
   ],
   "new_jobs": [
     {
-      "company": "River AI",
-      "title": "Office Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4465176189/",
+      "company": "Qcells North America",
+      "title": "Program Manager \u2013 Energy Storage Systems",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465430349/",
       "date_posted": "2026-09-12",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cisco",
-      "title": "Business Operations Manager, Strategic Program Management",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466735172/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cisco",
-      "title": "Business Operations Manager, Strategic Program Management",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466748008/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Product Operations Manager (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465435238/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Product Operations Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465439217/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $180,000.00/yr",
       "feeds": [
         "general"
       ]
