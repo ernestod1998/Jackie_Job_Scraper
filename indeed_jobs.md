@@ -1,43 +1,56 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-09-13 07:38 UTC*
+*Last updated: 2026-09-13 18:55 UTC*
 
-**8 new role(s)** since last run · 26 total in last 24h
+**11 new role(s)** since last run · 24 total in last 24h
 
-### [Operations Manager](https://www.indeed.com/viewjob?jk=50d249d556f0628b) — ER RESTORATION
-- 📍 **Location:** San Jose, CA, US
+### [Research Program Manager](https://www.indeed.com/viewjob?jk=2a4bb78317c49a6b) — University of California - San Francisco
+- 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-09-13
 
-### [Program Manager, Compliance Assurance](https://www.indeed.com/viewjob?jk=2350742a559c2c88) — Meta
-- 📍 **Location:** Menlo Park, CA, US
-- 💰 **Salary:** $122k–$180k/yr
-- 🕒 **Posted:** 2026-09-10
-
-### [Program Manager, Privacy Risk Assessment](https://www.indeed.com/viewjob?jk=04a52e96e02b6e6d) — Meta
-- 📍 **Location:** Menlo Park, CA, US
-- 💰 **Salary:** $122k–$180k/yr
-- 🕒 **Posted:** 2026-09-10
-
-### [Customer Success Manager](https://www.indeed.com/viewjob?jk=bdf32f3593febfe0) — Bild Ai
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $70k–$140k/yr
-- 🕒 **Posted:** 2026-09-12
-
-### [Enforcement Operations Lead, Cloud Partners](https://www.indeed.com/viewjob?jk=432c7ccce661df2c) — Anthropic
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $285k–$330k/yr
-- 🕒 **Posted:** 2026-09-12
-
-### [Program Manager (Ops)](https://www.indeed.com/viewjob?jk=72818ff2b8b86fd3) — PEARL
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $120k–$140k/yr
+### [Quality Assurance](https://www.indeed.com/viewjob?jk=b3bc0276d7a695ec) — Innovative Circuits Engineering
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $27–$40/hr
 - 🕒 **Posted:** 2026-09-13
 
-### [Business Operations Manager, Strategic Program Management](https://www.indeed.com/viewjob?jk=a28a18a5ae2cb255) — Cisco
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $119k–$203k/yr
+### [Studies Project Manager - Health](https://www.indeed.com/viewjob?jk=3ae55f50c3de830e) — Apple
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $176k–$264k/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Security Operations Manager](https://www.indeed.com/viewjob?jk=d82c7d8e757bbf0b) — A2A security
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-09-13
+
+### [Sr HR Coordinator](https://www.indeed.com/viewjob?jk=a4d39989caa8b244) — Homeward Bound of Marin
+- 📍 **Location:** Novato, CA, US
+- 💰 **Salary:** $70k–$80k/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Sr. Field Sales Operations Lead, US Specialist Org, NAMER Field Operations, NAMER Sales Operations](https://www.indeed.com/viewjob?jk=dc763280bb36b43a) — Amazon Web Services
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $147k–$199k/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Sales Account Manager](https://www.indeed.com/viewjob?jk=939321a4b114e0ed) — FONTANA GRUPPO
+### [Enterprise Customer Success Manager](https://www.indeed.com/viewjob?jk=8ad5c5bf0100f9f7) — Spinwheel Solutions
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $62k–$75k/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Global Operations Coordinator](https://www.indeed.com/viewjob?jk=b0f3f5d1f2c78bb3) — Unknown
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $27–$33/hr
+- 🕒 **Posted:** 2026-09-13
+
+### [Client Facing Project Manager and Coach](https://www.indeed.com/viewjob?jk=b8ec5360d86f06ff) — Select Advisors Institute
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $26–$32/hr
+- 🕒 **Posted:** 2026-09-13
+
+### [Quality Assurance Manager](https://www.indeed.com/viewjob?jk=d1ae9dfbf3534a64) — Omnicom Production
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $73k–$88k/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [SEO/TEO Operations Lead](https://www.indeed.com/viewjob?jk=e98e23cec8df05dd) — McClatchy
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $110k–$135k/yr
 - 🕒 **Posted:** 2026-09-13
