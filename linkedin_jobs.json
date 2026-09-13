@@ -1,30 +1,8 @@
 {
-  "scraped_at": "2026-09-13 18:45 UTC",
-  "total": 21,
-  "new_count": 21,
+  "scraped_at": "2026-09-13 21:24 UTC",
+  "total": 8,
+  "new_count": 4,
   "jobs": [
-    {
-      "company": "University of California, San Francisco",
-      "title": "Research Program Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467001128/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Biotech Startup",
-      "title": "Senior Project Manager \u2013 Life Sciences / Medical Product Development",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464740466/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
     {
       "company": "Evlo AI",
       "title": "Program Manager",
@@ -37,10 +15,10 @@
       ]
     },
     {
-      "company": "Snorkel AI",
-      "title": "Senior Business Operations Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409200769/",
+      "company": "TikTok",
+      "title": "Product Strategy and Operations Manager, Creative Product",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465479282/",
       "date_posted": "2026-09-13",
       "ats": "LinkedIn",
       "feeds": [
@@ -59,6 +37,17 @@
       ]
     },
     {
+      "company": "Uber",
+      "title": "Senior Central Operations Manager, AM Tooling & Digital Transformation - Expansion Central Ops",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466782548/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Jobright.ai",
       "title": "AI Product Operations Manager",
       "location": "Santa Clara, CA",
@@ -70,111 +59,10 @@
       ]
     },
     {
-      "company": "Alchemy",
-      "title": "Revenue Operations Lead",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420463794/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "salary": "$175,000.00/yr - $220,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "WSP in the U.S.",
-      "title": "EHV EPC Project Manager (Power Delivery)- Remote",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4429393909/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "System One",
-      "title": "Project Manager",
-      "location": "San Ramon, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466795208/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4435690933/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $160,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HOK",
-      "title": "Project Manager - (Healthcare Experience)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4205040329/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Quality Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455065057/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HOK",
-      "title": "Sr Project Manager - Sports, Rec, & Ent",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403188674/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Newmark",
-      "title": "Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419307913/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Palo Alto Networks",
-      "title": "Managed XSIAM Service Delivery Lead",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409612897/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Walter P Moore",
-      "title": "Project Manager - Structural",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4431107166/",
+      "company": "Five Below",
+      "title": "Support Lead Part Time",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464751556/",
       "date_posted": "2026-09-13",
       "ats": "LinkedIn",
       "feeds": [
@@ -193,47 +81,12 @@
       ]
     },
     {
-      "company": "Vercel",
-      "title": "Senior Technical Account Manager",
+      "company": "Uber Advertising",
+      "title": "Ad Operations Specialist, Uber Advertising (Online Food Delivery)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4439303534/",
+      "url": "https://www.linkedin.com/jobs/view/4466780782/",
       "date_posted": "2026-09-13",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Walter P Moore",
-      "title": "Enclosure Project Manager - Diagnostics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4365009005/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LandCare LLC",
-      "title": "Account Manager (Commercial Landscaping)",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465478889/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "salary": "$78,000.00/yr - $95,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LandCare LLC",
-      "title": "Account Manager (Commercial Landscaping)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465457898/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "salary": "$80,000.00/yr - $95,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -241,155 +94,10 @@
   ],
   "new_jobs": [
     {
-      "company": "University of California, San Francisco",
-      "title": "Research Program Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467001128/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Biotech Startup",
-      "title": "Senior Project Manager \u2013 Life Sciences / Medical Product Development",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464740466/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Program Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465486085/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Snorkel AI",
-      "title": "Senior Business Operations Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409200769/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Product Operations Manager (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465483138/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Product Operations Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465496039/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Alchemy",
-      "title": "Revenue Operations Lead",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420463794/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "salary": "$175,000.00/yr - $220,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "WSP in the U.S.",
-      "title": "EHV EPC Project Manager (Power Delivery)- Remote",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4429393909/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "System One",
-      "title": "Project Manager",
-      "location": "San Ramon, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466795208/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4435690933/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $160,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HOK",
-      "title": "Project Manager - (Healthcare Experience)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4205040329/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Quality Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455065057/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HOK",
-      "title": "Sr Project Manager - Sports, Rec, & Ent",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403188674/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Newmark",
-      "title": "Project Manager",
+      "company": "TikTok",
+      "title": "Product Strategy and Operations Manager, Creative Product",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419307913/",
+      "url": "https://www.linkedin.com/jobs/view/4465479282/",
       "date_posted": "2026-09-13",
       "ats": "LinkedIn",
       "feeds": [
@@ -397,21 +105,10 @@
       ]
     },
     {
-      "company": "Palo Alto Networks",
-      "title": "Managed XSIAM Service Delivery Lead",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409612897/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Walter P Moore",
-      "title": "Project Manager - Structural",
+      "company": "Uber",
+      "title": "Senior Central Operations Manager, AM Tooling & Digital Transformation - Expansion Central Ops",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4431107166/",
+      "url": "https://www.linkedin.com/jobs/view/4466782548/",
       "date_posted": "2026-09-13",
       "ats": "LinkedIn",
       "feeds": [
@@ -419,10 +116,10 @@
       ]
     },
     {
-      "company": "NVIDIA",
-      "title": "Product Program Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418854924/",
+      "company": "Five Below",
+      "title": "Support Lead Part Time",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464751556/",
       "date_posted": "2026-09-13",
       "ats": "LinkedIn",
       "feeds": [
@@ -430,47 +127,12 @@
       ]
     },
     {
-      "company": "Vercel",
-      "title": "Senior Technical Account Manager",
+      "company": "Uber Advertising",
+      "title": "Ad Operations Specialist, Uber Advertising (Online Food Delivery)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4439303534/",
+      "url": "https://www.linkedin.com/jobs/view/4466780782/",
       "date_posted": "2026-09-13",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Walter P Moore",
-      "title": "Enclosure Project Manager - Diagnostics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4365009005/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LandCare LLC",
-      "title": "Account Manager (Commercial Landscaping)",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465478889/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "salary": "$78,000.00/yr - $95,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LandCare LLC",
-      "title": "Account Manager (Commercial Landscaping)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465457898/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "salary": "$80,000.00/yr - $95,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -481,7 +143,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 2,
+    "location": 0,
     "stale": 0
   }
 }
