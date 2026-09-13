@@ -1,89 +1,77 @@
 {
-  "scraped_at": "2026-09-13 01:27 UTC",
-  "total": 7,
-  "new_count": 0,
+  "scraped_at": "2026-09-13 07:25 UTC",
+  "total": 3,
+  "new_count": 3,
   "jobs": [
     {
-      "company": "Valerie Health",
-      "title": "AI Operations Specialist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465839573/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "salary": "$65,000.00/yr - $85,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cisco",
-      "title": "Business Operations Manager, Strategic Program Management",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466748008/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cisco",
-      "title": "Business Operations Manager, Strategic Program Management",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466735172/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Qcells North America",
-      "title": "Program Manager \u2013 Energy Storage Systems",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465430349/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $180,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "River AI",
-      "title": "Office Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4465176189/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Product Operations Manager (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465435238/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Product Operations Manager",
+      "company": "Applied Materials",
+      "title": "Business Operations & Strategy Project Manager II  (Santa Clara, CA)",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465439217/",
-      "date_posted": "2026-09-12",
+      "url": "https://www.linkedin.com/jobs/view/4452828490/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "RG&T Solutions",
+      "title": "Tax Business Enablement Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465466375/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Productivity Project/Program Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464723562/",
+      "date_posted": "2026-09-13",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Applied Materials",
+      "title": "Business Operations & Strategy Project Manager II  (Santa Clara, CA)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4452828490/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "RG&T Solutions",
+      "title": "Tax Business Enablement Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465466375/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Productivity Project/Program Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464723562/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
