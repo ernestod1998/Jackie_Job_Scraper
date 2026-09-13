@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-13 00:52 UTC",
+  "scraped_at": "2026-09-13 01:27 UTC",
   "total": 7,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Valerie Health",
@@ -83,26 +83,13 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Qcells North America",
-      "title": "Program Manager \u2013 Energy Storage Systems",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465430349/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $180,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 1,
+    "location": 2,
     "stale": 0
   }
 }
