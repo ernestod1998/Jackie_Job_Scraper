@@ -1,6 +1,9 @@
 # 🏛 CalCareers — California State Roles
-*Last updated: 2026-09-13 19:53 UTC*
+*Last updated: 2026-09-14 21:04 UTC*
 
-**0 new role(s)** since last run · 0 total in current CalCareers postings
+**1 new role(s)** since last run · 1 total in current CalCareers postings
 
-No new CalCareers roles since the last run.
+### [California Environmental Quality Act Project Manager](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531992) — Public Utilities Commission
+- 📍 **Location:** San Francisco County
+- 💰 **Salary:** $7980.00 - $9994.00
+- 🕒 **Posted:** 2026-09-14

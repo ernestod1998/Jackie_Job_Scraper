@@ -1,15 +1,41 @@
 {
-  "scraped_at": "2026-09-13 19:53 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": [],
+  "scraped_at": "2026-09-14 21:04 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Public Utilities Commission",
+      "title": "California Environmental Quality Act Project Manager",
+      "location": "San Francisco County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531992",
+      "date_posted": "2026-09-14",
+      "salary": "$7980.00 - $9994.00",
+      "ats": "CalCareers",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Public Utilities Commission",
+      "title": "California Environmental Quality Act Project Manager",
+      "location": "San Francisco County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531992",
+      "date_posted": "2026-09-14",
+      "salary": "$7980.00 - $9994.00",
+      "ats": "CalCareers",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 20,
+    "location": 22,
     "stale": 0
   }
 }
