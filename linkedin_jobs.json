@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-14 07:51 UTC",
+  "scraped_at": "2026-09-14 08:08 UTC",
   "total": 10,
-  "new_count": 10,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Ross Stores, Inc.",
@@ -115,119 +115,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Ross Stores, Inc.",
-      "title": "Project Coordinator, Supply Chain Properties",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464763442/",
-      "date_posted": "2026-09-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Native American Health Center",
-      "title": "Care Coordinator I, Integration, Enhanced Care Management",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465712164/",
-      "date_posted": "2026-09-14",
-      "ats": "LinkedIn",
-      "salary": "$28.13/hr - $33.17/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Chinese American International School",
-      "title": "After School Program Leader",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464776452/",
-      "date_posted": "2026-09-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Federal Reserve Bank of San Francisco",
-      "title": "2027 SF Fed Summer Internship - BUSINESS ANALYST Intern",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467032692/",
-      "date_posted": "2026-09-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BioSpace",
-      "title": "Senior Project Manager, Clinical OperationsSouth San Francisco, CA",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467047242/",
-      "date_posted": "2026-09-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Accenture",
-      "title": "Customer Experience & Service Transformation Management Advisory Consultant",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4397662819/",
-      "date_posted": "2026-09-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Supply Chain: Supplier Onboarding Lead",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466392591/",
-      "date_posted": "2026-09-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Supply Chain: IT Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466394612/",
-      "date_posted": "2026-09-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Live Well Homecare",
-      "title": "Care Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467044858/",
-      "date_posted": "2026-09-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Live Well Homecare",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467041963/",
-      "date_posted": "2026-09-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
