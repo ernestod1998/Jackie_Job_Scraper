@@ -1,6 +1,13 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-09-14 01:31 UTC*
+*Last updated: 2026-09-14 08:05 UTC*
 
-**0 new role(s)** since last run · 19 total in last 24h
+**2 new role(s)** since last run · 12 total in last 24h
 
-No new roles since the last run.
+### [Before and After School Program Leader /Primary Education-San Ramon, CA](https://www.indeed.com/viewjob?jk=a05686e2f22f9fe0) — AlphaBEST Education
+- 📍 **Location:** Concord, CA, US
+- 🕒 **Posted:** 2026-09-13
+
+### [ICWP Enhanced Case Manager](https://www.indeed.com/viewjob?jk=eb264d981ce48631) — CONTRACT CASE MANAGER
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $20–$41/hr
+- 🕒 **Posted:** 2026-09-14
