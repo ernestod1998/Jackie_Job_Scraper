@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-14 00:57 UTC",
+  "scraped_at": "2026-09-14 01:44 UTC",
   "total": 9,
-  "new_count": 6,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Triune Infomatics Inc",
@@ -100,81 +100,13 @@
       "url": "https://www.linkedin.com/jobs/view/4455955490/",
       "date_posted": "2026-09-13",
       "ats": "LinkedIn",
+      "salary": "$125,000.00/yr - $175,000.00/yr",
       "feeds": [
         "general"
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Triune Infomatics Inc",
-      "title": "Project Manager II",
-      "location": "San Ramon, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464223513/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Foresight Health",
-      "title": "Operations Lead",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465487493/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $200,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Quanta Manufacturing Fremont",
-      "title": "Program Manager",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465492425/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $180,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "OPM Biosciences",
-      "title": "Quality Assurance Manager",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465479627/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AbilityLinks",
-      "title": "Sr. Field Sales Operations Lead, US Specialist Org, NAMER Field Operations, NAMER Sales Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465700332/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Talently",
-      "title": "Electrical Project Manager",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455955490/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
