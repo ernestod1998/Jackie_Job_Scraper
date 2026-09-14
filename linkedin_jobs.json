@@ -1,11 +1,57 @@
 {
-  "scraped_at": "2026-09-13 23:36 UTC",
-  "total": 6,
-  "new_count": 3,
+  "scraped_at": "2026-09-14 00:57 UTC",
+  "total": 9,
+  "new_count": 6,
   "jobs": [
     {
+      "company": "Triune Infomatics Inc",
+      "title": "Project Manager II",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464223513/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Foresight Health",
+      "title": "Operations Lead",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465487493/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $200,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Quanta Manufacturing Fremont",
+      "title": "Program Manager",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465492425/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $180,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "OPM Biosciences",
+      "title": "Quality Assurance Manager",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465479627/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "gamble + design",
-      "title": "Procurement Coordinator/office manager",
+      "title": "Interior Design procurement Coordinator/office manager",
       "location": "San Francisco Bay Area",
       "url": "https://www.linkedin.com/jobs/view/4467004088/",
       "date_posted": "2026-09-13",
@@ -26,17 +72,6 @@
       ]
     },
     {
-      "company": "Uber",
-      "title": "Senior Central Operations Manager, AM Tooling & Digital Transformation - Expansion Central Ops",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466782548/",
-      "date_posted": "2026-09-13",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Jobright.ai",
       "title": "AI Product Operations Manager",
       "location": "Santa Clara, CA",
@@ -48,10 +83,10 @@
       ]
     },
     {
-      "company": "Five Below",
-      "title": "Support Lead Part Time",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464751556/",
+      "company": "AbilityLinks",
+      "title": "Sr. Field Sales Operations Lead, US Specialist Org, NAMER Field Operations, NAMER Sales Operations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465700332/",
       "date_posted": "2026-09-13",
       "ats": "LinkedIn",
       "feeds": [
@@ -59,10 +94,10 @@
       ]
     },
     {
-      "company": "Uber Advertising",
-      "title": "Ad Operations Specialist, Uber Advertising (Online Food Delivery)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466780782/",
+      "company": "Talently",
+      "title": "Electrical Project Manager",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455955490/",
       "date_posted": "2026-09-13",
       "ats": "LinkedIn",
       "feeds": [
@@ -72,10 +107,10 @@
   ],
   "new_jobs": [
     {
-      "company": "gamble + design",
-      "title": "Procurement Coordinator/office manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4467004088/",
+      "company": "Triune Infomatics Inc",
+      "title": "Project Manager II",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464223513/",
       "date_posted": "2026-09-13",
       "ats": "LinkedIn",
       "feeds": [
@@ -83,10 +118,34 @@
       ]
     },
     {
-      "company": "Jobright.ai",
-      "title": "Product Operations Manager (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465484336/",
+      "company": "Foresight Health",
+      "title": "Operations Lead",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465487493/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $200,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Quanta Manufacturing Fremont",
+      "title": "Program Manager",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465492425/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $180,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "OPM Biosciences",
+      "title": "Quality Assurance Manager",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465479627/",
       "date_posted": "2026-09-13",
       "ats": "LinkedIn",
       "feeds": [
@@ -94,10 +153,21 @@
       ]
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Product Operations Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465499264/",
+      "company": "AbilityLinks",
+      "title": "Sr. Field Sales Operations Lead, US Specialist Org, NAMER Field Operations, NAMER Sales Operations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465700332/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Talently",
+      "title": "Electrical Project Manager",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455955490/",
       "date_posted": "2026-09-13",
       "ats": "LinkedIn",
       "feeds": [
@@ -110,7 +180,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 0,
+    "location": 1,
     "stale": 0
   }
 }
