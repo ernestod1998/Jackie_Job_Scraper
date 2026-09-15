@@ -1,336 +1,332 @@
 # 🗃 Direct ATS Registry — Ops / Support / Care Roles
-*Last updated: 2026-09-14 18:22 UTC*
+*Last updated: 2026-09-15 17:18 UTC*
 
-**83 new role(s)** since last run · 394 total in current registry shard
+**82 new role(s)** since last run · 349 total in current registry shard
 
-### [Customer Support Manager](https://cribl.io/job-detail/?gh_jid=6123463004) — Cribl
-- 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-09-08
+### [Senior Account Manager, Client Success](https://job-boards.greenhouse.io/axios/jobs/7954574) — Axios
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-09-02
 
-### [Revenue Enablement Intern](https://cribl.io/job-detail/?gh_jid=5165439004) — Cribl
-- 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-09-08
+### [National Sales Training Manager, Neurology (West Region)](https://job-boards.greenhouse.io/axsometherapeutics/jobs/5985929004) — Axsome Therapeutics Inc
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-04
 
-### [Sr Revenue Operations Analyst](https://cribl.io/job-detail/?gh_jid=6018893004) — Cribl
-- 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-09-08
+### [National Sales Training Manager, Psychiatry (West Region)](https://job-boards.greenhouse.io/axsometherapeutics/jobs/5985938004) — Axsome Therapeutics Inc
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-04
 
-### [Associate - Strategy & Operations](https://job-boards.greenhouse.io/doordashusa/jobs/8200957) — DoorDash
-- 📍 **Location:** New York, NY; Austin, TX; Chicago, IL; San Francisco, CA; Seattle, WA
-- 🕒 **Posted:** 2026-09-14
+### [Specialty Account Manager, Long Term Care (San Francisco, CA)](https://job-boards.greenhouse.io/axsometherapeutics/jobs/6164413004) — Axsome Therapeutics Inc
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-27
 
-### [Strategy & Operations Manager](https://job-boards.greenhouse.io/doordashusa/jobs/8200707) — DoorDash
-- 📍 **Location:** United States - Remote
-- 🕒 **Posted:** 2026-09-14
+### [Specialty Account Manager, Symbravo (San Jose, CA)](https://job-boards.greenhouse.io/axsometherapeutics/jobs/5983738004) — Axsome Therapeutics Inc
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-08
 
-### [Senior Clinical Quality Operations Manager](https://job-boards.greenhouse.io/eikontherapeutics/jobs/5209869007) — Eikon Therapeutics
-- 📍 **Location:** Jersey City, NJ; Millbrae, CA
-- 🕒 **Posted:** 2026-08-31
-
-### [Strategic Operations Associate](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4237935009) — Fanatics
-- 📍 **Location:** New York, NY, United States; Sunnyvale, TX, United States
-- 🕒 **Posted:** 2026-09-14
-
-### [Supply Chain & Strategic Operations Associate](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4222317009) — Fanatics
-- 📍 **Location:** Sunnyvale, TX, United States
-- 🕒 **Posted:** 2026-09-14
-
-### [Strategic Account Manager](https://job-boards.greenhouse.io/flex/jobs/4711603005) — Flex
-- 📍 **Location:** New York, NY; Remote; Salt Lake City, UT; San Francisco, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Senior EPD Operations Manager](https://job-boards.greenhouse.io/omadahealth/jobs/8084199) — Omada Health
-- 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-07-31
-
-### [Data Infrastructure Operations Manager II (Starlink) ](https://boards.greenhouse.io/spacex/jobs/8510434002?gh_jid=8510434002) — SpaceX
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-01
-
-### [Data Infrastructure Operations Manager (Starlink)](https://boards.greenhouse.io/spacex/jobs/8703559002?gh_jid=8703559002) — SpaceX
-- 📍 **Location:** Sunnyvale, CA
+### [Sr. Customer Success Manager](https://job-boards.greenhouse.io/axuall/jobs/4730467005) — Axuall
+- 📍 **Location:** Remote - US
 - 🕒 **Posted:** 2026-09-09
 
-### [Implementation Specialist](https://job-boards.greenhouse.io/versaterm/jobs/5286222008) — Versaterm
-- 📍 **Location:** U.S. (Remote)
-- 🕒 **Posted:** 2026-08-10
-
-### [Program Manager, Leaves & Accommodations](https://job-boards.greenhouse.io/welbehealth/jobs/8723330002) — WelbeHealth
-- 📍 **Location:** Remote, CA, USA
-- 🕒 **Posted:** 2026-09-11
-
-### [Workday HCM Program Manager ](https://job-boards.greenhouse.io/welbehealth/jobs/8599963002) — WelbeHealth
-- 📍 **Location:** Remote, CA, USA
-- 🕒 **Posted:** 2026-09-11
-
-### [AI Product Support Lead](https://job-boards.greenhouse.io/wonderschool/jobs/7765690003) — Wonderschool
+### [Associate Account Manager ](https://job-boards.greenhouse.io/bevicareers/jobs/4405159009) — Bevi
 - 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-08-29
+- 🕒 **Posted:** 2026-09-14
 
-### [Business Operations Associate](https://job-boards.greenhouse.io/wonderschool/jobs/6347655003) — Wonderschool
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-08-29
+### [Client Services Associate I, Oncology](https://job-boards.greenhouse.io/billiontoone/jobs/4716882005) — BillionToOne
+- 📍 **Location:** Union City, CA
+- 🕒 **Posted:** 2026-07-21
 
-### [Customer & Marketplace Operations Leader](https://job-boards.greenhouse.io/wonderschool/jobs/7984023003) — Wonderschool
-- 📍 **Location:** San Francisco
+### [Client Services Associate I, Prenatal](https://job-boards.greenhouse.io/billiontoone/jobs/4727178005) — BillionToOne
+- 📍 **Location:** Union City, CA
 - 🕒 **Posted:** 2026-09-01
 
-### [Program Manager, State & Enterprise Programs](https://job-boards.greenhouse.io/wonderschool/jobs/7872556003) — Wonderschool
+### [Sales Training Manager, Prenatal](https://job-boards.greenhouse.io/billiontoone/jobs/4711331005) — BillionToOne
 - 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-08-29
+- 🕒 **Posted:** 2026-07-21
 
-### [Provider Growth & AI Agent Operations Lead](https://job-boards.greenhouse.io/wonderschool/jobs/7792214003) — Wonderschool
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-08-29
+### [Senior Accounting Operations Analyst](https://c3.ai/job-description/8639116002?gh_jid=8639116002) — c3iot
+- 📍 **Location:** Redwood City, California, United States
+- 🕒 **Posted:** 2026-08-28
 
-### [Forklift Operations Associate, Richmond, CA](https://jobs.lever.co/gopuff/8bf86437-5a83-43ed-85cf-a4fb641ca00b) — Gopuff
-- 📍 **Location:** Richmond, CA
-- 🕒 **Posted:** 2022-07-28
+### [Channel Account Manager, Central](https://job-boards.greenhouse.io/censys/jobs/8756673002) — Censys
+- 📍 **Location:** Remote - Central United States (Chicago, Dallas)
+- 🕒 **Posted:** 2026-09-03
 
-### [Senior Strategic Account Manager- Pharma](https://jobs.lever.co/h1/078b2c83-709e-4679-a2c4-5e9bbe8912a2) — H1
-- 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-04-22
+### [Channel Account Manager, East](https://job-boards.greenhouse.io/censys/jobs/8756637002) — Censys
+- 📍 **Location:** Remote, East Coast United States (NYC, DMV)
+- 🕒 **Posted:** 2026-09-03
 
-### [Business Analyst](https://jobs.lever.co/pingwind/b769f3db-592f-4cf3-a4bf-65f92c702daf) — PingWind
+### [Project Manager, Marketing](https://job-boards.greenhouse.io/chanzuckerberginitiative/jobs/8144907) — Chan Zuckerberg Initiative
+- 📍 **Location:** Redwood City, CA (Hybrid)
+- 🕒 **Posted:** 2026-09-09
+
+### [Customer Support Coordinator](https://job-boards.greenhouse.io/charterup/jobs/5408036008) — CharterUP
+- 📍 **Location:** Remote, US
+- 🕒 **Posted:** 2026-09-03
+
+### [Operations Coordinator](https://job-boards.greenhouse.io/charterup/jobs/5412715008) — CharterUP
+- 📍 **Location:** Remote, US
+- 🕒 **Posted:** 2026-09-03
+
+### [Processor Implementation Manager](https://boards.greenhouse.io/chime/jobs/8584568002?gh_jid=8584568002) — Chime
+- 📍 **Location:** New York, NY, USA; San Francisco, CA, USA
+- 🕒 **Posted:** 2026-09-09
+
+### [Program Manager, Member Experience](https://boards.greenhouse.io/chime/jobs/8728271002?gh_jid=8728271002) — Chime
+- 📍 **Location:** Remote, USA
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior Business Analyst, TPRM](https://boards.greenhouse.io/chime/jobs/8742766002?gh_jid=8742766002) — Chime
+- 📍 **Location:** San Francisco, CA, USA
+- 🕒 **Posted:** 2026-09-10
+
+### [Senior Program Manager, AI Enablement](https://boards.greenhouse.io/chime/jobs/8697509002?gh_jid=8697509002) — Chime
+- 📍 **Location:** Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior Program Manager, EPMO](https://boards.greenhouse.io/chime/jobs/8734106002?gh_jid=8734106002) — Chime
+- 📍 **Location:** San Francisco, CA, USA
+- 🕒 **Posted:** 2026-09-09
+
+### [Sr. Product Marketing Manager, Trust & Safety](https://boards.greenhouse.io/chime/jobs/8694719002?gh_jid=8694719002) — Chime
+- 📍 **Location:** San Francisco, CA, USA
+- 🕒 **Posted:** 2026-09-09
+
+### [Sr. Program Manager, Member Experience](https://boards.greenhouse.io/chime/jobs/8790458002?gh_jid=8790458002) — Chime
+- 📍 **Location:** Remote, USA
+- 🕒 **Posted:** 2026-09-09
+
+### [Field Enablement Coach](https://job-boards.greenhouse.io/colabsoftware/jobs/5343813008) — CoLab Software
 - 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior Customer Success Manager](https://job-boards.greenhouse.io/colabsoftware/jobs/5290946008) — CoLab Software
+- 📍 **Location:** Remote, Canada, Remote, United States
 - 🕒 **Posted:** 2026-08-24
 
-### [Senior Paid Media Account Manager](https://jobs.lever.co/seerinteractive/dff81d09-147b-4343-8239-2a4769f5d130) — Seer Interactive
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-08-26
+### [Senior Implementation Specialist ](https://job-boards.greenhouse.io/colabsoftware/jobs/5267165008) — CoLab Software
+- 📍 **Location:** Canada and US, Remote
+- 🕒 **Posted:** 2026-08-24
 
-### [Senior Paid Search Account Manager](https://jobs.lever.co/seerinteractive/2a3b6025-e0c8-4afa-b7c3-072c6d034579) — Seer Interactive
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-08-26
+### [Strategic Customer Success Manager ](https://job-boards.greenhouse.io/colabsoftware/jobs/5290959008) — CoLab Software
+- 📍 **Location:** USA Remote
+- 🕒 **Posted:** 2026-07-16
 
-### [Senior Paid Social Media Account Manager](https://jobs.lever.co/seerinteractive/ece4ce4c-e8aa-43ca-9319-f250465eff87) — Seer Interactive
+### [Strategic Customer Success Manager - Aerospace and Defence](https://job-boards.greenhouse.io/colabsoftware/jobs/5290976008) — CoLab Software
+- 📍 **Location:** US, Remote
+- 🕒 **Posted:** 2026-08-17
+
+### [Technical Enablement Specialist](https://job-boards.greenhouse.io/colabsoftware/jobs/5343684008) — CoLab Software
 - 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-07-14
+
+### [Data Science Intern (Customer Success)](https://job-boards.greenhouse.io/cresta/jobs/5213417008) — Cresta
+- 📍 **Location:** United States (Remote)
+- 🕒 **Posted:** 2026-08-03
+
+### [Deal Strategy & Operations Manager](https://job-boards.greenhouse.io/cresta/jobs/5398116008) — Cresta
+- 📍 **Location:** United States (Remote)
+- 🕒 **Posted:** 2026-09-14
+
+### [Premium Onboarding Partner, DDfB](https://job-boards.greenhouse.io/doordashusa/jobs/8201979) — DoorDash
+- 📍 **Location:** New York, NY; San Francisco, CA; Sunnyvale, CA; Chicago, IL; Seattle, WA; Phoenix, AZ; Los Angeles, CA
+- 🕒 **Posted:** 2026-09-15
+
+### [Service Technician, Service Operations, Labs - DoorDash Dot](https://job-boards.greenhouse.io/doordashusa/jobs/7948401) — DoorDash
+- 📍 **Location:** Sunnyvale, CA; Dublin, CA
+- 🕒 **Posted:** 2026-09-15
+
+### [Member Experience Manager](https://job-boards.greenhouse.io/eosfitness/jobs/4036344009) — EoS Fitness
+- 📍 **Location:** Webster, TX: Gulf Fwy/W Bay Area Blvd (Baybrook)
+- 🕒 **Posted:** 2026-09-11
+
+### [Member Experience Manager](https://job-boards.greenhouse.io/eosfitness/jobs/4064861009) — EoS Fitness
+- 📍 **Location:** Montclair: Fremont Ave /Moreno St
+- 🕒 **Posted:** 2026-09-11
+
+### [Operations Manager](https://job-boards.greenhouse.io/eosfitness/jobs/4064865009) — EoS Fitness
+- 📍 **Location:** Montclair: Fremont Ave /Moreno St
+- 🕒 **Posted:** 2026-09-11
+
+### [Operations Manager](https://job-boards.greenhouse.io/eosfitness/jobs/4036157009) — EoS Fitness
+- 📍 **Location:** Webster, TX: Gulf Fwy/W Bay Area Blvd (Baybrook)
+- 🕒 **Posted:** 2026-09-11
+
+### [Personal Training Manager](https://job-boards.greenhouse.io/eosfitness/jobs/4035349009) — EoS Fitness
+- 📍 **Location:** Webster, TX: Gulf Fwy/W Bay Area Blvd (Baybrook)
+- 🕒 **Posted:** 2026-09-11
+
+### [Implementation Project Manager ](https://job-boards.greenhouse.io/fourkites/jobs/8070400) — FourKites
+- 📍 **Location:** Chicago, IL or Remote, USA
+- 🕒 **Posted:** 2026-07-23
+
+### [Sales Operations Specialist (Northeast)](https://boards.greenhouse.io/guidepointsecurity/jobs/6191918004?gh_jid=6191918004) — GuidePoint Security
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-09-14
+
+### [Operations Associate](https://job-boards.greenhouse.io/humansignal/jobs/6007741004) — HumanSignal
+- 📍 **Location:** San Francisco, California
+- 🕒 **Posted:** 2026-05-27
+
+### [Training Specialist](https://job-boards.greenhouse.io/humansignal/jobs/6007756004) — HumanSignal
+- 📍 **Location:** San Francisco, California
+- 🕒 **Posted:** 2026-05-27
+
+### [Technical Training & Quality Manager](https://job-boards.greenhouse.io/innodatainc/jobs/4404731009) — Innodata
+- 📍 **Location:** Remote - United States
+- 🕒 **Posted:** 2026-09-15
+
+### [Customer Operations & Pre-Sales Enablement Manager ](https://job-boards.greenhouse.io/leolabsinc/jobs/4147342009) — LeoLabs
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-08-06
+
+### [Sr. Program Manager, Sales Operations and Vehicle Build Planning](https://lucidmotors.com/careers/search/5222770007?gh_jid=5222770007) — Lucid Motors
+- 📍 **Location:** Newark, CA
+- 🕒 **Posted:** 2026-09-15
+
+### [Sr. Project Manager, Validation & Vehicle Operations](https://lucidmotors.com/careers/search/5234858007?gh_jid=5234858007) — Lucid Motors
+- 📍 **Location:** Newark, CA
+- 🕒 **Posted:** 2026-09-15
+
+### [Business Operations Specialist, Mission Execution](https://job-boards.greenhouse.io/muonspace/jobs/5232369007) — Muon Space
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-14
+
+### [Senior Program Manager - Commercial Payloads](https://job-boards.greenhouse.io/muonspace/jobs/5056924007) — Muon Space
+- 📍 **Location:** San Jose, CA 
+- 🕒 **Posted:** 2026-09-14
+
+### [Senior Program Manager, EO/IR](https://job-boards.greenhouse.io/muonspace/jobs/5161782007) — Muon Space
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-14
+
+### [Senior Program Manager, Microwave](https://job-boards.greenhouse.io/muonspace/jobs/5234764007) — Muon Space
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-09-11
+
+### [Senior Program Manager, Secure Space Data Systems](https://job-boards.greenhouse.io/muonspace/jobs/5200106007) — Muon Space
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-14
+
+### [Customer Success Manager](https://job-boards.greenhouse.io/murj/jobs/4934280008) — Murj
+- 📍 **Location:** Remote - US
+- 🕒 **Posted:** 2026-08-24
+
+### [Legal Operations Specialist](https://job-boards.greenhouse.io/murj/jobs/5394893008) — Murj
+- 📍 **Location:** Remote - US
 - 🕒 **Posted:** 2026-08-25
 
-### [SEO & GEO, Senior Account Manager](https://jobs.lever.co/seerinteractive/07b9c780-89ab-4d4c-b70b-725ae5ec668c) — Seer Interactive
+### [Customer Experience Assoc](https://job-boards.greenhouse.io/natera/jobs/6183379004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-09-09
+
+### [EDI & Claims Operations Analyst](https://job-boards.greenhouse.io/natera/jobs/6134219004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-09-14
+
+### [Quality Manager, Scientific Operations-Temp](https://job-boards.greenhouse.io/natera/jobs/6148888004) — Natera
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Senior Program Manager](https://job-boards.greenhouse.io/natera/jobs/5989220004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-09-15
+
+### [Training Supervisor, Quality Assurance](https://job-boards.greenhouse.io/natera/jobs/6123095004) — Natera
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-08-24
+
+### [Account Manager, Agency](https://job-boards.greenhouse.io/newsbreak/jobs/4699515006) — NewsBreak
+- 📍 **Location:** Mountain View, California, United States
+- 🕒 **Posted:** 2026-08-17
+
+### [Account Manager, Performance Growth (App)](https://job-boards.greenhouse.io/newsbreak/jobs/4699585006) — NewsBreak
+- 📍 **Location:** Mountain View, California, United States
+- 🕒 **Posted:** 2026-07-27
+
+### [Account Manager, Performance Growth (App & eCommerce)](https://job-boards.greenhouse.io/newsbreak/jobs/4699597006) — NewsBreak
+- 📍 **Location:** Mountain View, California, United States
+- 🕒 **Posted:** 2026-07-27
+
+### [Senior Accountant – General Ledger & Revenue Operations](https://job-boards.greenhouse.io/newsbreak/jobs/4706054006) — NewsBreak
+- 📍 **Location:** Mountain View, California, United States
+- 🕒 **Posted:** 2026-08-17
+
+### [Implementation Manager ](https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4720669005) — Peregrine
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-15
+
+### [Product Operations Manager](https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4718964005) — Peregrine
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-15
+
+### [Support Lead](https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4720959005) — Peregrine
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-15
+
+### [Workplace Program Manager](https://job-boards.greenhouse.io/purestorage/jobs/8196250) — Pure Storage
+- 📍 **Location:** Chicago, Illinois; Santa Clara, California
+- 🕒 **Posted:** 2026-09-14
+
+### [Customer Success Manager III](https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5414521008) — Renaissance
+- 📍 **Location:** Remote - US
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior Tax Operations Analyst](https://boards.greenhouse.io/robinhood/jobs/8048650?t=gh_src=&gh_jid=8048650) — Robinhood
+- 📍 **Location:** Menlo Park, CA; New York, NY
+- 🕒 **Posted:** 2026-09-10
+
+### [Tax Operations Manager](https://boards.greenhouse.io/robinhood/jobs/8042449?t=gh_src=&gh_jid=8042449) — Robinhood
+- 📍 **Location:** Menlo Park, CA; New York, NY
+- 🕒 **Posted:** 2026-09-10
+
+### [Senior Legal Operations Program Manager](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6177582004) — Sony Interactive Entertainment
+- 📍 **Location:** United States, San Mateo, CA
+- 🕒 **Posted:** 2026-09-14
+
+### [Revenue Operations (Rev/Ops) Manager](https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5279065008) — TeleTracking
+- 📍 **Location:** USA, Remote
+- 🕒 **Posted:** 2026-07-28
+
+### [Senior Product Operations Manager](https://job-boards.greenhouse.io/thetradedesk/jobs/5197952007) — The Trade Desk
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-09-10
+
+### [Campaign Operations Supervisor](https://job-boards.greenhouse.io/wppmedia/jobs/5398825008) — WPP Media
+- 📍 **Location:** Atlanta, United States; Chicago, United States; Los Angeles, United States; New York, United States; San Francisco, United States
+- 🕒 **Posted:** 2026-09-09
+
+### [Program Manager, Talent Management, Remote](https://jobs.lever.co/aledade/0d03fecf-bdb7-445f-98aa-e81b64ee72f8) — Aledade
+- 📍 **Location:** Remote, United States
+- 🕒 **Posted:** 2026-09-02
+
+### [Senior Program Specialist, Hospital & Health System Enablement and Ops, Remote](https://jobs.lever.co/aledade/0313c3e4-dd9b-47f8-8d70-8f1cab44d305) — Aledade
+- 📍 **Location:** Remote, United States
+- 🕒 **Posted:** 2026-07-23
+
+### [Senior Technical Product Manager - AI Enablement, Remote](https://jobs.lever.co/aledade/21787819-6373-4736-8766-d49cc84fd3af) — Aledade
+- 📍 **Location:** Remote, United States
+- 🕒 **Posted:** 2026-03-26
+
+### [eDiscovery Deputy Program Manager](https://jobs.lever.co/cgsfederal/1ff0a19c-69de-4ed4-bf38-ab14b58a2591) — CGS Federal (Contact Government Services)
 - 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-04-24
+- 🕒 **Posted:** 2026-09-03
 
-### [Customer Success Manager](https://jobs.lever.co/windfalldata/d309d40d-0325-4913-820f-832089865db0) — Windfall
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2023-08-31
+### [Account Manager](https://jobs.lever.co/fiscalnote/f8289100-fafa-405b-aecd-1a0341d65237) — FiscalNote
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** 2026-04-21
 
-### [Manager, Nonprofit Customer Success](https://jobs.lever.co/windfalldata/ded06c96-a75a-4106-bb24-7d211fec1fee) — Windfall
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-02-18
+### [Sr. Revenue Operations Analyst](https://jobs.lever.co/h1/5d22dea0-1b3d-427a-8932-77b35a7cf6b1) — H1
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-09-15
 
-### [Senior Implementation Specialist](https://jobs.lever.co/windfalldata/6fd4d2ed-db36-4ead-854b-eac27c6eb8ba) — Windfall
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-07-10
-
-### [IT Service Desk & SLA Operations Manager](https://jobs.lever.co/zoox/baeb5af5-65b7-433b-99e8-44e61901ae9b) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-09-08
-
-### [Manager, Learning & Development](https://jobs.lever.co/zoox/4fc59f52-0828-40a7-90d6-d8081c05ee20) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-05-19
-
-### [Manager, PEx Generalists and People Partner (HR for HR)](https://jobs.lever.co/zoox/205dea93-1a08-4b7e-b3b4-46783a3fb047) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Manager, Service Operations Systems](https://jobs.lever.co/zoox/03263034-e792-4ac1-8f79-b8b3068ccc2c) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Procurement Operations Manager](https://jobs.lever.co/zoox/68996f74-85e8-435d-9369-906438670794) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Program Manager, Workforce Planning](https://jobs.lever.co/zoox/a88dcba4-fe9a-4ec5-b79d-df34160fbcbc) — Zoox
-- 📍 **Location:** Foster City, CA
+### [Clinical Research Specialist Operations Manager](https://jobs.lever.co/npowermedicine/ec46f71b-e261-4bcb-bfe1-219a4406bae9) — N-Power Medicine
+- 📍 **Location:** Remote
 - 🕒 **Posted:** 2026-07-14
 
-### [Senior / Staff Program Manager, Operations Cost Analytics](https://jobs.lever.co/zoox/c91fe4d4-7b55-4a0d-8577-1699fd3d5a6b) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-07-14
+### [Senior Staff, Contracts & Legal Operations Manager](https://jobs.lever.co/npowermedicine/0ed47527-5bfe-4cf5-b633-4bfaf0854aca) — N-Power Medicine
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-08-28
 
-### [Senior / Staff Vehicle Program Manager](https://jobs.lever.co/zoox/2479aa32-51ed-411c-b91d-2239eb7e050b) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-05-01
-
-### [Senior Commercial Operations Analyst](https://jobs.lever.co/zoox/85ac55ee-0fdf-4b17-b57f-b09ce0defebe) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Senior Design Project Manager, Places & Build](https://jobs.lever.co/zoox/f30603f7-cc6f-41b5-91e5-ead70d880135) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Senior Project Manager, Places & Build](https://jobs.lever.co/zoox/1d37ef04-7968-4cb5-b0ba-be4a99bebd6f) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-03-30
-
-### [Staff/Senior Staff Supply Chain Program Manager - Enterprise Business Applications](https://jobs.lever.co/zoox/2a7c9842-96ae-4a98-a2bd-152a720d81f7) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [CAPA Project Coordinator](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/CAPA-Project-Coordinator_31161366-1) — Abbott
-- 📍 **Location:** United States - California - Alameda
-- 🕒 **Posted:** Posted Today
-
-### [Senior Project Manager Clinical Research](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Alameda--Plaza-6-Building/Senior-Project-Manager-Clinical-Research_31156788-1) — Abbott
-- 📍 **Location:** United States > Alameda : Plaza 6 Building
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Employee Benefits Associate Account Manager](https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/3155-Olsen-Dr-Ste-400---SAN-JOSE-CA/Employee-Benefits-Associate-Account-Manager_JR114282) — Acrisure
-- 📍 **Location:** 3155 Olsen Dr, Ste 400 - SAN JOSE, CA
-- 🕒 **Posted:** Posted 6 Days Ago
-
-### [Associate Account Manager](https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/Walnut-Creek-CA/Associate-Account-Manager_JR114027) — Acrisure
-- 📍 **Location:** Walnut Creek, CA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Account Manager -Transportation](https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/COSTA-MESA-CA/Account-Executive_JR113244) — Acrisure
-- 📍 **Location:** SAN JOSE, CA
-- 🕒 **Posted:** Posted 3 Days Ago
-
-### [Associate Account Manager](https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/CALABASAS-CA/Associate-Account-Manager_JR114042) — Acrisure
-- 📍 **Location:** SAN JOSE, CA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Employee Benefits Sr. Account Manager](https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/611-Anton-Blvd-Stes-1300-1400--1500---COSTA-MESA-CA/Sr-Account-Manager_JR113890) — Acrisure
-- 📍 **Location:** SAN JOSE, CA
-- 🕒 **Posted:** Posted 3 Days Ago
-
-### [Agency Operations Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Agency-Operations-Manager_R170131-1) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted 24 Days Ago
-
-### [Senior Business Operations Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Business-Operations-Manager_R171154) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted 5 Days Ago
-
-### [Sr. Sales Operations Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Sr-Sales-Operations-Manager_R164092) — Adobe
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Sr. Strategy & Operations Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Sr-Strategy---Operations-Manager--Customer-Marketing_R170214) — Adobe
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** Posted 4 Days Ago
-
-### [Sales Partner Compliance Operations Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sales-Partner-Compliance-Operations-Manager_R169617) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Strategy and Business Operations Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Strategy-and-Business-Operations-Manager_R171412-1) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted 20 Days Ago
-
-### [Strategy and Business Operations Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Strategy-and-Business-Operations-Manager_R171818) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted Today
-
-### [Sr Strategy & Operations Manager, Customer Marketing](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Strategy---Operations-Lead--Customer-Marketing_R170046) — Adobe
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Senior Global Total Rewards Operations & Project Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Global-Total-Rewards-Operations---Project-Manager_R167579) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted 19 Days Ago
-
-### [Senior Digital Strategist, Content Strategy & Operations](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Senior-Adoption-Strategist--CSC_R163189) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Senior Program Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Program-Manager_R166508-1) — Adobe
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Senior Enablement Manager & Trainer – Document Cloud, Corporate Role-Based Sales Enablement](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Sr-Enablement-Manager---Corporate-Document-Cloud-Solution-Specialists--Product-Success-Managers_R169108-1) — Adobe
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Senior Customer Success Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Customer-Success-Manager_R171799) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted 3 Days Ago
-
-### [Program Manager, Transformation](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Program-Manager--Transformation_R171052) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted 19 Days Ago
-
-### [Senior Program Manager, GSO](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Program-Manager--GSO_R170122) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Senior Marketing Program Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Marketing-Program-Manager_R171563) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted 11 Days Ago
-
-### [M&A Platform Integration Lead Program Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Scaled-Program-Lead_R166058) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Senior Compensation Program Manager, Pay Strategy](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Compensation-Program-Manager--Pay-Strategy---Compliance_R170563-1) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted 6 Days Ago
-
-### [LOA & Benefits Program Manager US & Canada](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/US---Canada-Benefits-Program-Manager_R171192) — Adobe
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** Posted 18 Days Ago
-
-### [Senior Project Manager, Global Talent Acquisition](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Project-Manager--Global-Talent-Acquisition_R169824) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Project Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Project-Manager_R168801) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [CAO Strategy and Operations Lead](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/CAO-Strategy-and-Operations-Lead_R164494) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Contact Center Agent – Voice Support ](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Remote---USA/Contact-Center-Agent---Voice-Support-_R-0563463) — Advance Auto Parts
-- 📍 **Location:** Remote - USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Contact Center Agent – Digital Support (Chat, Email, SMS) ](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Remote---USA/Contact-Center-Agent---Digital-Support--Chat--Email--SMS--_R-0563462) — Advance Auto Parts
-- 📍 **Location:** Remote - USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Business Operations Manager](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Mountain-View-CA/Business-Operations-Manager_R-100756) — Analytical Mechanics Associates
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** Posted 12 Days Ago
-
-### [Deputy Program Manager (ASSESS)](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Mountain-View-CA/Deputy-Program-Manager--ASSESS-_R-100676) — Analytical Mechanics Associates
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [AGS Regional Operations Manager](https://amat.wd1.myworkdayjobs.com/External/job/HillsboroOR/AGS-Regional-Operations-Manager_R2619337-1) — Applied Materials
-- 📍 **Location:** Santa Clara,CA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Customer Business Operations Specialist III](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Customer-Business-Operations-Specialist-III_R2623734) — Applied Materials
-- 📍 **Location:** Santa Clara,CA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Customer Business Operations Specialist I](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Customer-Business-Operations-Specialist-I_R2625704) — Applied Materials
-- 📍 **Location:** Santa Clara,CA
-- 🕒 **Posted:** Posted 4 Days Ago
-
-### [Customer Business Operations Specialist IV](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Customer-Business-Operations-Specialist-IV_R2623412) — Applied Materials
-- 📍 **Location:** Santa Clara,CA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Quality Manager](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Quality-Manager_R2619226-1) — Applied Materials
-- 📍 **Location:** Santa Clara,CA
-- 🕒 **Posted:** Posted 24 Days Ago
-
-### [Operations Strategy Program Manager](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Operations-Strategy-Program-Manager_R2624873-1) — Applied Materials
-- 📍 **Location:** Santa Clara,CA
-- 🕒 **Posted:** Posted 18 Days Ago
-
-### [Productivity Project/Program Manager](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Project-Program-Manager_R2627686) — Applied Materials
-- 📍 **Location:** Santa Clara,CA
-- 🕒 **Posted:** Posted 3 Days Ago
-
-### [Business Development Project Manager](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Business-Development-Project-Manager_R2518774) — Applied Materials
-- 📍 **Location:** Santa Clara,CA
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [Technical Account Manager](https://jobs.lever.co/planettechnologies/8ce22ab7-c3db-4476-991e-07db2a6be8ba) — Planet Technologies
+- 📍 **Location:** Eastern US - Remote
+- 🕒 **Posted:** 2026-08-31
