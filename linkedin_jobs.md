@@ -1,137 +1,144 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-09-16 01:46 UTC*
+*Last updated: 2026-09-16 07:37 UTC*
 
-**32 new role(s)** since last run · 66 total in last 4h
+**34 new role(s)** since last run · 37 total in last 4h
 
-### [Translation Program Coordinator - Spanish](https://www.linkedin.com/jobs/view/4465608559/) — Stanford Medicine Children's Health
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-15
+### [Volunteer Program Coordinator](https://www.linkedin.com/jobs/view/4460653679/) — GLIDEsf
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-16
 
-### [HR Coordinator](https://www.linkedin.com/jobs/view/4465931578/) — Pacific Clinics
-- 📍 **Location:** Los Gatos, CA
-- 🕒 **Posted:** 2026-09-15
+### [Marketing Program Manager](https://www.linkedin.com/jobs/view/4466830393/) — Discord
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-16
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4466802525/) — Qualified Health
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-15
+### [Process Improvement Analyst](https://www.linkedin.com/jobs/view/4467960528/) — ManpowerGroup
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-09-16
 
-### [Access Operations Associate](https://www.linkedin.com/jobs/view/4467719684/) — Stanford Health Care
+### [Program Manager](https://www.linkedin.com/jobs/view/4466826321/) — WorkGenius Group
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $79.31/hr - $79.31/hr
+- 🕒 **Posted:** 2026-09-16
+
+### [Part-Time Office Manager](https://www.linkedin.com/jobs/view/4467977174/) — Robert Half
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4467952891/) — Allied Universal
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $150,000.00/yr - $165,000.00/yr
+- 🕒 **Posted:** 2026-09-16
+
+### [Sr Analyst, Business Operations](https://www.linkedin.com/jobs/view/4467948357/) — PayPal
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Revenue Enablement Program Manager](https://www.linkedin.com/jobs/view/4466815671/) — Cohere
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Case Manager II, Transitional Aged Youth](https://www.linkedin.com/jobs/view/4457639969/) — GLIDEsf
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Pediatric Case Manager - BCH Oakland](https://www.linkedin.com/jobs/view/4467952570/) — UCSF Health
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Supervising Case Manager (Part-Time)](https://www.linkedin.com/jobs/view/4466821414/) — GLIDEsf
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Program Manager, Preclinical & Early Development](https://www.linkedin.com/jobs/view/4467950643/) — BioSpace
+- 📍 **Location:** Brisbane, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [214 Men's Step Down - Program Manager](https://www.linkedin.com/jobs/view/4465952270/) — HealthRIGHT 360
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Supervising Case Manager (Full-Time)](https://www.linkedin.com/jobs/view/4466832294/) — GLIDEsf
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Journey Home Case Manager (Full-Time)](https://www.linkedin.com/jobs/view/4466835238/) — GLIDEsf
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Sr Project Manager](https://www.linkedin.com/jobs/view/4426928078/) — BridgeBio
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [PROGRAM MANAGER - AUTOMOTIVE INDUSTRY](https://www.linkedin.com/jobs/view/4465970075/) — VeriiPro
 - 📍 **Location:** Newark, CA
-- 🕒 **Posted:** 2026-09-15
+- 🕒 **Posted:** 2026-09-16
 
-### [Donor Operations Team Lead](https://www.linkedin.com/jobs/view/4467916864/) — Donor Network West
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-15
-
-### [Office Manager](https://www.linkedin.com/jobs/view/4466588736/) — Blacksmith
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $115,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-09-15
-
-### [Care Manager I](https://www.linkedin.com/jobs/view/4467914924/) — Institute on Aging
+### [Manager, Revenue Operations](https://www.linkedin.com/jobs/view/4467955336/) — PayPal
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-15
+- 🕒 **Posted:** 2026-09-16
 
-### [Territory Account Manager - North SF Bay](https://www.linkedin.com/jobs/view/4466594841/) — Heartflow
+### [Call Center Manager](https://www.linkedin.com/jobs/view/4467938596/) — Transdev North America
+- 📍 **Location:** San Rafael, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Revenue Operations Lead](https://www.linkedin.com/jobs/view/4466823396/) — TrueFoundry
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $190,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-09-16
+
+### [SENIOR PROGRAM MANAGER](https://www.linkedin.com/jobs/view/4465972015/) — VeriiPro
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Sr. Project Manager](https://www.linkedin.com/jobs/view/4467957541/) — BioSpace
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Revenue Operations Lead](https://www.linkedin.com/jobs/view/4467951949/) — Nexl
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-16
+
+### [Sr. Account Manager](https://www.linkedin.com/jobs/view/4467953324/) — PayPal
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Sr. Account Manager, Large Enterprise](https://www.linkedin.com/jobs/view/4467944397/) — PayPal
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Sr Account Manager, Large Enterprise Commercial](https://www.linkedin.com/jobs/view/4467945390/) — PayPal
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Care Manager](https://www.linkedin.com/jobs/view/4467963301/) — Vetted Solutions
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Territory Account Manager - Santa Rosa, CA; Novato, CA](https://www.linkedin.com/jobs/view/4466835789/) — Heartflow
 - 📍 **Location:** Novato, CA
-- 🕒 **Posted:** 2026-09-15
+- 🕒 **Posted:** 2026-09-16
 
-### [Territory Account Manager - Pleasanton, CA; Walnut Creek, CA; Modesto, Ca](https://www.linkedin.com/jobs/view/4466813022/) — Heartflow
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Territory Account Manager - Pleasanton, CA; Walnut Creek, CA; Modesto, Ca](https://www.linkedin.com/jobs/view/4466594845/) — Heartflow
-- 📍 **Location:** Walnut Creek, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Sr Operations Program Manager, Product Operations, Product Operations](https://www.linkedin.com/jobs/view/4467932032/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Senior Program Manager, Creative Ops](https://www.linkedin.com/jobs/view/4466812238/) — Whatnot
+### [Journey Home Case Manager (Part-Time)](https://www.linkedin.com/jobs/view/4466822403/) — GLIDEsf
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $158,000.00/yr - $175,000.00/yr
-- 🕒 **Posted:** 2026-09-15
+- 🕒 **Posted:** 2026-09-16
 
-### [Implementation Manager](https://www.linkedin.com/jobs/view/4466808596/) — Movable Ink
+### [Program Manager, Audience Development & Engagement](https://www.linkedin.com/jobs/view/4467945866/) — SFMOMA San Francisco Museum of Modern Art
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-15
+- 💰 **Salary:** $100,000.00/yr - $122,000.00/yr
+- 🕒 **Posted:** 2026-09-16
 
-### [Senior Project Manager - Low Voltage Team](https://www.linkedin.com/jobs/view/4467917708/) — Rosendin
+### [Global Strategic Account Manager](https://www.linkedin.com/jobs/view/4467938473/) — PayPal
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-15
+- 🕒 **Posted:** 2026-09-16
 
-### [Implementation Enablement & Operations](https://www.linkedin.com/jobs/view/4465173333/) — Campfire
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Regional Support Lead](https://www.linkedin.com/jobs/view/4467936668/) — SambaNova
+### [Sr. Account Manager](https://www.linkedin.com/jobs/view/4467959296/) — PayPal
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-15
+- 🕒 **Posted:** 2026-09-16
 
-### [Sr. Cloud Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.linkedin.com/jobs/view/4467926131/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-15
+### [Manager, Revenue Operations](https://www.linkedin.com/jobs/view/4467947371/) — PayPal
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-16
 
-### [AWS Sr. Account Manager, FSI](https://www.linkedin.com/jobs/view/4467933056/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Cloud Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.linkedin.com/jobs/view/4467925089/) — Amazon Web Services (AWS)
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Trust And Safety Analyst](https://www.linkedin.com/jobs/view/4466592024/) — Infotree Global Solutions
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Executive Assistant & Office Manager at Early-stage AI & Robotics Startup](https://www.linkedin.com/jobs/view/4465932417/) — Bloom Talent
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-09-15
-
-### [Substance Use Counselor Case Manager - Mental Health 642](https://www.linkedin.com/jobs/view/4467900793/) — Telecare Corporation
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Mechanical and Thermal Program Manager](https://www.linkedin.com/jobs/view/4466596542/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Information Security Project Manager/Analyst | Contract](https://www.linkedin.com/jobs/view/4467908910/) — Diligente Technologies
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [IT Operations Manager](https://www.linkedin.com/jobs/view/4466800330/) — Intrax
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-15
-
-### [Global Account Manager – AI and Accelerated Computing Hardware Solution Implementation](https://www.linkedin.com/jobs/view/4466593475/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Automotive Account Manager](https://www.linkedin.com/jobs/view/4466809304/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [AI Product Operations Manager](https://www.linkedin.com/jobs/view/4466805362/) — Jobright.ai
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Patient Services Representative](https://www.linkedin.com/jobs/view/4465926484/) — Weil Foot & Ankle Institute
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Personal Assistant / Office Manager](https://www.linkedin.com/jobs/view/4466810277/) — Career Group
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $100,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-09-15
-
-### [Senior IT Technology Vendor Manager : 26-02554](https://www.linkedin.com/jobs/view/4460520581/) — Akraya, Inc.
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Assistant Operations Manager](https://www.linkedin.com/jobs/view/4467913331/) — Hayward Lumber
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $75,000.00/yr - $95,000.00/yr
-- 🕒 **Posted:** 2026-09-15
+### [Manager, Revenue Operations](https://www.linkedin.com/jobs/view/4467937639/) — PayPal
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-16
