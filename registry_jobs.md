@@ -1,128 +1,232 @@
 # 🗃 Direct ATS Registry — Ops / Support / Care Roles
-*Last updated: 2026-09-16 17:19 UTC*
+*Last updated: 2026-09-17 17:17 UTC*
 
-**31 new role(s)** since last run · 331 total in current registry shard
+**57 new role(s)** since last run · 334 total in current registry shard
 
-### [Autonomous Operations Specialist, Equipment Operator](https://job-boards.greenhouse.io/cssmerge/jobs/8604754002) — Atoms
+### [Channel Account Manager, Central](https://job-boards.greenhouse.io/censys/jobs/8756673002) — Censys
+- 📍 **Location:** Remote - Central United States (Chicago, Dallas)
+- 🕒 **Posted:** 2026-09-03
+
+### [Channel Account Manager, East](https://job-boards.greenhouse.io/censys/jobs/8756637002) — Censys
+- 📍 **Location:** Remote, East Coast United States (NYC, DMV)
+- 🕒 **Posted:** 2026-09-03
+
+### [Project Manager, Marketing](https://job-boards.greenhouse.io/chanzuckerberginitiative/jobs/8144907) — Chan Zuckerberg Initiative
+- 📍 **Location:** Redwood City, CA (Hybrid)
+- 🕒 **Posted:** 2026-09-09
+
+### [Customer Support Coordinator](https://job-boards.greenhouse.io/charterup/jobs/5408036008) — CharterUP
+- 📍 **Location:** Remote, US
+- 🕒 **Posted:** 2026-09-03
+
+### [Operations Coordinator](https://job-boards.greenhouse.io/charterup/jobs/5412715008) — CharterUP
+- 📍 **Location:** Remote, US
+- 🕒 **Posted:** 2026-09-03
+
+### [Processor Implementation Manager](https://boards.greenhouse.io/chime/jobs/8584568002?gh_jid=8584568002) — Chime
+- 📍 **Location:** New York, NY, USA; San Francisco, CA, USA
+- 🕒 **Posted:** 2026-09-09
+
+### [Program Manager, Member Experience](https://boards.greenhouse.io/chime/jobs/8728271002?gh_jid=8728271002) — Chime
+- 📍 **Location:** Remote, USA
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior Business Analyst, TPRM](https://boards.greenhouse.io/chime/jobs/8742766002?gh_jid=8742766002) — Chime
+- 📍 **Location:** San Francisco, CA, USA
+- 🕒 **Posted:** 2026-09-10
+
+### [Senior Program Manager, AI Enablement](https://boards.greenhouse.io/chime/jobs/8697509002?gh_jid=8697509002) — Chime
+- 📍 **Location:** Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior Program Manager, EPMO](https://boards.greenhouse.io/chime/jobs/8734106002?gh_jid=8734106002) — Chime
+- 📍 **Location:** San Francisco, CA, USA
+- 🕒 **Posted:** 2026-09-09
+
+### [Sr. Product Marketing Manager, Trust & Safety](https://boards.greenhouse.io/chime/jobs/8694719002?gh_jid=8694719002) — Chime
+- 📍 **Location:** San Francisco, CA, USA
+- 🕒 **Posted:** 2026-09-09
+
+### [Sr. Program Manager, Member Experience](https://boards.greenhouse.io/chime/jobs/8790458002?gh_jid=8790458002) — Chime
+- 📍 **Location:** Remote, USA
+- 🕒 **Posted:** 2026-09-09
+
+### [Program Manager - AVEVA PI System](https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5418186008) — Data Systems Analysts
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-09-08
+
+### [Operations Specialist - Front Desk](https://job-boards.greenhouse.io/doordashusa/jobs/8209176) — DoorDash
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-15
+- 🕒 **Posted:** 2026-09-17
 
-### [Associate Manager,  DashMart - Supply Chain Profitability Strategy & Operations](https://job-boards.greenhouse.io/doordashusa/jobs/8205350) — DoorDash
-- 📍 **Location:** New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Washington D.C; Chicago, IL; Tempe, AZ
-- 🕒 **Posted:** 2026-09-16
-
-### [Associate Manager, Merchant Onboarding and Experience on the DoorDash for Business](https://job-boards.greenhouse.io/doordashusa/jobs/8207905) — DoorDash
-- 📍 **Location:** San Francisco, CA; New York City, NY
-- 🕒 **Posted:** 2026-09-16
-
-### [ Implementation Manager ](https://job-boards.greenhouse.io/fourkites/jobs/7982637) — FourKites
-- 📍 **Location:** Chicago, IL or Remote, USA
-- 🕒 **Posted:** 2026-09-16
-
-### [Project Manager (Northeast)](https://boards.greenhouse.io/guidepointsecurity/jobs/6193385004?gh_jid=6193385004) — GuidePoint Security
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-09-15
-
-### [Sales Operations Lead (Northeast)](https://boards.greenhouse.io/guidepointsecurity/jobs/6191945004?gh_jid=6191945004) — GuidePoint Security
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-09-15
-
-### [Assistant Project Manager-Real Estate Development ](https://job-boards.greenhouse.io/habitatforhumanitygreatersanfranciscoinc/jobs/4700297006) — habitatforhumanitygreatersanfranciscoinc
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-08-25
-
-### [Learning & Development Specialist – Go To Market](https://job-boards.greenhouse.io/harborglobal/jobs/5239325007) — Harbor
-- 📍 **Location:** Remote, Canada; Remote, United States
-- 🕒 **Posted:** 2026-09-15
-
-### [Associate, Client Onboarding Specialist](https://job-boards.greenhouse.io/ieqcapital/jobs/7786295003) — IEQ Capital
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-06-25
-
-### [Manager, Revenue Operations (Customer Management) (Remote)](https://job-boards.greenhouse.io/knowbe4/jobs/8750803002) — KnowBe4
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-08-27
-
-### [Snr. Onboarding Consultant (Remote)](https://job-boards.greenhouse.io/knowbe4/jobs/8800492002) — KnowBe4
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-09-11
-
-### [Account Manager](https://job-boards.greenhouse.io/mitratech/jobs/8185798) — Mitratech
-- 📍 **Location:** Remote US
-- 🕒 **Posted:** 2026-09-15
-
-### [Support Operations Specialist II](https://job-boards.greenhouse.io/oneimaging/jobs/4388442009) — OneImaging
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-08-31
-
-### [Senior Renewals Account Manager](https://job-boards.greenhouse.io/pingidentity/jobs/8783968002) — Ping Identity
-- 📍 **Location:** USA - Denver, CO - Remote
-- 🕒 **Posted:** 2026-09-15
-
-### [Project Manager, Healthcare and Pharmaceutical Advertising](https://job-boards.greenhouse.io/precisionaq/jobs/6194744004) — Precision AQ
+### [Associate Revenue Operations Analyst, Policy & Rules of Engagement](https://job-boards.greenhouse.io/gitlab/jobs/8808115002) — GitLab
 - 📍 **Location:** Remote, United States
 - 🕒 **Posted:** 2026-09-16
 
-### [Customer Experience Category Specialist](https://job-boards.greenhouse.io/quince/jobs/5416800008) — Quince
-- 📍 **Location:** United States, Remote
+### [GTM Enablement Manager](https://job-boards.greenhouse.io/gleanwork/jobs/4696203005) — Glean
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-24
+
+### [GTM Enablement Manager](https://job-boards.greenhouse.io/gleanwork/jobs/4718547005) — Glean
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-24
+
+### [ Demand Generation Program Manager | United States | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6115634004) — Grafana Labs
+- 📍 **Location:** United States (Remote)
+- 🕒 **Posted:** 2026-08-28
+
+### [Senior Sales Operations Specialist (North Central)](https://boards.greenhouse.io/guidepointsecurity/jobs/6179702004?gh_jid=6179702004) — GuidePoint Security
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-09-16
+
+### [Project Manager](https://job-boards.greenhouse.io/i360technologiesinc/jobs/4392269009) — i360technologiesinc
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-09-02
+
+### [Field Operations Lead](https://job-boards.greenhouse.io/koboldmetals/jobs/4735150005) — KoBold Metals
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-09-17
+
+### [Localization Program Manager, CreatorGlobal](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/5812833004) — MrBeast
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-09-01
+
+### [Senior People Partner, Technology](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/5857050004) — MrBeast
+- 📍 **Location:** New York City or San Francisco
+- 🕒 **Posted:** 2026-09-01
+
+### [Regional Customer Support Specialist](https://job-boards.greenhouse.io/natera/jobs/5856267004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-09-17
+
+### [People Operations Associate ](https://job-boards.greenhouse.io/oklo/jobs/6192531004) — Oklo
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-09-16
+
+### [Customer Success Enablement Manager](https://job-boards.greenhouse.io/oneimaging/jobs/4399153009) — OneImaging
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-09-16
+
+### [Account Manager - Boston](https://job-boards.greenhouse.io/pagerduty/jobs/6186857004) — PagerDuty
+- 📍 **Location:** Remote (USA - Boston, MA)
+- 🕒 **Posted:** 2026-09-16
+
+### [Revenue Operations Manager](https://job-boards.greenhouse.io/planetlabs/jobs/8197384) — Planet
+- 📍 **Location:** San Francisco, CA; Arlington, VA
+- 🕒 **Posted:** 2026-09-16
+
+### [Senior Customer Onboarding Manager](https://job-boards.greenhouse.io/postscript/jobs/8646237002) — Postscript
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-09-16
+
+### [Senior Customer Success Manager ](https://job-boards.greenhouse.io/postscript/jobs/8531822002) — Postscript
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-08-18
+
+### [21GRAMS- Senior Project Manager](https://job-boards.greenhouse.io/realchemistry/jobs/5410629008) — Real Chemistry
+- 📍 **Location:** Boston - Massachusetts; Carmel - Indiana; Chicago - Illinois; Lambertville - New Jersey; Remote - USA; United States
+- 🕒 **Posted:** 2026-09-09
+
+### [Account Manager, Med Affairs](https://job-boards.greenhouse.io/realchemistry/jobs/5411045008) — Real Chemistry
+- 📍 **Location:** Remote - USA
 - 🕒 **Posted:** 2026-09-11
 
-### [Commercial Customer Success Manager - SF](https://job-boards.greenhouse.io/sigmacomputing/jobs/7819122003) — Sigma Computing
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-21
+### [Account Manager, Promotional Medical Education](https://job-boards.greenhouse.io/realchemistry/jobs/5363073008) — Real Chemistry
+- 📍 **Location:** Remote - USA
+- 🕒 **Posted:** 2026-09-08
 
-### [Enterprise Customer Success Manager - Central](https://job-boards.greenhouse.io/sigmacomputing/jobs/7906143003) — Sigma Computing
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-08-26
+### [Account Manager, Scientific Visualization and Experiential Engagement (RadScience)](https://job-boards.greenhouse.io/realchemistry/jobs/5364289008) — Real Chemistry
+- 📍 **Location:** Remote - USA
+- 🕒 **Posted:** 2026-08-27
 
-### [Strategy and Operations Lead, SE](https://job-boards.greenhouse.io/sigmacomputing/jobs/7782389003) — Sigma Computing
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-11
+### [Senior Account Manager (Healthcare Communications)](https://job-boards.greenhouse.io/realchemistry/jobs/4993545008) — Real Chemistry
+- 📍 **Location:** Boston - Massachusetts; Carmel - Indiana; Chicago - Illinois; Lambertville - New Jersey; San Francisco - California; United States; Water Street - New York
+- 🕒 **Posted:** 2026-04-17
 
-### [Client Services Manager - Growth](https://job-boards.greenhouse.io/tatari/jobs/8501136002) — Tatari
-- 📍 **Location:** San Francisco, California, United States
-- 🕒 **Posted:** 2026-07-08
+### [Senior Account Manager, Med Affairs](https://job-boards.greenhouse.io/realchemistry/jobs/5387956008) — Real Chemistry
+- 📍 **Location:** Remote - USA
+- 🕒 **Posted:** 2026-09-02
 
-### [Seasonal Customer Experience Associate](https://job-boards.greenhouse.io/tecovas/jobs/8795563002) — Tecovas
+### [Senior Account Manager, Promotional Medical Education](https://job-boards.greenhouse.io/realchemistry/jobs/5408538008) — Real Chemistry
+- 📍 **Location:** Remote - USA
+- 🕒 **Posted:** 2026-09-16
+
+### [GTM Senior Program Manager](https://job-boards.greenhouse.io/scoutai/jobs/5371560008) — Scout AI
+- 📍 **Location:** Sunnyvale, California, United States
+- 🕒 **Posted:** 2026-08-18
+
+### [Senior Program Manager](https://job-boards.greenhouse.io/scoutai/jobs/5152543008) — Scout AI
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-17
+
+### [Marketing Platform Operations Manager](https://job-boards.greenhouse.io/smartsheet/jobs/8142799) — Smartsheet
+- 📍 **Location:** -REMOTE, USA-
+- 🕒 **Posted:** 2026-09-14
+
+### [Partner Enablement Manager (Remote Eligible - Costa Rica)](https://job-boards.greenhouse.io/smartsheet/jobs/8141752) — Smartsheet
+- 📍 **Location:** San Jose, CR
+- 🕒 **Posted:** 2026-09-14
+
+### [Client Services Liaison](https://job-boards.greenhouse.io/srsacquiom/jobs/5089722007) — SRS Acquiom
 - 📍 **Location:** Remote - United States
 - 🕒 **Posted:** 2026-09-10
 
-### [Implementation Specialist](https://job-boards.greenhouse.io/yesenergy/jobs/5345321008) — Yes Energy
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-07-13
+### [Onboarding Associate](https://job-boards.greenhouse.io/srsacquiom/jobs/5179958007) — SRS Acquiom
+- 📍 **Location:** Remote - United States
+- 🕒 **Posted:** 2026-09-10
 
-### [Customer Success Manager](https://jobs.lever.co/bluesight/dfef434a-3b5a-413c-9820-f4756fe14364) — Bluesight
-- 📍 **Location:** United States - Remote
-- 🕒 **Posted:** 2026-09-16
+### [Financial Operations Specialist](https://job-boards.greenhouse.io/tenstorrent/jobs/5227909007) — Tenstorrent
+- 📍 **Location:** Santa Clara, California, United States
+- 🕒 **Posted:** 2026-09-04
 
-### [Clinical Sales Account Manager](https://jobs.lever.co/h1/6737786d-fb1f-43a0-8a52-dc0cdb5d6354) — H1
-- 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-09-16
+### [Project Manager, ERP Implementation - Contractor](https://job-boards.greenhouse.io/tenstorrent/jobs/5208653007) — Tenstorrent
+- 📍 **Location:** Austin, Texas, United States; Santa Clara, California, United States
+- 🕒 **Posted:** 2026-09-02
 
-### [Program Manager, Product Development (Remote - US)](https://jobs.lever.co/nextech/1b471e61-a5bf-4d67-83bc-6368f8d516c7) — Nextech Systems
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-09-16
+### [Executive Marketing Program Lead](https://job-boards.greenhouse.io/vercel/jobs/6119765004) — Vercel
+- 📍 **Location:** Hybrid - San Francisco
+- 🕒 **Posted:** 2026-09-02
 
-### [Customer Success Manager, EPM  - San Francisco, Austin, or New York](https://jobs.lever.co/pigment/f5471302-f110-4940-a509-f18ece1bdd3d) — Pigment
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-05-13
+### [Marketing Operations Manager](https://job-boards.greenhouse.io/vercel/jobs/6144467004) — Vercel
+- 📍 **Location:** Hybrid - San Francisco, Austin
+- 🕒 **Posted:** 2026-08-18
 
-### [Technical Account Manager, Success Advisory - San Francisco](https://jobs.lever.co/pigment/c52b57cb-aec0-44c9-ad32-eee814affcb0) — Pigment
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-07-14
+### [Product Strategy & Operations](https://job-boards.greenhouse.io/vercel/jobs/6011651004) — Vercel
+- 📍 **Location:** Hybrid - San Francisco
+- 🕒 **Posted:** 2026-08-18
 
-### [Sr. Payer Customer Success Manager](https://jobs.lever.co/pointclickcare/121dc43a-3cce-4786-8daa-75dcc3126b9d) — PointClickCare
-- 📍 **Location:** Remote, USA
+### [Senior Technical Account Manager](https://job-boards.greenhouse.io/vercel/jobs/6112845004) — Vercel
+- 📍 **Location:** Hybrid - San Francisco, New York City, Austin
+- 🕒 **Posted:** 2026-08-21
+
+### [Startups Program Lead ](https://job-boards.greenhouse.io/vercel/jobs/5971203004) — Vercel
+- 📍 **Location:** Hybrid - San Francisco, New York City
+- 🕒 **Posted:** 2026-08-18
+
+### [Aviation Planning Project Manager](https://job-boards.greenhouse.io/woolpert/jobs/4370812009) — Woolpert
+- 📍 **Location:** Remote - United States
+- 🕒 **Posted:** 2026-08-26
+
+### [Geospatial Project Manager](https://job-boards.greenhouse.io/woolpert/jobs/4370830009) — Woolpert
+- 📍 **Location:** Remote - United States
 - 🕒 **Posted:** 2026-09-14
 
-### [Sr. Provider Customer Success Manager - Payer, Provider & Convener](https://jobs.lever.co/pointclickcare/5143e4c8-5d52-4707-8eb6-5f13d81898ce) — PointClickCare
-- 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-07-16
+### [Senior Project Manager, Business Transformation](https://job-boards.greenhouse.io/woolpert/jobs/4395938009) — Woolpert
+- 📍 **Location:** Remote - United States
+- 🕒 **Posted:** 2026-09-15
 
-### [US -Manager, Customer Support (Senior Care)](https://jobs.lever.co/pointclickcare/d5324867-071b-4502-bc77-88b4aeb64c7c) — PointClickCare
-- 📍 **Location:** Remote - US
-- 🕒 **Posted:** 2026-08-07
+### [Site/Civil Project Manager - Energy Group ](https://job-boards.greenhouse.io/woolpert/jobs/4087804009) — Woolpert
+- 📍 **Location:** Atlanta, GA; Charlotte, NC; Chicago, IL; Cincinnati, OH; Columbus, OH; Dallas, TX; Greenville, SC; Harrisburg, PA; Houston, TX; Kansas City, MO; Miami, FL; North Charleston, SC; Pittsburgh, PA; Remote - United States; Richmond, VA; Tampa, FL; Virginia Beach, VA
+- 🕒 **Posted:** 2026-08-26
 
-### [US- Escalation Manager (Customer Support)](https://jobs.lever.co/pointclickcare/d3c03840-66fc-4749-ac4f-ec77c8a82ac4) — PointClickCare
-- 📍 **Location:** Remote - US
-- 🕒 **Posted:** 2026-07-30
+### [Procurement Operations Analyst](https://job-boards.greenhouse.io/zscaler/jobs/5193014007) — Zscaler
+- 📍 **Location:** San Jose, California, USA
+- 🕒 **Posted:** 2026-09-17
+
+### [Sr. Supply Chain Operations Manager](https://job-boards.greenhouse.io/zscaler/jobs/5192641007) — Zscaler
+- 📍 **Location:** San Jose, California, USA
+- 🕒 **Posted:** 2026-09-17
+
+### [Product Operations Manager](https://jobs.lever.co/arable/3b417430-b854-4995-a4d5-63ec0d1ee6b3) — Arable
+- 📍 **Location:** San Francisco Bay area
+- 🕒 **Posted:** 2026-02-19
