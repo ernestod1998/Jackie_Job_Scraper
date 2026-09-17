@@ -1,182 +1,116 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-09-17 01:46 UTC*
+*Last updated: 2026-09-17 07:34 UTC*
 
-**42 new role(s)** since last run · 70 total in last 4h
+**27 new role(s)** since last run · 32 total in last 4h
 
-### [Patient Care Navigator](https://www.linkedin.com/jobs/view/4467138242/) — Center for Elders' Independence
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Associate Project Manager](https://www.linkedin.com/jobs/view/4466236816/) — Super Micro Computer Spain, S.L.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Project Coordinator - Modular - Data Center](https://www.linkedin.com/jobs/view/4468330002/) — Cupertino Electric, Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Creative Project Manager - Integrated Campaigns and Digital (Remote PST)](https://www.linkedin.com/jobs/view/4467121960/) — Cella
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Territory Account Manager - North Bay](https://www.linkedin.com/jobs/view/4467144030/) — Heartflow
-- 📍 **Location:** San Rafael, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Project Manager – Healthcare Telecom ( UCAAS/CCAAS)](https://www.linkedin.com/jobs/view/4467138142/) — Triune Infomatics Inc
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-16
-
-### [Hospital Operations Manager](https://www.linkedin.com/jobs/view/4466231937/) — GoodVets
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $67,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-09-16
-
-### [Sales Operations Manager](https://www.linkedin.com/jobs/view/4467115853/) — RingCentral
-- 📍 **Location:** Belmont, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Senior RMA Customer Experience Manager](https://www.linkedin.com/jobs/view/4467131529/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Senior Project Manager](https://www.linkedin.com/jobs/view/4468312643/) — ArchKey Solutions
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Senior Project Manager](https://www.linkedin.com/jobs/view/4468327515/) — ArchKey Solutions
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Senior Project Manager](https://www.linkedin.com/jobs/view/4467133554/) — HDR
-- 📍 **Location:** Walnut Creek, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Multifamily Project Manager](https://www.linkedin.com/jobs/view/4453466659/) — Hays
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $140,000.00/yr - $165,000.00/yr
-- 🕒 **Posted:** 2026-09-16
-
-### [MEP Project Manager - Owners Rep](https://www.linkedin.com/jobs/view/4463938675/) — Hays
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $160,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-09-16
-
-### [Project Manager](https://www.linkedin.com/jobs/view/4446131288/) — S+B James Construction
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $100,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-09-16
-
-### [Project Manager](https://www.linkedin.com/jobs/view/4468333295/) — BRIDGE Housing Corporation
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $104,000.00/yr - $130,000.00/yr
-- 🕒 **Posted:** 2026-09-16
-
-### [Project Manager - Design](https://www.linkedin.com/jobs/view/4465609597/) — Stanford Medicine Children's Health
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [CC&B Business analyst](https://www.linkedin.com/jobs/view/4467134506/) — Enexus Global Inc.
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Learning & Development Specialist - Fraud / Disputes](https://www.linkedin.com/jobs/view/4466238888/) — Mercury
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Assistant Patient Care Manager, Operating Room](https://www.linkedin.com/jobs/view/4468319567/) — Stanford Medicine Children's Health
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [People Operations Generalist](https://www.linkedin.com/jobs/view/4466230840/) — Outset
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Quality Assurance Technician](https://www.linkedin.com/jobs/view/4467130829/) — Semifreddi's Inc
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Quality Assurance Manager - Multifamily Apartments](https://www.linkedin.com/jobs/view/4459586798/) — Hays
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Customer Success Manager, Enterprise Tech](https://www.linkedin.com/jobs/view/4467132947/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Customer Success Manager, Commercial](https://www.linkedin.com/jobs/view/4467144125/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.linkedin.com/jobs/view/4468315689/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.linkedin.com/jobs/view/4468319615/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.linkedin.com/jobs/view/4468306808/) — Amazon Web Services (AWS)
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.linkedin.com/jobs/view/4468314689/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.linkedin.com/jobs/view/4468314686/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [CX Operations Analyst](https://www.linkedin.com/jobs/view/4467127831/) — Flexcar
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Loro Piana, Operations Supervisor, Palo Alto](https://www.linkedin.com/jobs/view/4400459134/) — Loro Piana
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4466823318/) — Roger Healthcare
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Global Service Delivery Lead](https://www.linkedin.com/jobs/view/4467120626/) — EOS IT Solutions
+### [Sr Program Project Coordinator](https://www.linkedin.com/jobs/view/4468368771/) — Stanford Health Care
 - 📍 **Location:** Newark, CA
-- 🕒 **Posted:** 2026-09-16
+- 🕒 **Posted:** 2026-09-17
 
-### [Compliance Operations Manager](https://www.linkedin.com/jobs/view/4468325494/) — Socure
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $212,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-09-16
+### [Infrastructure Project Coordinator IRC304678](https://www.linkedin.com/jobs/view/4468350824/) — GlobalLogic
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-17
 
-### [Project Manager - Airport Terminal Projects](https://www.linkedin.com/jobs/view/4468316504/) — PMA Consultants
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $149,833.00/yr - $212,719.00/yr
-- 🕒 **Posted:** 2026-09-16
+### [Pricing Operations Analyst](https://www.linkedin.com/jobs/view/4467170311/) — Cypress HCM
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-17
 
-### [Project Manager - Airport Planning & Coordination](https://www.linkedin.com/jobs/view/4468306682/) — PMA Consultants
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $149,833.00/yr - $212,719.00/yr
-- 🕒 **Posted:** 2026-09-16
-
-### [Senior Program Manager](https://www.linkedin.com/jobs/view/4468305809/) — GILLIG
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Quality Manager](https://www.linkedin.com/jobs/view/4467124154/) — Intellectt Inc
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Quality Assurance Tech](https://www.linkedin.com/jobs/view/4468321073/) — Kforce Inc
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $35.00/hr - $39.00/hr
-- 🕒 **Posted:** 2026-09-16
-
-### [CC&B Business Analyst](https://www.linkedin.com/jobs/view/4467112737/) — Intelliswift - An LTTS Company
+### [Office Operations Manager](https://www.linkedin.com/jobs/view/4468355934/) — Pacific Placement Group, LLC.
 - 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $120.00/hr - $136.55/hr
-- 🕒 **Posted:** 2026-09-16
+- 💰 **Salary:** $85,000.00/yr - $90,000.00/yr
+- 🕒 **Posted:** 2026-09-17
 
-### [Business Analyst, MDO](https://www.linkedin.com/jobs/view/4466237618/) — Ross Stores, Inc.
+### [People Operations Intern](https://www.linkedin.com/jobs/view/4467180599/) — Etched
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Business Operations Project Manager](https://www.linkedin.com/jobs/view/4467181284/) — ManpowerGroup
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Patient Services Representative (Cantonese)](https://www.linkedin.com/jobs/view/4468360603/) — Asian Health Services
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $31.03/hr - $32.30/hr
+- 🕒 **Posted:** 2026-09-17
+
+### [Operations Leadership Development Program (OLDP) Associate](https://www.linkedin.com/jobs/view/4467767547/) — Waters Corporation
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Clinical Operations Specialist](https://www.linkedin.com/jobs/view/4467298084/) — University of California, San Francisco
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Program Manager](https://www.linkedin.com/jobs/view/4457526749/) — AIDS Healthcare Foundation
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Business Program Manager (II) [AQ-18136]](https://www.linkedin.com/jobs/view/4467177480/) — Aquent
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $82.00/hr - $92.00/hr
+- 🕒 **Posted:** 2026-09-17
+
+### [Client Success & Revenue Operations Manager](https://www.linkedin.com/jobs/view/4468365555/) — GYMGUYZ North Columbus, Ohio
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Front Office Manager](https://www.linkedin.com/jobs/view/4467178154/) — Highgate
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Customer Experience & Quality Manager](https://www.linkedin.com/jobs/view/4467188288/) — ArtHaus Partners
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Program/Project Manager 3](https://www.linkedin.com/jobs/view/4467162564/) — Lam Research
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Program Manager - New Platform Validation Operations](https://www.linkedin.com/jobs/view/4437902980/) — Waymo
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Program Manager - New Platform Validation Operations](https://www.linkedin.com/jobs/view/4437907732/) — Waymo
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Field Enablement Lead, Technical Success](https://www.linkedin.com/jobs/view/4468368328/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Enterprise Sales Enablement Lead](https://www.linkedin.com/jobs/view/4468351807/) — Palo Alto Networks
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Quality Assurance Manager - Trayer](https://www.linkedin.com/jobs/view/4467181251/) — Siemens
+- 📍 **Location:** Livermore, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Patient Services Representative II, Ophthalmology](https://www.linkedin.com/jobs/view/4467164563/) — Sutter Health
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.linkedin.com/jobs/view/4468274123/) — Amazon Web Services (AWS)
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.linkedin.com/jobs/view/4468269164/) — Amazon Web Services (AWS)
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.linkedin.com/jobs/view/4468257383/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4398956719/) — Robert Half
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $25.00/hr - $25.00/hr
+- 🕒 **Posted:** 2026-09-17
+
+### [Patient Services Representative II, Reception Registration - Dublin Center](https://www.linkedin.com/jobs/view/4467185207/) — Sutter Health
 - 📍 **Location:** Dublin, CA
-- 🕒 **Posted:** 2026-09-16
+- 🕒 **Posted:** 2026-09-17
+
+### [ESN Associate Program Leader (APL) - Platform and Infrastructure - ACTIVE SECURITY CLEARANCE REQUIRED](https://www.linkedin.com/jobs/view/4468375037/) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA
+- 🕒 **Posted:** 2026-09-17
