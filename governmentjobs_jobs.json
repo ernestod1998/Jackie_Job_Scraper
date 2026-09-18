@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-17 20:24 UTC",
-  "total": 2,
-  "new_count": 1,
+  "scraped_at": "2026-09-18 19:46 UTC",
+  "total": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "State of South Carolina",
@@ -14,34 +14,9 @@
       "feeds": [
         "general"
       ]
-    },
-    {
-      "company": "City of Berkeley",
-      "title": "Program Manager II",
-      "location": "Berkeley, CA",
-      "url": "https://www.governmentjobs.com/jobs/5467445-0/program-manager-ii",
-      "date_posted": "",
-      "salary": "$152,532.43 - $184,582.11 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "State of South Carolina",
-      "title": "Client Advocate I / Peer Support Specialist - Outpatient Services PART-TIME (Berkeley)",
-      "location": "Berkeley County, SC",
-      "url": "https://www.governmentjobs.com/jobs/5470071-0/client-advocate-i-peer-support-specialist-outpatient-services-part-time-berk",
-      "date_posted": "",
-      "salary": "$18,972.00 - $24,633.00 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
