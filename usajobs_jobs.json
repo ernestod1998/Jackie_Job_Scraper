@@ -1,15 +1,65 @@
 {
-  "scraped_at": "2026-09-18 17:51 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": [],
+  "scraped_at": "2026-09-19 17:25 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "Department of Education Headquarters",
+      "title": "IT Program Manager (Service Designer), GS-2210-15, FPL GS-15 (DH)",
+      "location": "San Francisco, California",
+      "url": "https://www.usajobs.gov/job/885415900",
+      "date_posted": "2026-09-18",
+      "salary": "Starting at $147,945 Per year (GS 15)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Department of Education Headquarters",
+      "title": "IT Program Manager (Service Designer), GS-2210-15, FPL GS-15 (DH) (TERM)",
+      "location": "San Francisco, California",
+      "url": "https://www.usajobs.gov/job/885416700",
+      "date_posted": "2026-09-18",
+      "salary": "Starting at $147,945 Per year (GS 15)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Department of Education Headquarters",
+      "title": "IT Program Manager (Service Designer), GS-2210-15, FPL GS-15 (DH)",
+      "location": "San Francisco, California",
+      "url": "https://www.usajobs.gov/job/885415900",
+      "date_posted": "2026-09-18",
+      "salary": "Starting at $147,945 Per year (GS 15)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Department of Education Headquarters",
+      "title": "IT Program Manager (Service Designer), GS-2210-15, FPL GS-15 (DH) (TERM)",
+      "location": "San Francisco, California",
+      "url": "https://www.usajobs.gov/job/885416700",
+      "date_posted": "2026-09-18",
+      "salary": "Starting at $147,945 Per year (GS 15)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 22,
+    "location": 19,
     "stale": 0
   }
 }
