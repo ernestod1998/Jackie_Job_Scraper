@@ -1,13 +1,13 @@
 {
-  "scraped_at": "2026-09-20 07:42 UTC",
-  "total": 3,
-  "new_count": 3,
+  "scraped_at": "2026-09-20 18:43 UTC",
+  "total": 22,
+  "new_count": 22,
   "jobs": [
     {
-      "company": "OPM Biosciences",
-      "title": "Quality Assurance  Manager",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468440692/",
+      "company": "Health Plan of San Mateo (HPSM)",
+      "title": "Pediatric Community Health Worker",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441371206/",
       "date_posted": "2026-09-20",
       "ats": "LinkedIn",
       "feeds": [
@@ -15,10 +15,10 @@
       ]
     },
     {
-      "company": "Vetted Solutions",
-      "title": "Care Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469587289/",
+      "company": "Biotech Startup",
+      "title": "Senior Project Manager \u2013 Life Sciences / Medical Product Development",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467349129/",
       "date_posted": "2026-09-20",
       "ats": "LinkedIn",
       "feeds": [
@@ -26,10 +26,221 @@
       ]
     },
     {
-      "company": "TikTok",
-      "title": "TikTok Shop - Customer Experience Business Analytics Analyst",
+      "company": "Jobright.ai",
+      "title": "Product Operations Manager (AI Recruiting Agent)",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468466492/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Product Operations Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468483153/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cadence",
+      "title": "Senior Data Operations Manager",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468432631/",
+      "url": "https://www.linkedin.com/jobs/view/4414492735/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Architectural Project Manager - Pleasanton hybrid remote - DSA",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4439621453/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "salary": "$125,000.00/yr - $160,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Swinerton",
+      "title": "Project Manager - Design Build",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414720887/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "ArchKey Solutions",
+      "title": "Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469826043/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "ArchKey Solutions",
+      "title": "Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469821148/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Harvey",
+      "title": "Senior Program Manager, Web",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451007288/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Crusoe",
+      "title": "Customer Success Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4374147851/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Noah Medical",
+      "title": "Quality Assurance Specialist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441671625/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lyft",
+      "title": "Legal Operations Program Manager, Integrations",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450741430/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mixpanel",
+      "title": "Startup Program Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450511498/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Strategy & Operations, Applied AI - AMER",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450381049/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hightouch",
+      "title": "Technical Account Manager, Mid-Market",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424926142/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Thermo Fisher Scientific",
+      "title": "Sr. Key Account Manager, Electron Microscopy\u00a0- Pharma",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458841219/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Account Manager, Global AI Factory Technical Sales and Strategy",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450392681/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Replit",
+      "title": "Enterprise Account Manager",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424640566/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $260,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Global Account Manager \u2013 AI and Accelerated Computing Solutions",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441358909/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Marvell Technology",
+      "title": "Senior Sales Account Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4430645187/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Hardware Product Quality Manager, PQM",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459714106/",
       "date_posted": "2026-09-20",
       "ats": "LinkedIn",
       "feeds": [
@@ -39,10 +250,10 @@
   ],
   "new_jobs": [
     {
-      "company": "OPM Biosciences",
-      "title": "Quality Assurance  Manager",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468440692/",
+      "company": "Health Plan of San Mateo (HPSM)",
+      "title": "Pediatric Community Health Worker",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441371206/",
       "date_posted": "2026-09-20",
       "ats": "LinkedIn",
       "feeds": [
@@ -50,10 +261,10 @@
       ]
     },
     {
-      "company": "Vetted Solutions",
-      "title": "Care Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469587289/",
+      "company": "Biotech Startup",
+      "title": "Senior Project Manager \u2013 Life Sciences / Medical Product Development",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467349129/",
       "date_posted": "2026-09-20",
       "ats": "LinkedIn",
       "feeds": [
@@ -61,10 +272,221 @@
       ]
     },
     {
-      "company": "TikTok",
-      "title": "TikTok Shop - Customer Experience Business Analytics Analyst",
+      "company": "Jobright.ai",
+      "title": "Product Operations Manager (AI Recruiting Agent)",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468466492/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Product Operations Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468483153/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cadence",
+      "title": "Senior Data Operations Manager",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468432631/",
+      "url": "https://www.linkedin.com/jobs/view/4414492735/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Architectural Project Manager - Pleasanton hybrid remote - DSA",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4439621453/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "salary": "$125,000.00/yr - $160,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Swinerton",
+      "title": "Project Manager - Design Build",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414720887/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "ArchKey Solutions",
+      "title": "Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469826043/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "ArchKey Solutions",
+      "title": "Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469821148/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Harvey",
+      "title": "Senior Program Manager, Web",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451007288/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Crusoe",
+      "title": "Customer Success Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4374147851/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Noah Medical",
+      "title": "Quality Assurance Specialist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441671625/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lyft",
+      "title": "Legal Operations Program Manager, Integrations",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450741430/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mixpanel",
+      "title": "Startup Program Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450511498/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Strategy & Operations, Applied AI - AMER",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450381049/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hightouch",
+      "title": "Technical Account Manager, Mid-Market",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424926142/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Thermo Fisher Scientific",
+      "title": "Sr. Key Account Manager, Electron Microscopy\u00a0- Pharma",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458841219/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Account Manager, Global AI Factory Technical Sales and Strategy",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450392681/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Replit",
+      "title": "Enterprise Account Manager",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424640566/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $260,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Global Account Manager \u2013 AI and Accelerated Computing Solutions",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441358909/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Marvell Technology",
+      "title": "Senior Sales Account Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4430645187/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Hardware Product Quality Manager, PQM",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459714106/",
       "date_posted": "2026-09-20",
       "ats": "LinkedIn",
       "feeds": [
@@ -77,7 +499,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 1,
+    "location": 0,
     "stale": 0
   }
 }
