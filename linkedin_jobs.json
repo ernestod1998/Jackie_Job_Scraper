@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-20 00:59 UTC",
+  "scraped_at": "2026-09-20 01:43 UTC",
   "total": 8,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Nextracker Inc.",
@@ -92,30 +92,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Nextracker Inc.",
-      "title": "Sales Operations Analyst",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468411705/",
-      "date_posted": "2026-09-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Slalom",
-      "title": "AI Enablement Change Manager (West)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4431420104/",
-      "date_posted": "2026-09-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
