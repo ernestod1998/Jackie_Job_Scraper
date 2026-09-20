@@ -1,104 +1,83 @@
 {
-  "scraped_at": "2026-09-20 01:43 UTC",
-  "total": 8,
-  "new_count": 0,
+  "scraped_at": "2026-09-20 07:42 UTC",
+  "total": 3,
+  "new_count": 3,
   "jobs": [
     {
-      "company": "Nextracker Inc.",
-      "title": "Sales Operations Analyst",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468411705/",
-      "date_posted": "2026-09-19",
+      "company": "OPM Biosciences",
+      "title": "Quality Assurance  Manager",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468440692/",
+      "date_posted": "2026-09-20",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Slalom",
-      "title": "AI Enablement Change Manager (West)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4431420104/",
-      "date_posted": "2026-09-19",
+      "company": "Vetted Solutions",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469587289/",
+      "date_posted": "2026-09-20",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "EcoCosm, Inc.",
-      "title": "Project Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4468093850/",
-      "date_posted": "2026-09-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Gusto",
-      "title": "Enablement Manager, Partners",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4469558306/",
-      "date_posted": "2026-09-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Product Operations Manager (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468411494/",
-      "date_posted": "2026-09-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Product Operations Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468405618/",
-      "date_posted": "2026-09-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Discord",
-      "title": "Senior Staff Program Manager, Creator Partnerships",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4468400718/",
-      "date_posted": "2026-09-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Gusto",
-      "title": "Health Insurance Sales Operations Analyst",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4469553868/",
-      "date_posted": "2026-09-19",
+      "company": "TikTok",
+      "title": "TikTok Shop - Customer Experience Business Analytics Analyst",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468432631/",
+      "date_posted": "2026-09-20",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "OPM Biosciences",
+      "title": "Quality Assurance  Manager",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468440692/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Vetted Solutions",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469587289/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TikTok",
+      "title": "TikTok Shop - Customer Experience Business Analytics Analyst",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468432631/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 0,
+    "location": 1,
     "stale": 0
   }
 }
