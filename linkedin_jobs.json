@@ -1,13 +1,24 @@
 {
-  "scraped_at": "2026-09-19 23:38 UTC",
+  "scraped_at": "2026-09-20 00:59 UTC",
   "total": 8,
-  "new_count": 4,
+  "new_count": 2,
   "jobs": [
     {
-      "company": "Couch & Associates, Inc.",
-      "title": "Office Manager",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468400659/",
+      "company": "Nextracker Inc.",
+      "title": "Sales Operations Analyst",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468411705/",
+      "date_posted": "2026-09-19",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Slalom",
+      "title": "AI Enablement Change Manager (West)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4431420104/",
       "date_posted": "2026-09-19",
       "ats": "LinkedIn",
       "feeds": [
@@ -30,17 +41,6 @@
       "title": "Enablement Manager, Partners",
       "location": "San Francisco Bay Area",
       "url": "https://www.linkedin.com/jobs/view/4469558306/",
-      "date_posted": "2026-09-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Waters Corporation",
-      "title": "Operations Leadership Development Program (OLDP) Associate",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467771505/",
       "date_posted": "2026-09-19",
       "ats": "LinkedIn",
       "feeds": [
@@ -94,10 +94,10 @@
   ],
   "new_jobs": [
     {
-      "company": "EcoCosm, Inc.",
-      "title": "Project Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4468093850/",
+      "company": "Nextracker Inc.",
+      "title": "Sales Operations Analyst",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468411705/",
       "date_posted": "2026-09-19",
       "ats": "LinkedIn",
       "feeds": [
@@ -105,32 +105,10 @@
       ]
     },
     {
-      "company": "Jobright.ai",
-      "title": "Product Operations Manager (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468411494/",
-      "date_posted": "2026-09-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Product Operations Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468405618/",
-      "date_posted": "2026-09-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Discord",
-      "title": "Senior Staff Program Manager, Creator Partnerships",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4468400718/",
+      "company": "Slalom",
+      "title": "AI Enablement Change Manager (West)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4431420104/",
       "date_posted": "2026-09-19",
       "ats": "LinkedIn",
       "feeds": [
