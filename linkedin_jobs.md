@@ -1,12 +1,20 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-09-20 19:05 UTC*
+*Last updated: 2026-09-20 21:28 UTC*
 
-**2 new role(s)** since last run · 24 total in last 4h
+**4 new role(s)** since last run · 16 total in last 4h
 
-### [Associate, Client Onboarding Specialist](https://www.linkedin.com/jobs/view/4430267736/) — IEQ Capital
-- 📍 **Location:** Foster City, CA
+### [Office Manager](https://www.linkedin.com/jobs/view/4468478450/) — Palo Alto Plumbing Heating and Air
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-20
 
-### [Project Manager](https://www.linkedin.com/jobs/view/4466795208/) — System One
-- 📍 **Location:** San Ramon, CA
+### [Office Manager](https://www.linkedin.com/jobs/view/4469807679/) — Ambient.ai
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-20
+
+### [Senior Project Manager](https://www.linkedin.com/jobs/view/4469815680/) — SSOE Group
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-20
+
+### [Strategic Account Manager](https://www.linkedin.com/jobs/view/4469807696/) — PayRange
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-20
