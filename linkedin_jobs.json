@@ -1,8 +1,19 @@
 {
-  "scraped_at": "2026-09-20 21:28 UTC",
-  "total": 16,
-  "new_count": 4,
+  "scraped_at": "2026-09-21 01:01 UTC",
+  "total": 7,
+  "new_count": 5,
   "jobs": [
+    {
+      "company": "Compass",
+      "title": "Real Estate Team Operations Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4468469892/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "Palo Alto Plumbing Heating and Air",
       "title": "Office Manager",
@@ -15,10 +26,10 @@
       ]
     },
     {
-      "company": "Ambient.ai",
-      "title": "Office Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4469807679/",
+      "company": "Jobright.ai",
+      "title": "Product Operations Manager (AI Recruiting Agent)",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468470731/",
       "date_posted": "2026-09-20",
       "ats": "LinkedIn",
       "feeds": [
@@ -26,12 +37,13 @@
       ]
     },
     {
-      "company": "Biotech Startup",
-      "title": "Senior Project Manager \u2013 Life Sciences / Medical Product Development",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467349129/",
+      "company": "Allied Universal",
+      "title": "Account Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469833067/",
       "date_posted": "2026-09-20",
       "ats": "LinkedIn",
+      "salary": "$95,000.00/yr - $97,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -40,7 +52,7 @@
       "company": "Jobright.ai",
       "title": "AI Product Operations Manager",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468483153/",
+      "url": "https://www.linkedin.com/jobs/view/4468487386/",
       "date_posted": "2026-09-20",
       "ats": "LinkedIn",
       "feeds": [
@@ -48,34 +60,13 @@
       ]
     },
     {
-      "company": "Cadence",
-      "title": "Senior Data Operations Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414492735/",
+      "company": "Talently",
+      "title": "Electrical Project Manager",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455955490/",
       "date_posted": "2026-09-20",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Swinerton",
-      "title": "Project Manager - Design Build",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414720887/",
-      "date_posted": "2026-09-20",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "System One",
-      "title": "Project Manager",
-      "location": "San Ramon, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466795208/",
-      "date_posted": "2026-09-20",
-      "ats": "LinkedIn",
+      "salary": "$125,000.00/yr - $175,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -85,94 +76,6 @@
       "title": "Senior Project Manager",
       "location": "Santa Clara, CA",
       "url": "https://www.linkedin.com/jobs/view/4469815680/",
-      "date_posted": "2026-09-20",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ArchKey Solutions",
-      "title": "Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469826043/",
-      "date_posted": "2026-09-20",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lyft",
-      "title": "Legal Operations Program Manager, Integrations",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450741430/",
-      "date_posted": "2026-09-20",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ArchKey Solutions",
-      "title": "Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469821148/",
-      "date_posted": "2026-09-20",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Hardware Product Quality Manager, PQM",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459714106/",
-      "date_posted": "2026-09-20",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PayRange",
-      "title": "Strategic Account Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469807696/",
-      "date_posted": "2026-09-20",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Manager, Global AI Factory Technical Sales and Strategy",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450392681/",
-      "date_posted": "2026-09-20",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Global Account Manager \u2013 AI and Accelerated Computing Solutions",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4441358909/",
-      "date_posted": "2026-09-20",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Marvell Technology",
-      "title": "Senior Sales Account Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4430645187/",
       "date_posted": "2026-09-20",
       "ats": "LinkedIn",
       "feeds": [
@@ -182,21 +85,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Palo Alto Plumbing Heating and Air",
-      "title": "Office Manager",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468478450/",
-      "date_posted": "2026-09-20",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ambient.ai",
-      "title": "Office Manager",
+      "company": "Compass",
+      "title": "Real Estate Team Operations Manager",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4469807679/",
+      "url": "https://www.linkedin.com/jobs/view/4468469892/",
       "date_posted": "2026-09-20",
       "ats": "LinkedIn",
       "feeds": [
@@ -204,10 +96,10 @@
       ]
     },
     {
-      "company": "SSOE Group",
-      "title": "Senior Project Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469815680/",
+      "company": "Jobright.ai",
+      "title": "Product Operations Manager (AI Recruiting Agent)",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468470731/",
       "date_posted": "2026-09-20",
       "ats": "LinkedIn",
       "feeds": [
@@ -215,12 +107,36 @@
       ]
     },
     {
-      "company": "PayRange",
-      "title": "Strategic Account Manager",
+      "company": "Allied Universal",
+      "title": "Account Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469807696/",
+      "url": "https://www.linkedin.com/jobs/view/4469833067/",
       "date_posted": "2026-09-20",
       "ats": "LinkedIn",
+      "salary": "$95,000.00/yr - $97,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Product Operations Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468487386/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Talently",
+      "title": "Electrical Project Manager",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455955490/",
+      "date_posted": "2026-09-20",
+      "ats": "LinkedIn",
+      "salary": "$125,000.00/yr - $175,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -231,7 +147,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 0,
+    "location": 1,
     "stale": 0
   }
 }
