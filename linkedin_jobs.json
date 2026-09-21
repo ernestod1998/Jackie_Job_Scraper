@@ -1,82 +1,60 @@
 {
-  "scraped_at": "2026-09-21 01:01 UTC",
-  "total": 7,
+  "scraped_at": "2026-09-21 07:54 UTC",
+  "total": 5,
   "new_count": 5,
   "jobs": [
     {
-      "company": "Compass",
-      "title": "Real Estate Team Operations Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4468469892/",
-      "date_posted": "2026-09-20",
+      "company": "Native American Health Center",
+      "title": "Dental Member Services Coordinator I, 3050",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468708467/",
+      "date_posted": "2026-09-21",
       "ats": "LinkedIn",
+      "salary": "$23.95/hr - $28.23/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Palo Alto Plumbing Heating and Air",
-      "title": "Office Manager",
+      "company": "ActAI",
+      "title": "Strategy & Operations Associate",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468478450/",
-      "date_posted": "2026-09-20",
+      "url": "https://www.linkedin.com/jobs/view/4468706381/",
+      "date_posted": "2026-09-21",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Jobright.ai",
-      "title": "Product Operations Manager (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468470731/",
-      "date_posted": "2026-09-20",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Allied Universal",
-      "title": "Account Manager",
+      "company": "Hinge Health",
+      "title": "Sr. Product Manager, R&D Enablement",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469833067/",
-      "date_posted": "2026-09-20",
+      "url": "https://www.linkedin.com/jobs/view/4467356941/",
+      "date_posted": "2026-09-21",
       "ats": "LinkedIn",
-      "salary": "$95,000.00/yr - $97,000.00/yr",
+      "salary": "$163,000.00/yr - $224,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Product Operations Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468487386/",
-      "date_posted": "2026-09-20",
+      "company": "ActAI",
+      "title": "Strategy & Operations Lead",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468703401/",
+      "date_posted": "2026-09-21",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Talently",
-      "title": "Electrical Project Manager",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455955490/",
-      "date_posted": "2026-09-20",
-      "ats": "LinkedIn",
-      "salary": "$125,000.00/yr - $175,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SSOE Group",
-      "title": "Senior Project Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469815680/",
-      "date_posted": "2026-09-20",
+      "company": "Metric Geo",
+      "title": "Project Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459165444/",
+      "date_posted": "2026-09-21",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -85,58 +63,58 @@
   ],
   "new_jobs": [
     {
-      "company": "Compass",
-      "title": "Real Estate Team Operations Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4468469892/",
-      "date_posted": "2026-09-20",
+      "company": "Native American Health Center",
+      "title": "Dental Member Services Coordinator I, 3050",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468708467/",
+      "date_posted": "2026-09-21",
+      "ats": "LinkedIn",
+      "salary": "$23.95/hr - $28.23/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "ActAI",
+      "title": "Strategy & Operations Associate",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468706381/",
+      "date_posted": "2026-09-21",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Jobright.ai",
-      "title": "Product Operations Manager (AI Recruiting Agent)",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468470731/",
-      "date_posted": "2026-09-20",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Allied Universal",
-      "title": "Account Manager",
+      "company": "Hinge Health",
+      "title": "Sr. Product Manager, R&D Enablement",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469833067/",
-      "date_posted": "2026-09-20",
+      "url": "https://www.linkedin.com/jobs/view/4467356941/",
+      "date_posted": "2026-09-21",
       "ats": "LinkedIn",
-      "salary": "$95,000.00/yr - $97,000.00/yr",
+      "salary": "$163,000.00/yr - $224,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Product Operations Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468487386/",
-      "date_posted": "2026-09-20",
+      "company": "ActAI",
+      "title": "Strategy & Operations Lead",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468703401/",
+      "date_posted": "2026-09-21",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Talently",
-      "title": "Electrical Project Manager",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455955490/",
-      "date_posted": "2026-09-20",
+      "company": "Metric Geo",
+      "title": "Project Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459165444/",
+      "date_posted": "2026-09-21",
       "ats": "LinkedIn",
-      "salary": "$125,000.00/yr - $175,000.00/yr",
       "feeds": [
         "general"
       ]

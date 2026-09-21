@@ -1,26 +1,26 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-09-21 01:01 UTC*
+*Last updated: 2026-09-21 07:54 UTC*
 
-**5 new role(s)** since last run · 7 total in last 4h
+**5 new role(s)** since last run · 5 total in last 4h
 
-### [Real Estate Team Operations Manager](https://www.linkedin.com/jobs/view/4468469892/) — Compass
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-20
+### [Dental Member Services Coordinator I, 3050](https://www.linkedin.com/jobs/view/4468708467/) — Native American Health Center
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $23.95/hr - $28.23/hr
+- 🕒 **Posted:** 2026-09-21
 
-### [Product Operations Manager (AI Recruiting Agent)](https://www.linkedin.com/jobs/view/4468470731/) — Jobright.ai
-- 📍 **Location:** Santa Clara County, CA
-- 🕒 **Posted:** 2026-09-20
+### [Strategy & Operations Associate](https://www.linkedin.com/jobs/view/4468706381/) — ActAI
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-21
 
-### [Account Manager](https://www.linkedin.com/jobs/view/4469833067/) — Allied Universal
+### [Sr. Product Manager, R&D Enablement](https://www.linkedin.com/jobs/view/4467356941/) — Hinge Health
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $95,000.00/yr - $97,000.00/yr
-- 🕒 **Posted:** 2026-09-20
+- 💰 **Salary:** $163,000.00/yr - $224,000.00/yr
+- 🕒 **Posted:** 2026-09-21
 
-### [AI Product Operations Manager](https://www.linkedin.com/jobs/view/4468487386/) — Jobright.ai
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-20
+### [Strategy & Operations Lead](https://www.linkedin.com/jobs/view/4468703401/) — ActAI
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-21
 
-### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4455955490/) — Talently
-- 📍 **Location:** Livermore, CA
-- 💰 **Salary:** $125,000.00/yr - $175,000.00/yr
-- 🕒 **Posted:** 2026-09-20
+### [Project Manager](https://www.linkedin.com/jobs/view/4459165444/) — Metric Geo
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-09-21
