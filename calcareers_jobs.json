@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-21 21:15 UTC",
-  "total": 1,
+  "scraped_at": "2026-09-22 20:30 UTC",
+  "total": 2,
   "new_count": 0,
   "jobs": [
     {
@@ -14,6 +14,18 @@
       "feeds": [
         "general"
       ]
+    },
+    {
+      "company": "Public Utilities Commission",
+      "title": "Program Manager",
+      "location": "San Francisco County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532711",
+      "date_posted": "2026-09-18",
+      "salary": "$15263.00 - $17336.00",
+      "ats": "CalCareers",
+      "feeds": [
+        "general"
+      ]
     }
   ],
   "new_jobs": [],
@@ -22,7 +34,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 22,
+    "location": 24,
     "stale": 0
   }
 }
