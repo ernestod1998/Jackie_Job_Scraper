@@ -1,15 +1,65 @@
 {
-  "scraped_at": "2026-09-23 18:36 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": [],
+  "scraped_at": "2026-09-24 18:38 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Advanced Medical Support Assistant (Call Center)",
+      "location": "San Bruno, California",
+      "url": "https://www.usajobs.gov/job/886185800",
+      "date_posted": "2026-09-24",
+      "salary": "Starting at $63,094 Per year (GS 6)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Pharmacy Technician - VISN Clinical Contact Center",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "url": "https://www.usajobs.gov/job/886213100",
+      "date_posted": "2026-09-24",
+      "salary": "Starting at $68,194 Per year (GS 7)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Advanced Medical Support Assistant (Call Center)",
+      "location": "San Bruno, California",
+      "url": "https://www.usajobs.gov/job/886185800",
+      "date_posted": "2026-09-24",
+      "salary": "Starting at $63,094 Per year (GS 6)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Pharmacy Technician - VISN Clinical Contact Center",
+      "location": "Anywhere in the U.S. (remote job), United States",
+      "url": "https://www.usajobs.gov/job/886213100",
+      "date_posted": "2026-09-24",
+      "salary": "Starting at $68,194 Per year (GS 7)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 26,
+    "location": 24,
     "stale": 0
   }
 }
