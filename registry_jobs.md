@@ -1,296 +1,264 @@
 # 🗃 Direct ATS Registry — Ops / Support / Care Roles
-*Last updated: 2026-09-23 17:48 UTC*
+*Last updated: 2026-09-24 17:53 UTC*
 
-**73 new role(s)** since last run · 255 total in current registry shard
+**65 new role(s)** since last run · 309 total in current registry shard
 
-### [Hardware Operations Specialist](https://jobs.lever.co/mashgin/de71b47c-6cb2-402c-a37f-caae4b34483c) — Mashgin
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-04
+### [AI Business Automation Project Manager](https://job-boards.greenhouse.io/welbehealth/jobs/8818340002) — WelbeHealth
+- 📍 **Location:** Remote, CA, USA
+- 🕒 **Posted:** 2026-09-23
 
-### [Senior Project Manager, Finance Transformation (R5545)](https://jobs.lever.co/shieldai/d9c4c3e5-3d12-48a6-9d46-30f6592378ca) — Shield AI
-- 📍 **Location:** San Mateo, California
-- 🕒 **Posted:** 2026-08-06
+### [Program Manager, Leaves & Accommodations](https://job-boards.greenhouse.io/welbehealth/jobs/8723330002) — WelbeHealth
+- 📍 **Location:** Remote, CA, USA
+- 🕒 **Posted:** 2026-09-23
 
-### [Project Manager](https://jobs.lever.co/truetandem/2e56e4d7-b3b5-4f98-bab1-d4eeb38cb2ec) — TrueTandem
+### [Workday HCM Program Manager ](https://job-boards.greenhouse.io/welbehealth/jobs/8599963002) — WelbeHealth
+- 📍 **Location:** Remote, CA, USA
+- 🕒 **Posted:** 2026-09-23
+
+### [AI Product Support Lead](https://job-boards.greenhouse.io/wonderschool/jobs/7765690003) — Wonderschool
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-29
+
+### [Business Operations Associate](https://job-boards.greenhouse.io/wonderschool/jobs/6347655003) — Wonderschool
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-29
+
+### [Customer & Marketplace Operations Leader](https://job-boards.greenhouse.io/wonderschool/jobs/7984023003) — Wonderschool
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-09-01
+
+### [Program Manager, State & Enterprise Programs](https://job-boards.greenhouse.io/wonderschool/jobs/7872556003) — Wonderschool
 - 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-08-27
+- 🕒 **Posted:** 2026-08-29
 
-### [Key Account Manager - Critical Industries](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Key-Account-Manager---Critical-Industries_JR00044363-1) — ABB
-- 📍 **Location:** Remote, Idaho, USA
-- 🕒 **Posted:** Posted Yesterday
+### [Provider Growth & AI Agent Operations Lead](https://job-boards.greenhouse.io/wonderschool/jobs/7792214003) — Wonderschool
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-29
 
-### [Project Manager](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Pleasanton/Project-Manager_31161995-1) — Abbott
-- 📍 **Location:** United States - California - Pleasanton
-- 🕒 **Posted:** Posted Today
+### [Aviation Planning Project Manager](https://job-boards.greenhouse.io/woolpert/jobs/4370812009) — Woolpert
+- 📍 **Location:** Remote - United States
+- 🕒 **Posted:** 2026-08-26
 
-### [Senior Sales Operations Analyst](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Alameda/Senior-Sales-Operations-Analyst_31156996) — Abbott
-- 📍 **Location:** United States - California - Alameda
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [Geospatial Project Manager](https://job-boards.greenhouse.io/woolpert/jobs/4370830009) — Woolpert
+- 📍 **Location:** Remote - United States
+- 🕒 **Posted:** 2026-09-14
 
-### [Project Manager - Freight & Distribution](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Alameda/Project-Manager---Freight---Distribution_31155665-1) — Abbott
-- 📍 **Location:** United States - California - Alameda
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [Project Manager (Mission Critical)](https://job-boards.greenhouse.io/woolpert/jobs/4413393009) — Woolpert
+- 📍 **Location:** Remote - United States
+- 🕒 **Posted:** 2026-09-22
 
-### [Clinical Safety Program Lead](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Santa-Clara/Clinical-Safety-Program-Lead_31160441) — Abbott
-- 📍 **Location:** United States - California - Santa Clara
-- 🕒 **Posted:** Posted 14 Days Ago
+### [Creator & Community Program Lead — Grok Imagine](https://job-boards.greenhouse.io/xai/jobs/5244173007) — xAI
+- 📍 **Location:**  Palo Alto, CA
+- 🕒 **Posted:** 2026-09-24
 
-### [Customer Support Specialist II | Tues - Sat. 10AM - 6:30PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Tues---Sat-10AM---6-30PM_31161660-1) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Human Data - Business Operations Analyst](https://job-boards.greenhouse.io/xai/jobs/5216863007) — xAI
+- 📍 **Location:**  Palo Alto, CA
+- 🕒 **Posted:** 2026-09-24
 
-### [Customer Support Specialist II | Sun – Thurs 6AM - 2:30PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Sun---Thurs-6AM---2-30PM_31161919) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Program Manager, Harmful Activity](https://job-boards.greenhouse.io/xai/jobs/5213773007) — xAI
+- 📍 **Location:**  Palo Alto, CA; Bastrop, TX; New York, NY
+- 🕒 **Posted:** 2026-09-24
 
-### [Customer Support Specialist II | Tues - Sat. 10AM - 6:30PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Tues---Sat-10AM---6-30PM_31161658-2) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Program Manager, Prohibited & Regulated Content](https://job-boards.greenhouse.io/xai/jobs/5210378007) — xAI
+- 📍 **Location:**  Palo Alto, CA; Bastrop, TX; New York, NY
+- 🕒 **Posted:** 2026-09-24
 
-### [Customer Support Specialist II | Mon-Fri 10AM - 6:30PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Mon-Fri-10AM---6-30PM_31161661) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Customer Support & Market Data Specialist II](https://job-boards.greenhouse.io/yesenergy/jobs/5433024008) — Yes Energy
+- 📍 **Location:** Boston, Massachusetts, United States, Boulder, Colorado, United States, Chicago, Illinois, United States, Glendora, California, United States, Remote - US, Richmond, Virginia, United States
+- 🕒 **Posted:** 2026-09-23
 
-### [Customer Support Specialist II | Tues - Sat 8AM - 4:30PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Tues---Sat-8AM---4-30PM_31161674-1) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Implementation Specialist](https://job-boards.greenhouse.io/yesenergy/jobs/5345321008) — Yes Energy
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-07-13
 
-### [Customer Support Specialist II | Tues-Sat 6AM - 2:30PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Tues-Sat-6AM---2-30PM_31161672) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Manager of Customer Support](https://job-boards.greenhouse.io/yesenergy/jobs/5431855008) — Yes Energy
+- 📍 **Location:** Boston, Massachusetts, United States, Boulder, Colorado, United States, Chicago, Illinois, United States, Glendora, California, United States, Remote - US, Richmond, Virginia, United States
+- 🕒 **Posted:** 2026-09-22
 
-### [Customer Support Specialist II | Tues - Sat 8AM - 4:30PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Tues---Sat-8AM---4-30PM_31161665-1) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Senior Customer Support and Market Data Specialist](https://job-boards.greenhouse.io/yesenergy/jobs/5433258008) — Yes Energy
+- 📍 **Location:** Boston, Massachusetts, United States, Boulder, Colorado, United States, Chicago, Illinois, United States, Glendora, California, United States, Remote - US, Richmond, Virginia, United States
+- 🕒 **Posted:** 2026-09-23
 
-### [Customer Support Specialist II | Tues - Sat 8AM - 4:30PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Tues---Sat-8AM---4-30PM_31161663-2) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Procurement Operations Analyst](https://job-boards.greenhouse.io/zscaler/jobs/5193014007) — Zscaler
+- 📍 **Location:** San Jose, California, USA
+- 🕒 **Posted:** 2026-09-18
 
-### [Customer Support Specialist II | Tues - Sat 8AM - 4:30PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Tues---Sat-8AM---4-30PM_31161666) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Product Operations Manager](https://jobs.lever.co/arable/3b417430-b854-4995-a4d5-63ec0d1ee6b3) — Arable
+- 📍 **Location:** San Francisco Bay area
+- 🕒 **Posted:** 2026-02-19
 
-### [Customer Support Specialist II | Sun – Thurs 8:30AM – 5:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Sun---Thurs-8-30AM---5-00PM_31161921-2) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Customer Success Manager](https://jobs.lever.co/bluesight/dfef434a-3b5a-413c-9820-f4756fe14364) — Bluesight
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** 2026-09-16
 
-### [Customer Support Specialist II | Sun – Thurs 8:30AM – 5:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Sun---Thurs-8-30AM---5-00PM_31161920) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Senior Customer Success Manager - Strategic Accounts](https://jobs.lever.co/bluesight/b754837c-0268-4612-abe6-41528364b52e) — Bluesight
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** 2026-09-16
 
-### [Customer Support Specialist II | Sun – Thurs 8:30AM – 5:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Sun---Thurs-8-30AM---5-00PM_31161922-1) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [eDiscovery Deputy Program Manager](https://jobs.lever.co/cgsfederal/1ff0a19c-69de-4ed4-bf38-ab14b58a2591) — CGS Federal (Contact Government Services)
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-09-03
 
-### [Customer Support Specialist II | Sun - Thurs 8:30AM - 5:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Sun---Thurs-8-30AM---5-00PM_31161671) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Group Sales Account Manager](https://jobs.lever.co/cscgeneration-2/92eb6402-0d13-4cce-a188-6020147b39a0) — CSC Generation
+- 📍 **Location:** Remote - US
+- 🕒 **Posted:** 2026-09-14
 
-### [Customer Support Specialist II | Tues - Sat 1:30PM - 10:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Tues---Sat-1-30PM---10-00PM_31161917) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [DFT Implementation Lead](https://jobs.lever.co/eliyan/d916bba0-8d18-4fcc-b240-1f5df920bf8d) — Eliyan
+- 📍 **Location:** Bay Area
+- 🕒 **Posted:** 2024-11-24
 
-### [Customer Support Specialist II | Tues - Sat 1:30PM - 10:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Tues---Sat-1-30PM---10-00PM_31161918-1) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Account Manager](https://jobs.lever.co/fiscalnote/f8289100-fafa-405b-aecd-1a0341d65237) — FiscalNote
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** 2026-04-21
 
-### [Customer Support Specialist II | Sun - Thurs 1:30PM - 10:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Sun---Thurs-1-30PM---10-00PM_31161909) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Forklift Operations Associate, Richmond, CA](https://jobs.lever.co/gopuff/8bf86437-5a83-43ed-85cf-a4fb641ca00b) — Gopuff
+- 📍 **Location:** Richmond, CA
+- 🕒 **Posted:** 2022-07-28
 
-### [Customer Support Specialist II | Tues - Sat 1:30PM - 10:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Tues---Sat-1-30PM---10-00PM_31161915-1) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Clinical Sales Account Manager](https://jobs.lever.co/h1/6737786d-fb1f-43a0-8a52-dc0cdb5d6354) — H1
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-09-16
 
-### [Customer Support Specialist II | Sun - Thurs 1:30PM - 10:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Sun---Thurs-1-30PM---10-00PM_31161912) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Senior Strategic Account Manager- Pharma](https://jobs.lever.co/h1/078b2c83-709e-4679-a2c4-5e9bbe8912a2) — H1
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-04-22
 
-### [Customer Support Specialist II | Sun - Thurs 1:30PM - 10:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Sun---Thurs-1-30PM---10-00PM_31161911) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Sr. Implementation Manager](https://jobs.lever.co/h1/021980e9-74d3-4c4f-b05c-32c634704c99) — H1
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-09-16
 
-### [Customer Support Specialist II | Sun - Thurs 1:30PM - 10:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Sun---Thurs-1-30PM---10-00PM_31161910) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Sr. Revenue Operations Analyst](https://jobs.lever.co/h1/5d22dea0-1b3d-427a-8932-77b35a7cf6b1) — H1
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-09-15
 
-### [Customer Support Specialist II | Tues - Sat 1:30PM - 10:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Tues---Sat-1-30PM---10-00PM_31161916) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Account Manager](https://jobs.lever.co/hatchit/ec3f7fad-d5bb-4903-be85-b27931459950) — Hatch IT
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-05-26
 
-### [Customer Support Specialist II | Tues - Sat 1:30PM - 10:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Tues---Sat-1-30PM---10-00PM_31161913-1) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Business Analyst, Hive Models](https://jobs.lever.co/hive/4ee4ed80-13a9-4205-9d58-5a06ee884543) — Hive
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2021-01-14
 
-### [Customer Support Specialist II | Sun - Thurs 1:30PM - 10:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Sun---Thurs-1-30PM---10-00PM_31161908) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Business Operations Analyst](https://jobs.lever.co/hive/0fcd320b-b613-4ecf-b217-f4714cf56a61) — Hive
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2021-06-22
 
-### [Customer Support Specialist II | Mon-Fri 11:30AM - 8:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Mon-Fri-11-30AM---8-00PM_31161670-2) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Business Operations Associate](https://jobs.lever.co/hive/70d6122f-b0c4-46cf-bb73-0ec9a3749942) — Hive
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2021-01-14
 
-### [Customer Support Specialist II | Mon-Fri 11:30AM - 8:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Mon-Fri-11-30AM---8-00PM_31161668) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Business Operations Manager](https://jobs.lever.co/hive/ae42e024-f886-4e42-9d9f-960ef8074159) — Hive
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2021-01-14
 
-### [Customer Support Specialist II | Mon – Fri 10:30AM - 7:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Mon---Fri-10-30AM---7-00PM_31161681) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Customer Success Lead](https://jobs.lever.co/hive/e305befb-2ae8-4c8c-afe2-67188c6b6c24) — Hive
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2025-11-05
 
-### [Customer Support Specialist II | Mon – Fri 11:30AM – 8:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Mon---Fri-11-30AM---8-00PM_31161687) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Data Operations Analyst](https://jobs.lever.co/hive/8a55e4ff-ec69-4691-aa65-fc7cbd7c6ee0) — Hive
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-04-28
 
-### [Customer Support Specialist II | Mon – Fri 11:30AM – 8:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Mon---Fri-11-30AM---8-00PM_31161684) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Growth Strategy & Operations Associate](https://jobs.lever.co/hive/326b6c93-4039-4aa1-977e-f6280523e1ef) — Hive
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2025-05-06
 
-### [Customer Support Specialist II | Mon – Fri 10:00AM - 6:30PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Mon---Fri-10-00AM---6-30PM_31161677) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Legal Operations Analyst](https://jobs.lever.co/hive/9996bb96-0e1d-4280-b6c7-c1f9693d3bb4) — Hive
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2025-04-17
 
-### [Customer Support Specialist II | Mon – Fri 10:00AM - 6:30PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Mon---Fri-10-00AM---6-30PM_31161676) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Office Manager](https://jobs.lever.co/hive/dbd19561-78ce-42c2-9ae2-7783fc6abeb0) — Hive
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2021-01-14
 
-### [Customer Support Specialist II | Mon – Fri 11:30AM – 8:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Mon---Fri-11-30AM---8-00PM_31161686) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [People Operations Generalist](https://jobs.lever.co/hive/e33f9416-725a-4bf4-b211-fc51c5c0b356) — Hive
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2021-09-14
 
-### [Customer Support Specialist II | Mon – Fri 10:30AM - 7:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Mon---Fri-10-30AM---7-00PM_31161683) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [People Operations Manager](https://jobs.lever.co/hive/9b79f02c-b7e3-4d05-b2c2-a5d46da92853) — Hive
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2021-06-17
 
-### [Customer Support Specialist II | Mon – Fri 10:30AM - 7:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Mon---Fri-10-30AM---7-00PM_31161682) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Sales Operations Analyst](https://jobs.lever.co/hive/44ecff3f-02e2-4408-9f47-dfbafb280344) — Hive
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2021-06-22
 
-### [Customer Support Specialist II | Mon – Fri 11:30AM – 8:00PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Mon---Fri-11-30AM---8-00PM_31161688-1) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Sales Operations Manager](https://jobs.lever.co/hive/c280f74a-75da-4107-854a-b4090002b911) — Hive
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2021-04-20
 
-### [Customer Support Specialist II | Mon – Fri 10:00AM - 6:30PM](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Customer-Support-Specialist-II---Mon---Fri-10-00AM---6-30PM_31161679) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Microsoft D365 Senior Project Manager](https://jobs.lever.co/mcaconnect/e908f4d1-20e5-46c3-840d-c200b46d87a6) — MCA Connect
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-06-22
 
-### [Senior Brand Manager, My Freestyle US App and Customer Experience](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Alameda/Senior-Brand-Manager--My-Freestyle-US-App-and-Customer-Experience_31157454) — Abbott
-- 📍 **Location:** United States - California - Alameda
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [Creative Operations Specialist](https://jobs.lever.co/penumbrainc/e72e5eb1-b741-4cfb-b98c-3b5b7bc77cd0) — Penumbra Inc
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-07-30
 
-### [Strategic Account Manager, Toxicology](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Strategic-Account-Manager--Toxicology_31149468) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [Global Project Manager, Marketing Content](https://jobs.lever.co/penumbrainc/b3b4cf1b-2621-4158-94b3-eb34ffb9d4cf) — Penumbra Inc
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-05-01
 
-### [Manager Market Access Patient Services](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Manager-Patient-Services_31156990-1) — Abbott
-- 📍 **Location:** United States of America : Remote
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [IT Enablement Coordinator](https://jobs.lever.co/penumbrainc/1fb1587a-24b3-44d0-98ed-8aaba7ebadf7) — Penumbra Inc
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-08-26
 
-### [CAPA Project Coordinator](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Alameda/CAPA-Project-Coordinator_31161366) — Abbott
-- 📍 **Location:** United States - California - Alameda
+### [Sales Ops Salesforce Business Analyst](https://jobs.lever.co/penumbrainc/dadcd31c-787a-4cae-b438-cad465930522) — Penumbra Inc
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2025-09-09
+
+### [Sales Operations Specialist](https://jobs.lever.co/salesdemo-jr/12e0fccb-10fb-4944-b5f5-0031c23e9bfb) — Parkdepot
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2019-07-24
+
+### [Sr. Revenue Systems and Operations Specialist](https://jobs.lever.co/saviynt/1a899598-fe0e-4cd6-a117-0512b7cbec35) — Saviynt
+- 📍 **Location:** Remote US
+- 🕒 **Posted:** 2024-10-08
+
+### [Staff Product Operations Manager](https://jobs.lever.co/saviynt/5868298e-f873-40dd-b751-82dfeaf4d65a) — Saviynt
+- 📍 **Location:** Remote US
+- 🕒 **Posted:** 2026-07-07
+
+### [Aerospace Airline Key Account Manager](https://3m.wd1.myworkdayjobs.com/Search/job/Remote---Minnesota/Aerospace-Airline-Key-Account-Manager_R01169845) — 3M
+- 📍 **Location:** Remote-United States
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Senior Program Manager, Architecture & Automation Deployment](https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/US-CA-Santa-Clara/Senior-Program-Manager--Architecture---Automation-Deployment_4039831) — Agilent Technologies
+- 📍 **Location:** US-CA-Santa Clara
 - 🕒 **Posted:** Posted 9 Days Ago
 
-### [Project Manager](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Alameda/Project-Manager_31157320) — Abbott
-- 📍 **Location:** United States - California - Alameda
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Project Manager Label Packaging](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Alameda/Project-Manager-Label-Packaging_31154065) — Abbott
-- 📍 **Location:** United States - California - Alameda
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Senior Project Manager Clinical Research](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Alameda--Plaza-6-Building/Senior-Project-Manager-Clinical-Research_31156788) — Abbott
-- 📍 **Location:** United States > Alameda : Plaza 6 Building
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Program Manager, Professional Education](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Texas---Austin/Program-Manager--Professional-Education_31154726) — Abbott
-- 📍 **Location:** United States - California - Pleasanton
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Senior Brand Manager, Product Launch and Patient Support Programs](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Alameda/Senior-Brand-Manager--Product-Launch-and-Patient-Support-Programs_31157451) — Abbott
-- 📍 **Location:** United States - California - Alameda
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Project Manager](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Pleasanton/Project-Manager_31158016) — Abbott
-- 📍 **Location:** United States - California - Pleasanton
-- 🕒 **Posted:** Posted 7 Days Ago
-
-### [Project Manager](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Pleasanton/Project-Manager_31161995) — Abbott
-- 📍 **Location:** United States - California - Pleasanton
-- 🕒 **Posted:** Posted Today
-
-### [Senior Project Manager (Product Lifecycle Manager)](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Pleasanton/Senior-Project-Manager--Product-Lifecycle-Manager-_31157349) — Abbott
-- 📍 **Location:** United States - California - Pleasanton
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Senior Project Manager, Clinical Risk Evaluation](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Texas--Plano--6901-Preston-Road/Senior-Project-Manager--Clinical-Risk-Evaluation_31160301) — Abbott
-- 📍 **Location:** United States > Santa Clara : Building B - SC
-- 🕒 **Posted:** Posted 15 Days Ago
-
-### [Senior Specialist Quality Assurance](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Alameda/Senior-Specialist-Quality-Assurance_31159926) — Abbott
-- 📍 **Location:** United States - California - Alameda
-- 🕒 **Posted:** Posted 13 Days Ago
-
-### [CIG Senior Specialist Quality Assurance](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Alameda/CIG-Senior-Specialist-Quality-Assurance_31159425-1) — Abbott
-- 📍 **Location:** United States - California - Alameda
-- 🕒 **Posted:** Posted 2 Days Ago
-
-### [Account Manager](https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/COSTA-MESA-CA/Account-Manager_JR114397) — Acrisure
-- 📍 **Location:** SAN JOSE, CA
-- 🕒 **Posted:** Posted Yesterday
-
-### [Program Manager - Connected Planning & Analytics](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Program-Manager---Connected-Planning---Analytics_R171804) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted 2 Days Ago
-
-### [Account Manager](https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Oakland-NJ-Plant---Retail-shop/Account-Manager_R10092770) — Airgas
-- 📍 **Location:** Oakland, NJ (Plant) - Retail shop
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Project/Program Manager, Web and Digital - Contract](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Project-Program-Manager--Web-and-Digital---Contract_R02893) — Altera Corporation
-- 📍 **Location:** San Jose, California, United States
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Operations Strategy Program Manager](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Operations-Strategy-Program-Manager_R2624873-1) — Applied Materials
-- 📍 **Location:** Santa Clara,CA
-- 🕒 **Posted:** Posted 2 Days Ago
-
-### [Project Manager - Facility Condition Assessments & Capital Planning](https://ameresco.wd5.myworkdayjobs.com/Ameresco/job/United-States---Remote/Project-Manager---Facility-Condition-Assessments---Capital-Planning_R4037) — Ameresco
-- 📍 **Location:** United States - Remote
-- 🕒 **Posted:** Posted Today
-
-### [Senior Program Manager](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Senior-Program-Manager_R-253593) — Amgen
-- 📍 **Location:** United States - Remote
-- 🕒 **Posted:** Posted Yesterday
-
-### [Associate Project Manager (Real Estate & Workplace Design)](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Construction-Project-Manager--Real-Estate---Workplace-Design-_R262514) — Analog Devices
-- 📍 **Location:** US, CA, San Jose, Rio Robles
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Business Analyst - Operations (GFS Americas)](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Costa-Rica---San-Jose/Business-Analyst---Operations--GFS-Americas-_R-260276) — AstraZeneca
-- 📍 **Location:** Costa Rica - San Jose
-- 🕒 **Posted:** Posted 5 Days Ago
-
-### [Business Analyst - Controlling (GFS Americas)](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Costa-Rica---San-Jose/Business-Analyst---Controlling--GFS-Americas-_R-260228) — AstraZeneca
-- 📍 **Location:** Costa Rica - San Jose
+### [Remote Account Manager](https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/US-CO-Remote-Location/Remote-Account-Manager_4039921) — Agilent Technologies
+- 📍 **Location:** US-CO-Remote Location
 - 🕒 **Posted:** Posted 6 Days Ago
 
-### [Sales Operations and Contracting Associate](https://athenahealth.wd1.myworkdayjobs.com/External/job/Remote---CA/Sales-Operations-and-Contracting-Associate_R15368) — Athena Health
-- 📍 **Location:** Remote USA
+### [Sr. Program Manager — Pipeline & Marketing Operations](https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers/job/Southern-California-USA---Remote/Sr-Program-Manager---Pipeline---Marketing-Operations_R12464) — Alteryx
+- 📍 **Location:** Southern California, USA - Remote
+- 🕒 **Posted:** Posted 10 Days Ago
+
+### [Sales Enablement Professional – Direct Sales Focus( REMOTE)](https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers/job/Southern-California-USA---Remote/Revenue-Enablement-Professional---Direct-Sales-Focus--REMOTE-_R12314) — Alteryx
+- 📍 **Location:** Southern California, USA - Remote
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Project Manager – New Product Commercialization & Growth](https://axalta.wd1.myworkdayjobs.com/axalta/job/Remote-USA/Project-Manager---New-Product-Commercialization---Growth_2026-19217) — Axalta
-- 📍 **Location:** Remote USA
-- 🕒 **Posted:** Posted 19 Days Ago
-
-### [Key Account Manager](https://axalta.wd1.myworkdayjobs.com/axalta/job/Remote-USA/Key-Account-Manager_2026-17860-1) — Axalta
-- 📍 **Location:** Remote USA
+### [Senior HR Business Partner, Customer Experience (Go-to-Market)](https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers/job/Southern-California-USA---Remote/Senior-HR-Business-Partner--Customer-Experience--Go-to-Market-_R12400) — Alteryx
+- 📍 **Location:** Southern California, USA - Remote
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Key Account Manager](https://axalta.wd1.myworkdayjobs.com/axalta/job/Remote-USA/Key-Account-Manager_2026-17861-1) — Axalta
-- 📍 **Location:** Remote USA
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [Project Coordinator I](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Fremont-CA/Project-Coordinator-I_R0017430) — Astreya
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** Posted 6 Days Ago
 
-### [Key Account Manager (Distribution)](https://axalta.wd1.myworkdayjobs.com/axalta/job/Remote-USA/Key-Account-Manager--Distribution-_2026-18634-1) — Axalta
-- 📍 **Location:** Remote USA
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [Project Coordinator III](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Fremont-CA/Project-Coordinator-III_R0017251) — Astreya
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** Posted 21 Days Ago
+
+### [Project Coordinator II](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Fremont-CA/Project-Coordinator-II_R0017250) — Astreya
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** Posted 21 Days Ago
+
+### [Project Coordinator I](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Fremont-CA/Project-Coordinator-I_R0017476) — Astreya
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** Posted 7 Days Ago
+
+### [Deployment Project Coordinator II](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Fremont-CA/Deployment-Project-Coordinator-II_R0017392) — Astreya
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** Posted 3 Days Ago
