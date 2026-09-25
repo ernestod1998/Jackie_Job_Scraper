@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-24 20:48 UTC",
-  "total": 1,
+  "scraped_at": "2026-09-25 20:46 UTC",
+  "total": 2,
   "new_count": 0,
   "jobs": [
     {
@@ -14,6 +14,18 @@
       "feeds": [
         "general"
       ]
+    },
+    {
+      "company": "Employment Development Department",
+      "title": "Employment Program Manager I",
+      "location": "Santa Clara County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533361",
+      "date_posted": "2026-09-24",
+      "salary": "$6525.00 - $8170.00",
+      "ats": "CalCareers",
+      "feeds": [
+        "general"
+      ]
     }
   ],
   "new_jobs": [],
@@ -22,7 +34,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 26,
+    "location": 27,
     "stale": 0
   }
 }
