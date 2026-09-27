@@ -1,13 +1,68 @@
 {
-  "scraped_at": "2026-09-26 23:31 UTC",
-  "total": 5,
-  "new_count": 3,
+  "scraped_at": "2026-09-27 01:52 UTC",
+  "total": 10,
+  "new_count": 6,
   "jobs": [
     {
-      "company": "Diamond Peak Recruiting",
-      "title": "Project Coordinator",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468814791/",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Sr. Marketing Operations Manager, AWS Marketing Strategy, Operations, and Enablement",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472414376/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Sr. Marketing Operations Manager, AWS Marketing Strategy, Operations, and Enablement",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472418184/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Azza HealthCare Agency",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470576468/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Azza HealthCare Agency",
+      "title": "Care Manager",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470574581/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Azza HealthCare Agency",
+      "title": "Care Manager",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470575519/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Drivemode",
+      "title": "Product Operations Manager (Contract)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472411575/",
       "date_posted": "2026-09-26",
       "ats": "LinkedIn",
       "feeds": [
@@ -61,10 +116,10 @@
   ],
   "new_jobs": [
     {
-      "company": "ICF",
-      "title": "Homeless Services, Request and Operations Manager (Los Angeles Area or REMOTE ROLE)",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471062899/",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Sr. Marketing Operations Manager, AWS Marketing Strategy, Operations, and Enablement",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472414376/",
       "date_posted": "2026-09-26",
       "ats": "LinkedIn",
       "feeds": [
@@ -72,10 +127,10 @@
       ]
     },
     {
-      "company": "ICF",
-      "title": "Homeless Services, Request and Operations Manager (Los Angeles Area or REMOTE ROLE)",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Sr. Marketing Operations Manager, AWS Marketing Strategy, Operations, and Enablement",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471072437/",
+      "url": "https://www.linkedin.com/jobs/view/4472418184/",
       "date_posted": "2026-09-26",
       "ats": "LinkedIn",
       "feeds": [
@@ -83,10 +138,43 @@
       ]
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Product Operations Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471079205/",
+      "company": "Azza HealthCare Agency",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470576468/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Azza HealthCare Agency",
+      "title": "Care Manager",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470574581/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Azza HealthCare Agency",
+      "title": "Care Manager",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470575519/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Drivemode",
+      "title": "Product Operations Manager (Contract)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472411575/",
       "date_posted": "2026-09-26",
       "ats": "LinkedIn",
       "feeds": [
