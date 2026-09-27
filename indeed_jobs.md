@@ -1,50 +1,58 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-09-27 01:42 UTC*
+*Last updated: 2026-09-27 08:31 UTC*
 
-**10 new role(s)** since last run · 63 total in last 24h
+**11 new role(s)** since last run · 36 total in last 24h
 
-### [Case Manager](https://www.indeed.com/viewjob?jk=47a3d19ee3437ee0) — Felton Institute
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $70k–$80k/yr
-- 🕒 **Posted:** 2026-09-25
-
-### [Resident Care Manager](https://www.indeed.com/viewjob?jk=ebf98b5ee5d2a027) — Kisco Senior Living, LLC
+### [Assistant Operations Manager](https://www.indeed.com/viewjob?jk=45386232cf3419ac) — Shane Co.
 - 📍 **Location:** Walnut Creek, CA, US
-- 💰 **Salary:** $80k–$90k/yr
+- 💰 **Salary:** $33–$40/hr
 - 🕒 **Posted:** 2026-09-25
 
-### [Case Manager (Paralegal)](https://www.indeed.com/viewjob?jk=917361a6af8cf7f9) — JAMS
+### [Senior Project Manager, Healthcare](https://www.indeed.com/viewjob?jk=0d733f34b6b2d772) — Suffolk Construction
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $76k–$99k/yr
+- 💰 **Salary:** $190k–$270k/yr
 - 🕒 **Posted:** 2026-09-25
 
-### [Instructional Designer](https://www.indeed.com/viewjob?jk=34e8885452585c8a) — BerryDunn
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $115k–$135k/yr
-- 🕒 **Posted:** 2026-09-25
-
-### [Project Coordinator](https://www.indeed.com/viewjob?jk=3193d22b09593356) — Sierra Select Distributors, Inc.
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $35–$50/hr
+### [Operations Supervisor](https://www.indeed.com/viewjob?jk=4e59c5f8ede09cc6) — Unknown
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $72k–$75k/yr
 - 🕒 **Posted:** 2026-09-26
 
-### [Project Manager, Tax Compliance](https://www.indeed.com/viewjob?jk=587070bab24661dd) — Avalara
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $88k–$170k/yr
+### [Account Manager](https://www.indeed.com/viewjob?jk=14419c7e53253860) — FujiFilm
+- 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-09-25
 
-### [Program Manager](https://www.indeed.com/viewjob?jk=1d8ef44feb29629b) — SMR Worldwide
-- 📍 **Location:** Remote, US
+### [Enterprise Security Sales Account Manager](https://www.indeed.com/viewjob?jk=39a571be1de25dd6) — HCI Systems
+- 📍 **Location:** Pleasanton, CA, US
+- 💰 **Salary:** $60k–$300k/yr
 - 🕒 **Posted:** 2026-09-25
 
-### [Sr. Implementation Specialist](https://www.indeed.com/viewjob?jk=00a0f137b1f78ebb) — Avalara
+### [Finance Operations Analyst (Korean Bilingual)](https://www.indeed.com/viewjob?jk=3c7b09bf7faf8d3b) — Bespin Global US
 - 📍 **Location:** Remote, US
+- 💰 **Salary:** $80k–$95k/yr
+- 🕒 **Posted:** 2026-09-27
+
+### [Grant Project Manager / Municipal Grant Writer](https://www.indeed.com/viewjob?jk=0212903c41e59d96) — Tactical Data Group
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $40k–$90k/yr
+- 🕒 **Posted:** 2026-09-26
+
+### [Project Coordinator (Remote)](https://www.indeed.com/viewjob?jk=85187ad71f4629e6) — GovCIO
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $75k–$85k/yr
 - 🕒 **Posted:** 2026-09-25
 
-### [Staff Implementation Specialist](https://www.indeed.com/viewjob?jk=5b67ae7d99fcdf69) — Avalara
+### [Epic Analyst III - Revenue Cycle Patient Access - Cadence and Prelude Certified](https://www.indeed.com/viewjob?jk=ba641d2e632ffdf2) — MedStar Health
 - 📍 **Location:** Remote, US
-- 🕒 **Posted:** 2026-09-25
+- 💰 **Salary:** $83k–$157k/yr
+- 🕒 **Posted:** 2026-09-17
 
-### [Staff Implementation Specialist](https://www.indeed.com/viewjob?jk=68ca4e0199613dde) — Avalara
+### [Senior Business Operations Specialist](https://www.indeed.com/viewjob?jk=20cd9ffe99967d07) — NTT Global Data Centers Americas, Inc.
 - 📍 **Location:** Remote, US
-- 🕒 **Posted:** 2026-09-25
+- 💰 **Salary:** $127k–$176k/yr
+- 🕒 **Posted:** 2026-09-26
+
+### [Real Estate Operations Coordinator](https://www.indeed.com/viewjob?jk=0850165e86118015) — Vaz Digital Solutions
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $2000–$2500/mo
+- 🕒 **Posted:** 2026-09-27
