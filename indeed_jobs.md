@@ -1,58 +1,37 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-09-27 08:31 UTC*
+*Last updated: 2026-09-27 19:51 UTC*
 
-**11 new role(s)** since last run · 36 total in last 24h
+**7 new role(s)** since last run · 28 total in last 24h
 
-### [Assistant Operations Manager](https://www.indeed.com/viewjob?jk=45386232cf3419ac) — Shane Co.
-- 📍 **Location:** Walnut Creek, CA, US
-- 💰 **Salary:** $33–$40/hr
-- 🕒 **Posted:** 2026-09-25
+### [PR Manager, Trust and Safety](https://www.indeed.com/viewjob?jk=e7615a668c60b243) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $120k–$180k/yr
+- 🕒 **Posted:** 2026-09-23
 
-### [Senior Project Manager, Healthcare](https://www.indeed.com/viewjob?jk=0d733f34b6b2d772) — Suffolk Construction
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $190k–$270k/yr
-- 🕒 **Posted:** 2026-09-25
-
-### [Operations Supervisor](https://www.indeed.com/viewjob?jk=4e59c5f8ede09cc6) — Unknown
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $72k–$75k/yr
+### [Care Manager](https://www.indeed.com/viewjob?jk=0c693e8d52ab21aa) — LiveWell Homecare Agency
+- 📍 **Location:** Danville, CA, US
 - 🕒 **Posted:** 2026-09-26
 
-### [Account Manager](https://www.indeed.com/viewjob?jk=14419c7e53253860) — FujiFilm
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-09-25
-
-### [Enterprise Security Sales Account Manager](https://www.indeed.com/viewjob?jk=39a571be1de25dd6) — HCI Systems
-- 📍 **Location:** Pleasanton, CA, US
-- 💰 **Salary:** $60k–$300k/yr
-- 🕒 **Posted:** 2026-09-25
-
-### [Finance Operations Analyst (Korean Bilingual)](https://www.indeed.com/viewjob?jk=3c7b09bf7faf8d3b) — Bespin Global US
+### [Food Operations Analyst](https://www.indeed.com/viewjob?jk=daa15fbe8a2b40ef) — Foodsmart
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $80k–$95k/yr
+- 💰 **Salary:** $55k–$60k/yr
 - 🕒 **Posted:** 2026-09-27
 
-### [Grant Project Manager / Municipal Grant Writer](https://www.indeed.com/viewjob?jk=0212903c41e59d96) — Tactical Data Group
+### [Manager, Strategy & Operations](https://www.indeed.com/viewjob?jk=287fb55eb8216bc5) — Juno
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $40k–$90k/yr
-- 🕒 **Posted:** 2026-09-26
+- 💰 **Salary:** $120k–$140k/yr
+- 🕒 **Posted:** 2026-09-27
 
-### [Project Coordinator (Remote)](https://www.indeed.com/viewjob?jk=85187ad71f4629e6) — GovCIO
+### [Senior Account Manager (Education or Enterprise) - 3D Printing](https://www.indeed.com/viewjob?jk=43b664ff9f2e08b7) — MatterHackers
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $75k–$85k/yr
-- 🕒 **Posted:** 2026-09-25
+- 💰 **Salary:** $50k–$66k/yr
+- 🕒 **Posted:** 2026-09-27
 
-### [Epic Analyst III - Revenue Cycle Patient Access - Cadence and Prelude Certified](https://www.indeed.com/viewjob?jk=ba641d2e632ffdf2) — MedStar Health
+### [Operations Manager](https://www.indeed.com/viewjob?jk=ced8329aed35f471) — Veux Beauty
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $83k–$157k/yr
-- 🕒 **Posted:** 2026-09-17
+- 🕒 **Posted:** 2026-09-27
 
-### [Senior Business Operations Specialist](https://www.indeed.com/viewjob?jk=20cd9ffe99967d07) — NTT Global Data Centers Americas, Inc.
+### [Manager, Customer Experience Platforms](https://www.indeed.com/viewjob?jk=c53138d038ae746e) — General Dynamics Information Technology
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $127k–$176k/yr
-- 🕒 **Posted:** 2026-09-26
-
-### [Real Estate Operations Coordinator](https://www.indeed.com/viewjob?jk=0850165e86118015) — Vaz Digital Solutions
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $2000–$2500/mo
+- 💰 **Salary:** $121k–$164k/yr
 - 🕒 **Posted:** 2026-09-27
