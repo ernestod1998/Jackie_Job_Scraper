@@ -1,101 +1,13 @@
 {
-  "scraped_at": "2026-09-27 19:44 UTC",
-  "total": 21,
-  "new_count": 21,
+  "scraped_at": "2026-09-27 23:46 UTC",
+  "total": 3,
+  "new_count": 3,
   "jobs": [
-    {
-      "company": "CoreWeave",
-      "title": "Enablement Solutions Specialist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461824432/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Operations Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471096505/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hader Solutions",
-      "title": "Customer Success Associate - Entry Level",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471300468/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Wynen's",
-      "title": "Flow & Operations Specialist (Air)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471301482/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CoreWeave",
-      "title": "Data Center Operations Program Manager",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461822422/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Genius Business Solutions (GBSI)",
-      "title": "PROGRAM MANAGER/Data Architect | Oniste - San Francisco,CA | 6 Months",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472456710/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CoreWeave",
-      "title": "Data Center Operations Program Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461807466/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Western Exterminator Company",
-      "title": "Operations Manager, US Pest",
-      "location": "Hayward, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451292165/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
     {
       "company": "Jobright.ai",
       "title": "Product Operations Manager (AI Recruiting Agent)",
       "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471099377/",
+      "url": "https://www.linkedin.com/jobs/view/4471307535/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -106,7 +18,7 @@
       "company": "Jobright.ai",
       "title": "AI Product Operations Manager",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471305241/",
+      "url": "https://www.linkedin.com/jobs/view/4471300806/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -114,121 +26,10 @@
       ]
     },
     {
-      "company": "Cumming Group",
-      "title": "Senior Project Manager",
-      "location": "San Rafael, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426670183/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EY",
-      "title": "Studio+ Sales Performance Management (SPM) Project Manager-Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451277732/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Rakuten Viki",
-      "title": "Lead, Strategy and Business Operations",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417047188/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jacobs",
-      "title": "Project Manager- Systems Implementation",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454816304/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "salary": "$92,100.00/yr - $161,200.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Citi",
-      "title": "Wealth Growth Program Manager | San Francisco, CA",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462649189/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "AI Enablement Partner - HR Operations (AMS)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471310167/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hightouch",
-      "title": "Technical Account Manager, Enterprise (East)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418023426/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Glean",
-      "title": "GTM Enablement Manager",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4444628039/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cash App",
-      "title": "Senior Technical Account Manager, Cash App Pay & Afterpay",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418037532/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TSP Talent",
-      "title": "Market Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471300469/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cypress HCM",
-      "title": "Senior HR Generalist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471301544/",
+      "company": "GILLIG",
+      "title": "Senior HR Operations Analyst",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472459927/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -238,98 +39,10 @@
   ],
   "new_jobs": [
     {
-      "company": "CoreWeave",
-      "title": "Enablement Solutions Specialist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461824432/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Operations Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471096505/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hader Solutions",
-      "title": "Customer Success Associate - Entry Level",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471300468/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Wynen's",
-      "title": "Flow & Operations Specialist (Air)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471301482/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CoreWeave",
-      "title": "Data Center Operations Program Manager",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461822422/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Genius Business Solutions (GBSI)",
-      "title": "PROGRAM MANAGER/Data Architect | Oniste - San Francisco,CA | 6 Months",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472456710/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CoreWeave",
-      "title": "Data Center Operations Program Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461807466/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Western Exterminator Company",
-      "title": "Operations Manager, US Pest",
-      "location": "Hayward, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451292165/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Jobright.ai",
       "title": "Product Operations Manager (AI Recruiting Agent)",
       "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471099377/",
+      "url": "https://www.linkedin.com/jobs/view/4471307535/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -340,7 +53,7 @@
       "company": "Jobright.ai",
       "title": "AI Product Operations Manager",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471305241/",
+      "url": "https://www.linkedin.com/jobs/view/4471300806/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -348,121 +61,10 @@
       ]
     },
     {
-      "company": "Cumming Group",
-      "title": "Senior Project Manager",
-      "location": "San Rafael, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426670183/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EY",
-      "title": "Studio+ Sales Performance Management (SPM) Project Manager-Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451277732/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Rakuten Viki",
-      "title": "Lead, Strategy and Business Operations",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417047188/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jacobs",
-      "title": "Project Manager- Systems Implementation",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454816304/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "salary": "$92,100.00/yr - $161,200.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Citi",
-      "title": "Wealth Growth Program Manager | San Francisco, CA",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462649189/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "AI Enablement Partner - HR Operations (AMS)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471310167/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hightouch",
-      "title": "Technical Account Manager, Enterprise (East)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418023426/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Glean",
-      "title": "GTM Enablement Manager",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4444628039/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cash App",
-      "title": "Senior Technical Account Manager, Cash App Pay & Afterpay",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418037532/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TSP Talent",
-      "title": "Market Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471300469/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cypress HCM",
-      "title": "Senior HR Generalist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471301544/",
+      "company": "GILLIG",
+      "title": "Senior HR Operations Analyst",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472459927/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -475,7 +77,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 1,
+    "location": 0,
     "stale": 0
   }
 }
