@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-27 20:14 UTC",
+  "scraped_at": "2026-09-28 22:35 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of San Rafael",
@@ -28,20 +28,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Berkeley",
-      "title": "Program Manager II",
-      "location": "Berkeley, CA",
-      "url": "https://www.governmentjobs.com/jobs/5467445-0/program-manager-ii",
-      "date_posted": "",
-      "salary": "$152,532.43 - $184,582.11 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
