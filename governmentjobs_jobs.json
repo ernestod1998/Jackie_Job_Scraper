@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-28 22:35 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-09-29 21:27 UTC",
+  "total": 3,
+  "new_count": 1,
   "jobs": [
     {
       "company": "City of San Rafael",
@@ -26,9 +26,34 @@
       "feeds": [
         "general"
       ]
+    },
+    {
+      "company": "County of Santa Clara",
+      "title": "Program Manager III - Vietnamese American Service Center",
+      "location": "San Jose Metropolitan Area, CA",
+      "url": "https://www.governmentjobs.com/jobs/5436326-0/program-manager-iii-vietnamese-american-service-center",
+      "date_posted": "",
+      "salary": "$162,745.44 - $197,855.84 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "County of Santa Clara",
+      "title": "Program Manager III - Vietnamese American Service Center",
+      "location": "San Jose Metropolitan Area, CA",
+      "url": "https://www.governmentjobs.com/jobs/5436326-0/program-manager-iii-vietnamese-american-service-center",
+      "date_posted": "",
+      "salary": "$162,745.44 - $197,855.84 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
