@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-30 08:22 UTC",
-  "total": 18,
-  "new_count": 17,
+  "scraped_at": "2026-09-30 09:02 UTC",
+  "total": 21,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Roger Healthcare",
@@ -11,6 +11,17 @@
       "date_posted": "2026-09-30",
       "ats": "LinkedIn",
       "salary": "$110,000.00/yr - $160,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Nutanix",
+      "title": "Benefits Program Manager (LATAM, Canada & Global Wellbeing)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473031535/",
+      "date_posted": "2026-09-30",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -38,44 +49,10 @@
       ]
     },
     {
-      "company": "Baseten",
-      "title": "Recruiting Operations Program Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472123667/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $160,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "California Roof Pros",
-      "title": "Field Project Manager, Residential Roofing",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472133849/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Nen Creative",
       "title": "Creative Operations Manager",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4472126982/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nutanix",
-      "title": "Benefits Program Manager (LATAM, Canada & Global Wellbeing)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473031535/",
       "date_posted": "2026-09-30",
       "ats": "LinkedIn",
       "feeds": [
@@ -117,10 +94,77 @@
       ]
     },
     {
+      "company": "California Roof Pros",
+      "title": "Field Project Manager, Residential Roofing",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472133849/",
+      "date_posted": "2026-09-30",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Baseten",
+      "title": "Recruiting Operations Program Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472123667/",
+      "date_posted": "2026-09-30",
+      "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $160,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Nutanix",
       "title": "IT Audit Project Manager",
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4473708686/",
+      "date_posted": "2026-09-30",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stripe",
+      "title": "Product Operations Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461287009/",
+      "date_posted": "2026-09-30",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Associate Manager, Strategy & Operations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4452853350/",
+      "date_posted": "2026-09-30",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hiver",
+      "title": "Senior Customer Success Manager (US)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473716518/",
+      "date_posted": "2026-09-30",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Accenture",
+      "title": "Customer Experience & Service Transformation Management Advisory Consultant",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469404802/",
       "date_posted": "2026-09-30",
       "ats": "LinkedIn",
       "feeds": [
@@ -150,10 +194,21 @@
       ]
     },
     {
-      "company": "Live Well Homecare",
-      "title": "Care Manager - Lead",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473727461/",
+      "company": "ServiceNow",
+      "title": "Sr Dir, GTM Enablement",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472133359/",
+      "date_posted": "2026-09-30",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Greenway Collins",
+      "title": "Senior Customer Success Manager | AI Healthcare",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4473717483/",
       "date_posted": "2026-09-30",
       "ats": "LinkedIn",
       "feeds": [
@@ -172,32 +227,10 @@
       ]
     },
     {
-      "company": "Hiver",
-      "title": "Senior Customer Success Manager (US)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473716518/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Sr Dir, GTM Enablement",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472133359/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Greenway Collins",
-      "title": "Senior Customer Success Manager | AI Healthcare",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4473717483/",
+      "company": "Live Well Homecare",
+      "title": "Care Manager - Lead",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473727461/",
       "date_posted": "2026-09-30",
       "ats": "LinkedIn",
       "feeds": [
@@ -207,22 +240,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Roger Healthcare",
-      "title": "Business Operations",
+      "company": "Stripe",
+      "title": "Product Operations Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472144237/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $160,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Total Vision",
-      "title": "Patient Care Coordinator",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472108693/",
+      "url": "https://www.linkedin.com/jobs/view/4461287009/",
       "date_posted": "2026-09-30",
       "ats": "LinkedIn",
       "feeds": [
@@ -230,22 +251,10 @@
       ]
     },
     {
-      "company": "Baseten",
-      "title": "Recruiting Operations Program Manager",
+      "company": "DoorDash",
+      "title": "Associate Manager, Strategy & Operations",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472123667/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $160,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "California Roof Pros",
-      "title": "Field Project Manager, Residential Roofing",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472133849/",
+      "url": "https://www.linkedin.com/jobs/view/4452853350/",
       "date_posted": "2026-09-30",
       "ats": "LinkedIn",
       "feeds": [
@@ -253,143 +262,10 @@
       ]
     },
     {
-      "company": "Nen Creative",
-      "title": "Creative Operations Manager",
+      "company": "Accenture",
+      "title": "Customer Experience & Service Transformation Management Advisory Consultant",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472126982/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nutanix",
-      "title": "Benefits Program Manager (LATAM, Canada & Global Wellbeing)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473031535/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AdsGency AI",
-      "title": "Advertising Operations Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473722128/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Rivian",
-      "title": "Sr. Program Manager, Field Service Utilization & Productivity",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473700875/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Kelly",
-      "title": "Senior Content Operations Manager, Content Excelle",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469944919/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "salary": "$62.00/hr - $62.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nutanix",
-      "title": "IT Audit Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473708686/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "University of California, San Francisco",
-      "title": "Customer Experience Center Lead",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473597740/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vetted Solutions",
-      "title": "Care Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472134291/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Live Well Homecare",
-      "title": "Care Manager - Lead",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473727461/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vetted Solutions",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472123681/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hiver",
-      "title": "Senior Customer Success Manager (US)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473716518/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Sr Dir, GTM Enablement",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472133359/",
-      "date_posted": "2026-09-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Greenway Collins",
-      "title": "Senior Customer Success Manager | AI Healthcare",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4473717483/",
+      "url": "https://www.linkedin.com/jobs/view/4469404802/",
       "date_posted": "2026-09-30",
       "ats": "LinkedIn",
       "feeds": [
