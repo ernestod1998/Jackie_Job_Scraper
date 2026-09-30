@@ -1,8 +1,6 @@
 # 🏛 NEOGOV — State & Local Government Roles
-*Last updated: 2026-09-29 21:27 UTC*
+*Last updated: 2026-09-30 21:28 UTC*
 
-**1 new role(s)** since last run · 3 total in recent GovernmentJobs postings
+**0 new role(s)** since last run · 1 total in recent GovernmentJobs postings
 
-### [Program Manager III - Vietnamese American Service Center](https://www.governmentjobs.com/jobs/5436326-0/program-manager-iii-vietnamese-american-service-center) — County of Santa Clara
-- 📍 **Location:** San Jose Metropolitan Area, CA
-- 💰 **Salary:** $162,745.44 - $197,855.84 Annually
+No new state/local-gov roles since the last run.
