@@ -1,70 +1,81 @@
 {
-  "scraped_at": "2026-10-04 02:53 UTC",
-  "total": 6,
-  "new_count": 5,
+  "scraped_at": "2026-10-04 08:20 UTC",
+  "total": 7,
+  "new_count": 7,
   "jobs": [
     {
-      "company": "Thintronics\u00ae",
-      "title": "Office Manager",
-      "location": "Alameda County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473879925/",
-      "date_posted": "2026-10-03",
+      "company": "Aquent",
+      "title": "HR Generalist [AQ-20310]",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472952479/",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
-      "salary": "$80,000.00/yr - $108,000.00/yr",
+      "salary": "$24.00/hr - $26.00/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Plan A Health",
-      "title": "Bilingual Community Health Navigator II",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473873973/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ampere",
-      "title": "Compliance Program Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475358594/",
-      "date_posted": "2026-10-03",
+      "company": "GardaWorld",
+      "title": "Client Services Manager - Security",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473839143/",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "MEP Health",
-      "title": "Appointment Clerk/Medical Receptionist - Call Center",
-      "location": "Hayward, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473872959/",
-      "date_posted": "2026-10-03",
+      "company": "Planet",
+      "title": "Senior Service Delivery Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475371174/",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Azza HealthCare Agency",
+      "company": "TrueFoundry",
+      "title": "Technical Customer Success Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473893730/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AppLab Systems, Inc",
+      "title": "Digital Asset Management - Business Analyst.",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475372201/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Vetted Solutions",
       "title": "Care Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473451703/",
-      "date_posted": "2026-10-03",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475379138/",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Applied Materials",
-      "title": "Materials Project Manager \u2013 NPI Supply Chain - (B4)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460738672/",
-      "date_posted": "2026-10-03",
+      "company": "Vetted Solutions",
+      "title": "Care Manager",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475379139/",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -73,56 +84,78 @@
   ],
   "new_jobs": [
     {
-      "company": "Thintronics\u00ae",
-      "title": "Office Manager",
-      "location": "Alameda County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473879925/",
-      "date_posted": "2026-10-03",
+      "company": "Aquent",
+      "title": "HR Generalist [AQ-20310]",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472952479/",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
-      "salary": "$80,000.00/yr - $108,000.00/yr",
+      "salary": "$24.00/hr - $26.00/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Plan A Health",
-      "title": "Bilingual Community Health Navigator II",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473873973/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ampere",
-      "title": "Compliance Program Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475358594/",
-      "date_posted": "2026-10-03",
+      "company": "GardaWorld",
+      "title": "Client Services Manager - Security",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473839143/",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "MEP Health",
-      "title": "Appointment Clerk/Medical Receptionist - Call Center",
-      "location": "Hayward, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473872959/",
-      "date_posted": "2026-10-03",
+      "company": "Planet",
+      "title": "Senior Service Delivery Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475371174/",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Azza HealthCare Agency",
+      "company": "TrueFoundry",
+      "title": "Technical Customer Success Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473893730/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AppLab Systems, Inc",
+      "title": "Digital Asset Management - Business Analyst.",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475372201/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Vetted Solutions",
       "title": "Care Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473451703/",
-      "date_posted": "2026-10-03",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475379138/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Vetted Solutions",
+      "title": "Care Manager",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475379139/",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -134,7 +167,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 2,
+    "location": 0,
     "stale": 0
   }
 }

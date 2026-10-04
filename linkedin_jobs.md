@@ -1,25 +1,33 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-04 02:53 UTC*
+*Last updated: 2026-10-04 08:20 UTC*
 
-**5 new role(s)** since last run · 6 total in last 4h
+**7 new role(s)** since last run · 7 total in last 4h
 
-### [Office Manager](https://www.linkedin.com/jobs/view/4473879925/) — Thintronics®
-- 📍 **Location:** Alameda County, CA
-- 💰 **Salary:** $80,000.00/yr - $108,000.00/yr
-- 🕒 **Posted:** 2026-10-03
+### [HR Generalist [AQ-20310]](https://www.linkedin.com/jobs/view/4472952479/) — Aquent
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $24.00/hr - $26.00/hr
+- 🕒 **Posted:** 2026-10-04
 
-### [Bilingual Community Health Navigator II](https://www.linkedin.com/jobs/view/4473873973/) — Plan A Health
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-10-03
+### [Client Services Manager - Security](https://www.linkedin.com/jobs/view/4473839143/) — GardaWorld
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-04
 
-### [Compliance Program Manager](https://www.linkedin.com/jobs/view/4475358594/) — Ampere
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-03
+### [Senior Service Delivery Manager](https://www.linkedin.com/jobs/view/4475371174/) — Planet
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-04
 
-### [Appointment Clerk/Medical Receptionist - Call Center](https://www.linkedin.com/jobs/view/4473872959/) — MEP Health
-- 📍 **Location:** Hayward, CA
-- 🕒 **Posted:** 2026-10-03
+### [Technical Customer Success Manager](https://www.linkedin.com/jobs/view/4473893730/) — TrueFoundry
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-04
 
-### [Care Manager](https://www.linkedin.com/jobs/view/4473451703/) — Azza HealthCare Agency
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-03
+### [Digital Asset Management - Business Analyst.](https://www.linkedin.com/jobs/view/4475372201/) — AppLab Systems, Inc
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-04
+
+### [Care Manager](https://www.linkedin.com/jobs/view/4475379138/) — Vetted Solutions
+- 📍 **Location:** Danville, CA
+- 🕒 **Posted:** 2026-10-04
+
+### [Care Manager](https://www.linkedin.com/jobs/view/4475379139/) — Vetted Solutions
+- 📍 **Location:** Danville, CA
+- 🕒 **Posted:** 2026-10-04
