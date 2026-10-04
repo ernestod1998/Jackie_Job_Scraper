@@ -1,13 +1,47 @@
 {
-  "scraped_at": "2026-10-04 19:33 UTC",
-  "total": 28,
-  "new_count": 28,
+  "scraped_at": "2026-10-04 22:33 UTC",
+  "total": 9,
+  "new_count": 6,
   "jobs": [
     {
-      "company": "EC Source Services, LLC",
-      "title": "Assistant Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465466535/",
+      "company": "Nabi",
+      "title": "Operations Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475513355/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Ethos Veterinary Health",
+      "title": "Client Intake Coordinator, Temporary",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473393178/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Walker Cole International",
+      "title": "Patient Care Case Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4475513319/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "salary": "$100,000.00/yr - $130,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Astranis Space Technologies",
+      "title": "USG Capture Operations Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474231112/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -26,170 +60,12 @@
       ]
     },
     {
-      "company": "Integrated Diagnostic Services",
-      "title": "Account Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4474221179/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Product Operations Manager (Child Safety) - Teen Experience (San Jose)",
+      "company": "GardaWorld",
+      "title": "Client Services Manager - Security",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474216561/",
+      "url": "https://www.linkedin.com/jobs/view/4473839143/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Product Operations Manager (LLM) - TikTok Minor Safety (San Jose)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474221296/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Product Marketing Operations Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4446894110/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vercel",
-      "title": "Product Strategy & Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422900467/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Whatnot",
-      "title": "Strategy & Operations Manager, Compensation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409966775/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $185,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Alchemy",
-      "title": "Revenue Operations Lead",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420463794/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$175,000.00/yr - $220,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "STV",
-      "title": "Senior Project Manager - Aviation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427854332/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Genentech",
-      "title": "Control Systems and Infrastructure Support Lead (ITOT Mgmt.)",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457585977/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Productivity Project/Program Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464723562/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vercel",
-      "title": "Startups Program Lead",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420669937/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HOK",
-      "title": "Project Manager (Science & Technology) - (San Francisco & Seattle)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4447224720/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jacobs",
-      "title": "Project Manager: Electrical Transmission & Distribution (EPC) (Bay Area)",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4438584152/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$136,600.00/yr - $179,250.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HOK",
-      "title": "Sr Project Manager - Sports, Rec, & Ent",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403188674/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Senior Architectural Project Manager - DSA - Hayward",
-      "location": "Hayward, CA",
-      "url": "https://www.linkedin.com/jobs/view/4445061307/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$130,000.00/yr - $150,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -199,94 +75,6 @@
       "title": "Senior Program Manager - Monetization Ads Product and Tech",
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4474206992/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Customer Program Manager \u2013 AI Platform",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4446935791/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vercel",
-      "title": "Senior Technical Account Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4439303534/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Walter P Moore",
-      "title": "Enclosure Project Manager - Diagnostics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4365009005/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, PlusTAM (SDO)",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455915781/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457383096/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Strategic Account Manager, CSP",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4447420053/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Manager, AI Factory - Global Segment Sales",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4447421032/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457395006/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -305,12 +93,13 @@
       ]
     },
     {
-      "company": "Teradyne",
-      "title": "Senior Business Analyst (Teradyne, San Jose, CA)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454686376/",
+      "company": "Nimble",
+      "title": "Growth Customer Success Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4472540406/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $160,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -318,76 +107,10 @@
   ],
   "new_jobs": [
     {
-      "company": "EC Source Services, LLC",
-      "title": "Assistant Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465466535/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Senior Program Manager, Operational Excellence",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475511302/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Integrated Diagnostic Services",
-      "title": "Account Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4474221179/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Product Operations Manager (Child Safety) - Teen Experience (San Jose)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474216561/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Product Operations Manager (LLM) - TikTok Minor Safety (San Jose)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474221296/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Product Marketing Operations Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4446894110/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vercel",
-      "title": "Product Strategy & Operations",
+      "company": "Nabi",
+      "title": "Operations Associate",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422900467/",
+      "url": "https://www.linkedin.com/jobs/view/4475513355/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -395,101 +118,33 @@
       ]
     },
     {
-      "company": "Whatnot",
-      "title": "Strategy & Operations Manager, Compensation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409966775/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $185,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Alchemy",
-      "title": "Revenue Operations Lead",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420463794/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$175,000.00/yr - $220,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "STV",
-      "title": "Senior Project Manager - Aviation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427854332/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Genentech",
-      "title": "Control Systems and Infrastructure Support Lead (ITOT Mgmt.)",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457585977/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Productivity Project/Program Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464723562/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vercel",
-      "title": "Startups Program Lead",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420669937/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HOK",
-      "title": "Project Manager (Science & Technology) - (San Francisco & Seattle)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4447224720/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jacobs",
-      "title": "Project Manager: Electrical Transmission & Distribution (EPC) (Bay Area)",
+      "company": "Ethos Veterinary Health",
+      "title": "Client Intake Coordinator, Temporary",
       "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4438584152/",
+      "url": "https://www.linkedin.com/jobs/view/4473393178/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn",
-      "salary": "$136,600.00/yr - $179,250.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "HOK",
-      "title": "Sr Project Manager - Sports, Rec, & Ent",
+      "company": "Walker Cole International",
+      "title": "Patient Care Case Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4475513319/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "salary": "$100,000.00/yr - $130,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Astranis Space Technologies",
+      "title": "USG Capture Operations Analyst",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403188674/",
+      "url": "https://www.linkedin.com/jobs/view/4474231112/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -497,22 +152,10 @@
       ]
     },
     {
-      "company": "CyberCoders",
-      "title": "Senior Architectural Project Manager - DSA - Hayward",
-      "location": "Hayward, CA",
-      "url": "https://www.linkedin.com/jobs/view/4445061307/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$130,000.00/yr - $150,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Senior Program Manager - Monetization Ads Product and Tech",
+      "company": "GardaWorld",
+      "title": "Client Services Manager - Security",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474206992/",
+      "url": "https://www.linkedin.com/jobs/view/4473839143/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -520,111 +163,13 @@
       ]
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Customer Program Manager \u2013 AI Platform",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4446935791/",
+      "company": "Nimble",
+      "title": "Growth Customer Success Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4472540406/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vercel",
-      "title": "Senior Technical Account Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4439303534/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Walter P Moore",
-      "title": "Enclosure Project Manager - Diagnostics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4365009005/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, PlusTAM (SDO)",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455915781/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457383096/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Strategic Account Manager, CSP",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4447420053/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Manager, AI Factory - Global Segment Sales",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4447421032/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457395006/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Global Partner Product Strategy & Operations, TikTok Ads",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474216585/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Teradyne",
-      "title": "Senior Business Analyst (Teradyne, San Jose, CA)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454686376/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $160,000.00/yr",
       "feeds": [
         "general"
       ]
