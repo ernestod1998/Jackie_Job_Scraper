@@ -1,18 +1,14 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-03 22:23 UTC*
+*Last updated: 2026-10-04 02:50 UTC*
 
-**3 new role(s)** since last run · 88 total in last 24h
+**2 new role(s)** since last run · 46 total in last 24h
 
-### [Care Manager](https://www.indeed.com/viewjob?jk=0ff570ba52e54a6a) — LiveWell Homecare Agency
-- 📍 **Location:** San Mateo, CA, US
-- 🕒 **Posted:** 2026-10-03
-
-### [Solifi Equipment Finance Implementation Specialists](https://www.indeed.com/viewjob?jk=1cc9808901f48529) — Unknown
+### [Clinical Operations Strategy Lead](https://www.indeed.com/viewjob?jk=cc586f4e591398bd) — CenterWell
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $50–$80/hr
-- 🕒 **Posted:** 2026-10-03
+- 💰 **Salary:** $104k–$143k/yr
+- 🕒 **Posted:** 2026-10-02
 
-### [ACBS Implementation Specialist](https://www.indeed.com/viewjob?jk=bff46a95ac8b29b0) — Unknown
+### [Personal Lines Account Manager](https://www.indeed.com/viewjob?jk=b9fd7adce4a153f4) — StreetSmart Insurance
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $45–$70/hr
+- 💰 **Salary:** $59k–$67k/yr
 - 🕒 **Posted:** 2026-10-03
