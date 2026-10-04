@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-03 20:01 UTC",
-  "total": 2,
-  "new_count": 1,
+  "scraped_at": "2026-10-04 20:15 UTC",
+  "total": 4,
+  "new_count": 2,
   "jobs": [
     {
       "company": "County of San Mateo",
@@ -26,16 +26,52 @@
       "feeds": [
         "general"
       ]
+    },
+    {
+      "company": "City of Berkeley",
+      "title": "Program Manager II",
+      "location": "Berkeley, CA",
+      "url": "https://www.governmentjobs.com/jobs/5467445-0/program-manager-ii",
+      "date_posted": "",
+      "salary": "$152,532.43 - $184,582.11 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "County of Santa Clara",
+      "title": "Program Manager III - Vietnamese American Service Center",
+      "location": "San Jose Metropolitan Area, CA",
+      "url": "https://www.governmentjobs.com/jobs/5436326-0/program-manager-iii-vietnamese-american-service-center",
+      "date_posted": "",
+      "salary": "$162,745.44 - $197,855.84 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
     }
   ],
   "new_jobs": [
     {
-      "company": "County of San Mateo",
-      "title": "Lead Patient Services Assistant-SMMC North County Clinics-Spanish Speaking Prfd (Departmental Promo)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5500810-0/lead-patient-services-assistant-smmc-north-county-clinics-spanish-speaking-prfd",
+      "company": "City of Berkeley",
+      "title": "Program Manager II",
+      "location": "Berkeley, CA",
+      "url": "https://www.governmentjobs.com/jobs/5467445-0/program-manager-ii",
       "date_posted": "",
-      "salary": "$6,328.40 - $7,914.40 Monthly",
+      "salary": "$152,532.43 - $184,582.11 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "County of Santa Clara",
+      "title": "Program Manager III - Vietnamese American Service Center",
+      "location": "San Jose Metropolitan Area, CA",
+      "url": "https://www.governmentjobs.com/jobs/5436326-0/program-manager-iii-vietnamese-american-service-center",
+      "date_posted": "",
+      "salary": "$162,745.44 - $197,855.84 Annually",
       "ats": "NEOGOV",
       "feeds": [
         "general"
