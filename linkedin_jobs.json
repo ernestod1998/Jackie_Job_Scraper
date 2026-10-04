@@ -1,13 +1,58 @@
 {
-  "scraped_at": "2026-10-03 23:44 UTC",
-  "total": 2,
-  "new_count": 1,
+  "scraped_at": "2026-10-04 02:53 UTC",
+  "total": 6,
+  "new_count": 5,
   "jobs": [
     {
-      "company": "Hatch",
-      "title": "Accounting Operations Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469603883/",
+      "company": "Thintronics\u00ae",
+      "title": "Office Manager",
+      "location": "Alameda County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473879925/",
+      "date_posted": "2026-10-03",
+      "ats": "LinkedIn",
+      "salary": "$80,000.00/yr - $108,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Plan A Health",
+      "title": "Bilingual Community Health Navigator II",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473873973/",
+      "date_posted": "2026-10-03",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Ampere",
+      "title": "Compliance Program Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475358594/",
+      "date_posted": "2026-10-03",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MEP Health",
+      "title": "Appointment Clerk/Medical Receptionist - Call Center",
+      "location": "Hayward, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473872959/",
+      "date_posted": "2026-10-03",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Azza HealthCare Agency",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473451703/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn",
       "feeds": [
@@ -28,10 +73,55 @@
   ],
   "new_jobs": [
     {
-      "company": "Applied Materials",
-      "title": "Materials Project Manager \u2013 NPI Supply Chain - (B4)",
+      "company": "Thintronics\u00ae",
+      "title": "Office Manager",
+      "location": "Alameda County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473879925/",
+      "date_posted": "2026-10-03",
+      "ats": "LinkedIn",
+      "salary": "$80,000.00/yr - $108,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Plan A Health",
+      "title": "Bilingual Community Health Navigator II",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473873973/",
+      "date_posted": "2026-10-03",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Ampere",
+      "title": "Compliance Program Manager",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460738672/",
+      "url": "https://www.linkedin.com/jobs/view/4475358594/",
+      "date_posted": "2026-10-03",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MEP Health",
+      "title": "Appointment Clerk/Medical Receptionist - Call Center",
+      "location": "Hayward, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473872959/",
+      "date_posted": "2026-10-03",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Azza HealthCare Agency",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473451703/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn",
       "feeds": [
@@ -44,7 +134,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 0,
+    "location": 2,
     "stale": 0
   }
 }
