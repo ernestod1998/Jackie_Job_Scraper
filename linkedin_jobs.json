@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-05 08:51 UTC",
-  "total": 6,
-  "new_count": 6,
+  "scraped_at": "2026-10-05 09:38 UTC",
+  "total": 8,
+  "new_count": 2,
   "jobs": [
     {
       "company": "AfterQuery",
@@ -16,6 +16,17 @@
       ]
     },
     {
+      "company": "Xtalks",
+      "title": "Program Manager, Preclinical & Early...",
+      "location": "Brisbane, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474248850/",
+      "date_posted": "2026-10-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "CVS Health",
       "title": "Operations Manager",
       "location": "San Mateo, CA",
@@ -68,6 +79,17 @@
       "date_posted": "2026-10-05",
       "ats": "LinkedIn",
       "salary": "$26.00/hr - $26.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Adobe",
+      "title": "Senior Business Operations Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456844431/",
+      "date_posted": "2026-10-05",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -75,22 +97,10 @@
   ],
   "new_jobs": [
     {
-      "company": "AfterQuery",
-      "title": "Sales Operations Associate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475547312/",
-      "date_posted": "2026-10-05",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $120,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CVS Health",
-      "title": "Operations Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475068074/",
+      "company": "Xtalks",
+      "title": "Program Manager, Preclinical & Early...",
+      "location": "Brisbane, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474248850/",
       "date_posted": "2026-10-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -98,47 +108,12 @@
       ]
     },
     {
-      "company": "Lyft",
-      "title": "Procurement Operations Manager",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475525910/",
+      "company": "Adobe",
+      "title": "Senior Business Operations Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456844431/",
       "date_posted": "2026-10-05",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "gpac",
-      "title": "Electrical Project Manager/Estimator",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473617762/",
-      "date_posted": "2026-10-05",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $220,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Live Well Homecare",
-      "title": "Care Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475534883/",
-      "date_posted": "2026-10-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Axis Community Health",
-      "title": "CLINICAL CARE ASSISTANT",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468801321/",
-      "date_posted": "2026-10-05",
-      "ats": "LinkedIn",
-      "salary": "$26.00/hr - $26.00/hr",
       "feeds": [
         "general"
       ]
