@@ -1,61 +1,73 @@
 {
-  "scraped_at": "2026-10-05 02:26 UTC",
-  "total": 5,
-  "new_count": 4,
+  "scraped_at": "2026-10-05 08:51 UTC",
+  "total": 6,
+  "new_count": 6,
   "jobs": [
     {
-      "company": "Climactic",
-      "title": "People Operations Intern (Summer 2027)",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475509931/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Azza HealthCare Agency",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473498574/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Azza HealthCare Agency",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473493842/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Talently",
-      "title": "Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475015971/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $150,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Talently",
-      "title": "Electrical Project Manager",
+      "company": "AfterQuery",
+      "title": "Sales Operations Associate",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471803485/",
-      "date_posted": "2026-10-04",
+      "url": "https://www.linkedin.com/jobs/view/4475547312/",
+      "date_posted": "2026-10-05",
       "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $180,000.00/yr",
+      "salary": "$100,000.00/yr - $120,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CVS Health",
+      "title": "Operations Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475068074/",
+      "date_posted": "2026-10-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lyft",
+      "title": "Procurement Operations Manager",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475525910/",
+      "date_posted": "2026-10-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "gpac",
+      "title": "Electrical Project Manager/Estimator",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473617762/",
+      "date_posted": "2026-10-05",
+      "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $220,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Well Homecare",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475534883/",
+      "date_posted": "2026-10-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Axis Community Health",
+      "title": "CLINICAL CARE ASSISTANT",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468801321/",
+      "date_posted": "2026-10-05",
+      "ats": "LinkedIn",
+      "salary": "$26.00/hr - $26.00/hr",
       "feeds": [
         "general"
       ]
@@ -63,46 +75,70 @@
   ],
   "new_jobs": [
     {
-      "company": "Climactic",
-      "title": "People Operations Intern (Summer 2027)",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475509931/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Azza HealthCare Agency",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473498574/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Azza HealthCare Agency",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473493842/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Talently",
-      "title": "Electrical Project Manager",
+      "company": "AfterQuery",
+      "title": "Sales Operations Associate",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471803485/",
-      "date_posted": "2026-10-04",
+      "url": "https://www.linkedin.com/jobs/view/4475547312/",
+      "date_posted": "2026-10-05",
       "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $180,000.00/yr",
+      "salary": "$100,000.00/yr - $120,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CVS Health",
+      "title": "Operations Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475068074/",
+      "date_posted": "2026-10-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lyft",
+      "title": "Procurement Operations Manager",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475525910/",
+      "date_posted": "2026-10-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "gpac",
+      "title": "Electrical Project Manager/Estimator",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473617762/",
+      "date_posted": "2026-10-05",
+      "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $220,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Well Homecare",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475534883/",
+      "date_posted": "2026-10-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Axis Community Health",
+      "title": "CLINICAL CARE ASSISTANT",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468801321/",
+      "date_posted": "2026-10-05",
+      "ats": "LinkedIn",
+      "salary": "$26.00/hr - $26.00/hr",
       "feeds": [
         "general"
       ]
