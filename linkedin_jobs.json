@@ -1,13 +1,13 @@
 {
-  "scraped_at": "2026-10-04 23:55 UTC",
-  "total": 6,
-  "new_count": 1,
+  "scraped_at": "2026-10-05 02:26 UTC",
+  "total": 5,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "Nabi",
-      "title": "Operations Associate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475513355/",
+      "company": "Climactic",
+      "title": "People Operations Intern (Summer 2027)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475509931/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -15,10 +15,10 @@
       ]
     },
     {
-      "company": "Ethos Veterinary Health",
-      "title": "Client Intake Coordinator, Temporary",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473393178/",
+      "company": "Azza HealthCare Agency",
+      "title": "Care Manager",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473498574/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -26,33 +26,10 @@
       ]
     },
     {
-      "company": "Walker Cole International",
-      "title": "Patient Care Case Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4475513319/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $130,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Astranis Space Technologies",
-      "title": "USG Capture Operations Analyst",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474231112/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "GardaWorld",
-      "title": "Client Services Manager - Security",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473839143/",
+      "company": "Azza HealthCare Agency",
+      "title": "Care Manager",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473493842/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -67,6 +44,18 @@
       "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "salary": "$110,000.00/yr - $150,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Talently",
+      "title": "Electrical Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471803485/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $180,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -74,13 +63,46 @@
   ],
   "new_jobs": [
     {
-      "company": "Talently",
-      "title": "Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475015971/",
+      "company": "Climactic",
+      "title": "People Operations Intern (Summer 2027)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475509931/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $150,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Azza HealthCare Agency",
+      "title": "Care Manager",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473498574/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Azza HealthCare Agency",
+      "title": "Care Manager",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473493842/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Talently",
+      "title": "Electrical Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471803485/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $180,000.00/yr",
       "feeds": [
         "general"
       ]
