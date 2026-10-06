@@ -1,8 +1,20 @@
 {
-  "scraped_at": "2026-10-05 23:14 UTC",
-  "total": 5,
-  "new_count": 0,
+  "scraped_at": "2026-10-06 21:45 UTC",
+  "total": 6,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Pacifica",
+      "title": "Project Manager",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/pacifica/job-20782759",
+      "date_posted": "",
+      "salary": "$40.00-$50.00 Hourly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "Golden Gate Bridge Highway And Transportation District",
       "title": "Program Manager, Electronic Revenue Operations",
@@ -64,7 +76,20 @@
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Pacifica",
+      "title": "Project Manager",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/pacifica/job-20782759",
+      "date_posted": "",
+      "salary": "$40.00-$50.00 Hourly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,

@@ -1,20 +1,8 @@
 {
-  "scraped_at": "2026-10-05 23:14 UTC",
+  "scraped_at": "2026-10-06 21:45 UTC",
   "total": 2,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
-    {
-      "company": "County of San Mateo",
-      "title": "Environmental Health Program Supervisor (Open & Promotional)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5500148-0/environmental-health-program-supervisor-open-promotional",
-      "date_posted": "",
-      "salary": "$11,989.47 - $14,984.67 Monthly",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
     {
       "company": "County of San Mateo",
       "title": "Lead Patient Services Assistant-SMMC North County Clinics-Spanish Speaking Prfd (Departmental Promo)",
@@ -26,9 +14,34 @@
       "feeds": [
         "general"
       ]
+    },
+    {
+      "company": "County of Santa Clara",
+      "title": "Program Manager III - Vietnamese American Service Center",
+      "location": "San Jose Metropolitan Area, CA",
+      "url": "https://www.governmentjobs.com/jobs/5436326-0/program-manager-iii-vietnamese-american-service-center",
+      "date_posted": "",
+      "salary": "$162,745.44 - $197,855.84 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "County of Santa Clara",
+      "title": "Program Manager III - Vietnamese American Service Center",
+      "location": "San Jose Metropolitan Area, CA",
+      "url": "https://www.governmentjobs.com/jobs/5436326-0/program-manager-iii-vietnamese-american-service-center",
+      "date_posted": "",
+      "salary": "$162,745.44 - $197,855.84 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,

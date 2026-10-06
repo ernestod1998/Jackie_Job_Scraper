@@ -1,6 +1,8 @@
 # 🏛 CalOpps — California Local-Agency Roles
-*Last updated: 2026-10-05 23:14 UTC*
+*Last updated: 2026-10-06 21:45 UTC*
 
-**0 new role(s)** since last run · 5 total in recent CalOpps postings
+**1 new role(s)** since last run · 6 total in recent CalOpps postings
 
-No new CalOpps roles since the last run.
+### [Project Manager](https://www.calopps.org/pacifica/job-20782759) — Pacifica
+- 📍 **Location:** San Francisco/Peninsula
+- 💰 **Salary:** $40.00-$50.00 Hourly
