@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-07 08:33 UTC",
+  "scraped_at": "2026-10-07 09:22 UTC",
   "total": 20,
-  "new_count": 19,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Verily Health",
@@ -61,6 +61,17 @@
       ]
     },
     {
+      "company": "TE Connectivity",
+      "title": "Quality Manager (Aerospace, Defense & Marine)",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471808250/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Roblox",
       "title": "Senior Program Manager",
       "location": "San Mateo, CA",
@@ -100,7 +111,6 @@
       "url": "https://www.linkedin.com/jobs/view/4475159922/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$65.00/hr - $70.00/hr",
       "feeds": [
         "general"
       ]
@@ -110,28 +120,6 @@
       "title": "Technical Account Manager-Data Center Power Systems",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4475166618/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Palo Alto Networks",
-      "title": "Onboarding Specialist (Contract)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475400184/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TE Connectivity",
-      "title": "Quality Manager (Aerospace, Defense & Marine)",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471808250/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -172,17 +160,6 @@
       ]
     },
     {
-      "company": "Amada Senior Care - East Bay",
-      "title": "Urgent Hiring! Caregiver ($23) \u2013 Steady Shifts & Fast Onboarding",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476573555/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Miter",
       "title": "Strategic Customer Success Manager",
       "location": "San Francisco, CA",
@@ -209,6 +186,17 @@
     {
       "company": "Amada Senior Care - East Bay",
       "title": "Urgent Hiring! Caregiver ($23) \u2013 Steady Shifts & Fast Onboarding",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476573555/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amada Senior Care - East Bay",
+      "title": "Urgent Hiring! Caregiver ($23) \u2013 Steady Shifts & Fast Onboarding",
       "location": "San Ramon, CA",
       "url": "https://www.linkedin.com/jobs/view/4476585112/",
       "date_posted": "2026-10-07",
@@ -222,110 +210,6 @@
       "title": "Urgent Hiring! Caregiver ($23) \u2013 Steady Shifts & Fast Onboarding",
       "location": "Berkeley, CA",
       "url": "https://www.linkedin.com/jobs/view/4476569700/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Verily Health",
-      "title": "Staff Product Operations Manager, Pre",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475165474/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Verily Health",
-      "title": "Staff Product Operations Manager, Pre",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475160542/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Perplexity",
-      "title": "Billing Operations Lead",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475177274/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $185,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TrueFoundry",
-      "title": "Technical Customer Success Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475175462/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$190,000.00/yr - $230,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Global Business Ser. 4u",
-      "title": "Network Project Manager",
-      "location": "Walnut Creek, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475173165/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Siemens",
-      "title": "Data Program Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475156796/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Glean",
-      "title": "Product Operations",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476550565/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TEKsystems",
-      "title": "Marketing Program Manager",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475159922/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$65.00/hr - $70.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amperesand",
-      "title": "Technical Account Manager-Data Center Power Systems",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475166618/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -342,109 +226,9 @@
       "feeds": [
         "general"
       ]
-    },
-    {
-      "company": "TE Connectivity",
-      "title": "Quality Manager (Aerospace, Defense & Marine)",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471808250/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Live Well Homecare",
-      "title": "Care Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475185573/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Live Well Homecare",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475178901/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vetted Solutions",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476566331/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amada Senior Care - East Bay",
-      "title": "Urgent Hiring! Caregiver ($23) \u2013 Steady Shifts & Fast Onboarding",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476573555/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Miter",
-      "title": "Strategic Customer Success Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476575354/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $160,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Benchling",
-      "title": "Leader, Account Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475173107/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$157,000.00/yr - $220,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amada Senior Care - East Bay",
-      "title": "Urgent Hiring! Caregiver ($23) \u2013 Steady Shifts & Fast Onboarding",
-      "location": "San Ramon, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476585112/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amada Senior Care - East Bay",
-      "title": "Urgent Hiring! Caregiver ($23) \u2013 Steady Shifts & Fast Onboarding",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476569700/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
     }
   ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
