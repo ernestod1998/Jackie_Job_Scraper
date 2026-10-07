@@ -1,8 +1,8 @@
 # 🏛 CalOpps — California Local-Agency Roles
-*Last updated: 2026-10-06 21:45 UTC*
+*Last updated: 2026-10-07 22:07 UTC*
 
 **1 new role(s)** since last run · 6 total in recent CalOpps postings
 
-### [Project Manager](https://www.calopps.org/pacifica/job-20782759) — Pacifica
+### [Project Manager II](https://www.calopps.org/san-mateo-county-transit-district-samtrans/job-20783258) — San Mateo County Transit District Samtrans
 - 📍 **Location:** San Francisco/Peninsula
-- 💰 **Salary:** $40.00-$50.00 Hourly
+- 💰 **Salary:** $143,142.00-$200,398.00 Annually
