@@ -1,73 +1,131 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-08 02:40 UTC*
+*Last updated: 2026-10-08 09:32 UTC*
 
-**17 new role(s)** since last run · 60 total in last 4h
+**30 new role(s)** since last run · 30 total in last 4h
 
-### [Customer Experience Associate](https://www.linkedin.com/jobs/view/4470941894/) — Eko Health
-- 📍 **Location:** Emeryville, CA
-- 💰 **Salary:** $22.00/hr - $25.00/hr
-- 🕒 **Posted:** 2026-10-07
-
-### [Intern - Development - Clinical Operations, Clinical Trials Manager](https://www.linkedin.com/jobs/view/4463565505/) — Gilead Sciences
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-07
-
-### [Patient Navigator](https://www.linkedin.com/jobs/view/4476978542/) — Spring Fertility
+### [Premium Onboarding Partner, DDfB](https://www.linkedin.com/jobs/view/4465923221/) — DoorDash
 - 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-07
+- 🕒 **Posted:** 2026-10-08
 
-### [Applied AI Architect, Beneficial Deployments (Life Sciences Community & Enablement)](https://www.linkedin.com/jobs/view/4475729283/) — Anthropic
+### [Premium Onboarding Partner, DDfB](https://www.linkedin.com/jobs/view/4465904353/) — DoorDash
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-07
+- 🕒 **Posted:** 2026-10-08
 
-### [Case Manager II Eddy Street Apartments](https://www.linkedin.com/jobs/view/4476970654/) — Community Forward SF
+### [Safe House Program Manager](https://www.linkedin.com/jobs/view/4477125094/) — JCI Empresarios La Paz
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Conservation Ranching Program Manager](https://www.linkedin.com/jobs/view/4468269509/) — National Audubon Society
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Office, Events & Executive Operations Manager](https://www.linkedin.com/jobs/view/4477125618/) — Hellyeah AI
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-07
+- 💰 **Salary:** $90,000.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-10-08
 
-### [Food and Beverage Operations Manager](https://www.linkedin.com/jobs/view/4476975638/) — Marriott International
+### [Clinical Front Office Manager](https://www.linkedin.com/jobs/view/4475765135/) — TEKsystems
+- 📍 **Location:** Los Gatos, CA
+- 💰 **Salary:** $35.00/hr - $35.00/hr
+- 🕒 **Posted:** 2026-10-08
+
+### [Associate Manager, Merchant Onboarding and Experience, DoorDash for Business](https://www.linkedin.com/jobs/view/4466223405/) — DoorDash
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-07
+- 🕒 **Posted:** 2026-10-08
 
-### [Food and Beverage Operations Manager](https://www.linkedin.com/jobs/view/4476970798/) — Marriott International
+### [IVF Lab Project Manager](https://www.linkedin.com/jobs/view/4439924592/) — Sutter Health
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Associate, Marketplace Audience Strategy & Operations](https://www.linkedin.com/jobs/view/4447316528/) — DoorDash
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-07
+- 🕒 **Posted:** 2026-10-08
 
-### [Senior Physical Security Operations Manager](https://www.linkedin.com/jobs/view/4474802156/) — Robinhood
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-10-07
+### [Sr. Program Manager](https://www.linkedin.com/jobs/view/4468274288/) — Intuitive
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $155,600.00/yr - $263,500.00/yr
+- 🕒 **Posted:** 2026-10-08
 
-### [Financial Operations Supervisor](https://www.linkedin.com/jobs/view/4474588604/) — University of California, San Francisco
+### [Facilities Operations Manager](https://www.linkedin.com/jobs/view/4477124048/) — Native American Health Center
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $88,920.00/yr - $107,640.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Program Manager, NPI Sourcing](https://www.linkedin.com/jobs/view/4412945203/) — Intuitive
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $137,800.00/yr - $233,300.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Project Manager, Regulatory Affairs / Quality Assurance](https://www.linkedin.com/jobs/view/4468261469/) — Intuitive
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $127,900.00/yr - $216,500.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Operations Manager](https://www.linkedin.com/jobs/view/4477115580/) — 24 Hour Fitness
+- 📍 **Location:** Livermore, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Operations Manager](https://www.linkedin.com/jobs/view/4477113629/) — 24 Hour Fitness
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Product Operations Manager, AI Solutions and Enablement, Consumer Apps Marketing](https://www.linkedin.com/jobs/view/4477107785/) — Google
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Product Operations Manager, AI Solutions and Enablement, Consumer Apps Marketing](https://www.linkedin.com/jobs/view/4477120344/) — Google
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-07
+- 🕒 **Posted:** 2026-10-08
 
-### [Customer Experience Manager](https://www.linkedin.com/jobs/view/4474802150/) — Five Below
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-07
+### [SAP BRIM Project Manager](https://www.linkedin.com/jobs/view/4477109228/) — Danta Technologies
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $55.00/hr - $65.00/hr
+- 🕒 **Posted:** 2026-10-08
 
-### [Support Lead Part Time](https://www.linkedin.com/jobs/view/4474494541/) — Five Below
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-07
-
-### [Strategy & Operations, Office of the CCO](https://www.linkedin.com/jobs/view/4475733179/) — Anthropic
+### [Project Manager- Highways Roads](https://www.linkedin.com/jobs/view/4440272854/) — GHD
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-07
+- 🕒 **Posted:** 2026-10-08
 
-### [AI Customer Support Specialist](https://www.linkedin.com/jobs/view/4476981426/) — Step
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-07
+### [Program/Project Manager 3](https://www.linkedin.com/jobs/view/4467162564/) — Lam Research
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-10-08
 
-### [EDA Customer Success Manager](https://www.linkedin.com/jobs/view/4474808034/) — Keysight Technologies
+### [Program Manager, Transformation](https://www.linkedin.com/jobs/view/4458317448/) — Adobe
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Project Manager/Program Manager (7702)](https://www.linkedin.com/jobs/view/4418501851/) — TSMC
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Operations Supervisor-Valley Fair (Full-time Product/Stockroom Lead)](https://www.linkedin.com/jobs/view/4475772044/) — Victoria’s Secret & Co.
 - 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-07
+- 🕒 **Posted:** 2026-10-08
 
-### [Care Manager](https://www.linkedin.com/jobs/view/4474496385/) — Azza HealthCare Agency
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-07
+### [Copy of Client Operations Lead](https://www.linkedin.com/jobs/view/4474472393/) — Barry's
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-08
 
-### [Care Manager](https://www.linkedin.com/jobs/view/4474485805/) — Azza HealthCare Agency
-- 📍 **Location:** Danville, CA
-- 🕒 **Posted:** 2026-10-07
+### [Program Lead, Delivery Product Insights & Rollouts Readiness](https://www.linkedin.com/jobs/view/4477129003/) — Uber
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-08
 
-### [IT Operations Lead](https://www.linkedin.com/jobs/view/4476964888/) — Mind Robotics
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-07
+### [LOA & Benefits Program Manager US & Canada](https://www.linkedin.com/jobs/view/4457726801/) — Adobe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [NPI Materials Program Manager 4](https://www.linkedin.com/jobs/view/4446628720/) — Oracle
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Business Analyst](https://www.linkedin.com/jobs/view/4475760932/) — Celerity
+- 📍 **Location:** Walnut Creek, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Tax Manager, Private Client Services](https://www.linkedin.com/jobs/view/4363266138/) — BDO USA
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Tax Manager, Private Client Services](https://www.linkedin.com/jobs/view/4363982949/) — BDO USA
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-08
