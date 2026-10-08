@@ -1,22 +1,35 @@
 {
-  "scraped_at": "2026-10-07 22:06 UTC",
+  "scraped_at": "2026-10-08 22:13 UTC",
   "total": 1,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "County of San Mateo",
-      "title": "Lead Patient Services Assistant-SMMC North County Clinics-Spanish Speaking Prfd (Departmental Promo)",
+      "title": "Environmental Health Program Supervisor (Open & Promotional)",
       "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5500810-0/lead-patient-services-assistant-smmc-north-county-clinics-spanish-speaking-prfd",
+      "url": "https://www.governmentjobs.com/jobs/5500148-0/environmental-health-program-supervisor-open-promotional",
       "date_posted": "",
-      "salary": "$6,328.40 - $7,914.40 Monthly",
+      "salary": "$11,989.47 - $14,984.67 Monthly",
       "ats": "NEOGOV",
       "feeds": [
         "general"
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "County of San Mateo",
+      "title": "Environmental Health Program Supervisor (Open & Promotional)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5500148-0/environmental-health-program-supervisor-open-promotional",
+      "date_posted": "",
+      "salary": "$11,989.47 - $14,984.67 Monthly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
