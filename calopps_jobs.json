@@ -1,8 +1,20 @@
 {
-  "scraped_at": "2026-10-08 22:13 UTC",
-  "total": 6,
-  "new_count": 0,
+  "scraped_at": "2026-10-09 21:48 UTC",
+  "total": 7,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "San Mateo County Transit District Samtrans",
+      "title": "Senior Project Manager",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo-county-transit-district-samtrans/job-20783609",
+      "date_posted": "",
+      "salary": "$157,814.00-$220,939.00 Annually",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "San Mateo County Transit District Samtrans",
       "title": "Project Manager II",
@@ -76,7 +88,20 @@
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "San Mateo County Transit District Samtrans",
+      "title": "Senior Project Manager",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo-county-transit-district-samtrans/job-20783609",
+      "date_posted": "",
+      "salary": "$157,814.00-$220,939.00 Annually",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
