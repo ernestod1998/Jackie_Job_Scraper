@@ -1,8 +1,8 @@
 # 🏛 CalOpps — California Local-Agency Roles
-*Last updated: 2026-10-09 21:48 UTC*
+*Last updated: 2026-10-10 20:37 UTC*
 
-**1 new role(s)** since last run · 7 total in recent CalOpps postings
+**1 new role(s)** since last run · 8 total in recent CalOpps postings
 
-### [Senior Project Manager](https://www.calopps.org/san-mateo-county-transit-district-samtrans/job-20783609) — San Mateo County Transit District Samtrans
+### [Recreation & Community Services Program Coordinator](https://www.calopps.org/south-san-francisco/job-20782746) — South San Francisco
 - 📍 **Location:** San Francisco/Peninsula
-- 💰 **Salary:** $157,814.00-$220,939.00 Annually
+- 💰 **Salary:** $85,633.00-$104,083.00 Annually
