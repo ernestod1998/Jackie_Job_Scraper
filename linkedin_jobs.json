@@ -1,69 +1,136 @@
 {
-  "scraped_at": "2026-10-10 09:06 UTC",
-  "total": 12,
-  "new_count": 0,
+  "scraped_at": "2026-10-10 20:00 UTC",
+  "total": 16,
+  "new_count": 16,
   "jobs": [
     {
-      "company": "Native American Health Center",
-      "title": "Call Center Coordinator",
+      "company": "ByteDance",
+      "title": "Content Operations Specialist - PICO Video",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477224458/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Perplexity",
+      "title": "Enablement Specialist, Perplexity Computer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467894780/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Perplexity",
+      "title": "Creative Operations Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467899620/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $210,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Suno",
+      "title": "Trust & Safety Operations Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466933626/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Sr. Marketing Operations Manager, AWS Marketing Strategy, Operations, and Enablement",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469144401/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Sr. Marketing Operations Manager, AWS Marketing Strategy, Operations, and Enablement",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469150315/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SoFi Tech Solutions",
+      "title": "Manager, Strategy & Business Operations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469278708/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TikTok",
+      "title": "Senior Content Safety Policy Operations Manager - TikTok Safety Product",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477216939/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MongoDB",
+      "title": "Revenue Operations Manager",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460557073/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cumming Group",
+      "title": "Senior Project Manager",
       "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476897511/",
+      "url": "https://www.linkedin.com/jobs/view/4432915964/",
       "date_posted": "2026-10-10",
       "ats": "LinkedIn",
-      "salary": "$24.49/hr - $28.87/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "University of California, San Francisco",
-      "title": "Project Manager",
+      "company": "Perplexity",
+      "title": "Enterprise Customer Success Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478015881/",
+      "url": "https://www.linkedin.com/jobs/view/4468007512/",
       "date_posted": "2026-10-10",
       "ats": "LinkedIn",
+      "salary": "$170,000.00/yr - $220,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "University of California, San Francisco",
-      "title": "Fellowship Program Coordinator \u2013 Anesthesiology",
+      "company": "Amazon",
+      "title": "Accounting Program Manager , eero",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478018733/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Telecare Corporation",
-      "title": "Inpatient Behavioral Health Program Administrator - 115",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478038065/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Salma Health",
-      "title": "Manager, Business Strategy & Operations",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478029956/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Schindler Group",
-      "title": "Project Manager - Existing Instillation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475298614/",
+      "url": "https://www.linkedin.com/jobs/view/4469155155/",
       "date_posted": "2026-10-10",
       "ats": "LinkedIn",
       "feeds": [
@@ -72,9 +139,9 @@
     },
     {
       "company": "Siemens",
-      "title": "Data Program Manager",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476894452/",
+      "title": "Senior Project Manager \u2013 Fire/Life Safety Systems",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4432181234/",
       "date_posted": "2026-10-10",
       "ats": "LinkedIn",
       "feeds": [
@@ -82,10 +149,10 @@
       ]
     },
     {
-      "company": "Live Well Homecare",
-      "title": "Care Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478037499/",
+      "company": "Applied Materials",
+      "title": "Global Rewards Program Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466982885/",
       "date_posted": "2026-10-10",
       "ats": "LinkedIn",
       "feeds": [
@@ -93,10 +160,10 @@
       ]
     },
     {
-      "company": "Vetted Solutions",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478022988/",
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475614940/",
       "date_posted": "2026-10-10",
       "ats": "LinkedIn",
       "feeds": [
@@ -104,32 +171,10 @@
       ]
     },
     {
-      "company": "Live Well Homecare",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478041264/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vetted Solutions",
-      "title": "Care Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478040262/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vetted Solutions",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478035502/",
+      "company": "Perplexity",
+      "title": "Program Manager, Talent Acquisition",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467898662/",
       "date_posted": "2026-10-10",
       "ats": "LinkedIn",
       "feeds": [
@@ -137,13 +182,192 @@
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "ByteDance",
+      "title": "Content Operations Specialist - PICO Video",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477224458/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Perplexity",
+      "title": "Enablement Specialist, Perplexity Computer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467894780/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Perplexity",
+      "title": "Creative Operations Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467899620/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $210,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Suno",
+      "title": "Trust & Safety Operations Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466933626/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Sr. Marketing Operations Manager, AWS Marketing Strategy, Operations, and Enablement",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469144401/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Sr. Marketing Operations Manager, AWS Marketing Strategy, Operations, and Enablement",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469150315/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SoFi Tech Solutions",
+      "title": "Manager, Strategy & Business Operations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469278708/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TikTok",
+      "title": "Senior Content Safety Policy Operations Manager - TikTok Safety Product",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477216939/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MongoDB",
+      "title": "Revenue Operations Manager",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460557073/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cumming Group",
+      "title": "Senior Project Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4432915964/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Perplexity",
+      "title": "Enterprise Customer Success Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468007512/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "salary": "$170,000.00/yr - $220,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon",
+      "title": "Accounting Program Manager , eero",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469155155/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Siemens",
+      "title": "Senior Project Manager \u2013 Fire/Life Safety Systems",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4432181234/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Global Rewards Program Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466982885/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475614940/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Perplexity",
+      "title": "Program Manager, Talent Acquisition",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467898662/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 0,
+    "location": 1,
     "stale": 0
   }
 }
