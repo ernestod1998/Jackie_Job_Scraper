@@ -1,94 +1,15 @@
 {
-  "scraped_at": "2026-10-11 00:11 UTC",
-  "total": 8,
-  "new_count": 8,
+  "scraped_at": "2026-10-11 08:40 UTC",
+  "total": 1,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "Personal Touch Home Health Care Services Inc.",
-      "title": "Care Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477246076/",
-      "date_posted": "2026-10-10",
+      "company": "Zenith American Solutions, Inc.",
+      "title": "Customer Care Advocate",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475650327/",
+      "date_posted": "2026-10-11",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Seacrest Behavioral Health",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477235443/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Proforma Health",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477221844/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Health Care Administrators Association\u00ae (HCAA)",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477224752/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cisco",
-      "title": "Business Analyst I (Intern) United States",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478076776/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475637317/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Multifamily Podium Project Manager - $185-225k",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475642012/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475620899/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $160,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -96,91 +17,12 @@
   ],
   "new_jobs": [
     {
-      "company": "Personal Touch Home Health Care Services Inc.",
-      "title": "Care Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477246076/",
-      "date_posted": "2026-10-10",
+      "company": "Zenith American Solutions, Inc.",
+      "title": "Customer Care Advocate",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475650327/",
+      "date_posted": "2026-10-11",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Seacrest Behavioral Health",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477235443/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Proforma Health",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477221844/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Health Care Administrators Association\u00ae (HCAA)",
-      "title": "Care Manager",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477224752/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cisco",
-      "title": "Business Analyst I (Intern) United States",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478076776/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475637317/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Multifamily Podium Project Manager - $185-225k",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475642012/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475620899/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $160,000.00/yr",
       "feeds": [
         "general"
       ]
