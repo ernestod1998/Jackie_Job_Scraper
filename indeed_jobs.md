@@ -1,37 +1,32 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-11 00:24 UTC*
+*Last updated: 2026-10-11 09:14 UTC*
 
-**7 new role(s)** since last run · 65 total in last 24h
+**6 new role(s)** since last run · 18 total in last 24h
 
-### [Lead Account Manager (ACST) - Phoenix, AZ](https://www.indeed.com/viewjob?jk=94b1ef0ace384eca) — Qnity
-- 📍 **Location:** Hayward, CA, USA
-- 💰 **Salary:** $125k–$196k/yr
-- 🕒 **Posted:** 2026-10-10
+### [Business Operations & Integration (BO&I) US Operate Business Strategy Manager](https://www.indeed.com/viewjob?jk=b37f28f0e0e9ea42) — Deloitte
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $119k–$244k/yr
+- 🕒 **Posted:** 2026-10-11
 
-### [Lead Account Manager (ACST) - Boise, ID](https://www.indeed.com/viewjob?jk=e078ad55748abe4b) — Qnity
-- 📍 **Location:** Hayward, CA, USA
-- 💰 **Salary:** $125k–$196k/yr
-- 🕒 **Posted:** 2026-10-10
+### [Senior Sales Account Manager](https://www.indeed.com/viewjob?jk=16082cd92869e717) — Integress Inc
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $140k–$150k/yr
+- 🕒 **Posted:** 2026-10-11
 
-### [Technical Operations & Training Lead](https://www.indeed.com/viewjob?jk=e6ea969a1dea8d30) — StreamU
-- 📍 **Location:** Berkeley, CA, USA
-- 🕒 **Posted:** 2026-10-10
-
-### [Customer Support Specialist](https://www.indeed.com/viewjob?jk=0ede02200a033e6b) — Teambuilder
+### [Benefits Call Center Representative](https://www.indeed.com/viewjob?jk=d7ba609f08a7001e) — Conduent
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $73k–$75k/yr
+- 💰 **Salary:** $33k–$41k/yr
 - 🕒 **Posted:** 2026-10-10
 
-### [Order to Cash Account Manager](https://www.indeed.com/viewjob?jk=83516644e441efe8) — Kellermeyer Bergensons Services
+### [Recruitment Operations Manager — AI Workflow Review](https://www.indeed.com/viewjob?jk=dfdf2959537bd3bc) — AuraOne Human Data
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $75k–$90k/yr
 - 🕒 **Posted:** 2026-10-10
 
-### [Takedown Operations Specialist](https://www.indeed.com/viewjob?jk=b552e90503df9cb0) — Umanitek
-- 📍 **Location:** San Francisco, CA, USA
-- 🕒 **Posted:** 2026-10-10
+### [Account Manager](https://www.indeed.com/viewjob?jk=d3abde49846e2074) — Spectrum
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $70k–$82k/yr
+- 🕒 **Posted:** 2026-10-11
 
-### [Senior Associate, Business Operations & Analytics](https://www.indeed.com/viewjob?jk=d98af48a013e8d7e) — Jerry.AI
-- 📍 **Location:** San Francisco Bay Area, CA, USA
-- 💰 **Salary:** $140k–$160k/yr
+### [IT Portfolio, Business Operations & Data Insights Analyst](https://www.indeed.com/viewjob?jk=705f542085ee9bcf) — Vestis
+- 📍 **Location:** Remote, USA
 - 🕒 **Posted:** 2026-10-10
