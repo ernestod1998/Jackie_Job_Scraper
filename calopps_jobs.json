@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-10 20:37 UTC",
+  "scraped_at": "2026-10-11 21:00 UTC",
   "total": 8,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "San Mateo County Transit District Samtrans",
@@ -100,20 +100,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "South San Francisco",
-      "title": "Recreation & Community Services Program Coordinator",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/south-san-francisco/job-20782746",
-      "date_posted": "",
-      "salary": "$85,633.00-$104,083.00 Annually",
-      "ats": "CalOpps",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
