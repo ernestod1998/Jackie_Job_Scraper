@@ -1,136 +1,57 @@
 {
-  "scraped_at": "2026-10-10 20:21 UTC",
-  "total": 47,
-  "new_count": 31,
+  "scraped_at": "2026-10-11 00:11 UTC",
+  "total": 8,
+  "new_count": 8,
   "jobs": [
     {
-      "company": "ByteDance",
-      "title": "Content Operations Specialist - PICO Video",
+      "company": "Personal Touch Home Health Care Services Inc.",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477246076/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Seacrest Behavioral Health",
+      "title": "Care Manager",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477235443/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Proforma Health",
+      "title": "Care Manager",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477221844/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Health Care Administrators Association\u00ae (HCAA)",
+      "title": "Care Manager",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477224752/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cisco",
+      "title": "Business Analyst I (Intern) United States",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477224458/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Perplexity",
-      "title": "Enablement Specialist, Perplexity Computer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467894780/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "salary": "$150,000.00/yr - $175,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Perplexity",
-      "title": "Creative Operations Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467899620/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "salary": "$180,000.00/yr - $210,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Suno",
-      "title": "Trust & Safety Operations Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466933626/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Marketing Operations Manager, AWS Marketing Strategy, Operations, and Enablement",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469144401/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Marketing Operations Manager, AWS Marketing Strategy, Operations, and Enablement",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469150315/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SoFi Tech Solutions",
-      "title": "Manager, Strategy & Business Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469278708/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Senior Content Safety Policy Operations Manager - TikTok Safety Product",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477216939/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "MongoDB",
-      "title": "Revenue Operations Manager",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460557073/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cumming Group",
-      "title": "Senior Project Manager",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4432915964/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Siemens",
-      "title": "Senior Project Manager \u2013 Fire/Life Safety Systems",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4432181234/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stripe",
-      "title": "Manager, Go-to-Market Enablement Business Partners",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469514315/",
+      "url": "https://www.linkedin.com/jobs/view/4478076776/",
       "date_posted": "2026-10-10",
       "ats": "LinkedIn",
       "feeds": [
@@ -141,10 +62,9 @@
       "company": "CyberCoders",
       "title": "Electrical Project Manager",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475614940/",
+      "url": "https://www.linkedin.com/jobs/view/4475637317/",
       "date_posted": "2026-10-10",
       "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $180,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -153,7 +73,7 @@
       "company": "CyberCoders",
       "title": "Multifamily Podium Project Manager - $185-225k",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475614946/",
+      "url": "https://www.linkedin.com/jobs/view/4475642012/",
       "date_posted": "2026-10-10",
       "ats": "LinkedIn",
       "salary": "$185,000.00/yr - $215,000.00/yr",
@@ -162,370 +82,13 @@
       ]
     },
     {
-      "company": "Cumming Group",
-      "title": "Project Manager I",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468026359/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Perplexity",
-      "title": "Program Manager, Talent Acquisition",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467898662/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "salary": "$180,000.00/yr - $200,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon",
-      "title": "Accounting Program Manager , eero",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469155155/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Global Rewards Program Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466982885/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon",
-      "title": "Materials Program Manager, Product Operations - Central MPM/MM",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460140414/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Gator Bio",
-      "title": "Quality Assurance Specialist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478070545/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "salary": "$70,000.00/yr - $95,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr Tech Ops Lead, AWS Industries Strategy & Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469515853/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Perplexity",
-      "title": "Enterprise Customer Success Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468007512/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "salary": "$170,000.00/yr - $220,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Perplexity",
-      "title": "Scaled Enterprise Customer Success Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467896669/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "salary": "$150,000.00/yr - $175,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460135405/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Kuehne+Nagel",
-      "title": "Global Key Account Manager - Technology Vertical",
-      "location": "Brisbane, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460524437/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TomTom",
-      "title": "Strategic Account Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4459429338/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Intuit",
-      "title": "Staff, Technical Account Manager: IDX Customer Success",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478064713/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Perplexity",
-      "title": "Technical Customer Success Manager, API",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468004594/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "salary": "$170,000.00/yr - $220,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Cloud Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468852153/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Cloud Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468852151/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460345275/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460324812/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460342350/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460137400/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460136437/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460338354/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460328488/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460328483/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460149305/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460328474/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460144348/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460133417/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460343323/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460332477/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460326571/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "CyberCoders",
       "title": "Electrical Project Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475618834/",
+      "url": "https://www.linkedin.com/jobs/view/4475620899/",
       "date_posted": "2026-10-10",
       "ats": "LinkedIn",
       "salary": "$110,000.00/yr - $160,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460327576/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -533,10 +96,65 @@
   ],
   "new_jobs": [
     {
-      "company": "Stripe",
-      "title": "Manager, Go-to-Market Enablement Business Partners",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469514315/",
+      "company": "Personal Touch Home Health Care Services Inc.",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477246076/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Seacrest Behavioral Health",
+      "title": "Care Manager",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477235443/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Proforma Health",
+      "title": "Care Manager",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477221844/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Health Care Administrators Association\u00ae (HCAA)",
+      "title": "Care Manager",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477224752/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cisco",
+      "title": "Business Analyst I (Intern) United States",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478076776/",
+      "date_posted": "2026-10-10",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475637317/",
       "date_posted": "2026-10-10",
       "ats": "LinkedIn",
       "feeds": [
@@ -547,7 +165,7 @@
       "company": "CyberCoders",
       "title": "Multifamily Podium Project Manager - $185-225k",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475614946/",
+      "url": "https://www.linkedin.com/jobs/view/4475642012/",
       "date_posted": "2026-10-10",
       "ats": "LinkedIn",
       "salary": "$185,000.00/yr - $215,000.00/yr",
@@ -556,324 +174,13 @@
       ]
     },
     {
-      "company": "Cumming Group",
-      "title": "Project Manager I",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468026359/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon",
-      "title": "Materials Program Manager, Product Operations - Central MPM/MM",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460140414/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Gator Bio",
-      "title": "Quality Assurance Specialist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478070545/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "salary": "$70,000.00/yr - $95,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr Tech Ops Lead, AWS Industries Strategy & Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469515853/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Perplexity",
-      "title": "Scaled Enterprise Customer Success Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467896669/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "salary": "$150,000.00/yr - $175,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460135405/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Kuehne+Nagel",
-      "title": "Global Key Account Manager - Technology Vertical",
-      "location": "Brisbane, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460524437/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TomTom",
-      "title": "Strategic Account Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4459429338/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Intuit",
-      "title": "Staff, Technical Account Manager: IDX Customer Success",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478064713/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Perplexity",
-      "title": "Technical Customer Success Manager, API",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468004594/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "salary": "$170,000.00/yr - $220,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Cloud Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468852153/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Cloud Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468852151/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460345275/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460324812/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460342350/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460137400/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460136437/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460338354/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460328488/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460328483/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460149305/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460328474/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460144348/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460133417/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460343323/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460332477/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460326571/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "CyberCoders",
       "title": "Electrical Project Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475618834/",
+      "url": "https://www.linkedin.com/jobs/view/4475620899/",
       "date_posted": "2026-10-10",
       "ats": "LinkedIn",
       "salary": "$110,000.00/yr - $160,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, Sr. TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460327576/",
-      "date_posted": "2026-10-10",
-      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -884,7 +191,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 3,
+    "location": 0,
     "stale": 0
   }
 }
