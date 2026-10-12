@@ -1,28 +1,15 @@
 {
-  "scraped_at": "2026-10-11 21:05 UTC",
-  "total": 1,
+  "scraped_at": "2026-10-12 23:48 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Department of Transportation",
-      "title": "Project Manager",
-      "location": "Alameda County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534040",
-      "date_posted": "2026-10-01",
-      "salary": "$11437.00 - $14315.00",
-      "ats": "CalCareers",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "jobs": [],
   "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 19,
+    "location": 21,
     "stale": 0
   }
 }
