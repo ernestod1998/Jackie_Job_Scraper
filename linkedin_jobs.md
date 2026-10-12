@@ -1,92 +1,51 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-11 20:11 UTC*
+*Last updated: 2026-10-12 00:27 UTC*
 
-**21 new role(s)** since last run · 21 total in last 4h
+**10 new role(s)** since last run · 10 total in last 4h
 
-### [Program Coordinator I](https://www.linkedin.com/jobs/view/4478344216/) — Abode
+### [Operations Analyst - US Government Security](https://www.linkedin.com/jobs/view/4477276470/) — Palantir Technologies
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-11
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4475015971/) — Talently
 - 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $110,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-10-11
 
-### [Associate Project Manager](https://www.linkedin.com/jobs/view/4459412678/) — Newmark
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-10-11
-
-### [Operations Manager, Automation and Solution](https://www.linkedin.com/jobs/view/4478331734/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-11
-
-### [Food Program Manager, AMS](https://www.linkedin.com/jobs/view/4477257905/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-11
-
-### [Pediatric Community Health Worker](https://www.linkedin.com/jobs/view/4441371206/) — Health Plan of San Mateo (HPSM)
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-10-11
-
-### [Project Manager - Building Automation](https://www.linkedin.com/jobs/view/4431273860/) — Siemens
+### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4471803485/) — Talently
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-10-11
 
-### [Project Manager- Heavy Civil](https://www.linkedin.com/jobs/view/4207566864/) — Anvil Builders Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-11
-
-### [Manager III, VBC Performance , Medicare Population Health Programs](https://www.linkedin.com/jobs/view/4460540859/) — Amazon
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-11
-
-### [Senior Data Operations Manager](https://www.linkedin.com/jobs/view/4414492735/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-11
-
-### [GFCO Program Manager](https://www.linkedin.com/jobs/view/4441656651/) — Coinbase
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-11
-
-### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4470323731/) — Diamond Peak Recruiting
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-11
-
-### [Senior Project Manager - Community Planning](https://www.linkedin.com/jobs/view/4450671173/) — Alta Planning + Design
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-10-11
-
-### [Project Manager - Baggage Handling Systems (BHS)](https://www.linkedin.com/jobs/view/4438740019/) — STV
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-11
-
-### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4475667382/) — CyberCoders
+### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4475664603/) — CyberCoders
 - 📍 **Location:** San Francisco, CA
 - 💰 **Salary:** $110,000.00/yr - $160,000.00/yr
 - 🕒 **Posted:** 2026-10-11
 
-### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4475654918/) — CyberCoders
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $110,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-10-11
-
-### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4475670253/) — CyberCoders
+### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4475673335/) — CyberCoders
 - 📍 **Location:** San Jose, CA
 - 💰 **Salary:** $120,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-10-11
 
-### [Multifamily Podium Project Manager - $185-225k](https://www.linkedin.com/jobs/view/4475670251/) — CyberCoders
+### [Multifamily Podium Project Manager - $185-225k](https://www.linkedin.com/jobs/view/4475660855/) — CyberCoders
 - 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $185,000.00/yr - $215,000.00/yr
 - 🕒 **Posted:** 2026-10-11
 
-### [Project Manager](https://www.linkedin.com/jobs/view/4477262802/) — Welldone Cabinetry Bay Area
-- 📍 **Location:** Newark, CA
+### [Program Manager – Strategy, Global Operations](https://www.linkedin.com/jobs/view/4478346313/) — Sandisk
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-10-11
 
-### [Lead Application Product Manager - Customer Success](https://www.linkedin.com/jobs/view/4424275320/) — Docusign
+### [Data Acquisition Program Manager - Frontier Research Lab](https://www.linkedin.com/jobs/view/4472211177/) — This is Growth
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-10-11
+
+### [Multifamily Podium Project Manager - $185-225k](https://www.linkedin.com/jobs/view/4475665642/) — CyberCoders
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $185,000.00/yr - $215,000.00/yr
 - 🕒 **Posted:** 2026-10-11
 
-### [Specialist Strategy & Sales Operations Lead, Specialist Strategy & Sales Operations](https://www.linkedin.com/jobs/view/4460819003/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-11
-
-### [Specialist Strategy & Sales Operations Lead, Specialist Strategy & Sales Operations](https://www.linkedin.com/jobs/view/4460808731/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Francisco, CA
+### [Care Manager](https://www.linkedin.com/jobs/view/4477281108/) — SonicJobs
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-10-11

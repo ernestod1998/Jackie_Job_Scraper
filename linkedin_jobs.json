@@ -1,148 +1,39 @@
 {
-  "scraped_at": "2026-10-11 20:11 UTC",
-  "total": 21,
-  "new_count": 21,
+  "scraped_at": "2026-10-12 00:27 UTC",
+  "total": 10,
+  "new_count": 10,
   "jobs": [
     {
-      "company": "Abode",
-      "title": "Program Coordinator I",
+      "company": "Palantir Technologies",
+      "title": "Operations Analyst - US Government Security",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477276470/",
+      "date_posted": "2026-10-11",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Talently",
+      "title": "Project Manager",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478344216/",
+      "url": "https://www.linkedin.com/jobs/view/4475015971/",
       "date_posted": "2026-10-11",
       "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $150,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Newmark",
-      "title": "Associate Project Manager",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459412678/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Operations Manager, Automation and Solution",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478331734/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Food Program Manager, AMS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477257905/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Health Plan of San Mateo (HPSM)",
-      "title": "Pediatric Community Health Worker",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4441371206/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Siemens",
-      "title": "Project Manager - Building Automation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4431273860/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anvil Builders Inc.",
-      "title": "Project Manager- Heavy Civil",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4207566864/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon",
-      "title": "Manager III, VBC Performance , Medicare Population Health Programs",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460540859/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cadence",
-      "title": "Senior Data Operations Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414492735/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Coinbase",
-      "title": "GFCO Program Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4441656651/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Diamond Peak Recruiting",
+      "company": "Talently",
       "title": "Electrical Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470323731/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Alta Planning + Design",
-      "title": "Senior Project Manager - Community Planning",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450671173/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $140,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "STV",
-      "title": "Project Manager - Baggage Handling Systems (BHS)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4438740019/",
+      "url": "https://www.linkedin.com/jobs/view/4471803485/",
       "date_posted": "2026-10-11",
       "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $180,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -151,19 +42,7 @@
       "company": "CyberCoders",
       "title": "Electrical Project Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475667382/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $160,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475654918/",
+      "url": "https://www.linkedin.com/jobs/view/4475664603/",
       "date_posted": "2026-10-11",
       "ats": "LinkedIn",
       "salary": "$110,000.00/yr - $160,000.00/yr",
@@ -175,7 +54,7 @@
       "company": "CyberCoders",
       "title": "Electrical Project Manager",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475670253/",
+      "url": "https://www.linkedin.com/jobs/view/4475673335/",
       "date_posted": "2026-10-11",
       "ats": "LinkedIn",
       "salary": "$120,000.00/yr - $180,000.00/yr",
@@ -187,7 +66,19 @@
       "company": "CyberCoders",
       "title": "Multifamily Podium Project Manager - $185-225k",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475670251/",
+      "url": "https://www.linkedin.com/jobs/view/4475660855/",
+      "date_posted": "2026-10-11",
+      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sandisk",
+      "title": "Program Manager \u2013 Strategy, Global Operations",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478346313/",
       "date_posted": "2026-10-11",
       "ats": "LinkedIn",
       "feeds": [
@@ -195,43 +86,34 @@
       ]
     },
     {
-      "company": "Welldone Cabinetry Bay Area",
-      "title": "Project Manager",
-      "location": "Newark, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477262802/",
+      "company": "This is Growth",
+      "title": "Data Acquisition Program Manager - Frontier Research Lab",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4472211177/",
       "date_posted": "2026-10-11",
       "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $250,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Docusign",
-      "title": "Lead Application Product Manager - Customer Success",
+      "company": "CyberCoders",
+      "title": "Multifamily Podium Project Manager - $185-225k",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424275320/",
+      "url": "https://www.linkedin.com/jobs/view/4475665642/",
       "date_posted": "2026-10-11",
       "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Specialist Strategy & Sales Operations Lead, Specialist Strategy & Sales Operations",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460819003/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Specialist Strategy & Sales Operations Lead, Specialist Strategy & Sales Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460808731/",
+      "company": "SonicJobs",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477281108/",
       "date_posted": "2026-10-11",
       "ats": "LinkedIn",
       "feeds": [
@@ -241,145 +123,36 @@
   ],
   "new_jobs": [
     {
-      "company": "Abode",
-      "title": "Program Coordinator I",
+      "company": "Palantir Technologies",
+      "title": "Operations Analyst - US Government Security",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477276470/",
+      "date_posted": "2026-10-11",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Talently",
+      "title": "Project Manager",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478344216/",
+      "url": "https://www.linkedin.com/jobs/view/4475015971/",
       "date_posted": "2026-10-11",
       "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $150,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Newmark",
-      "title": "Associate Project Manager",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459412678/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Operations Manager, Automation and Solution",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478331734/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Food Program Manager, AMS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477257905/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Health Plan of San Mateo (HPSM)",
-      "title": "Pediatric Community Health Worker",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4441371206/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Siemens",
-      "title": "Project Manager - Building Automation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4431273860/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anvil Builders Inc.",
-      "title": "Project Manager- Heavy Civil",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4207566864/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon",
-      "title": "Manager III, VBC Performance , Medicare Population Health Programs",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460540859/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cadence",
-      "title": "Senior Data Operations Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414492735/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Coinbase",
-      "title": "GFCO Program Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4441656651/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Diamond Peak Recruiting",
+      "company": "Talently",
       "title": "Electrical Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470323731/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Alta Planning + Design",
-      "title": "Senior Project Manager - Community Planning",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450671173/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $140,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "STV",
-      "title": "Project Manager - Baggage Handling Systems (BHS)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4438740019/",
+      "url": "https://www.linkedin.com/jobs/view/4471803485/",
       "date_posted": "2026-10-11",
       "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $180,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -388,19 +161,7 @@
       "company": "CyberCoders",
       "title": "Electrical Project Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475667382/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $160,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475654918/",
+      "url": "https://www.linkedin.com/jobs/view/4475664603/",
       "date_posted": "2026-10-11",
       "ats": "LinkedIn",
       "salary": "$110,000.00/yr - $160,000.00/yr",
@@ -412,7 +173,7 @@
       "company": "CyberCoders",
       "title": "Electrical Project Manager",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475670253/",
+      "url": "https://www.linkedin.com/jobs/view/4475673335/",
       "date_posted": "2026-10-11",
       "ats": "LinkedIn",
       "salary": "$120,000.00/yr - $180,000.00/yr",
@@ -424,7 +185,19 @@
       "company": "CyberCoders",
       "title": "Multifamily Podium Project Manager - $185-225k",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475670251/",
+      "url": "https://www.linkedin.com/jobs/view/4475660855/",
+      "date_posted": "2026-10-11",
+      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sandisk",
+      "title": "Program Manager \u2013 Strategy, Global Operations",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478346313/",
       "date_posted": "2026-10-11",
       "ats": "LinkedIn",
       "feeds": [
@@ -432,43 +205,34 @@
       ]
     },
     {
-      "company": "Welldone Cabinetry Bay Area",
-      "title": "Project Manager",
-      "location": "Newark, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477262802/",
+      "company": "This is Growth",
+      "title": "Data Acquisition Program Manager - Frontier Research Lab",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4472211177/",
       "date_posted": "2026-10-11",
       "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $250,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Docusign",
-      "title": "Lead Application Product Manager - Customer Success",
+      "company": "CyberCoders",
+      "title": "Multifamily Podium Project Manager - $185-225k",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424275320/",
+      "url": "https://www.linkedin.com/jobs/view/4475665642/",
       "date_posted": "2026-10-11",
       "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Specialist Strategy & Sales Operations Lead, Specialist Strategy & Sales Operations",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460819003/",
-      "date_posted": "2026-10-11",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Specialist Strategy & Sales Operations Lead, Specialist Strategy & Sales Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460808731/",
+      "company": "SonicJobs",
+      "title": "Care Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477281108/",
       "date_posted": "2026-10-11",
       "ats": "LinkedIn",
       "feeds": [
@@ -481,7 +245,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 1,
+    "location": 0,
     "stale": 0
   }
 }
