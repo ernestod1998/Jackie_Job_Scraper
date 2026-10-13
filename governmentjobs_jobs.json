@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-12 23:40 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-10-13 21:54 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
     {
       "company": "County of San Mateo",
@@ -14,9 +14,34 @@
       "feeds": [
         "general"
       ]
+    },
+    {
+      "company": "County of San Mateo",
+      "title": "Lead Patient Services Assistant-SMMC North County Clinics-Spanish Speaking Prfd (Departmental Promo)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5500810-0/lead-patient-services-assistant-smmc-north-county-clinics-spanish-speaking-prfd",
+      "date_posted": "",
+      "salary": "$6,328.40 - $7,914.40 Monthly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "County of San Mateo",
+      "title": "Lead Patient Services Assistant-SMMC North County Clinics-Spanish Speaking Prfd (Departmental Promo)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5500810-0/lead-patient-services-assistant-smmc-north-county-clinics-spanish-speaking-prfd",
+      "date_posted": "",
+      "salary": "$6,328.40 - $7,914.40 Monthly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
