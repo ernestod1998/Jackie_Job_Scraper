@@ -1,8 +1,52 @@
 {
-  "scraped_at": "2026-10-14 07:28 UTC",
-  "total": 15,
-  "new_count": 14,
+  "scraped_at": "2026-10-14 08:03 UTC",
+  "total": 13,
+  "new_count": 0,
   "jobs": [
+    {
+      "company": "ManpowerGroup",
+      "title": "Program Manager",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479268281/",
+      "date_posted": "2026-10-14",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "PwC",
+      "title": "Sales Operations Consulting Senior Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479277289/",
+      "date_posted": "2026-10-14",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Air Apps",
+      "title": "People Operations Specialist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476634344/",
+      "date_posted": "2026-10-14",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Code Metal",
+      "title": "People Operations Generalist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471988066/",
+      "date_posted": "2026-10-14",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "BridgeBio",
       "title": "Sr Project Manager",
@@ -26,99 +70,10 @@
       ]
     },
     {
-      "company": "Google",
-      "title": "Senior Program Manager, Operational Enablement and Governance, Google Search",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478412725/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cumming Group",
-      "title": "Project Manager I",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478196744/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Meta",
-      "title": "Program Manager, Product Immersion and Testing",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476621624/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "salary": "$145,000.00/yr - $205,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Meta",
-      "title": "Program Manager, Product Immersion and Testing",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476626400/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Autodesk",
-      "title": "Senior Program Manager, M&A Finance",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478194807/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Code Metal",
-      "title": "People Operations Generalist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471988066/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Air Apps",
-      "title": "People Operations Specialist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476634344/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "ManpowerGroup",
       "title": "Instructional Designer",
       "location": "Hayward, CA",
       "url": "https://www.linkedin.com/jobs/view/4479270174/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ManpowerGroup",
-      "title": "Program Manager",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479268281/",
       "date_posted": "2026-10-14",
       "ats": "LinkedIn",
       "feeds": [
@@ -137,90 +92,10 @@
       ]
     },
     {
-      "company": "Sutter Health",
-      "title": "Patient Access Representative II",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478197919/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lam Research",
-      "title": "Business Operations Analyst 2",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478403341/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PwC",
-      "title": "Sales Operations Consulting Senior Associate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479277289/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Crescent Hotels & Resorts",
-      "title": "FRONT OFFICE MANAGER",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479289132/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Google",
       "title": "Senior Program Manager, Operational Enablement and Governance, Google Search",
       "location": "Mountain View, CA",
       "url": "https://www.linkedin.com/jobs/view/4478412725/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cumming Group",
-      "title": "Project Manager I",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478196744/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Meta",
-      "title": "Program Manager, Product Immersion and Testing",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476621624/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "salary": "$145,000.00/yr - $205,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Meta",
-      "title": "Program Manager, Product Immersion and Testing",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476626400/",
       "date_posted": "2026-10-14",
       "ats": "LinkedIn",
       "feeds": [
@@ -239,10 +114,10 @@
       ]
     },
     {
-      "company": "Code Metal",
-      "title": "People Operations Generalist",
+      "company": "Meta",
+      "title": "Program Manager, Product Immersion and Testing",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471988066/",
+      "url": "https://www.linkedin.com/jobs/view/4476626400/",
       "date_posted": "2026-10-14",
       "ats": "LinkedIn",
       "feeds": [
@@ -250,54 +125,10 @@
       ]
     },
     {
-      "company": "Air Apps",
-      "title": "People Operations Specialist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476634344/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ManpowerGroup",
-      "title": "Instructional Designer",
-      "location": "Hayward, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479270174/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ManpowerGroup",
-      "title": "Program Manager",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479268281/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Air Apps",
-      "title": "People Operations Specialist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476639219/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sutter Health",
-      "title": "Patient Access Representative II",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478197919/",
+      "company": "Meta",
+      "title": "Program Manager, Product Immersion and Testing",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476621624/",
       "date_posted": "2026-10-14",
       "ats": "LinkedIn",
       "feeds": [
@@ -314,19 +145,9 @@
       "feeds": [
         "general"
       ]
-    },
-    {
-      "company": "PwC",
-      "title": "Sales Operations Consulting Senior Associate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479277289/",
-      "date_posted": "2026-10-14",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
     }
   ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
