@@ -1,8 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Roles
-*Last updated: 2026-10-13 21:54 UTC*
+*Last updated: 2026-10-14 20:47 UTC*
 
-**1 new role(s)** since last run · 2 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 3 total in recent GovernmentJobs postings
 
-### [Lead Patient Services Assistant-SMMC North County Clinics-Spanish Speaking Prfd (Departmental Promo)](https://www.governmentjobs.com/jobs/5500810-0/lead-patient-services-assistant-smmc-north-county-clinics-spanish-speaking-prfd) — County of San Mateo
-- 📍 **Location:** County of San Mateo, CA
-- 💰 **Salary:** $6,328.40 - $7,914.40 Monthly
+### [Project Manager and Documentation Specialist](https://www.governmentjobs.com/jobs/152112-1/project-manager-and-documentation-specialist) — San Jose State University
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $6,927.00 - $7,352.00 Monthly

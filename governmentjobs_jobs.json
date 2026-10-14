@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-13 21:54 UTC",
-  "total": 2,
+  "scraped_at": "2026-10-14 20:47 UTC",
+  "total": 3,
   "new_count": 1,
   "jobs": [
     {
@@ -10,6 +10,18 @@
       "url": "https://www.governmentjobs.com/jobs/5500148-0/environmental-health-program-supervisor-open-promotional",
       "date_posted": "",
       "salary": "$11,989.47 - $14,984.67 Monthly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "San Jose State University",
+      "title": "Project Manager and Documentation Specialist",
+      "location": "San Jose, CA",
+      "url": "https://www.governmentjobs.com/jobs/152112-1/project-manager-and-documentation-specialist",
+      "date_posted": "",
+      "salary": "$6,927.00 - $7,352.00 Monthly",
       "ats": "NEOGOV",
       "feeds": [
         "general"
@@ -30,12 +42,12 @@
   ],
   "new_jobs": [
     {
-      "company": "County of San Mateo",
-      "title": "Lead Patient Services Assistant-SMMC North County Clinics-Spanish Speaking Prfd (Departmental Promo)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5500810-0/lead-patient-services-assistant-smmc-north-county-clinics-spanish-speaking-prfd",
+      "company": "San Jose State University",
+      "title": "Project Manager and Documentation Specialist",
+      "location": "San Jose, CA",
+      "url": "https://www.governmentjobs.com/jobs/152112-1/project-manager-and-documentation-specialist",
       "date_posted": "",
-      "salary": "$6,328.40 - $7,914.40 Monthly",
+      "salary": "$6,927.00 - $7,352.00 Monthly",
       "ats": "NEOGOV",
       "feeds": [
         "general"
