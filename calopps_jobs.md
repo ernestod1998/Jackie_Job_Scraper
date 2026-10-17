@@ -1,5 +1,5 @@
 # 🏛 CalOpps — California Local-Agency Roles
-*Last updated: 2026-10-16 20:00 UTC*
+*Last updated: 2026-10-17 19:33 UTC*
 
 **0 new role(s)** since last run · 7 total in recent CalOpps postings
 
