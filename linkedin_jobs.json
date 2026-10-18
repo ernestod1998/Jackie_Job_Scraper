@@ -1,83 +1,47 @@
 {
-  "scraped_at": "2026-10-18 01:34 UTC",
-  "total": 7,
-  "new_count": 1,
+  "scraped_at": "2026-10-18 07:10 UTC",
+  "total": 4,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477791720/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $160,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "KellyMitchell Group",
-      "title": "IT Project Manager II \u2013 Physical Security",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471603282/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Multifamily Podium Project Manager - $185-225k",
+      "company": "Black Women's Mental Health Institute",
+      "title": "Part-Time Clinical Care Coordinator",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478202195/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Monks",
-      "title": "Senior Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480865040/",
-      "date_posted": "2026-10-17",
+      "url": "https://www.linkedin.com/jobs/view/4479914286/",
+      "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "AECOM",
-      "title": "Bridge Design Project Manager",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479319057/",
-      "date_posted": "2026-10-17",
+      "company": "NVIDIA",
+      "title": "Sales Operations Analyst",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479900615/",
+      "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "CyberCoders",
-      "title": "Multifamily Podium Project Manager - $185-225k",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478206038/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LandCare LLC",
-      "title": "Account Manager (Commercial Landscaping)",
+      "company": "Oakmont Senior Living",
+      "title": "Regional Operations Specialist - Northern California",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479907140/",
-      "date_posted": "2026-10-17",
+      "url": "https://www.linkedin.com/jobs/view/4479059766/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cisco",
+      "title": "Business Analyst, Cisco Partner Incentive - Hybrid",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480862933/",
+      "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -86,13 +50,45 @@
   ],
   "new_jobs": [
     {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477791720/",
-      "date_posted": "2026-10-17",
+      "company": "Black Women's Mental Health Institute",
+      "title": "Part-Time Clinical Care Coordinator",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479914286/",
+      "date_posted": "2026-10-18",
       "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $160,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Sales Operations Analyst",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479900615/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Oakmont Senior Living",
+      "title": "Regional Operations Specialist - Northern California",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479059766/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cisco",
+      "title": "Business Analyst, Cisco Partner Incentive - Hybrid",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480862933/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -103,7 +99,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 1,
+    "location": 0,
     "stale": 0
   }
 }
