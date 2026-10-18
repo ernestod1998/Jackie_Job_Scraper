@@ -1,34 +1,32 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-18 07:24 UTC*
+*Last updated: 2026-10-18 18:50 UTC*
 
-**6 new role(s)** since last run · 31 total in last 24h
+**6 new role(s)** since last run · 16 total in last 24h
 
-### [Research Program Coordinator (4800C), Department of Chemistry - #89543](https://www.indeed.com/viewjob?jk=3756a85e96168fd4) — University of California Berkeley
-- 📍 **Location:** Berkeley, CA, USA
-- 💰 **Salary:** $102k–$155k/yr
+### [Electric Program Manager, Expert](https://www.indeed.com/viewjob?jk=38ed71a9958f9a3b) — Pacific Gas and Electric
+- 📍 **Location:** Oakland, CA, USA
+- 💰 **Salary:** $126k–$200k/yr
 - 🕒 **Posted:** 2026-10-18
 
-### [Customer Experience Specialist](https://www.indeed.com/viewjob?jk=104fb29e8f05944e) — Air Canada
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $23.84/hr
-- 🕒 **Posted:** 2026-10-17
-
-### [Office & Studio Operations Manager](https://www.indeed.com/viewjob?jk=92cd57e2e3ebdbe3) — Ironhorse Physical Therapy & Pilates Inc.
-- 📍 **Location:** San Ramon, CA, USA
-- 💰 **Salary:** $60k/yr
+### [Electric Program Manager, Senior](https://www.indeed.com/viewjob?jk=db41fd909fb64d6e) — Pacific Gas and Electric
+- 📍 **Location:** Oakland, CA, USA
 - 🕒 **Posted:** 2026-10-18
 
-### [Security Operations Team Lead](https://www.indeed.com/viewjob?jk=ce36173a87d215dd) — Cyera
+### [Quality Assurance Specialist](https://www.indeed.com/viewjob?jk=2d8b4c2ba28a2387) — Purple Squirrels Software LLC
+- 📍 **Location:** Fremont, CA, USA
+- 💰 **Salary:** $50–$65/hr
+- 🕒 **Posted:** 2026-10-18
+
+### [Business Analyst, Expert](https://www.indeed.com/viewjob?jk=5df8084f6d8a55ac) — Pacific Gas and Electric
+- 📍 **Location:** Oakland, CA, USA
+- 💰 **Salary:** $126k–$200k/yr
+- 🕒 **Posted:** 2026-10-18
+
+### [Business Analyst, Senior](https://www.indeed.com/viewjob?jk=d16e372f59334693) — Pacific Gas and Electric
+- 📍 **Location:** Oakland, CA, USA
+- 🕒 **Posted:** 2026-10-18
+
+### [RCM Vendor Account Manager (Must have Critical Access Hospital experience)](https://www.indeed.com/viewjob?jk=623e6b567cb77875) — Legacy Health LLC
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $150k–$225k/yr
+- 💰 **Salary:** $70k–$90k/yr
 - 🕒 **Posted:** 2026-10-18
-
-### [Health Coach](https://www.indeed.com/viewjob?jk=a3ffb43ab352bbd7) — Future
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $30–$40/hr
-- 🕒 **Posted:** 2026-10-18
-
-### [Healthcare Operations Strategy Consultant](https://www.indeed.com/viewjob?jk=e2e482994c7c12e9) — HealthEdge Software, Inc.
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $135k–$155k/yr
-- 🕒 **Posted:** 2026-10-17
