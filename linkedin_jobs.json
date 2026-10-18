@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-17 23:30 UTC",
-  "total": 5,
-  "new_count": 4,
+  "scraped_at": "2026-10-18 00:52 UTC",
+  "total": 7,
+  "new_count": 3,
   "jobs": [
     {
       "company": "KellyMitchell Group",
@@ -21,17 +21,7 @@
       "url": "https://www.linkedin.com/jobs/view/4478202195/",
       "date_posted": "2026-10-17",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Burlington Stores, Inc.",
-      "title": "Customer Experience Lead - Full Time",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480848566/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -48,10 +38,44 @@
       ]
     },
     {
+      "company": "AECOM",
+      "title": "Bridge Design Project Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479319057/",
+      "date_posted": "2026-10-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "CyberCoders",
       "title": "Multifamily Podium Project Manager - $185-225k",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4478206038/",
+      "date_posted": "2026-10-17",
+      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "LandCare LLC",
+      "title": "Account Manager (Commercial Landscaping)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479907140/",
+      "date_posted": "2026-10-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MUFG",
+      "title": "Analyst \u2013 Data Products and AI Enablement",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480115761/",
       "date_posted": "2026-10-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -61,10 +85,10 @@
   ],
   "new_jobs": [
     {
-      "company": "KellyMitchell Group",
-      "title": "IT Project Manager II \u2013 Physical Security",
+      "company": "AECOM",
+      "title": "Bridge Design Project Manager",
       "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471603282/",
+      "url": "https://www.linkedin.com/jobs/view/4479319057/",
       "date_posted": "2026-10-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -72,10 +96,10 @@
       ]
     },
     {
-      "company": "CyberCoders",
-      "title": "Multifamily Podium Project Manager - $185-225k",
+      "company": "LandCare LLC",
+      "title": "Account Manager (Commercial Landscaping)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478202195/",
+      "url": "https://www.linkedin.com/jobs/view/4479907140/",
       "date_posted": "2026-10-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -83,21 +107,10 @@
       ]
     },
     {
-      "company": "Monks",
-      "title": "Senior Project Manager",
+      "company": "MUFG",
+      "title": "Analyst \u2013 Data Products and AI Enablement",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480865040/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Multifamily Podium Project Manager - $185-225k",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478206038/",
+      "url": "https://www.linkedin.com/jobs/view/4480115761/",
       "date_posted": "2026-10-17",
       "ats": "LinkedIn",
       "feeds": [
