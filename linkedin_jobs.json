@@ -1,8 +1,20 @@
 {
-  "scraped_at": "2026-10-18 00:52 UTC",
+  "scraped_at": "2026-10-18 01:34 UTC",
   "total": 7,
-  "new_count": 3,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477791720/",
+      "date_posted": "2026-10-17",
+      "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $160,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "KellyMitchell Group",
       "title": "IT Project Manager II \u2013 Physical Security",
@@ -70,49 +82,17 @@
       "feeds": [
         "general"
       ]
-    },
-    {
-      "company": "MUFG",
-      "title": "Analyst \u2013 Data Products and AI Enablement",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480115761/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
     }
   ],
   "new_jobs": [
     {
-      "company": "AECOM",
-      "title": "Bridge Design Project Manager",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479319057/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LandCare LLC",
-      "title": "Account Manager (Commercial Landscaping)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479907140/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "MUFG",
-      "title": "Analyst \u2013 Data Products and AI Enablement",
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480115761/",
+      "url": "https://www.linkedin.com/jobs/view/4477791720/",
       "date_posted": "2026-10-17",
       "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $160,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -123,7 +103,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 0,
+    "location": 1,
     "stale": 0
   }
 }

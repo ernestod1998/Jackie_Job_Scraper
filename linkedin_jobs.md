@@ -1,16 +1,9 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-18 00:52 UTC*
+*Last updated: 2026-10-18 01:34 UTC*
 
-**3 new role(s)** since last run · 7 total in last 4h
+**1 new role(s)** since last run · 7 total in last 4h
 
-### [Bridge Design Project Manager](https://www.linkedin.com/jobs/view/4479319057/) — AECOM
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-10-17
-
-### [Account Manager (Commercial Landscaping)](https://www.linkedin.com/jobs/view/4479907140/) — LandCare LLC
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-17
-
-### [Analyst – Data Products and AI Enablement](https://www.linkedin.com/jobs/view/4480115761/) — MUFG
+### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4477791720/) — CyberCoders
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $110,000.00/yr - $160,000.00/yr
 - 🕒 **Posted:** 2026-10-17
