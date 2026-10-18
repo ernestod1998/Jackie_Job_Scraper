@@ -1,31 +1,34 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-18 01:27 UTC*
+*Last updated: 2026-10-18 07:24 UTC*
 
-**6 new role(s)** since last run · 60 total in last 24h
+**6 new role(s)** since last run · 31 total in last 24h
 
-### [Program Lead, Creative X Program Management](https://www.indeed.com/viewjob?jk=0c1fa575daf16263) — Meta
-- 📍 **Location:** Burlingame, CA, USA
-- 💰 **Salary:** $145k–$205k/yr
+### [Research Program Coordinator (4800C), Department of Chemistry - #89543](https://www.indeed.com/viewjob?jk=3756a85e96168fd4) — University of California Berkeley
+- 📍 **Location:** Berkeley, CA, USA
+- 💰 **Salary:** $102k–$155k/yr
+- 🕒 **Posted:** 2026-10-18
+
+### [Customer Experience Specialist](https://www.indeed.com/viewjob?jk=104fb29e8f05944e) — Air Canada
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $23.84/hr
 - 🕒 **Posted:** 2026-10-17
 
-### [Client Services Coordinator](https://www.indeed.com/viewjob?jk=b7aed3158f847b7d) — Gama Aviation
+### [Office & Studio Operations Manager](https://www.indeed.com/viewjob?jk=92cd57e2e3ebdbe3) — Ironhorse Physical Therapy & Pilates Inc.
+- 📍 **Location:** San Ramon, CA, USA
+- 💰 **Salary:** $60k/yr
+- 🕒 **Posted:** 2026-10-18
+
+### [Security Operations Team Lead](https://www.indeed.com/viewjob?jk=ce36173a87d215dd) — Cyera
 - 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-10-17
+- 💰 **Salary:** $150k–$225k/yr
+- 🕒 **Posted:** 2026-10-18
 
-### [Account Manager - Lubricants](https://www.indeed.com/viewjob?jk=5a0df5c8911080ef) — Palmer Holland
+### [Health Coach](https://www.indeed.com/viewjob?jk=a3ffb43ab352bbd7) — Future
 - 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-10-17
+- 💰 **Salary:** $30–$40/hr
+- 🕒 **Posted:** 2026-10-18
 
-### [Key Account Manager - AL, GA, FL](https://www.indeed.com/viewjob?jk=ccc0b7d6b545a0ec) — Desoutter GmbH
+### [Healthcare Operations Strategy Consultant](https://www.indeed.com/viewjob?jk=e2e482994c7c12e9) — HealthEdge Software, Inc.
 - 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-10-17
-
-### [Sales Operations Analyst](https://www.indeed.com/viewjob?jk=2ccb827b2d468a43) — NVIDIA
-- 📍 **Location:** Santa Clara, CA, USA
-- 💰 **Salary:** $92k–$196k/yr
-- 🕒 **Posted:** 2026-10-17
-
-### [Architecture Operations and Enablement Lead](https://www.indeed.com/viewjob?jk=d31ca4a5bcb89eba) — Northrop Grumman
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $161k–$241k/yr
+- 💰 **Salary:** $135k–$155k/yr
 - 🕒 **Posted:** 2026-10-17
