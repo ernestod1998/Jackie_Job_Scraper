@@ -1,46 +1,13 @@
 {
-  "scraped_at": "2026-10-19 07:39 UTC",
+  "scraped_at": "2026-10-19 08:07 UTC",
   "total": 7,
-  "new_count": 7,
+  "new_count": 0,
   "jobs": [
     {
-      "company": "Avantor",
-      "title": "Onsite Service Operations Specialist -  San Francisco Bay Area",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479566451/",
-      "date_posted": "2026-10-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Fresenius Medical Care",
       "title": "Healthcare Operations Facility Administrator",
       "location": "South San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4480935656/",
-      "date_posted": "2026-10-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DPP Tech",
-      "title": "Project Manager PMO (US Citizens ONLY)",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480944242/",
-      "date_posted": "2026-10-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Avantor",
-      "title": "Onsite Service Operations Specialist -  San Francisco Bay Area",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479570272/",
       "date_posted": "2026-10-19",
       "ats": "LinkedIn",
       "feeds": [
@@ -79,36 +46,23 @@
       "feeds": [
         "general"
       ]
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Avantor",
-      "title": "Onsite Service Operations Specialist -  San Francisco Bay Area",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479566451/",
-      "date_posted": "2026-10-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Fresenius Medical Care",
-      "title": "Healthcare Operations Facility Administrator",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480935656/",
-      "date_posted": "2026-10-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
     },
     {
       "company": "DPP Tech",
       "title": "Project Manager PMO (US Citizens ONLY)",
       "location": "Livermore, CA",
       "url": "https://www.linkedin.com/jobs/view/4480944242/",
+      "date_posted": "2026-10-19",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Avantor",
+      "title": "Onsite Service Operations Specialist -  San Francisco Bay Area",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479566451/",
       "date_posted": "2026-10-19",
       "ats": "LinkedIn",
       "feeds": [
@@ -125,41 +79,9 @@
       "feeds": [
         "general"
       ]
-    },
-    {
-      "company": "Hometown Pet",
-      "title": "Site Integration and Launch Operations Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4479971094/",
-      "date_posted": "2026-10-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Complex Strategic Program Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480938366/",
-      "date_posted": "2026-10-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Adobe",
-      "title": "Legal Contracting AI Intelligence Program Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479961450/",
-      "date_posted": "2026-10-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
     }
   ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
