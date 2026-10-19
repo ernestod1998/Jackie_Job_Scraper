@@ -1,41 +1,32 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-19 01:05 UTC*
+*Last updated: 2026-10-19 07:39 UTC*
 
-**8 new role(s)** since last run · 8 total in last 4h
+**7 new role(s)** since last run · 7 total in last 4h
 
-### [AVP – Data Products and AI Enablement](https://www.linkedin.com/jobs/view/4480129070/) — MUFG
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-18
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4479949143/) — Fika Chiropractic
-- 📍 **Location:** Walnut Creek, CA
-- 🕒 **Posted:** 2026-10-18
-
-### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4480183011/) — Talently
+### [Onsite Service Operations Specialist -  San Francisco Bay Area](https://www.linkedin.com/jobs/view/4479566451/) — Avantor
 - 📍 **Location:** Livermore, CA
-- 💰 **Salary:** $100,000.00/yr - $165,000.00/yr
-- 🕒 **Posted:** 2026-10-18
+- 🕒 **Posted:** 2026-10-19
 
-### [Project Manager](https://www.linkedin.com/jobs/view/4475015971/) — Talently
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $110,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-10-18
+### [Healthcare Operations Facility Administrator](https://www.linkedin.com/jobs/view/4480935656/) — Fresenius Medical Care
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-10-19
 
-### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4471803485/) — Talently
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-10-18
+### [Project Manager PMO (US Citizens ONLY)](https://www.linkedin.com/jobs/view/4480944242/) — DPP Tech
+- 📍 **Location:** Livermore, CA
+- 🕒 **Posted:** 2026-10-19
 
-### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4478239397/) — CyberCoders
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $110,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-10-18
+### [Onsite Service Operations Specialist -  San Francisco Bay Area](https://www.linkedin.com/jobs/view/4479570272/) — Avantor
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-19
 
-### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4478242294/) — CyberCoders
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $120,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-10-18
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4443802099/) — BackOps
+### [Site Integration and Launch Operations Manager](https://www.linkedin.com/jobs/view/4479971094/) — Hometown Pet
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-18
+- 🕒 **Posted:** 2026-10-19
+
+### [Complex Strategic Program Manager](https://www.linkedin.com/jobs/view/4480938366/) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-19
+
+### [Legal Contracting AI Intelligence Program Manager](https://www.linkedin.com/jobs/view/4479961450/) — Adobe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-19
