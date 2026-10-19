@@ -1,13 +1,13 @@
 {
-  "scraped_at": "2026-10-18 21:25 UTC",
-  "total": 11,
-  "new_count": 7,
+  "scraped_at": "2026-10-19 01:05 UTC",
+  "total": 8,
+  "new_count": 8,
   "jobs": [
     {
-      "company": "TikTok",
-      "title": "Product Operations Specialist (Governance Product) - TikTok LIVE",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479941366/",
+      "company": "MUFG",
+      "title": "AVP \u2013 Data Products and AI Enablement",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480129070/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "feeds": [
@@ -15,111 +15,81 @@
       ]
     },
     {
-      "company": "Haystack",
-      "title": "Customer Success Lead",
+      "company": "Fika Chiropractic",
+      "title": "Patient Care Coordinator",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479949143/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Talently",
+      "title": "Electrical Project Manager",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480183011/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "salary": "$100,000.00/yr - $165,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Talently",
+      "title": "Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475015971/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $150,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Talently",
+      "title": "Electrical Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471803485/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $180,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478239397/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $160,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478242294/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $180,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BackOps",
+      "title": "Customer Success Manager",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4479934775/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PwC",
-      "title": "Pricefx Implementation Lead - Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463675036/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Colliers Engineering & Design",
-      "title": "Project Manager - Data Centers",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4435828577/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Skanska",
-      "title": "Program Manager - Owners Rep",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461428126/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Multifamily Podium Project Manager - $185-225k",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478222944/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Skillmorph",
-      "title": "Operations Leadership Development Program",
-      "location": "Union City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478219839/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Multifamily Podium Project Manager - $185-225k",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478240186/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Chick-fil-A Western Center Blvd",
-      "title": "Customer Support Specialist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480911533/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "MongoDB",
-      "title": "Senior Customer Success Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463603652/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Account Manager - Semiconductor",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462338350/",
+      "url": "https://www.linkedin.com/jobs/view/4443802099/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "feeds": [
@@ -129,10 +99,10 @@
   ],
   "new_jobs": [
     {
-      "company": "TikTok",
-      "title": "Product Operations Specialist (Governance Product) - TikTok LIVE",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479941366/",
+      "company": "MUFG",
+      "title": "AVP \u2013 Data Products and AI Enablement",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480129070/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "feeds": [
@@ -140,67 +110,81 @@
       ]
     },
     {
-      "company": "Haystack",
-      "title": "Customer Success Lead",
+      "company": "Fika Chiropractic",
+      "title": "Patient Care Coordinator",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479949143/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Talently",
+      "title": "Electrical Project Manager",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480183011/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "salary": "$100,000.00/yr - $165,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Talently",
+      "title": "Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475015971/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $150,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Talently",
+      "title": "Electrical Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471803485/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $180,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478239397/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $160,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478242294/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $180,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BackOps",
+      "title": "Customer Success Manager",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4479934775/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PwC",
-      "title": "Pricefx Implementation Lead - Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463675036/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Multifamily Podium Project Manager - $185-225k",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478222944/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Skillmorph",
-      "title": "Operations Leadership Development Program",
-      "location": "Union City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478219839/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Multifamily Podium Project Manager - $185-225k",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478240186/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Chick-fil-A Western Center Blvd",
-      "title": "Customer Support Specialist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480911533/",
+      "url": "https://www.linkedin.com/jobs/view/4443802099/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "feeds": [
@@ -213,7 +197,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 0,
+    "location": 2,
     "stale": 0
   }
 }

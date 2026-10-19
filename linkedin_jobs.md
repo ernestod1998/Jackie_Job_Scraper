@@ -1,34 +1,41 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-18 21:25 UTC*
+*Last updated: 2026-10-19 01:05 UTC*
 
-**7 new role(s)** since last run · 11 total in last 4h
+**8 new role(s)** since last run · 8 total in last 4h
 
-### [Product Operations Specialist (Governance Product) - TikTok LIVE](https://www.linkedin.com/jobs/view/4479941366/) — TikTok
-- 📍 **Location:** San Jose, CA
+### [AVP – Data Products and AI Enablement](https://www.linkedin.com/jobs/view/4480129070/) — MUFG
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-18
 
-### [Customer Success Lead](https://www.linkedin.com/jobs/view/4479934775/) — Haystack
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4479949143/) — Fika Chiropractic
+- 📍 **Location:** Walnut Creek, CA
+- 🕒 **Posted:** 2026-10-18
+
+### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4480183011/) — Talently
+- 📍 **Location:** Livermore, CA
+- 💰 **Salary:** $100,000.00/yr - $165,000.00/yr
+- 🕒 **Posted:** 2026-10-18
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4475015971/) — Talently
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $110,000.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-10-18
+
+### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4471803485/) — Talently
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-10-18
+
+### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4478239397/) — CyberCoders
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $110,000.00/yr - $160,000.00/yr
+- 🕒 **Posted:** 2026-10-18
+
+### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4478242294/) — CyberCoders
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $120,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-10-18
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4443802099/) — BackOps
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-18
-
-### [Pricefx Implementation Lead - Manager](https://www.linkedin.com/jobs/view/4463675036/) — PwC
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-18
-
-### [Multifamily Podium Project Manager - $185-225k](https://www.linkedin.com/jobs/view/4478222944/) — CyberCoders
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $185,000.00/yr - $215,000.00/yr
-- 🕒 **Posted:** 2026-10-18
-
-### [Operations Leadership Development Program](https://www.linkedin.com/jobs/view/4478219839/) — Skillmorph
-- 📍 **Location:** Union City, CA
-- 🕒 **Posted:** 2026-10-18
-
-### [Multifamily Podium Project Manager - $185-225k](https://www.linkedin.com/jobs/view/4478240186/) — CyberCoders
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $185,000.00/yr - $215,000.00/yr
-- 🕒 **Posted:** 2026-10-18
-
-### [Customer Support Specialist](https://www.linkedin.com/jobs/view/4480911533/) — Chick-fil-A Western Center Blvd
-- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-18
