@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-19 21:36 UTC",
-  "total": 3,
-  "new_count": 3,
+  "scraped_at": "2026-10-20 20:44 UTC",
+  "total": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of San Mateo",
@@ -26,58 +26,9 @@
       "feeds": [
         "general"
       ]
-    },
-    {
-      "company": "San Jose State University",
-      "title": "Project Manager and Documentation Specialist",
-      "location": "San Jose, CA",
-      "url": "https://www.governmentjobs.com/jobs/152112-1/project-manager-and-documentation-specialist",
-      "date_posted": "",
-      "salary": "$6,927.00 - $7,352.00 Monthly",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County of San Mateo",
-      "title": "Environmental Health Program Supervisor (Open & Promotional)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5500148-0/environmental-health-program-supervisor-open-promotional",
-      "date_posted": "",
-      "salary": "$11,989.47 - $14,984.67 Monthly",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hayward Unified School District",
-      "title": "Facilities and Operations Manager",
-      "location": "Hayward, CA",
-      "url": "https://www.governmentjobs.com/jobs/5518996-0/facilities-and-operations-manager",
-      "date_posted": "",
-      "salary": "$139,624.00 - $167,548.00 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "San Jose State University",
-      "title": "Project Manager and Documentation Specialist",
-      "location": "San Jose, CA",
-      "url": "https://www.governmentjobs.com/jobs/152112-1/project-manager-and-documentation-specialist",
-      "date_posted": "",
-      "salary": "$6,927.00 - $7,352.00 Monthly",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
