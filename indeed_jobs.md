@@ -1,183 +1,220 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-20 00:34 UTC*
+*Last updated: 2026-10-20 07:54 UTC*
 
-**37 new role(s)** since last run · 121 total in last 24h
+**45 new role(s)** since last run · 142 total in last 24h
 
-### [Day Program Coordinator](https://www.indeed.com/viewjob?jk=7aaf7d14cbd5f530) — The Gemma Project
-- 📍 **Location:** Oakland, CA, USA
-- 💰 **Salary:** $74k–$94k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [All Programs - Project Coordinator](https://www.indeed.com/viewjob?jk=558dd343c254d497) — Franklin Energy / AM Conservation
-- 📍 **Location:** Oakland, CA, USA
-- 💰 **Salary:** $24–$28/hr
-- 🕒 **Posted:** 2026-10-19
-
-### [Field Operations Manager](https://www.indeed.com/viewjob?jk=a863831a1c89f250) — via
-- 📍 **Location:** Menlo Park, CA, USA
-- 💰 **Salary:** $70k–$75k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Assistant Operations Manager (Healthcare Administration) Concierge Primary Care](https://www.indeed.com/viewjob?jk=d975edc1498431da) — Private Medical
+### [Bilingual Program Coordinator Direct Service](https://www.indeed.com/viewjob?jk=63478138f46ef1a3) — San Francisco-Marin Food Bank
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $41.63–$45.09/hr
+- 💰 **Salary:** $34.45–$35.50/hr
+- 🕒 **Posted:** 2026-10-20
+
+### [Quality Assurance Manager](https://www.indeed.com/viewjob?jk=b9cb7dbf99b765ab) — Wisoman Foods
+- 📍 **Location:** Hayward, CA, USA
+- 💰 **Salary:** $100k–$125k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Program Manager (GPD)](https://www.indeed.com/viewjob?jk=9c5d2ca7bc1f0e30) — Insight Housing
+- 📍 **Location:** Berkeley, CA, USA
+- 💰 **Salary:** $72k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Development Project Manager, Data Center Development](https://www.indeed.com/viewjob?jk=d438206f64e04fe0) — CoreWeave
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $122k–$179k/yr
 - 🕒 **Posted:** 2026-10-19
 
-### [PEMSS Program Manager](https://www.indeed.com/viewjob?jk=866564bee678d7cb) — bastion technologies
+### [Senior Legal Operations Manager](https://www.indeed.com/viewjob?jk=570419fb971ff593) — Roofstock
+- 📍 **Location:** Oakland, CA, USA
+- 💰 **Salary:** $115k–$135k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Product Operations Manager (Human Moderation) - TikTok](https://www.indeed.com/viewjob?jk=20ed20049ad88fb3) — TikTok
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $108k–$209k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Senior Marketing Operations Manager (Hybrid)](https://www.indeed.com/viewjob?jk=82a3d89079a1def3) — Homebase
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $170k–$200k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Product and Research Operations Manager](https://www.indeed.com/viewjob?jk=c82508dcd0b7a5d6) — Cartesia
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $160k–$225k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Operations Manager-CA](https://www.indeed.com/viewjob?jk=12a95a6e1d71cf08) — CVS Health
+- 📍 **Location:** San Carlos, CA, USA
+- 💰 **Salary:** $22.75–$36.75/hr
+- 🕒 **Posted:** 2026-10-20
+
+### [Senior Project Manager](https://www.indeed.com/viewjob?jk=7defc970a1f98d68) — Turner & Townsend Pty Limited
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $160k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Program Manager](https://www.indeed.com/viewjob?jk=34f67ecb31bdeeed) — Stantec
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $227k–$351k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Program/Project Manager 4](https://www.indeed.com/viewjob?jk=c75b8995b4dc79fe) — Lam Research
+- 📍 **Location:** Fremont, CA, USA
+- 💰 **Salary:** $92k–$211k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [E-Discovery Project Manager](https://www.indeed.com/viewjob?jk=69066ca6d14ab822) — Latham & Watkins LLP
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $120k–$170k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Office Manager/Front Desk Coordinator](https://www.indeed.com/viewjob?jk=b4abd3483607a95c) — The Joint Chiropractic
+- 📍 **Location:** Danville, CA, USA
+- 🕒 **Posted:** 2026-10-20
+
+### [Project Coordinator III | Financial Operations, Budgeting & AI Automation](https://www.indeed.com/viewjob?jk=abe049eb42d56134) — Linda Werner & Associates, Inc.
+- 📍 **Location:** Sunnyvale, CA, USA
+- 🕒 **Posted:** 2026-10-20
+
+### [Quality Assurance Manager](https://www.indeed.com/viewjob?jk=8fcf3244a300e319) — SI-BONE
+- 📍 **Location:** Santa Clara, CA, USA
+- 💰 **Salary:** $141k–$155k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Operations Analyst, User Safety & Risk Operations](https://www.indeed.com/viewjob?jk=3e6ad62a9d09f480) — OpenAI
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $252k–$280k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Staff Customer Experience Manager](https://www.indeed.com/viewjob?jk=09435bf5d83af5d3) — Intuit
 - 📍 **Location:** Mountain View, CA, USA
-- 💰 **Salary:** $175k–$250k/yr
+- 💰 **Salary:** $160k–$227k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Territory Account Manager - AIDC Sales](https://www.indeed.com/viewjob?jk=dcd7abc0750fadd6) — PEAK TECHNOLOGIES
+- 📍 **Location:** Oakland, CA, USA
+- 🕒 **Posted:** 2026-10-20
+
+### [Outlet Operations Leader](https://www.indeed.com/viewjob?jk=4ce5e4e5c9e4c163) — RH
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $23–$31/hr
 - 🕒 **Posted:** 2026-10-19
 
-### [Project Manager for Luxury Home Builder](https://www.indeed.com/viewjob?jk=ffbe112ba8932802) — FORMA CONSTRUCTION
+### [Account Manager](https://www.indeed.com/viewjob?jk=85631217bf74e160) — Allied Universal
+- 📍 **Location:** Concord, CA, USA
+- 💰 **Salary:** $72k–$77k/yr
+- 🕒 **Posted:** 2026-10-19
+
+### [Senior Legal Operations Manager](https://www.indeed.com/viewjob?jk=c5a0d7275978fea5) — Roofstock
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $150k–$190k/yr
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $115k–$135k/yr
+- 🕒 **Posted:** 2026-10-20
 
-### [Launch Manager, Navan Premier](https://www.indeed.com/viewjob?jk=d0e0b693da638f54) — Navan
+### [Program Leader](https://www.indeed.com/viewjob?jk=adc612dfdd3040b9) — Boys & Girls Clubs of San Francisco
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $98k–$170k/yr
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $24–$25/hr
+- 🕒 **Posted:** 2026-10-20
 
-### [Client Services Coordinator](https://www.indeed.com/viewjob?jk=b44d7db054ac0f8e) — TGI Justice Project
+### [Territory Account Manager - AIDC Sales](https://www.indeed.com/viewjob?jk=d62393ea031128e1) — PEAK TECHNOLOGIES
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $29.80–$32.21/hr
-- 🕒 **Posted:** 2026-10-19
+- 🕒 **Posted:** 2026-10-20
 
-### [Program Manager](https://www.indeed.com/viewjob?jk=fc31df32b9ebb655) — Mawi DNA Technologies
-- 📍 **Location:** Pleasanton, CA, USA
-- 💰 **Salary:** $85k–$90k/yr
-- 🕒 **Posted:** 2026-10-19
+### [Driver & Operations Associate](https://www.indeed.com/viewjob?jk=226d97549e139ae7) — Maison Alyzée Burlingame
+- 📍 **Location:** San Carlos, CA, USA
+- 💰 **Salary:** $23–$25.50/hr
+- 🕒 **Posted:** 2026-10-20
 
-### [Customer Success Manager](https://www.indeed.com/viewjob?jk=5dfc4c6a6c6120c7) — Amazon.com
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $92k–$178k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Executive Operations Leader](https://www.indeed.com/viewjob?jk=7f3222a11a30db62) — Plaid
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $173k–$233k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Senior Product Manager, Trust & Safety](https://www.indeed.com/viewjob?jk=a17a76b2cf726493) — Lyft
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $148k–$185k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [IT Project Manager](https://www.indeed.com/viewjob?jk=5277e48a35ce9a5c) — Prealize Health
+### [Business Operations Manager, Infrastructure Data Centers](https://www.indeed.com/viewjob?jk=53b77f6bb18af319) — Meta
 - 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $143k–$198k/yr
+- 🕒 **Posted:** 2026-10-20
 
-### [Strategy & Operations Manager](https://www.indeed.com/viewjob?jk=27dce70dee03b765) — Twilio
+### [Senior Product Operations Lead & Program Manager - Content Experience Innovation](https://www.indeed.com/viewjob?jk=887ba765d38f205b) — Netflix
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $129k–$189k/yr
-- 🕒 **Posted:** 2026-10-19
+- 🕒 **Posted:** 2026-10-20
 
-### [Project Manager](https://www.indeed.com/viewjob?jk=a396bee444788c7a) — Prime Remote Jobs
+### [Web Manager, Web Strategy & Operations (Remote)](https://www.indeed.com/viewjob?jk=5d20217ae7556f14) — Amgen
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $55.80–$68.90/hr
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $110k–$149k/yr
+- 🕒 **Posted:** 2026-10-20
 
-### [Project Manager](https://www.indeed.com/viewjob?jk=5d89d6fddf7dadcf) — Canidium
+### [Technical Deputy Program Manager](https://www.indeed.com/viewjob?jk=bd06f3a06cdaec81) — Lawelawe Technology Services
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $90k–$140k/yr
-- 🕒 **Posted:** 2026-10-19
+- 🕒 **Posted:** 2026-10-20
 
-### [Hardware Deployment Project Manager](https://www.indeed.com/viewjob?jk=9750e5fc9bbbdddd) — Gather AI
+### [TUNTAS Program Manager](https://www.indeed.com/viewjob?jk=c9878e4923b85a25) — Save the Children
 - 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-10-19
+- 🕒 **Posted:** 2026-10-20
 
-### [Project Coordinator I: Project Management & Client Support – (CA, AZ & MA)](https://www.indeed.com/viewjob?jk=07de73d4fb4d3903) — iQ Biosciences
-- 📍 **Location:** Alameda, CA, USA
-- 💰 **Salary:** $60k–$83k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Senior Project Manager (REMOTE)](https://www.indeed.com/viewjob?jk=ceceb8558e6f78ee) — Koniag Government Services
+### [Project Manager – Information Security / M&A](https://www.indeed.com/viewjob?jk=c06a671dd1b3f218) — Insikt Analytics
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $130k–$145k/yr
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $50–$55/hr
+- 🕒 **Posted:** 2026-10-20
 
-### [Technical Implementation Manager - Remote, US](https://www.indeed.com/viewjob?jk=e75330bbef0002f9) — Flight Centre Travel Group
+### [Associate Project Manager Senior or Lead](https://www.indeed.com/viewjob?jk=1e872d02df114742) — Progressive
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $85k/yr
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $81k–$131k/yr
+- 🕒 **Posted:** 2026-10-20
 
-### [Operations Coordinator](https://www.indeed.com/viewjob?jk=065c936effab497a) — Black Digital
+### [Project Manager](https://www.indeed.com/viewjob?jk=9497143ebb81576d) — Integrated Power Services
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $12–$16/hr
-- 🕒 **Posted:** 2026-10-19
+- 🕒 **Posted:** 2026-10-20
 
-### [Care Coordinator for Population Health - remote position](https://www.indeed.com/viewjob?jk=7c71c2d52cb18a20) — InHouse Physicians
+### [Volunteer Program Lead](https://www.indeed.com/viewjob?jk=1fdf7a87ae5be52b) — International Foundation for Autoimmune & Autoinflammatory Arthritis
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $21–$24/hr
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $26–$30/hr
+- 🕒 **Posted:** 2026-10-20
 
-### [Tester (QA / Security / 508) + Business Analyst](https://www.indeed.com/viewjob?jk=ee75c6d2b81b36e2) — NuAxis Innovations
+### [Manager, Customer Support](https://www.indeed.com/viewjob?jk=92844075326db9dc) — PetDesk
 - 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $94k–$106k/yr
+- 🕒 **Posted:** 2026-10-20
 
-### [Product Manager, Patient Access Product Innovation](https://www.indeed.com/viewjob?jk=a279143754aebefa) — VALERIS
+### [Senior Customer Success Manager - West Coast](https://www.indeed.com/viewjob?jk=13d8ae8ce75c339d) — LaunchDarkly
+- 📍 **Location:** Oakland, CA, USA
+- 💰 **Salary:** $146k–$235k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Manager, Technical Account Management](https://www.indeed.com/viewjob?jk=3296fbd4d298e849) — CDW
 - 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $113k–$158k/yr
+- 🕒 **Posted:** 2026-10-20
 
-### [Client Support Team Lead](https://www.indeed.com/viewjob?jk=f7543a7ab07fea1e) — Stitch Fix
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $60k–$95k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [B2B Customer Experience Manager](https://www.indeed.com/viewjob?jk=ced4ef05776043b2) — Comfrt
+### [Technical Account Manager, Public Cloud](https://www.indeed.com/viewjob?jk=ba519b5638784714) — CDW
 - 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $71k–$108k/yr
+- 🕒 **Posted:** 2026-10-20
 
-### [Sr. Account Manager - Health Plans](https://www.indeed.com/viewjob?jk=81ba01e1a9f04cab) — H1
+### [Account Manager](https://www.indeed.com/viewjob?jk=32f2aa2a9163286a) — HSS Biomedical
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $180k–$205k/yr
+- 💰 **Salary:** $76k–$150k/yr
 - 🕒 **Posted:** 2026-10-19
 
-### [Parallels Desktop Channel Account Manager](https://www.indeed.com/viewjob?jk=61eb8edd02d14d91) — Parallels
+### [Clinical Operations Coordinator - (Remote)](https://www.indeed.com/viewjob?jk=ddb252fca27f6ed9) — Maximus
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $100k–$105k/yr
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $18–$21/hr
+- 🕒 **Posted:** 2026-10-20
 
-### [Senior Product Manager, Patient Experience](https://www.indeed.com/viewjob?jk=b4d217a1158bb5e9) — Synapse Health
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $152k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Implementation Project Manager (REMOTE)](https://www.indeed.com/viewjob?jk=bd11dd1c517ca8a0) — EnableComp, LLC
-- 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-10-19
-
-### [Customer Care Supervisor](https://www.indeed.com/viewjob?jk=fd02785deeb921e4) — Premier Sperm Donors, LLC
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $90k–$100k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Customer Care Agent](https://www.indeed.com/viewjob?jk=809ab3dee7c9cae2) — Premier Sperm Donors, LLC
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $73k–$78k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Senior Oncology Account Manager, Manhattan](https://www.indeed.com/viewjob?jk=441927aa70d55553) — Revolution Medicines
+### [Senior Oncology Account Manager, Jackson](https://www.indeed.com/viewjob?jk=8799fdaa82341494) — Revolution Medicines
 - 📍 **Location:** Remote, USA
 - 💰 **Salary:** $150k–$230k/yr
 - 🕒 **Posted:** 2026-10-19
 
-### [Senior Oncology Account Manager, New Haven](https://www.indeed.com/viewjob?jk=c062be5108c572de) — Revolution Medicines
+### [EHR Lead Vendor Manager](https://www.indeed.com/viewjob?jk=fd0c126b10837826) — Humana
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $150k–$230k/yr
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $115k–$158k/yr
+- 🕒 **Posted:** 2026-10-20
 
-### [Senior Oncology Account Manager, Harrisburg](https://www.indeed.com/viewjob?jk=85910ba4e2341723) — Revolution Medicines
+### [Technology Training Specialist](https://www.indeed.com/viewjob?jk=605296012296dc13) — Zimmer Biomet
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $150k–$230k/yr
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $71k–$89k/yr
+- 🕒 **Posted:** 2026-10-20
 
-### [Senior Oncology Account Manager, Indianapolis](https://www.indeed.com/viewjob?jk=b41189749f72b552) — Revolution Medicines
+### [Neurotechnology Applications & Customer Support Specialist](https://www.indeed.com/viewjob?jk=7beb0bcfcc67f5ac) — BrainBit
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $150k–$230k/yr
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $60k–$72k/yr
+- 🕒 **Posted:** 2026-10-20
 
-### [Office Manager/Administrative Assistant](https://www.indeed.com/viewjob?jk=da26ea0d6a92a2e4) — theris
+### [National Sales Training Manager](https://www.indeed.com/viewjob?jk=106887874c644a9f) — Syneos Health Commercial Solutions
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $17–$19/hr
-- 🕒 **Posted:** 2026-10-19
+- 🕒 **Posted:** 2026-10-20
