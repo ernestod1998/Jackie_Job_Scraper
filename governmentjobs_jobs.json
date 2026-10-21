@@ -1,20 +1,8 @@
 {
-  "scraped_at": "2026-10-20 20:44 UTC",
+  "scraped_at": "2026-10-21 20:43 UTC",
   "total": 2,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
-    {
-      "company": "County of San Mateo",
-      "title": "Environmental Health Program Supervisor (Open & Promotional)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5500148-0/environmental-health-program-supervisor-open-promotional",
-      "date_posted": "",
-      "salary": "$11,989.47 - $14,984.67 Monthly",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
     {
       "company": "Hayward Unified School District",
       "title": "Facilities and Operations Manager",
@@ -26,9 +14,34 @@
       "feeds": [
         "general"
       ]
+    },
+    {
+      "company": "San Jose State University",
+      "title": "Project Manager and Documentation Specialist",
+      "location": "San Jose, CA",
+      "url": "https://www.governmentjobs.com/jobs/152112-1/project-manager-and-documentation-specialist",
+      "date_posted": "",
+      "salary": "$6,927.00 - $7,352.00 Monthly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "San Jose State University",
+      "title": "Project Manager and Documentation Specialist",
+      "location": "San Jose, CA",
+      "url": "https://www.governmentjobs.com/jobs/152112-1/project-manager-and-documentation-specialist",
+      "date_posted": "",
+      "salary": "$6,927.00 - $7,352.00 Monthly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
