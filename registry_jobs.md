@@ -1,235 +1,264 @@
 # 🗃 Direct ATS Registry — Ops / Support / Care Roles
-*Last updated: 2026-10-20 17:51 UTC*
+*Last updated: 2026-10-21 17:58 UTC*
 
-**58 new role(s)** since last run · 58 total in current registry shard
+**65 new role(s)** since last run · 65 total in current registry shard
 
-### [Marketing Account Manager - Onboarding](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/LC10530---2160-Superior-Avenue-Cleveland-OH/Marketing-Account-Manager---Onboarding_JR03552) — CrossCountry Mortgage
-- 📍 **Location:** Remote USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Cyber Business Operations Manager (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Cyber-Business-Operations-Manager--Remote-_R30293) — Crowdstrike
-- 📍 **Location:** USA - Remote
-- 🕒 **Posted:** Posted 7 Days Ago
-
-### [Sr. Technical Account Manager - Public Sector/Gov (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Technical-Account-Manager---Public-Sector-Gov--Remote-_R30326) — Crowdstrike
-- 📍 **Location:** USA - Remote
-- 🕒 **Posted:** Posted 6 Days Ago
-
-### [Time & Absence Program Manager (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Time---Absence-Program-Manager--Remote-_R30012-1) — Crowdstrike
-- 📍 **Location:** USA - Remote
-- 🕒 **Posted:** Posted 29 Days Ago
-
-### [Microsoft Dynamics 365 Finance & Operations Implementation Lead](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Microsoft-Dynamics-365-Finance---Operations-Implementation-Lead_R-52423) — Crowe
-- 📍 **Location:** San Francisco CA USA
-- 🕒 **Posted:** Posted 18 Days Ago
-
-### [HCM Payroll Business Analyst and Systems Implementation Lead](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Sacramento-CA-USA/HCM-Payroll-Business-Analyst-and-Systems-Implementation-Lead_R-51720) — Crowe
-- 📍 **Location:** San Jose CA USA
-- 🕒 **Posted:** Posted 20 Days Ago
-
-### [Salesforce Project Coordinator](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Salesforce-Project-Coordinator_R-52331) — Crowe
-- 📍 **Location:** San Jose CA USA
-- 🕒 **Posted:** Posted 18 Days Ago
-
-### [Microsoft Dynamics 365 Finance Functional Implementation Manager](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Microsoft-Dynamics-365-Finance-Functional-Implementation-Manager_R-52339) — Crowe
-- 📍 **Location:** San Jose CA USA
-- 🕒 **Posted:** Posted 20 Days Ago
-
-### [Project Manager II](https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Remote-USA/Project-Manager-II_R-100650) — Computer Services
-- 📍 **Location:** Remote, USA
-- 🕒 **Posted:** Posted 6 Days Ago
-
-### [Implementation Specialist (Banking Technology & Core Conversions)](https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Remote-USA/Implementation-Specialist--Banking-Technology---Core-Conversions-_R-100671) — Computer Services
-- 📍 **Location:** Remote, USA
-- 🕒 **Posted:** Posted 29 Days Ago
-
-### [Air Force Program Manager - Remote](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-OR-Remote-Work/Air-Force-Program-Manager---Remote_JR13974-1) — Curtiss-Wright Corporation
-- 📍 **Location:** US-OR-Remote Work
-- 🕒 **Posted:** Posted 7 Days Ago
-
-### [Account Manager - Tactical Data Link Solutions](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MA-Tewksbury-TCG/Account-Manager---Tactical-Data-Link-Solutions_JR12684) — Curtiss-Wright Corporation
-- 📍 **Location:** Remote - USA
-- 🕒 **Posted:** Posted 18 Days Ago
-
-### [SAP S/4HANA Project Manager – Remote U.S.](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-VA-Remote-Work/SAP-S-4HANA-Project-Manager---Remote-US_JR13823) — Curtiss-Wright Corporation
-- 📍 **Location:** US-VA-Remote Work
-- 🕒 **Posted:** Posted 20 Days Ago
-
-### [Account Manager- New Nuclear](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-CA-Remote-Work/Account-Manager--New-Nuclear_JR13818-1) — Curtiss-Wright Corporation
-- 📍 **Location:** US-CA-Remote Work
+### [Shop Operations Manager](https://genpt.wd1.myworkdayjobs.com/Careers/job/USA-TX---Remote/Shop-Operations-Manager_R26_0000028908) — Genuine Parts Company
+- 📍 **Location:** USA, TX - Remote
 - 🕒 **Posted:** Posted 19 Days Ago
 
-### [Operations Manager-CA](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Palo-Alto/Operations-Manager-CA_R1079886-1) — CVS Health
-- 📍 **Location:** CA - Palo Alto
-- 🕒 **Posted:** Posted Today
-
-### [Operations Manager-CA](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---San-Carlos/Operations-Manager-CA_R1078272) — CVS Health
-- 📍 **Location:** CA - San Carlos
+### [Staffing and Operations Manager - Datacenters](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Staffing-and-Operations-Manager---Datacenters_R5056059-2) — GE Vernova
+- 📍 **Location:** Remote
 - 🕒 **Posted:** Posted Yesterday
 
-### [Business Operations Manager](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Santa-Clara---5488-Marvell-Lane/Communications-Manager_R337911) — Cushman & Wakefield
-- 📍 **Location:** Client Site - USA - CA - Santa Clara - 5488 Marvell Lane
-- 🕒 **Posted:** Posted 21 Days Ago
+### [Global Circularity & Resilience Program Manager](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Cambridge/Global-Circularity---Resilience-Program-Manager_R5055819-2) — GE Vernova
+- 📍 **Location:** Remote
+- 🕒 **Posted:** Posted 5 Days Ago
 
-### [Program Manager, IFM](https://cw.wd1.myworkdayjobs.com/external/job/Remote-Client-Site---USA---Flexible-United-States/Program-Manager--IFM_R338402-1) — Cushman & Wakefield
-- 📍 **Location:** Remote Client Site - USA - Flexible United States
-- 🕒 **Posted:** Posted 19 Days Ago
+### [Senior Project Manager - Refuel Floor](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Senior-Project-Manager---Refuel-Floor_R5053480-2) — GE Vernova
+- 📍 **Location:** Remote
+- 🕒 **Posted:** Posted 5 Days Ago
 
-### [Project Manager](https://cw.wd1.myworkdayjobs.com/external/job/Remote-Client-Site---USA---Flexible-United-States/Project-Manager_R340200-1) — Cushman & Wakefield
-- 📍 **Location:** Remote Client Site - USA - Flexible United States
+### [GSI Portfolio Quality Leader](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/GSI-Portfolio-Quality-Leader_R5041607) — GE Vernova
+- 📍 **Location:** Remote
 - 🕒 **Posted:** Posted 2 Days Ago
 
-### [Senior Project Manager, Advanced Technologies & Data Centers, Project & Development Services](https://cw.wd1.myworkdayjobs.com/external/job/San-Francisco-California-USA/Senior-Project-Manager--Advanced-Technologies---Data-Centers--Project---Development-Services_R337574) — Cushman & Wakefield
-- 📍 **Location:** San Francisco, California, USA
-- 🕒 **Posted:** Posted 19 Days Ago
-
-### [Commissioning Project Manager II](https://cyrusone.wd1.myworkdayjobs.com/CyrusOneCareerPortal/job/Remote/Commissioning-Project-Manager-II_R0007938) — CyrusOne
+### [Project Quality Leader](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Project-Quality-Leader_R5056185-3) — GE Vernova
 - 📍 **Location:** Remote
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Sr. Program Manager, Plasmid DNA / Cell and Gene Therapies (Client-Facing)](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Waltham---Abcam-Inc/Sr-Program-Manager--Plasmid-DNA---Cell-and-Gene-Therapies--Client-Facing-_R1320346-1) — Danaher Corporation
-- 📍 **Location:** San Francisco, California, United States
-- 🕒 **Posted:** Posted 5 Days Ago
-
-### [Business Account Management](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Lexington-Massachusetts-United-States/Business-Account-Management_R1321328) — Danaher Corporation
-- 📍 **Location:** San Francisco, California, United States
-- 🕒 **Posted:** Posted Yesterday
-
-### [Business Analyst](https://dealertire.wd5.myworkdayjobs.com/DealerTireLLC-Careers/job/Cleveland-OH/Business-Analyst_R14543) — Dealer Tire
-- 📍 **Location:** Remote United States
-- 🕒 **Posted:** Posted 19 Days Ago
-
-### [Sales Operations Analyst I](https://dealertire.wd5.myworkdayjobs.com/DealerTireLLC-Careers/job/Cleveland-OH/Sales-Operations-Analyst-I_R14614) — Dealer Tire
-- 📍 **Location:** Remote United States
-- 🕒 **Posted:** Posted 12 Days Ago
-
-### [Senior Account Manager](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/USA---Remote---Maryland/Senior-Account-Manager_R1132474) — Dentsu
-- 📍 **Location:** USA - Remote - Maryland
-- 🕒 **Posted:** Posted 13 Days Ago
-
-### [Program Manager - Experience Design and Development](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/USA---Remote---Maryland/Program-Manager---Experience-Design-and-Development_R1130789) — Dentsu
-- 📍 **Location:** USA - Remote - Maryland
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Paper Mill Technical Account Manager In Lewiston, ID](https://duboischemicals.wd1.myworkdayjobs.com/external/job/Remote---US/Technical-Account-Manager_R102750) — DuBois Chemicals
-- 📍 **Location:** Remote - US
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Senior National Account Manager](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/United-States---Arkansas-Remote/Senior-National-Account-Manager_JR38753) — Dyson
-- 📍 **Location:** United States - Arkansas Remote
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Lead Implementation Manager](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/New-York-City/Lead-Implementation-Manager_REQ2026847) — Early Warning
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Sr. Lead Fraud Program Manager](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/San-Francisco/Sr-Lead-Fraud-Program-Manager_REQ2026927) — Early Warning
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** Posted 19 Days Ago
-
-### [HR Project Manager](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/CA-PALO-ALTO-661-BRYANT-ST/Account-Service-Manager_JR206215-1) — CareBridge
-- 📍 **Location:** CA-PALO ALTO, 661 BRYANT ST
-- 🕒 **Posted:** Posted 8 Days Ago
-
-### [LTSS Service Coordinator (Case Manager) Western Ohio](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/Ohio---Mason/LTSS-Service-Coordinator--Case-Manager--Western-Ohio_JR209453) — CareBridge
-- 📍 **Location:** Fremont - Ohio
-- 🕒 **Posted:** Posted 12 Days Ago
-
-### [Instructional Designer I](https://embryriddle.wd1.myworkdayjobs.com/External/job/Remote---United-States/Instructional-Designer-I_R311542-1) — Embry-Riddle Aeronautical University
-- 📍 **Location:** Remote - United States
-
-### [Operations Coordinator](https://essex.wd5.myworkdayjobs.com/essexcareers/job/Bay-Area---East/Operations-Coordinator_R9443) — Essex
-- 📍 **Location:** Bay Area - East
-- 🕒 **Posted:** Posted 22 Days Ago
-
-### [Operations Coordinator](https://essex.wd5.myworkdayjobs.com/essexcareers/job/Bay-Area---Peninsula/Operations-Coordinator_R9452) — Essex
-- 📍 **Location:** Bay Area - Peninsula
-- 🕒 **Posted:** Posted 20 Days Ago
-
-### [EverHealth - Commissions & Sales Operations Specialist (Remote, US)](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverHealth---Commissions---Sales-Operations-Specialist--Remote--US-_R-106586) — EverCommerce
-- 📍 **Location:** Remote- US
-- 🕒 **Posted:** Posted Today
-
-### [EverHealth - Mid-Market Customer Success Manager (Remote, US)](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-US/EverHealth---Mid-Market-Customer-Success-Manager--Remote--US-_R-106561) — EverCommerce
-- 📍 **Location:** Remote, US
-- 🕒 **Posted:** Posted 13 Days Ago
-
-### [EverHealth - Process Improvement Manager (Remote, US)](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverHealth---Process-Improvement-Manager--Remote--US-_R-106567) — EverCommerce
-- 📍 **Location:** Remote- US
-- 🕒 **Posted:** Posted 13 Days Ago
-
-### [EverHealth - Sales Operations Manager (Remote, US or Hybrid, Denver)](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Denver-Colorado/EverHealth---Sales-Operations-Manager--Remote--US-or-Hybrid--Denver-_R-106472) — EverCommerce
-- 📍 **Location:** Remote- US
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Strategic Account Manager (SAM)](https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/Remote-USA/Strategic-Account-Manager--SAM-_JR2559-1) — Exclusive Networks
-- 📍 **Location:** Remote USA
-- 🕒 **Posted:** Posted 27 Days Ago
-
-### [Strategic Account Manager (SAM)](https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/Remote-USA/Strategic-Account-Manager--SAM-_JR2478) — Exclusive Networks
-- 📍 **Location:** Remote USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Senior Oncology Account Manager - (Birmingham, AL | Remote)](https://exelixis.wd1.myworkdayjobs.com/exel/job/Remote/Senior-Oncology-Account-Manager----Birmingham--AL---Remote-_JR7112) — Exelixis
-- 📍 **Location:** Remote
-- 🕒 **Posted:** Posted Yesterday
-
-### [Implementation Specialist](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Chicago-IL-USA/Implementation-Specialist_R33006-1) — FactSet
-- 📍 **Location:** San Francisco, CA, USA
 - 🕒 **Posted:** Posted 6 Days Ago
 
-### [Lead Implementation Specialist](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/New-York-NY-USA/Lead-Implementation-Specialist_R32906) — FactSet
-- 📍 **Location:** United States, Los Angeles, Temporary Remote (Los Angeles)
+### [Talent Acquisition Operations Manager (Americas)](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Talent-Acquisition-Operations-Manager--Americas-_R5043282-3) — GE Vernova
+- 📍 **Location:** Remote
+- 🕒 **Posted:** Posted 12 Days Ago
+
+### [Senior Project Manager](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--CA--San-Francisco---345-California-Street/Senior-Project-Manager_6078) — Global Infrastructure
+- 📍 **Location:** US | CA | San Francisco - 345 California Street
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Marketing Operations Manager (Remote)](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Marketing-Operations-Manager--Remote-_R059160) — First American
-- 📍 **Location:** USA, Illinois, Remote
+### [eDiscovery Project Manager (Relativity certification required)](https://goodwinprocter.wd5.myworkdayjobs.com/External_Careers/job/New-York/eDiscovery-Project-Manager--Relativity-certification-required-_R04126) — Goodwin
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** Posted 6 Days Ago
+
+### [Project Manager - Layne](https://granite.wd1.myworkdayjobs.com/careers/job/Fremont-Nebraska/Project-Manager_R0000007496) — Granite Construction
+- 📍 **Location:** Fremont, Nebraska
+- 🕒 **Posted:** Posted 20 Days Ago
+
+### [Quality Manager](https://granite.wd1.myworkdayjobs.com/careers/job/Santa-Clara-California/Quality-Manager_R0000008039-1) — Granite Construction
+- 📍 **Location:** Santa Clara, California
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Customer Experience Representative](https://granite.wd1.myworkdayjobs.com/careers/job/Sacramento-California/Customer-Experience-Representative_R0000008231) — Granite Construction
+- 📍 **Location:** Pleasanton, California
+- 🕒 **Posted:** Posted 23 Days Ago
+
+### [Senior Project Coordinator/Supervisor](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Senior-Project-Coordinator-Supervisor_44929) — Guidehouse
+- 📍 **Location:** US - Remote (Any location)
 - 🕒 **Posted:** Posted Today
 
-### [Escrow Support Team Lead (remote)](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Escrow-Support-Team-Lead--remote-_R059158) — First American
-- 📍 **Location:** USA, California, Remote
-- 🕒 **Posted:** Posted 11 Days Ago
+### [Salesforce Solution Consultant (Business Analyst)](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Salesforce-Solution-Consultant--Business-Analyst-_42812) — Guidehouse
+- 📍 **Location:** US - Remote (Any location)
+- 🕒 **Posted:** Posted 12 Days Ago
 
-### [Project Manager - ServiceMac](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-South-Carolina-Fort-Mill/Project-Manager---ServiceMac_R058768) — First American
-- 📍 **Location:** USA, Iowa, Remote
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Project Manager - ServiceMac](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-South-Carolina-Fort-Mill/Project-Manager---ServiceMac_R058839) — First American
-- 📍 **Location:** USA, Iowa, Remote
-- 🕒 **Posted:** Posted 26 Days Ago
-
-### [Sr. Client Implementation Specialist](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/Wisconsin-Home---G3/Sr-Client-Implementation-Specialist_R058821) — First American
-- 📍 **Location:** USA, Kentucky, Remote
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Project Manager, Embedded Finance](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Project-Manager--Embedded-Finance_R-10399860) — Fiserv
-- 📍 **Location:** Berkeley Heights, New Jersey
-- 🕒 **Posted:** Posted 13 Days Ago
-
-### [DNA PS Implementation Support Manager, Advisory](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/DNA-PS-Implementation-Support-Manager--Advisory_R-10398458) — Fiserv
-- 📍 **Location:** Berkeley Heights, New Jersey
-- 🕒 **Posted:** Posted 7 Days Ago
-
-### [Design System Program Manager](https://fiserv.wd5.myworkdayjobs.com/ext/job/New-York-New-York/Enterprise-Design-System-Lead_R-10398109) — Fiserv
-- 📍 **Location:** Berkeley Heights, New Jersey
-- 🕒 **Posted:** Posted 27 Days Ago
-
-### [Operations Manager](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-CA-Milpitas/Operations-Manager_WD227455) — Flextronics International
-- 📍 **Location:** USA, CA, Milpitas
+### [Salesforce Solution Consultant (Business Analyst)](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Salesforce-Solution-Consultant--Business-Analyst-_42741) — Guidehouse
+- 📍 **Location:** US - Remote (Any location)
 - 🕒 **Posted:** Posted 5 Days Ago
 
-### [New Product Development Program Manager](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-Remote/New-Product-Development-Program-Manager_WD231326-2) — Flextronics International
-- 📍 **Location:** USA, Remote
-- 🕒 **Posted:** Posted 4 Days Ago
+### [Salesforce Senior Solution Consultant: Business Analyst](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Salesforce-Senior-Solution-Consultant--Business-Analyst_41185) — Guidehouse
+- 📍 **Location:** US - Remote (Any location)
+- 🕒 **Posted:** Posted 27 Days Ago
 
-### [Sr. Program Manager](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Mountain-View-CA/Sr-Program-Manager_REQ37507) — Teledyne
-- 📍 **Location:** US - Mountain View, CA
+### [Quality Assurance System Tester](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Quality-Assurance-System-Tester_42689) — Guidehouse
+- 📍 **Location:** US - Remote (Any location)
+- 🕒 **Posted:** Posted 5 Days Ago
+
+### [Project Manager- Child Welfare](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Project-Manager--Child-Welfare_41444-1) — Guidehouse
+- 📍 **Location:** US - Remote (Any location)
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [ServiceNow Training Specialist](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/ServiceNow-Training-Specialist_44799) — Guidehouse
+- 📍 **Location:** US - Remote (Any location)
+- 🕒 **Posted:** Posted 28 Days Ago
+
+### [AI Business Architect- Sales Operations](https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/AI-Business-Architect--Sales-Operations_JR_15178) — Guidewire
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** Posted 13 Days Ago
+
+### [Senior Customer Success Manager](https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/Senior-Customer-Success-Manager_JR_15197) — Guidewire
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** Posted 13 Days Ago
+
+### [Strategic Analytics Account Manager](https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/Strategic-Analytics-Account-Manager_JR_15198) — Guidewire
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** Posted 13 Days Ago
+
+### [Senior Business Analyst / Business Architect, INOW](https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/Senior-Business-Analyst---Business-Architect--INOW_JR_15187-1) — Guidewire
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** Posted 13 Days Ago
+
+### [(Remote) Project Manager](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Winooski-Vermont/XMLNAME--Remote--Project-Manager_R0047095-2) — Harris Computer
+- 📍 **Location:** Winooski, Vermont; Wisconsin, United States; British Columbia, Canada; Washington, United States; Arizona, United States; Virginia, United States; Vermont, United States; Utah, United States; Remote - Saskatchewan; Texas, United States; Tennessee, United States; Pennsylvania, United States; Oregon, United States; Ontario, Canada; North Carolina, United States; Minnesota, United States; Massachusetts, United States; Manitoba, Canada; Illinois, United States; Georgia, United States; Remote - Alberta; Florida, United States; Colorado, United States; Missouri, United States; California, United States
+- 🕒 **Posted:** Posted Yesterday
+
+### [Intern, Customer Support and Customer Success](https://harriscomputer.wd3.myworkdayjobs.com/1/job/New-York-United-States/Intern--Customer-Support-and-Customer-Success_R0045519-2) — Harris Computer
+- 📍 **Location:** Remote - U.S. Virgin Islands
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Customer Success Consultant](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Pennsylvania-United-States/Customer-Success-Consultant_R0040331) — Harris Computer
+- 📍 **Location:** Pennsylvania, United States; Remote - New Jersey; New York, United States
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Quality Assurance Analyst](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Florida-United-States/Quality-Assurance-Analyst_R0045003) — Harris Computer
+- 📍 **Location:** Remote - U.S. Virgin Islands
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Federal Project Manager](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote-United-States/Federal-Project-Manager_R01133619) — Solventum
+- 📍 **Location:** Remote-United States
+- 🕒 **Posted:** Posted 6 Days Ago
+
+### [Sales Training and Enablement](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote-United-States/Sales-Training-and-Enablement_R01134651) — Solventum
+- 📍 **Location:** Remote-United States
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Bilingual Call Center Representative](https://healthfirst.wd1.myworkdayjobs.com/healthfirst/job/Remote---New-York-City/Bilingual-Call-Center-Representative_R022719) — Healthfirst
+- 📍 **Location:** Remote
 - 🕒 **Posted:** Posted Today
 
-### [Quality Assurance Technician 1](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Quality-Assurance-Technician-1_JR101160) — FormFactor
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** Posted 22 Days Ago
+### [LTC Care Coordinator (Spanish Fluency)](https://healthfirst.wd1.myworkdayjobs.com/healthfirst/job/Remote/LTC-Care-Coordinator_R022463) — Healthfirst
+- 📍 **Location:** Remote
+- 🕒 **Posted:** Posted 13 Days Ago
 
-### [Quality Assurance Technician 1 (Temporary)](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Quality-Assurance-Technician-1--Temporary-_JR100783) — FormFactor
-- 📍 **Location:** Livermore, CA
+### [Vendor Partner Specialist - Contact Center Operations](https://healthfirst.wd1.myworkdayjobs.com/healthfirst/job/Remote/Vendor-Partner-Specialist---Contact-Center-Operations_R022128) — Healthfirst
+- 📍 **Location:** Remote
 - 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Business Analyst, Commercial Development](https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/United-States---Remote/Business-Analyst--Commercial-Development_R134955) — Henry Schein
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** Posted Today
+
+### [Business Analyst](https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/United-States---Remote/Business-Analyst_R134304) — Henry Schein
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** Posted 20 Days Ago
+
+### [Senior Program Manager](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/San-Jose-CA/Senior-Program-Manager_R-31598) — HNTB
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Project Manager II - Rail](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/San-Jose-CA/Project-Manager-II---Rail_R-31717) — HNTB
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 23 Days Ago
+
+### [Business Analytics Transformation & Operations Manager](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Berkeley-Heights-New-Jersey-United-States-of-America/Business-Analytics-Transformation---Operations-Manager_1210809) — Hewlett Packard Enterprise
+- 📍 **Location:** Berkeley Heights, New Jersey, United States of America
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [CPQ Program Manager](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/CPQ-Program-Manager_1208465) — Hewlett Packard Enterprise
+- 📍 **Location:** Sunnyvale, California, United States of America
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [AI Adoption & Enablement Lead](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/AI-Adoption---Enablement-Lead_1209967-2) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, California, United States of America
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [CSP Program Manager](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/CSP-Program-Manager_1217425) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, California
+- 🕒 **Posted:** Posted 3 Days Ago
+
+### [Sourcing Program Manager](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Jose-California-United-States-of-America/Sourcing-Program-Manager_1209528) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, California, United States of America
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Complex Strategic Program Manager](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Complex-Strategic-Program-Manager_1216096) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, California, United States of America
+- 🕒 **Posted:** Posted 3 Days Ago
+
+### [Project Manager Client Management](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Project-Manager-Client-Management_1212194) — Hewlett Packard Enterprise
+- 📍 **Location:** Sunnyvale, California, United States of America
+- 🕒 **Posted:** Posted 20 Days Ago
+
+### [ SAP-BRIM Implementation / Project Manager](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Jose-California-United-States-of-America/XMLNAME--SAP-BRIM-Implementation---Project-Manager_1212318-1) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, California, United States of America
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [GTM AI Operations Specialist](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/GTM-AI-Operations-Specialist_1205726) — Hewlett Packard Enterprise
+- 📍 **Location:** Sunnyvale, California, United States of America
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Case Manager - Hayward](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Wisconsin/Case-Manager---Hayward_R-430177) — Humana
+- 📍 **Location:** Hayward, WI
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [Territory Account Manager](https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-US-Texas-Remote/Territory-Account-Manager_R8469) — Hyster-Yale Materials Handling
+- 📍 **Location:** HY US Texas (Remote)
+- 🕒 **Posted:** Posted 13 Days Ago
+
+### [Key Account Manager - Midwest](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Erlanger-Kentucky/Key-Account-Manager---Midwest_R-10118) — IDEX
+- 📍 **Location:** Remote - USA
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [Strategic Account Manager - Semiconductor ](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Albuquerque-New-Mexico/Key-Account-Manager_R-09509) — IDEX
+- 📍 **Location:** Remote - USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Key Account Manager - Mid-Atlantic](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Virginia-Beach-VA/Key-Account-Manager---Mid-Atlantic_R-09418) — IDEX
+- 📍 **Location:** Remote - USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Executive Territory Account Manager - Mid Atlantic](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Maryland---Remote/Executive-Territory-Account-Manager---Mid-Atlantic_43443-JOB-1) — Illumina
+- 📍 **Location:** US - Maryland - Remote
+- 🕒 **Posted:** Posted 6 Days Ago
+
+### [Senior Strategic Program Manager](https://incora.wd5.myworkdayjobs.com/Incora/job/Remote---USA---Missouri/Senior-Strategic-Program-Manager_JR106678) — Incora
+- 📍 **Location:** Remote - USA - Missouri
+- 🕒 **Posted:** Posted 12 Days Ago
+
+### [Senior Account Manager](https://integer.wd1.myworkdayjobs.com/External/job/Remote---United-States/Senior-Account-Manager_R36007) — Integer Holdings Corporation
+- 📍 **Location:** Remote - United States
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [IT Project Manager-1](https://integer.wd1.myworkdayjobs.com/External/job/Remote---United-States/IT-Project-Manager-1_R36548) — Integer Holdings Corporation
+- 📍 **Location:** Remote - United States
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [Symphony Project Manager PMO/IT](https://integer.wd1.myworkdayjobs.com/External/job/Remote---United-States/Symphony-Project-Manager-PMO-IT_R36872) — Integer Holdings Corporation
+- 📍 **Location:** Remote - United States
+- 🕒 **Posted:** Posted 6 Days Ago
+
+### [Symphony Project Manager PMO/IT](https://integer.wd1.myworkdayjobs.com/External/job/Remote---United-States/Symphony-Project-Manager-PMO-IT_R36871-1) — Integer Holdings Corporation
+- 📍 **Location:** Remote - United States
+- 🕒 **Posted:** Posted 6 Days Ago
+
+### [Care Manager – Patient Support Call Center -Remote](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Phoenix-AZ/Care-Manager---Patient-Support-Call-Center--Remote_R1532044) — IQVIA
+- 📍 **Location:** San Jose, California, United States
+- 🕒 **Posted:** Posted 29 Days Ago
+
+### [Regional Quality Manager  - W&L | 3PL ](https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--CA--Remote/Regional-Quality-Manager----W-L---3PL-_J0108277) — Iron Mountain
+- 📍 **Location:** US | CA | Remote
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Senior Benefits Operations Analyst, Financial Wellbeing, Leaves, & Income Protection](https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--TX--Remote/Senior-Benefits-Operations-Analyst--Financial-Wellbeing--Leaves----Income-Protection_J0107086-1) — Iron Mountain
+- 📍 **Location:** US | TX | Remote
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Senior Global Account Manager](https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--PA--Remote/Senior-Global-Account-Manager_J0107438) — Iron Mountain
+- 📍 **Location:** US | PA | Remote
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Program Manager, Enterprise Growth & Capital Programs](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Remote---USA/Program-Manager--Enterprise-Growth---Capital-Programs_J2453143-1) — Jabil
+- 📍 **Location:** Remote - USA
+- 🕒 **Posted:** Posted 7 Days Ago
+
+### [Senior Program Manager - M&A](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/Senior-Program-Manager---M-A_R-106313) — Jade Global
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted Yesterday
+
+### [Experienced Project Manager](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/Experienced-Project-Manager_R-104820) — Jade Global
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Project Manager, Salesforce or Workday experience](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/Project-Manager--Salesforce-or-Workday-experience_R-104725) — Jade Global
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Technical Services Program Manager](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Mountain-View-CA/Technical-Services-Program-Manager_REQ543444) — Jones Lang LaSalle (JLL)
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** Posted 2 Days Ago
