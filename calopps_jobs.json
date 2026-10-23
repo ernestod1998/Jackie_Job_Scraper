@@ -1,8 +1,32 @@
 {
-  "scraped_at": "2026-10-22 20:38 UTC",
-  "total": 7,
-  "new_count": 0,
+  "scraped_at": "2026-10-23 20:32 UTC",
+  "total": 9,
+  "new_count": 2,
   "jobs": [
+    {
+      "company": "San Carlos",
+      "title": "Program Coordinator (Part-time, 30 hours per week)",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-carlos/job-20787190",
+      "date_posted": "",
+      "salary": "$27.20-$33.07 Hourly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "San Mateo County",
+      "title": "Mental Health Program Specialist- East Palo Alto Clinic- Spanish Preferred (Open & Promotional)",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo-county/job-20787183",
+      "date_posted": "",
+      "salary": "$126,921.60-$158,620.80 Annually",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "San Mateo County Transit District Samtrans",
       "title": "Senior Project Manager",
@@ -88,7 +112,32 @@
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "San Carlos",
+      "title": "Program Coordinator (Part-time, 30 hours per week)",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-carlos/job-20787190",
+      "date_posted": "",
+      "salary": "$27.20-$33.07 Hourly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "San Mateo County",
+      "title": "Mental Health Program Specialist- East Palo Alto Clinic- Spanish Preferred (Open & Promotional)",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo-county/job-20787183",
+      "date_posted": "",
+      "salary": "$126,921.60-$158,620.80 Annually",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
