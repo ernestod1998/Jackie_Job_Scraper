@@ -1,60 +1,48 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-23 00:13 UTC*
+*Last updated: 2026-10-23 07:22 UTC*
 
-**13 new role(s)** since last run · 47 total in last 4h
+**10 new role(s)** since last run · 10 total in last 4h
 
-### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4470323731/) — Diamond Peak Recruiting
+### [Creative Operations Project Manager](https://www.linkedin.com/jobs/view/4480604866/) — Ztek Consulting
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $58.00/hr - $60.00/hr
+- 🕒 **Posted:** 2026-10-23
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4482136200/) — Generis Tek Inc
+- 📍 **Location:** Alameda County, CA
+- 🕒 **Posted:** 2026-10-23
+
+### [Corporate Development Operations Manager](https://www.linkedin.com/jobs/view/4481642800/) — Nextpower
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-10-23
+
+### [Program Manager (III) | Executive Engagement [AQ-23464]](https://www.linkedin.com/jobs/view/4480612779/) — Aquent
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $122.00/hr - $131.00/hr
+- 🕒 **Posted:** 2026-10-23
+
+### [Safeguards Enforcement Operations Specialist (Account Access & Integrity) - (Contract A1420)](https://www.linkedin.com/jobs/view/4480605900/) — Employer.com
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $120.00/hr - $120.00/hr
+- 🕒 **Posted:** 2026-10-23
+
+### [Patient Access Representative II](https://www.linkedin.com/jobs/view/4481649333/) — Sutter Health
+- 📍 **Location:** Berkeley, CA
+- 🕒 **Posted:** 2026-10-23
+
+### [Manager, Account Management](https://www.linkedin.com/jobs/view/4480616318/) — Checkout.com
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $211,422.00/yr - $248,830.00/yr
+- 🕒 **Posted:** 2026-10-23
+
+### [Enterprise Account Manager](https://www.linkedin.com/jobs/view/4480630190/) — JustBacked
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-23
+
+### [Staff Revenue Operations Analyst](https://www.linkedin.com/jobs/view/4480615319/) — onsemi
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-22
+- 🕒 **Posted:** 2026-10-23
 
-### [Program Manager, Security Operations (Remote)](https://www.linkedin.com/jobs/view/4469048752/) — Concentric
+### [Sales Operations Specialist, San Francisco ($100K–$150K + Equity) at a Series A GPU Cloud Building Its US GTM Team](https://www.linkedin.com/jobs/view/4478856083/) — Harper
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Sr. Program Manager](https://www.linkedin.com/jobs/view/4478914393/) — Teledyne Technologies Incorporated
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Data center Site Operations Lead](https://www.linkedin.com/jobs/view/4481608453/) — InfiCare Staffing
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Mapping Ops Senior Program Manager, Real-time Disruptions](https://www.linkedin.com/jobs/view/4481619208/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Finance Program Manager](https://www.linkedin.com/jobs/view/4481612672/) — eTeam
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $60.00/hr - $63.00/hr
-- 🕒 **Posted:** 2026-10-22
-
-### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4480600001/) — CyberCoders
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $120,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-10-22
-
-### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4480087577/) — CyberCoders
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $110,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-10-22
-
-### [Staff Project Manager, Professional Services](https://www.linkedin.com/jobs/view/4481604435/) — OpenGov Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Business Transformation Program Manager](https://www.linkedin.com/jobs/view/4481602726/) — SARACA
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Program Manager, Partner Content & Storytelling](https://www.linkedin.com/jobs/view/4481623396/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $287,000.00/yr - $318,000.00/yr
-- 🕒 **Posted:** 2026-10-22
-
-### [Sr Sales Account Manager - 2256](https://www.linkedin.com/jobs/view/4481609259/) — KIOXIA America, Inc.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Senior Analyst, Growth Strategy & Operations (Funnel & Analytics)](https://www.linkedin.com/jobs/view/4480081484/) — Airwallex
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
+- 🕒 **Posted:** 2026-10-23
