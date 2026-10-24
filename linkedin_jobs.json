@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-24 19:05 UTC",
-  "total": 45,
-  "new_count": 0,
+  "scraped_at": "2026-10-24 21:31 UTC",
+  "total": 21,
+  "new_count": 7,
   "jobs": [
     {
       "company": "San Jos\u00e9 State University",
@@ -49,10 +49,10 @@
       ]
     },
     {
-      "company": "YMCA Teen Center",
-      "title": "Program Manager",
-      "location": "Richmond, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482650463/",
+      "company": "Cardless",
+      "title": "Business Operations Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483340592/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "feeds": [
@@ -82,56 +82,10 @@
       ]
     },
     {
-      "company": "Instawork",
-      "title": "Business Operations Associate, AI & Automation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474780919/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Meta",
-      "title": "Strategic Program Manager",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481046648/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "salary": "$154,000.00/yr - $220,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Turner & Townsend",
-      "title": "MAC Program Lead",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473392364/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $160,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "SBM Management Services, LP",
       "title": "Bilingual HR Generalist",
       "location": "Menlo Park, CA",
       "url": "https://www.linkedin.com/jobs/view/4465152730/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon",
-      "title": "Deal and Contract Ops Manager, eero Business Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475057397/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "feeds": [
@@ -172,91 +126,23 @@
       ]
     },
     {
-      "company": "PTR Global",
-      "title": "IT Program Manager",
+      "company": "TikTok USDS Joint Venture",
+      "title": "HR Operations Leader - TikTok USDS JV - San Jose",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483343352/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior NPI Program Manager",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4438822133/",
+      "url": "https://www.linkedin.com/jobs/view/4473397913/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Swinerton",
-      "title": "Project Manager - Healthcare (HCAi)",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428069604/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Palo Alto Networks",
-      "title": "Manager, Technical Customer Support, Focused Services",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462549151/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Perplexity",
-      "title": "Global Workplace Business Operations Lead",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473395933/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $235,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Airbnb",
-      "title": "Senior Program Manager, Workplace Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4443996103/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Materials Project Manager \u2013 NPI Supply Chain - (B3)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481058226/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Overaa Construction",
-      "title": "Senior Project Manager - Building Group",
-      "location": "Richmond, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475054476/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amphenol Communications Solutions",
-      "title": "Program Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473539742/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $189,260.00/yr",
       "feeds": [
         "general"
       ]
@@ -273,54 +159,6 @@
       ]
     },
     {
-      "company": "Jacobs",
-      "title": "Project Manager: Electrical Transmission & Distribution (EPC) (Bay Area)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4438578464/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "salary": "$136,600.00/yr - $179,250.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jacobs",
-      "title": "Project Manager: Electrical Transmission & Distribution (EPC) (Bay Area)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4438578466/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "salary": "$136,600.00/yr - $179,250.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481060131/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $180,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CRB",
-      "title": "Design Project Manager",
-      "location": "Emeryville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475039007/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "salary": "$144,000.00/yr - $190,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Swinerton",
       "title": "Project Manager - Healthcare (HCAi)",
       "location": "Santa Clara, CA",
@@ -332,55 +170,34 @@
       ]
     },
     {
-      "company": "gpac",
-      "title": "Electrical Project Manager/Estimator",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481056205/",
+      "company": "CyberCoders",
+      "title": "Multifamily Podium Project Manager - $185-225k",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481055484/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $220,000.00/yr",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Applied Materials",
-      "title": "Materials Project Manager - MCOS",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481044778/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon",
-      "title": "Sr. Operations Program Manager, Devices Operations & Supply Chain",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466073662/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DLA Piper",
-      "title": "Case Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4438266537/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon",
-      "title": "Sr. Technical Enablement Lead, eero",
+      "company": "CyberCoders",
+      "title": "Multifamily Podium Project Manager - $185-225k",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456425403/",
+      "url": "https://www.linkedin.com/jobs/view/4481052578/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TikTok",
+      "title": "Policy Manager, Account Integrity - Trust and Safety",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482642970/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "feeds": [
@@ -388,22 +205,10 @@
       ]
     },
     {
-      "company": "Jacobs",
-      "title": "Project Manager: Electrical Transmission & Distribution (EPC) (Bay Area)",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4438582236/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "salary": "$136,600.00/yr - $179,250.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Harvey",
-      "title": "Mid-Market Customer Success Manager (San Francisco)",
+      "company": "Sapear Inc",
+      "title": "Program Manager II \u2013 Data & Analytics",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427773726/",
+      "url": "https://www.linkedin.com/jobs/view/4483349310/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "feeds": [
@@ -422,21 +227,23 @@
       ]
     },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Technical Account Manager, TAM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457046193/",
+      "company": "TikTok",
+      "title": "Technical Product Specialist (TPS) - Monetization Product Operations (Advertisement Team)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482652607/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "company": "The RealReal",
-      "title": "Customer Experience Associate (Seasonal Sales Associate) - San Francisco",
+      "company": "Cardless",
+      "title": "Business Operations Associate",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473190686/",
+      "url": "https://www.linkedin.com/jobs/view/4483340592/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "feeds": [
@@ -444,10 +251,10 @@
       ]
     },
     {
-      "company": "Epic",
-      "title": "Project Manager",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/3864455294/",
+      "company": "TikTok USDS Joint Venture",
+      "title": "HR Operations Leader - TikTok USDS JV - San Jose",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483343352/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "feeds": [
@@ -456,43 +263,33 @@
     },
     {
       "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481059240/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $160,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior NPI Program Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473397913/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Senior AI Transformation Specialist - Amazon Quick, Customer Success Center of Excellence",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466426221/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EY",
-      "title": "FY27 - Financial Services - Private Client Services - Tax Services Manager EDGE",
+      "title": "Multifamily Podium Project Manager - $185-225k",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427868121/",
+      "url": "https://www.linkedin.com/jobs/view/4481055484/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Multifamily Podium Project Manager - $185-225k",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481052578/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TikTok",
+      "title": "Policy Manager, Account Integrity - Trust and Safety",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482642970/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "feeds": [
@@ -500,10 +297,21 @@
       ]
     },
     {
-      "company": "EY",
-      "title": "FY27 - Financial Services - Private Client Services - Tax Services Manager EDGE",
+      "company": "Sapear Inc",
+      "title": "Program Manager II \u2013 Data & Analytics",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427863370/",
+      "url": "https://www.linkedin.com/jobs/view/4483349310/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TikTok",
+      "title": "Technical Product Specialist (TPS) - Monetization Product Operations (Advertisement Team)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482652607/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "feeds": [
@@ -511,13 +319,12 @@
       ]
     }
   ],
-  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 2,
+    "location": 0,
     "stale": 0
   }
 }
