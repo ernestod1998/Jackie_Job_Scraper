@@ -1,64 +1,54 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-24 21:49 UTC*
+*Last updated: 2026-10-25 01:31 UTC*
 
-**12 new role(s)** since last run · 65 total in last 24h
+**10 new role(s)** since last run · 47 total in last 24h
 
-### [Assistant Project Manager](https://www.indeed.com/viewjob?jk=5076002cf785d732) — Webcor
-- 📍 **Location:** Alameda, CA, USA
-- 💰 **Salary:** $133k–$146k/yr
-- 🕒 **Posted:** 2026-10-24
-
-### [Senior Project Manager - MEP](https://www.indeed.com/viewjob?jk=d2e30d29d922982a) — Webcor
-- 📍 **Location:** Alameda, CA, USA
+### [Senior Project Manager, Electrical](https://www.indeed.com/viewjob?jk=71985323c20cf53f) — Webcor
+- 📍 **Location:** San Jose, CA, USA
 - 💰 **Salary:** $181k–$201k/yr
 - 🕒 **Posted:** 2026-10-24
 
-### [Office Manager](https://www.indeed.com/viewjob?jk=10cf5596a1b4f219) — Prime Intellect
+### [Field Operations Associate](https://www.indeed.com/viewjob?jk=1e3d3455137a3813) — Stryker
+- 📍 **Location:** Fremont, CA, USA
+- 💰 **Salary:** $31.05/hr
+- 🕒 **Posted:** 2026-10-24
+
+### [Patient Access Representative I](https://www.indeed.com/viewjob?jk=21c36d893bf3c9e9) — Packard Children’s Health Alliance
+- 📍 **Location:** Palo Alto, CA, USA
+- 💰 **Salary:** $32.43–$40.54/hr
+- 🕒 **Posted:** 2026-10-24
+
+### [Patient Services Representative II, Rheumatology](https://www.indeed.com/viewjob?jk=29f716c68a98ee9f) — Sutter Health
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $95k–$120k/yr
+- 💰 **Salary:** $32.16–$45.02/hr
 - 🕒 **Posted:** 2026-10-24
 
-### [Procurement Operations Specialist](https://www.indeed.com/viewjob?jk=2fdf64f17a9bfafd) — OpenAI
+### [Senior Customer Success Manager](https://www.indeed.com/viewjob?jk=aee4c84eadc5f993) — Global Relay
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $162k–$180k/yr
+- 💰 **Salary:** $100k–$130k/yr
 - 🕒 **Posted:** 2026-10-24
 
-### [Case Manager | COL](https://www.indeed.com/viewjob?jk=1d4f3b5ca438bab7) — Careers - HomeRise
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $31.97/hr
+### [Business Operations Associate, Wearables](https://www.indeed.com/viewjob?jk=7a83ca96561d4dd2) — Meta
+- 📍 **Location:** Burlingame, CA, USA
+- 💰 **Salary:** $103k–$154k/yr
 - 🕒 **Posted:** 2026-10-24
 
-### [Customer Support Specialist](https://www.indeed.com/viewjob?jk=65de3325283b6a63) — Mercury Insurance Company
+### [Sr. Billing Operations Associate](https://www.indeed.com/viewjob?jk=8c66a3e31923b835) — Lyra Health
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $17.25–$21/hr
+- 💰 **Salary:** $68k–$104k/yr
 - 🕒 **Posted:** 2026-10-24
 
-### [Senior Project Coordinator](https://www.indeed.com/viewjob?jk=f8548db42725f589) — Cushman & Wakefield
+### [Regional Account Manager for Promotional Products Supplier](https://www.indeed.com/viewjob?jk=8c44d3fa2d7e8925) — Cosmo Fiber
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $80k–$97k/yr
+- 💰 **Salary:** $80k/yr
 - 🕒 **Posted:** 2026-10-24
 
-### [Patient Intake Coordinator](https://www.indeed.com/viewjob?jk=34cd87af51c62315) — North33
+### [Senior Business Analyst - Enterprise Systems](https://www.indeed.com/viewjob?jk=a43d49ce1a75dc1e) — Vetsource
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $60k–$75k/yr
+- 💰 **Salary:** $120k–$140k/yr
 - 🕒 **Posted:** 2026-10-24
 
-### [Service Desk Lead / Program Manager - VA C&P Help Desk 2.0 (Remote)](https://www.indeed.com/viewjob?jk=76cf4ce55fdf6fcf) — Triumph Enterprises
+### [Senior Marketing Operations Specialist](https://www.indeed.com/viewjob?jk=dec3d1013790ac06) — Motive
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $105k–$125k/yr
-- 🕒 **Posted:** 2026-10-24
-
-### [Account Manager, PRO - USA](https://www.indeed.com/viewjob?jk=80a6502c103c177d) — ARC'TERYX
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $82k–$108k/yr
-- 🕒 **Posted:** 2026-10-24
-
-### [Community Operations Assistant](https://www.indeed.com/viewjob?jk=91fcfed3bde0b1ed) — Orange County Shrinks
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $25.83–$30.11/hr
-- 🕒 **Posted:** 2026-10-24
-
-### [Ecosystem Operations Specialist](https://www.indeed.com/viewjob?jk=56605d498ea9378d) — GitLab Inc
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $86k–$146k/yr
+- 💰 **Salary:** $72k–$114k/yr
 - 🕒 **Posted:** 2026-10-24
