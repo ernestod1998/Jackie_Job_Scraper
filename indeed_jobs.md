@@ -1,54 +1,39 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-25 01:31 UTC*
+*Last updated: 2026-10-25 07:47 UTC*
 
-**10 new role(s)** since last run · 47 total in last 24h
+**7 new role(s)** since last run · 29 total in last 24h
 
-### [Senior Project Manager, Electrical](https://www.indeed.com/viewjob?jk=71985323c20cf53f) — Webcor
+### [Recruitment & Onboarding Manager](https://www.indeed.com/viewjob?jk=76b83bbf119365a5) — Marine Mammal Center
+- 📍 **Location:** Sausalito, CA, USA
+- 💰 **Salary:** $73k–$83k/yr
+- 🕒 **Posted:** 2026-10-25
+
+### [US Senior Consultant, Customer Success, Deal Desk, & Pricing and Packaging Lead - Converge for Life Sciences_Products & Platforms](https://www.indeed.com/viewjob?jk=d7364827003a9c74) — Deloitte
 - 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $105k–$208k/yr
+- 🕒 **Posted:** 2026-10-25
+
+### [US Senior Consultant, Customer Success, Deal Desk, & Pricing and Packaging Lead - Converge for Life Sciences_Products & Platforms](https://www.indeed.com/viewjob?jk=5c080bd6f9b3bd89) — Deloitte
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $105k–$208k/yr
+- 🕒 **Posted:** 2026-10-25
+
+### [Assistant Project Manager](https://www.indeed.com/viewjob?jk=5076002cf785d732) — Webcor
+- 📍 **Location:** Alameda, CA, USA
+- 💰 **Salary:** $133k–$146k/yr
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior Project Manager - MEP](https://www.indeed.com/viewjob?jk=d2e30d29d922982a) — Webcor
+- 📍 **Location:** Alameda, CA, USA
 - 💰 **Salary:** $181k–$201k/yr
 - 🕒 **Posted:** 2026-10-24
 
-### [Field Operations Associate](https://www.indeed.com/viewjob?jk=1e3d3455137a3813) — Stryker
-- 📍 **Location:** Fremont, CA, USA
-- 💰 **Salary:** $31.05/hr
-- 🕒 **Posted:** 2026-10-24
-
-### [Patient Access Representative I](https://www.indeed.com/viewjob?jk=21c36d893bf3c9e9) — Packard Children’s Health Alliance
-- 📍 **Location:** Palo Alto, CA, USA
-- 💰 **Salary:** $32.43–$40.54/hr
-- 🕒 **Posted:** 2026-10-24
-
-### [Patient Services Representative II, Rheumatology](https://www.indeed.com/viewjob?jk=29f716c68a98ee9f) — Sutter Health
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $32.16–$45.02/hr
-- 🕒 **Posted:** 2026-10-24
-
-### [Senior Customer Success Manager](https://www.indeed.com/viewjob?jk=aee4c84eadc5f993) — Global Relay
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $100k–$130k/yr
-- 🕒 **Posted:** 2026-10-24
-
-### [Business Operations Associate, Wearables](https://www.indeed.com/viewjob?jk=7a83ca96561d4dd2) — Meta
-- 📍 **Location:** Burlingame, CA, USA
-- 💰 **Salary:** $103k–$154k/yr
-- 🕒 **Posted:** 2026-10-24
-
-### [Sr. Billing Operations Associate](https://www.indeed.com/viewjob?jk=8c66a3e31923b835) — Lyra Health
+### [Patient Success Health Coach](https://www.indeed.com/viewjob?jk=f6356684a20e8865) — Balanced Body and Wellness, PLLC
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $68k–$104k/yr
-- 🕒 **Posted:** 2026-10-24
+- 💰 **Salary:** $22–$30/hr
+- 🕒 **Posted:** 2026-10-25
 
-### [Regional Account Manager for Promotional Products Supplier](https://www.indeed.com/viewjob?jk=8c44d3fa2d7e8925) — Cosmo Fiber
+### [Customer Support Specialist](https://www.indeed.com/viewjob?jk=65de3325283b6a63) — Mercury Insurance Company
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $80k/yr
-- 🕒 **Posted:** 2026-10-24
-
-### [Senior Business Analyst - Enterprise Systems](https://www.indeed.com/viewjob?jk=a43d49ce1a75dc1e) — Vetsource
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $120k–$140k/yr
-- 🕒 **Posted:** 2026-10-24
-
-### [Senior Marketing Operations Specialist](https://www.indeed.com/viewjob?jk=dec3d1013790ac06) — Motive
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $72k–$114k/yr
+- 💰 **Salary:** $17.25–$21/hr
 - 🕒 **Posted:** 2026-10-24
