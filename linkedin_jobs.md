@@ -1,34 +1,39 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-24 21:31 UTC*
+*Last updated: 2026-10-25 01:01 UTC*
 
-**7 new role(s)** since last run · 21 total in last 4h
+**8 new role(s)** since last run · 8 total in last 4h
 
-### [Business Operations Associate](https://www.linkedin.com/jobs/view/4483340592/) — Cardless
+### [HEALTH SERVICES AND CARE COORDINATOR](https://www.linkedin.com/jobs/view/4482680137/) — North East Medical Services
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-24
 
-### [HR Operations Leader - TikTok USDS JV - San Jose](https://www.linkedin.com/jobs/view/4483343352/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
+### [R&D Project Manager](https://www.linkedin.com/jobs/view/4482671287/) — Kivu Bioscience
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $100.00/hr - $150.00/hr
 - 🕒 **Posted:** 2026-10-24
 
-### [Multifamily Podium Project Manager - $185-225k](https://www.linkedin.com/jobs/view/4481055484/) — CyberCoders
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $185,000.00/yr - $215,000.00/yr
+### [Project Manager](https://www.linkedin.com/jobs/view/4482669269/) — Boulder Connect
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-10-24
 
-### [Multifamily Podium Project Manager - $185-225k](https://www.linkedin.com/jobs/view/4481052578/) — CyberCoders
+### [Project Managers -Superintendents - Project Engineers](https://www.linkedin.com/jobs/view/4482657762/) — FBD Vanguard Construction
+- 📍 **Location:** Livermore, CA
+- 🕒 **Posted:** 2026-10-24
+
+### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4481065673/) — CyberCoders
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $185,000.00/yr - $215,000.00/yr
+- 💰 **Salary:** $110,000.00/yr - $160,000.00/yr
 - 🕒 **Posted:** 2026-10-24
 
-### [Policy Manager, Account Integrity - Trust and Safety](https://www.linkedin.com/jobs/view/4482642970/) — TikTok
+### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4481060914/) — CyberCoders
 - 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $120,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-10-24
 
-### [Program Manager II – Data & Analytics](https://www.linkedin.com/jobs/view/4483349310/) — Sapear Inc
+### [Recruitment & Onboarding Manager](https://www.linkedin.com/jobs/view/4483348642/) — The Marine Mammal Center
+- 📍 **Location:** Sausalito, CA
+- 🕒 **Posted:** 2026-10-24
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4482664273/) — Granola
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-24
-
-### [Technical Product Specialist (TPS) - Monetization Product Operations (Advertisement Team)](https://www.linkedin.com/jobs/view/4482652607/) — TikTok
-- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-24
