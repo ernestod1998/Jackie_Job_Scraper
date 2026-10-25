@@ -1,15 +1,693 @@
 {
-  "scraped_at": "2026-10-25 07:31 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": [],
+  "scraped_at": "2026-10-25 18:56 UTC",
+  "total": 30,
+  "new_count": 30,
+  "jobs": [
+    {
+      "company": "Aquent",
+      "title": "Project Manager, Workplace &amp; Sustainability [AQ-23886]",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481099544/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "salary": "$35.00/hr - $40.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Elantis",
+      "title": "Renewals Operations Specialist \u2013 Sales Operations & Salesforce",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483367906/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Republic Services",
+      "title": "Environmental Solutions Operations Lead",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4446974109/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Zipline",
+      "title": "Sales Operations Analyst Intern (Spring 2027)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457534066/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Data Center Program Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466078579/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Aquent",
+      "title": "Operations Program Manager [AQ-23838]",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481087923/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "salary": "$92.00/hr - $102.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Zipline",
+      "title": "Program Manager - Growth & Profitability",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456759018/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Chick-fil-A Western Center Blvd",
+      "title": "Chick-fil-A Catering Sales Operations Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483386376/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Whatnot",
+      "title": "Strategy & Operations Manager, Compensation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409966775/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $185,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior NPI Program Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464818373/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Enterprise Support Manager, ES-NAMER-ISV",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466484325/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Skanska",
+      "title": "Project Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454688657/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Skanska",
+      "title": "Project Manager - Semiconductor",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454693578/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Diamond Peak Recruiting",
+      "title": "Electrical Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470323731/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "HOK",
+      "title": "Sr Project Manager - Sports, Rec, & Ent",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4403188674/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "HOK",
+      "title": "Project Manager - (San Francisco & Seattle)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447224720/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jacobs",
+      "title": "Project Manager: Electrical Transmission & Distribution (EPC) (Bay Area)",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4438580383/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "salary": "$136,600.00/yr - $179,250.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jacobs",
+      "title": "Proposal Manager, Geographic Sales Operations - NorCal U.S.",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447203725/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "salary": "$90,000.00/yr - $130,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Multifamily Podium Project Manager - $185-225k",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481095520/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Rowe Professional Services Company",
+      "title": "Remote Land Development Project Manager",
+      "location": "Hayward, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481099232/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Multifamily Podium Project Manager - $185-225k",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481407144/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Synack",
+      "title": "Senior Technical Account Manager (Penetration Testing)",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482096198/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pacific Gas and Electric Company",
+      "title": "Technology Vendor Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482905181/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Vercel",
+      "title": "Senior Technical Account Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4439303534/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Walter P Moore",
+      "title": "Enclosure Project Manager - Diagnostics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4365009005/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Aditi Consulting",
+      "title": "Business Analyst",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473510778/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "salary": "$54.00/hr - $56.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Strategic Account Manager, CSP",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447420053/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Customer Program Manager \u2013 AI Platform",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4446935791/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Account Manager, Media and Entertainment",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456289908/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "EY",
+      "title": "FY27 - Financial Services - Private Client Services - Tax Services Manager EDGE",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427876055/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Aquent",
+      "title": "Project Manager, Workplace &amp; Sustainability [AQ-23886]",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481099544/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "salary": "$35.00/hr - $40.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Elantis",
+      "title": "Renewals Operations Specialist \u2013 Sales Operations & Salesforce",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483367906/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Republic Services",
+      "title": "Environmental Solutions Operations Lead",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4446974109/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Zipline",
+      "title": "Sales Operations Analyst Intern (Spring 2027)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457534066/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Data Center Program Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466078579/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Aquent",
+      "title": "Operations Program Manager [AQ-23838]",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481087923/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "salary": "$92.00/hr - $102.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Zipline",
+      "title": "Program Manager - Growth & Profitability",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456759018/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Chick-fil-A Western Center Blvd",
+      "title": "Chick-fil-A Catering Sales Operations Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483386376/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Whatnot",
+      "title": "Strategy & Operations Manager, Compensation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409966775/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $185,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior NPI Program Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464818373/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Enterprise Support Manager, ES-NAMER-ISV",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466484325/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Skanska",
+      "title": "Project Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454688657/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Skanska",
+      "title": "Project Manager - Semiconductor",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454693578/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Diamond Peak Recruiting",
+      "title": "Electrical Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470323731/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "HOK",
+      "title": "Sr Project Manager - Sports, Rec, & Ent",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4403188674/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "HOK",
+      "title": "Project Manager - (San Francisco & Seattle)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447224720/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jacobs",
+      "title": "Project Manager: Electrical Transmission & Distribution (EPC) (Bay Area)",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4438580383/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "salary": "$136,600.00/yr - $179,250.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jacobs",
+      "title": "Proposal Manager, Geographic Sales Operations - NorCal U.S.",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447203725/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "salary": "$90,000.00/yr - $130,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Multifamily Podium Project Manager - $185-225k",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481095520/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Rowe Professional Services Company",
+      "title": "Remote Land Development Project Manager",
+      "location": "Hayward, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481099232/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Multifamily Podium Project Manager - $185-225k",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481407144/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Synack",
+      "title": "Senior Technical Account Manager (Penetration Testing)",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482096198/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pacific Gas and Electric Company",
+      "title": "Technology Vendor Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482905181/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Vercel",
+      "title": "Senior Technical Account Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4439303534/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Walter P Moore",
+      "title": "Enclosure Project Manager - Diagnostics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4365009005/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Aditi Consulting",
+      "title": "Business Analyst",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473510778/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "salary": "$54.00/hr - $56.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Strategic Account Manager, CSP",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447420053/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Customer Program Manager \u2013 AI Platform",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4446935791/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Account Manager, Media and Entertainment",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456289908/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "EY",
+      "title": "FY27 - Financial Services - Private Client Services - Tax Services Manager EDGE",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427876055/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 0,
+    "location": 2,
     "stale": 0
   }
 }
