@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-25 21:40 UTC",
+  "scraped_at": "2026-10-25 22:06 UTC",
   "total": 21,
-  "new_count": 9,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Aquent",
@@ -207,28 +207,6 @@
       ]
     },
     {
-      "company": "TikTok",
-      "title": "TikTok Shop - Customer Experience Strategy & Product Lead",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482901273/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Gordian Biotechnology",
-      "title": "People Operations Associate",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480702881/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "NVIDIA",
       "title": "Strategic Account Manager, CSP",
       "location": "Santa Clara, CA",
@@ -238,87 +216,6 @@
       "feeds": [
         "general"
       ]
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "TikTok",
-      "title": "TikTok Shop - Customer Experience & Product Program Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482695441/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "TikTok Shop - Arbitration Strategy Program Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482909129/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "HR Lifecycle Operations Lead, TikTok USDS JV - San Jose",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483506348/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481087990/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $160,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481098674/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $180,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BayOne Solutions",
-      "title": "Sourcing Project Manager",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482908177/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "TikTok Shop - Customer Experience Strategy & Product Program Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482910112/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
     },
     {
       "company": "TikTok",
@@ -343,6 +240,7 @@
       ]
     }
   ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
