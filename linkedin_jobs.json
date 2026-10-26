@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-26 07:42 UTC",
+  "scraped_at": "2026-10-26 08:09 UTC",
   "total": 10,
-  "new_count": 10,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Hewlett Packard Enterprise",
@@ -116,120 +116,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Labs Strategy and Operations Program Specialist (Milpitas, CA)",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483517757/",
-      "date_posted": "2026-10-26",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BioSpace",
-      "title": "Data Science Program Lead I - Neurology",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483528518/",
-      "date_posted": "2026-10-26",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Aquent",
-      "title": "HR Generalist [AQ-23937]",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481418534/",
-      "date_posted": "2026-10-26",
-      "ats": "LinkedIn",
-      "salary": "$24.00/hr - $26.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cypress HCM",
-      "title": "Associate Sales Operations Analyst 4",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482928493/",
-      "date_posted": "2026-10-26",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "STV",
-      "title": "Senior Mechanical Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481408873/",
-      "date_posted": "2026-10-26",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DSV - Global Transport and Logistics",
-      "title": "Quality Assurance Manager",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482926208/",
-      "date_posted": "2026-10-26",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Digivance Solutions",
-      "title": "Customer Success Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4483536230/",
-      "date_posted": "2026-10-26",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "interface.ai",
-      "title": "Customer Success Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482924396/",
-      "date_posted": "2026-10-26",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "interface.ai",
-      "title": "Senior Account Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482922454/",
-      "date_posted": "2026-10-26",
-      "ats": "LinkedIn",
-      "salary": "$130,000.00/yr - $170,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SonicJobs",
-      "title": "Remote Payroll Operations Specialist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482920575/",
-      "date_posted": "2026-10-26",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
