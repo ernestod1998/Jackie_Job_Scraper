@@ -1,8 +1,20 @@
 {
-  "scraped_at": "2026-10-25 19:47 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-10-26 21:41 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "State of South Carolina",
+      "title": "Program Coordinator II - Berkeley",
+      "location": "Berkeley County, SC",
+      "url": "https://www.governmentjobs.com/jobs/5521954-0/program-coordinator-ii-berkeley",
+      "date_posted": "",
+      "salary": "$51,039.00 - $59,622.00 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "Hayward Unified School District",
       "title": "Facilities and Operations Manager",
@@ -16,7 +28,20 @@
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "State of South Carolina",
+      "title": "Program Coordinator II - Berkeley",
+      "location": "Berkeley County, SC",
+      "url": "https://www.governmentjobs.com/jobs/5521954-0/program-coordinator-ii-berkeley",
+      "date_posted": "",
+      "salary": "$51,039.00 - $59,622.00 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,

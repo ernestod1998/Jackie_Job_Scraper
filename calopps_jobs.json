@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-25 19:47 UTC",
-  "total": 9,
-  "new_count": 0,
+  "scraped_at": "2026-10-26 21:42 UTC",
+  "total": 10,
+  "new_count": 1,
   "jobs": [
     {
       "company": "San Carlos",
@@ -22,6 +22,18 @@
       "url": "https://www.calopps.org/san-mateo-county/job-20787183",
       "date_posted": "",
       "salary": "$126,921.60-$158,620.80 Annually",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Millbrae",
+      "title": "Environmental Program Coordinator",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/millbrae/job-20787108",
+      "date_posted": "",
+      "salary": "$74,241.00-$100,225.00 Annually",
       "ats": "CalOpps",
       "feeds": [
         "general"
@@ -112,13 +124,26 @@
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Millbrae",
+      "title": "Environmental Program Coordinator",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/millbrae/job-20787108",
+      "date_posted": "",
+      "salary": "$74,241.00-$100,225.00 Annually",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 3,
+    "location": 2,
     "stale": 0
   }
 }
