@@ -1,19 +1,19 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-26 01:34 UTC*
+*Last updated: 2026-10-26 08:04 UTC*
 
 **3 new role(s)** since last run · 13 total in last 24h
 
-### [Customer Success Manager](https://www.indeed.com/viewjob?jk=66abc3aeaf1323bc) — Weave
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $120k–$150k/yr
-- 🕒 **Posted:** 2026-10-25
+### [Labs Strategy and Operations Program Specialist (Milpitas, CA)](https://www.indeed.com/viewjob?jk=5d369b47c6e48dba) — Hewlett Packard Enterprise | HPE
+- 📍 **Location:** Milpitas, CA, USA
+- 💰 **Salary:** $34.18–$51.63/hr
+- 🕒 **Posted:** 2026-10-26
 
-### [Office Operations Manager](https://www.indeed.com/viewjob?jk=aa54a97fb4de9c95) — Ramsay Browne Chemical & Co
-- 📍 **Location:** Concord, CA, USA
-- 💰 **Salary:** $25–$30/hr
-- 🕒 **Posted:** 2026-10-25
+### [Quality Assurance Manager](https://www.indeed.com/viewjob?jk=5d54540a46af4fef) — DSV
+- 📍 **Location:** South San Francisco, CA, USA
+- 💰 **Salary:** $103k–$129k/yr
+- 🕒 **Posted:** 2026-10-26
 
-### [Boutique Wholesale Sales & Account Manager](https://www.indeed.com/viewjob?jk=0b11ca8da85ef230) — ETTIKA
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $60k–$65k/yr
-- 🕒 **Posted:** 2026-10-25
+### [Business Operations Manager](https://www.indeed.com/viewjob?jk=16d945257898812d) — Cisco
+- 📍 **Location:** Milpitas, CA, USA
+- 💰 **Salary:** $135k–$235k/yr
+- 🕒 **Posted:** 2026-10-26
