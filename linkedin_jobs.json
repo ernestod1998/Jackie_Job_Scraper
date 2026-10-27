@@ -1,30 +1,8 @@
 {
-  "scraped_at": "2026-10-27 07:42 UTC",
-  "total": 26,
-  "new_count": 26,
+  "scraped_at": "2026-10-27 08:24 UTC",
+  "total": 24,
+  "new_count": 1,
   "jobs": [
-    {
-      "company": "Stanford Health Care",
-      "title": "Program Coordinator",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483186347/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Celerity",
-      "title": "Project Coordinator",
-      "location": "Walnut Creek, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483799643/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
     {
       "company": "Hewlett Packard Enterprise",
       "title": "Labs Strategy and Operations Program Specialist (Milpitas, CA)",
@@ -37,10 +15,22 @@
       ]
     },
     {
-      "company": "BASS MCS",
-      "title": "Operations Coordinator",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4483285711/",
+      "company": "Mudflap",
+      "title": "Customer Support Training & Enablement Specialist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484004835/",
+      "date_posted": "2026-10-27",
+      "ats": "LinkedIn",
+      "salary": "$67,000.00/yr - $85,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Odyssey",
+      "title": "People Operations Coordinator",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484001855/",
       "date_posted": "2026-10-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -48,12 +38,13 @@
       ]
     },
     {
-      "company": "ISEC, Inc.",
-      "title": "Project Coordinator",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483288647/",
+      "company": "Arxlight",
+      "title": "Office Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483789997/",
       "date_posted": "2026-10-27",
       "ats": "LinkedIn",
+      "salary": "$60,000.00/yr - $80,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -63,6 +54,17 @@
       "title": "Program Manager - Patient Experience",
       "location": "Newark, CA",
       "url": "https://www.linkedin.com/jobs/view/4484002467/",
+      "date_posted": "2026-10-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stanford Health Care",
+      "title": "Program Coordinator",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483186347/",
       "date_posted": "2026-10-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -186,29 +188,6 @@
       "title": "Enterprise Implementation Specialist, Americas",
       "location": "Palo Alto, CA",
       "url": "https://www.linkedin.com/jobs/view/4472145907/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Mudflap",
-      "title": "Customer Support Training & Enablement Specialist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484004835/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "salary": "$67,000.00/yr - $85,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Odyssey",
-      "title": "People Operations Coordinator",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484001855/",
       "date_posted": "2026-10-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -295,290 +274,13 @@
   ],
   "new_jobs": [
     {
-      "company": "Stanford Health Care",
-      "title": "Program Coordinator",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483186347/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Celerity",
-      "title": "Project Coordinator",
-      "location": "Walnut Creek, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483799643/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Labs Strategy and Operations Program Specialist (Milpitas, CA)",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483517757/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BASS MCS",
-      "title": "Operations Coordinator",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4483285711/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ISEC, Inc.",
-      "title": "Project Coordinator",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483288647/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stanford Health Care",
-      "title": "Program Manager - Patient Experience",
-      "location": "Newark, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484002467/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HNTB",
-      "title": "Toll Program Manager",
+      "company": "Arxlight",
+      "title": "Office Manager",
       "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483799646/",
+      "url": "https://www.linkedin.com/jobs/view/4483789997/",
       "date_posted": "2026-10-27",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Securitas Security Services USA, Inc.",
-      "title": "Datacenter Account Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481836599/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CVS Health",
-      "title": "Operations Supervisor",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483772863/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Clark Construction Group",
-      "title": "Senior Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483793569/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Google",
-      "title": "Senior Program Manager II, Operations Strategy, Commerce",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483299804/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AppleOne Employment Services",
-      "title": "Senior Electrical Project Manager/Estimator",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483606672/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "salary": "$130,000.00/yr - $190,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anvil Builders Inc.",
-      "title": "Project Manager- Heavy Civil",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4207566864/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HGA",
-      "title": "Sr Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481834713/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DCL Logistics",
-      "title": "Project Manager",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483792843/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Aquent",
-      "title": "UX Producer / Digital Product Project Manager (Web Tools) [AQ-24069]",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481857072/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "salary": "$89.00/hr - $99.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ahrefs",
-      "title": "Enterprise Implementation Specialist, Americas",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472145907/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Mudflap",
-      "title": "Customer Support Training & Enablement Specialist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484004835/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "salary": "$67,000.00/yr - $85,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Odyssey",
-      "title": "People Operations Coordinator",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484001855/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sutter Health",
-      "title": "Patient Services Representative II",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483613110/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sutter Health",
-      "title": "Patient Services Representative II, Float",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483612108/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RadNet",
-      "title": "Breast Care Coordinator",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483292234/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Harvey",
-      "title": "Customer Success Leader, Majors",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483295092/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Supermicro",
-      "title": "Sr. Technical Account Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484023112/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sutter Health",
-      "title": "Patient Services Representative II, Internal Medicine",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483605304/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sutter Health",
-      "title": "Patient Services Representative II, Float",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483294613/",
-      "date_posted": "2026-10-27",
-      "ats": "LinkedIn",
+      "salary": "$60,000.00/yr - $80,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -589,7 +291,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 3,
+    "location": 2,
     "stale": 0
   }
 }
