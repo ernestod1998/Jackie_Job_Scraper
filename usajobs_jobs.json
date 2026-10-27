@@ -1,9 +1,35 @@
 {
-  "scraped_at": "2026-10-26 20:07 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": [],
+  "scraped_at": "2026-10-27 19:37 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Management and Program Analyst - Activations Project Manager",
+      "location": "Palo Alto, California",
+      "url": "https://www.usajobs.gov/job/890373100",
+      "date_posted": "2026-10-27",
+      "salary": "Starting at $93,358 Per year (GS 11)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Management and Program Analyst - Activations Project Manager",
+      "location": "Palo Alto, California",
+      "url": "https://www.usajobs.gov/job/890373100",
+      "date_posted": "2026-10-27",
+      "salary": "Starting at $93,358 Per year (GS 11)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
