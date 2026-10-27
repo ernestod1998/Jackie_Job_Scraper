@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-26 21:42 UTC",
+  "scraped_at": "2026-10-27 21:24 UTC",
   "total": 10,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "San Carlos",
@@ -124,20 +124,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Millbrae",
-      "title": "Environmental Program Coordinator",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/millbrae/job-20787108",
-      "date_posted": "",
-      "salary": "$74,241.00-$100,225.00 Annually",
-      "ats": "CalOpps",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
