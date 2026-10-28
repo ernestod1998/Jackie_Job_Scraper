@@ -1,5 +1,5 @@
 # 🟪 ZipRecruiter + Google — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-28 05:25 UTC*
+*Last updated: 2026-10-28 20:57 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
