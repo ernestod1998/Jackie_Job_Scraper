@@ -1,85 +1,131 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-29 08:22 UTC*
+*Last updated: 2026-10-29 21:02 UTC*
 
-**20 new role(s)** since last run · 21 total in last 4h
+**30 new role(s)** since last run · 30 total in last 4h
 
-### [Medical Student Program Coordinator](https://www.linkedin.com/jobs/view/4483313171/) — University of California, San Francisco
-- 📍 **Location:** San Francisco, CA
+### [Program Management - Program Manager I](https://www.linkedin.com/jobs/view/4485205475/) — Apex Systems
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $49.00/hr - $59.00/hr
 - 🕒 **Posted:** 2026-10-29
 
-### [Kinder Care Coordinator](https://www.linkedin.com/jobs/view/4474594045/) — Boys & Girls Clubs of San Leandro
-- 📍 **Location:** San Francisco Bay Area
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4477442072/) — PDS Health
+- 📍 **Location:** San Rafael, CA
+- 💰 **Salary:** $19.50/hr - $27.50/hr
 - 🕒 **Posted:** 2026-10-29
 
-### [Development Program Manager](https://www.linkedin.com/jobs/view/4473752131/) — Crystal Springs Uplands School
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-10-29
-
-### [Program Manager (5145C), Student Learning Center, #89695](https://www.linkedin.com/jobs/view/4484903101/) — University of California, Berkeley
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-10-29
-
-### [Customer Success Enablement Business Partner](https://www.linkedin.com/jobs/view/4484910012/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-29
-
-### [Part-Time Marketing Operations Coordinator](https://www.linkedin.com/jobs/view/4484922053/) — xTool Official
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-29
-
-### [Customer Success Enablement Business Partner](https://www.linkedin.com/jobs/view/4484912575/) — Rysein
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-29
-
-### [ABA Program Manager: Spanish Speaker](https://www.linkedin.com/jobs/view/4484793835/) — Center for Social Dynamics
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-10-29
-
-### [Remote Business Analyst - US](https://www.linkedin.com/jobs/view/4484925036/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-29
-
-### [Operations Manager (US External Affairs)](https://www.linkedin.com/jobs/view/4484783999/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-10-29
-
-### [Assistant Account Manager](https://www.linkedin.com/jobs/view/4474059716/) — Securitas Security Services USA, Inc.
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-29
-
-### [Project Manager](https://www.linkedin.com/jobs/view/4482136200/) — Generis Tek Inc
-- 📍 **Location:** Alameda County, CA
-- 🕒 **Posted:** 2026-10-29
-
-### [Sr. Enterprise Applications Transformation Program Manager](https://www.linkedin.com/jobs/view/4480259090/) — Maxonic Inc.
+### [Project Coordinator III (6350)](https://www.linkedin.com/jobs/view/4481250193/) — itD
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-29
 
-### [Senior Technical Marketing & Program Manager (AI & Executive Engagement)](https://www.linkedin.com/jobs/view/4479570771/) — Piepeople Consulting Inc.
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-29
-
-### [Strategy & Operations Senior Lead](https://www.linkedin.com/jobs/view/4484900540/) — Faire
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-29
-
-### [People Operations Generalist](https://www.linkedin.com/jobs/view/4484912516/) — Etched
+### [Project Manager I](https://www.linkedin.com/jobs/view/4445994969/) — Gilbane Building
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-29
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4403253750/) — Gamma
+### [Event Content Operations Manager](https://www.linkedin.com/jobs/view/4482557813/) — AMD
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $104,160.00/yr - $156,240.00/yr
+- 🕒 **Posted:** 2026-10-29
+
+### [People Operations Intern](https://www.linkedin.com/jobs/view/4467180599/) — Etched
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [Product Program Manager](https://www.linkedin.com/jobs/view/4475720227/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [Operations Manager](https://www.linkedin.com/jobs/view/4475719164/) — SBM Management Services, LP
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [Operations Manager](https://www.linkedin.com/jobs/view/4475705773/) — SBM Management Services, LP
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-29
 
-### [Account Manager](https://www.linkedin.com/jobs/view/4473448168/) — Securitas Security Services USA, Inc.
+### [Contact Center Administrative Manager](https://www.linkedin.com/jobs/view/4484711302/) — UCSF Health
+- 📍 **Location:** Brisbane, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [Operations Manager](https://www.linkedin.com/jobs/view/4481719861/) — Gexpro Services
+- 📍 **Location:** Livermore, CA
+- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-10-29
+
+### [Operations Manager](https://www.linkedin.com/jobs/view/4354140935/) — Crunch Fitness
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [Senior Project Manager - Healthcare (HCAi)](https://www.linkedin.com/jobs/view/3965101284/) — Swinerton
 - 📍 **Location:** Oakland, CA
 - 🕒 **Posted:** 2026-10-29
 
-### [Enterprise/Strategic Customer Success Lead](https://www.linkedin.com/jobs/view/4484793483/) — Ketch
+### [Expert Program Manager - Enterprise Data, Analytics and AI](https://www.linkedin.com/jobs/view/4481462997/) — Global Technical Talent, an Inc. 5000 Company
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [Project Manager - Heavy Civil/Underground Utilities](https://www.linkedin.com/jobs/view/4474480670/) — CyberCoders
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $130,000.00/yr - $165,000.00/yr
+- 🕒 **Posted:** 2026-10-29
+
+### [Quality Manager I](https://www.linkedin.com/jobs/view/4456970503/) — Regal Rexnord
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [Quality Assurance Manager - Trayer](https://www.linkedin.com/jobs/view/4467181251/) — Siemens
+- 📍 **Location:** Livermore, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4485200664/) — University of California, San Francisco
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-29
 
-### [Office Manager](https://www.linkedin.com/jobs/view/4484910099/) — Career Group
+### [Architecture Project Manager - Data Centers (Hybrid)](https://www.linkedin.com/jobs/view/4439887189/) — MG2 Design
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $110,000.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-10-29
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4468333295/) — BRIDGE Housing Corporation
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $104,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-10-29
+
+### [Product Lifecycle Supply Chain Program Manager](https://www.linkedin.com/jobs/view/4484993541/) — Cisco
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [Sr. Program Manager, Change Governance](https://www.linkedin.com/jobs/view/4466229328/) — HireArt
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [CS Strategy & Operations Manager](https://www.linkedin.com/jobs/view/4457998901/) — Docusign
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [Quality Assurance Analyst](https://www.linkedin.com/jobs/view/4480066400/) — Air Apps
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [Customer Quality Manager](https://www.linkedin.com/jobs/view/4449625126/) — Infineon Technologies
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [Quality Assurance Manager](https://www.linkedin.com/jobs/view/4392447219/) — Nibbi Brothers General Contractors
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $145,000.00/yr - $160,000.00/yr
+- 🕒 **Posted:** 2026-10-29
+
+### [Senior Optical Global Account Manager (Product Test Group, San Jose, CA)](https://www.linkedin.com/jobs/view/4428933724/) — LitePoint
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [Senior Account Manager, CSP - Networking Business](https://www.linkedin.com/jobs/view/4448583764/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [Senior HR Generalist](https://www.linkedin.com/jobs/view/4466384039/) — d-Matrix
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-29
+
+### [Senior Technical Support Lead - Ethernet and AI Infrastructure](https://www.linkedin.com/jobs/view/4475723055/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-29
