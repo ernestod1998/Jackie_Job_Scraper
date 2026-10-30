@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-30 08:31 UTC",
-  "total": 22,
-  "new_count": 21,
+  "scraped_at": "2026-10-30 09:04 UTC",
+  "total": 26,
+  "new_count": 4,
   "jobs": [
     {
       "company": "BioSpace",
@@ -226,6 +226,29 @@
       ]
     },
     {
+      "company": "Jobot",
+      "title": "Project Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474860301/",
+      "date_posted": "2026-10-30",
+      "ats": "LinkedIn",
+      "salary": "$100,000.00/yr - $200,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "GHD",
+      "title": "Project Manager- Highways Roads",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4440272854/",
+      "date_posted": "2026-10-30",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Analog Bits",
       "title": "HR Manager, Culture, Talent & People Operations",
       "location": "Sunnyvale, CA",
@@ -241,6 +264,28 @@
       "title": "Sr. HR Operations Analyst, Total Rewards",
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4485283755/",
+      "date_posted": "2026-10-30",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Onboarding Partner (Mid-market), DoorDash for Business",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465904353/",
+      "date_posted": "2026-10-30",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Archer",
+      "title": "Trust & Safety - Fraud Strategy Analyst- Senior  Associate",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484814771/",
       "date_posted": "2026-10-30",
       "ats": "LinkedIn",
       "feeds": [
@@ -250,110 +295,22 @@
   ],
   "new_jobs": [
     {
-      "company": "BioSpace",
-      "title": "Sr. Project Coordinator",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485295730/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Chinatown Community Development Center",
-      "title": "Assistant Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485283799/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lawrence Livermore National Laboratory",
-      "title": "Business Analyst",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485300452/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "University of California, San Francisco",
-      "title": "Protocol Project Manager (Sr. CRC) - Gastrointestinal Oncology Program",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485286978/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Turing",
-      "title": "Remote Business Analyst - US",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4484830214/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Alpha School",
-      "title": "Reading Program Coordinator, Alpha - $120,000/year USD",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483813277/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $120,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Foxconn Industrial Internet - FII",
-      "title": "Business Program Manager (EMS/NPI)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485290450/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Genentech",
-      "title": "Portfolio Leader (Cross Portfolio + Strategy & Operations)",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485290442/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Generis Tek Inc",
+      "company": "Jobot",
       "title": "Project Manager",
-      "location": "Alameda County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482136200/",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474860301/",
       "date_posted": "2026-10-30",
       "ats": "LinkedIn",
+      "salary": "$100,000.00/yr - $200,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "BioSpace",
-      "title": "Key Account Manager - Bone Health - San Francisco, CA",
+      "company": "GHD",
+      "title": "Project Manager- Highways Roads",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485307059/",
+      "url": "https://www.linkedin.com/jobs/view/4440272854/",
       "date_posted": "2026-10-30",
       "ats": "LinkedIn",
       "feeds": [
@@ -361,66 +318,10 @@
       ]
     },
     {
-      "company": "BioSpace",
-      "title": "Sr. Project Manager",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485306287/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sandisk",
-      "title": "Sr. Program Manager \u2013 Product Innovation",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478371599/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sandisk",
-      "title": "Program Manager - Consumer Products",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478378308/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Skeleton Technologies",
-      "title": "Real Estate Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485310001/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "OpenAI",
-      "title": "Research Program Manager, Safety Measurement",
+      "company": "DoorDash",
+      "title": "Onboarding Partner (Mid-market), DoorDash for Business",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484825146/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "salary": "$239,000.00/yr - $328,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BioSpace",
-      "title": "Project Manager",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485296760/",
+      "url": "https://www.linkedin.com/jobs/view/4465904353/",
       "date_posted": "2026-10-30",
       "ats": "LinkedIn",
       "feeds": [
@@ -428,54 +329,10 @@
       ]
     },
     {
-      "company": "Stripe",
-      "title": "Strategy & Operations Business Partner, Customer Success",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472087511/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sankhara",
-      "title": "Strategy and Operations Associate",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4485306484/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Zenith American Solutions, Inc.",
-      "title": "Customer Care Advocate 1",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483412850/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Analog Bits",
-      "title": "HR Manager, Culture, Talent & People Operations",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485298704/",
-      "date_posted": "2026-10-30",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lattice Semiconductor",
-      "title": "Sr. HR Operations Analyst, Total Rewards",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485283755/",
+      "company": "Archer",
+      "title": "Trust & Safety - Fraud Strategy Analyst- Senior  Associate",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484814771/",
       "date_posted": "2026-10-30",
       "ats": "LinkedIn",
       "feeds": [
