@@ -1,19 +1,8 @@
 {
-  "scraped_at": "2026-10-30 00:49 UTC",
-  "total": 26,
-  "new_count": 26,
+  "scraped_at": "2026-10-30 01:23 UTC",
+  "total": 32,
+  "new_count": 6,
   "jobs": [
-    {
-      "company": "Connections Health Solutions",
-      "title": "Case Manager (Part Time, .4 Days)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485258906/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
     {
       "company": "Amazon",
       "title": "Program Manager - Devices Beta Team, Amazon Devices Beta",
@@ -26,10 +15,10 @@
       ]
     },
     {
-      "company": "Empathy",
-      "title": "Care Team Lead, Care Experience",
+      "company": "Connections Health Solutions",
+      "title": "Case Manager (Part Time, .4 Days)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485259534/",
+      "url": "https://www.linkedin.com/jobs/view/4485258906/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -49,10 +38,32 @@
       ]
     },
     {
+      "company": "Empathy",
+      "title": "Care Team Lead, Care Experience",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485259534/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Procore Technologies",
       "title": "Senior Product Manager, Domain Team Enablement",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4485268096/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BCforward",
+      "title": "Marketing Operations Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485272808/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -71,10 +82,77 @@
       ]
     },
     {
+      "company": "Samsara",
+      "title": "Sr. People Partner",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483412012/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SPECTRAFORCE",
+      "title": "Hardware Program Manager",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485262028/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "salary": "$53.00/hr - $60.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Sr. Associate, Marketing Product Operations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483089589/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Horizontal Talent",
       "title": "Project Manager",
       "location": "Foster City, CA",
       "url": "https://www.linkedin.com/jobs/view/4469779837/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Swoon",
+      "title": "Associate HR Generalist",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484579663/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insight Housing",
+      "title": "Case Manager",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485257725/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Notion",
+      "title": "People Operations Generalist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485254642/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -115,10 +193,66 @@
       ]
     },
     {
+      "company": "Actalent",
+      "title": "Quality Assurance Technician",
+      "location": "Union City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485237607/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "salary": "$29.00/hr - $32.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stripe",
+      "title": "AI Solutions Program Manager, Finance",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470052918/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cumming Group",
+      "title": "Senior Project Manager (K-12)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484590167/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "IS3 Solutions",
+      "title": "DC Site Operations Lead",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478599777/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Motion Recruitment",
       "title": "Sr. Operations Manager - Content Excellence",
       "location": "South San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4485249474/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "C1",
+      "title": "Revenue Enablement Leader",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485254242/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -138,102 +272,12 @@
       ]
     },
     {
-      "company": "IS3 Solutions",
-      "title": "DC Site Operations Lead",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478599777/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "C1",
-      "title": "Revenue Enablement Leader",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485254242/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Gusto",
-      "title": "Strategic Program Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4485240831/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SPECTRAFORCE",
-      "title": "Hardware Program Manager",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485262028/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$53.00/hr - $60.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stripe",
-      "title": "AI Solutions Program Manager, Finance",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470052918/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DoorDash",
-      "title": "Sr. Associate, Marketing Product Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483089589/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Skydio",
       "title": "Data Product Manager, Business Operations",
       "location": "San Mateo, CA",
       "url": "https://www.linkedin.com/jobs/view/4485237469/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Notion",
-      "title": "People Operations Generalist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485254642/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Actalent",
-      "title": "Quality Assurance Technician",
-      "location": "Union City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485237607/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$29.00/hr - $32.00/hr",
       "feeds": [
         "general"
       ]
@@ -265,6 +309,28 @@
       "title": "Global Key Account Manager",
       "location": "Cupertino, CA",
       "url": "https://www.linkedin.com/jobs/view/4485226889/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Gusto",
+      "title": "Strategic Program Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4485240831/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Ohalo",
+      "title": "Seed Supply Operations Lead",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483090399/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -298,155 +364,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Connections Health Solutions",
-      "title": "Case Manager (Part Time, .4 Days)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485258906/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon",
-      "title": "Program Manager - Devices Beta Team, Amazon Devices Beta",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485282088/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Empathy",
-      "title": "Care Team Lead, Care Experience",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485259534/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "JLL",
-      "title": "Associate Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485264649/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$95,000.00/yr - $95,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Procore Technologies",
-      "title": "Senior Product Manager, Domain Team Enablement",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485268096/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Rondo Energy",
-      "title": "People Operations & Mobility Specialist",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485264828/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Horizontal Talent",
-      "title": "Project Manager",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469779837/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Securitas Security Services USA, Inc.",
-      "title": "Assistant Account Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474059716/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "UCSF Health",
-      "title": "AI Program Manager, IT Dept",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484700580/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PTR Global",
-      "title": "Program Manager (Data Privacy & Compliance)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485233692/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Motion Recruitment",
-      "title": "Sr. Operations Manager - Content Excellence",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485249474/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "BCforward",
-      "title": "Marketing Operations Manager-Content Excellence",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485235311/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$60.00/hr - $65.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "IS3 Solutions",
-      "title": "DC Site Operations Lead",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478599777/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "C1",
-      "title": "Revenue Enablement Leader",
+      "title": "Marketing Operations Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485254242/",
+      "url": "https://www.linkedin.com/jobs/view/4485272808/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -454,33 +375,10 @@
       ]
     },
     {
-      "company": "Gusto",
-      "title": "Strategic Program Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4485240831/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SPECTRAFORCE",
-      "title": "Hardware Program Manager",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485262028/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$53.00/hr - $60.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stripe",
-      "title": "AI Solutions Program Manager, Finance",
+      "company": "Samsara",
+      "title": "Sr. People Partner",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470052918/",
+      "url": "https://www.linkedin.com/jobs/view/4483412012/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -488,21 +386,10 @@
       ]
     },
     {
-      "company": "DoorDash",
-      "title": "Sr. Associate, Marketing Product Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483089589/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Skydio",
-      "title": "Data Product Manager, Business Operations",
+      "company": "Swoon",
+      "title": "Associate HR Generalist",
       "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485237469/",
+      "url": "https://www.linkedin.com/jobs/view/4484579663/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -510,10 +397,10 @@
       ]
     },
     {
-      "company": "Notion",
-      "title": "People Operations Generalist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485254642/",
+      "company": "Insight Housing",
+      "title": "Case Manager",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485257725/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -521,22 +408,10 @@
       ]
     },
     {
-      "company": "Actalent",
-      "title": "Quality Assurance Technician",
-      "location": "Union City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485237607/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$29.00/hr - $32.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Salesforce",
-      "title": "ISV Digital Launch Partner Account Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485248185/",
+      "company": "Cumming Group",
+      "title": "Senior Project Manager (K-12)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484590167/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -544,47 +419,12 @@
       ]
     },
     {
-      "company": "OneTrust",
-      "title": "Sr Escalation Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485228031/",
+      "company": "Ohalo",
+      "title": "Seed Supply Operations Lead",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483090399/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ams OSRAM",
-      "title": "Global Key Account Manager",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485226889/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ASUS",
-      "title": "Leave & Benefits Program Lead",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474637186/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $120,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Miter",
-      "title": "Customer Support Specialist (Payroll Support)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485257213/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$75,000.00/yr - $85,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -595,7 +435,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 4,
+    "location": 5,
     "stale": 0
   }
 }
