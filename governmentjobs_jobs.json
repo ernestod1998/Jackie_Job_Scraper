@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-30 21:37 UTC",
+  "scraped_at": "2026-10-31 20:30 UTC",
   "total": 2,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "State of South Carolina",
@@ -16,19 +16,32 @@
       ]
     },
     {
-      "company": "Hayward Unified School District",
-      "title": "Facilities and Operations Manager",
-      "location": "Hayward, CA",
-      "url": "https://www.governmentjobs.com/jobs/5518996-0/facilities-and-operations-manager",
+      "company": "San Jose State University",
+      "title": "Project Manager and Documentation Specialist",
+      "location": "San Jose, CA",
+      "url": "https://www.governmentjobs.com/jobs/152112-1/project-manager-and-documentation-specialist",
       "date_posted": "",
-      "salary": "$139,624.00 - $167,548.00 Annually",
+      "salary": "$6,927.00 - $7,352.00 Monthly",
       "ats": "NEOGOV",
       "feeds": [
         "general"
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "San Jose State University",
+      "title": "Project Manager and Documentation Specialist",
+      "location": "San Jose, CA",
+      "url": "https://www.governmentjobs.com/jobs/152112-1/project-manager-and-documentation-specialist",
+      "date_posted": "",
+      "salary": "$6,927.00 - $7,352.00 Monthly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
