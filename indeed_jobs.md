@@ -1,42 +1,27 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-11-01 00:22 UTC*
+*Last updated: 2026-11-01 09:36 UTC*
 
-**8 new role(s)** since last run · 51 total in last 24h
+**5 new role(s)** since last run · 15 total in last 24h
 
-### [US Immigration Program Manager (Strategy & Operations)](https://www.indeed.com/viewjob?jk=f246a4bc5c7c249a) — Meta
+### [Finance and Business Operations Manager, Marketing](https://www.indeed.com/viewjob?jk=ab39c8d510479775) — Meta
 - 📍 **Location:** Menlo Park, CA, USA
-- 💰 **Salary:** $136k–$197k/yr
-- 🕒 **Posted:** 2026-10-31
+- 💰 **Salary:** $195k–$263k/yr
+- 🕒 **Posted:** 2026-11-01
 
-### [Automation Program Manager, Legal and Compliance Operations](https://www.indeed.com/viewjob?jk=66018d8a04f75f9e) — Meta
-- 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $97k–$139k/yr
-- 🕒 **Posted:** 2026-10-31
+### [Office Manager or Treatment Coordinator](https://www.indeed.com/viewjob?jk=8f13465761067c0b) — Singleton Smile Dental
+- 📍 **Location:** Alameda, CA, USA
+- 🕒 **Posted:** 2026-11-01
 
-### [Account Manager / Specialty Account Manager - IgG4 (Rare Disease) - San Jose, CA](https://www.indeed.com/viewjob?jk=bf71cc386154a3fc) — Amgen
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $145k–$215k/yr
-- 🕒 **Posted:** 2026-10-31
+### [Client Care Manager](https://www.indeed.com/viewjob?jk=c3be631458dfcdc8) — GoldLeaf Homecare Network
+- 📍 **Location:** Mountain View, CA, USA
+- 💰 **Salary:** $70k–$75k/yr
+- 🕒 **Posted:** 2026-11-01
 
-### [Account Manager / Specialty Account Manager - Tavneos (Rare Disease) - Oakland, CA](https://www.indeed.com/viewjob?jk=84d94efc08e4449d) — Amgen
-- 📍 **Location:** Oakland, CA, USA
-- 💰 **Salary:** $145k–$215k/yr
-- 🕒 **Posted:** 2026-10-31
-
-### [Business Analyst - Dublin/Sacramento/Rocklin](https://www.indeed.com/viewjob?jk=dba0930aa5577510) — Pacific Gas and Electric
-- 📍 **Location:** Dublin, CA, USA
-- 💰 **Salary:** $78k–$124k/yr
-- 🕒 **Posted:** 2026-10-31
-
-### [Project Manager I](https://www.indeed.com/viewjob?jk=d95aa92c0c22d437) — Computer Services
+### [Program Manager, Data Science Core & GenAI Studio](https://www.indeed.com/viewjob?jk=550f32c91d7dc54c) — College Board
 - 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-10-31
+- 💰 **Salary:** $120–$170/day
+- 🕒 **Posted:** 2026-11-01
 
-### [Commercial Enablement Manager](https://www.indeed.com/viewjob?jk=20db9d44aafa595e) — Norstella
+### [Project Manager-Compliance & Risk Mgmt. - Pacific Northwest (Oregon, Washington & Idaho)](https://www.indeed.com/viewjob?jk=d5c2a9fcec1ee50a) — Kelvin Group
 - 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-10-31
-
-### [Client Enablement Specialist](https://www.indeed.com/viewjob?jk=9d9957961b0209b9) — Norstella
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $63k–$73k/yr
 - 🕒 **Posted:** 2026-10-31
