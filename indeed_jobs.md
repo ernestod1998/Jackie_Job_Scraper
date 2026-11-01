@@ -1,27 +1,24 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-11-01 09:36 UTC*
+*Last updated: 2026-11-01 20:45 UTC*
 
-**5 new role(s)** since last run · 15 total in last 24h
+**4 new role(s)** since last run · 8 total in last 24h
 
-### [Finance and Business Operations Manager, Marketing](https://www.indeed.com/viewjob?jk=ab39c8d510479775) — Meta
-- 📍 **Location:** Menlo Park, CA, USA
-- 💰 **Salary:** $195k–$263k/yr
+### [ABA Program Manager - Alameda County](https://www.indeed.com/viewjob?jk=1b467571d32333a3) — Bright Bay Care Inc
+- 📍 **Location:** Hayward, CA, USA
+- 💰 **Salary:** $28–$35/hr
 - 🕒 **Posted:** 2026-11-01
 
-### [Office Manager or Treatment Coordinator](https://www.indeed.com/viewjob?jk=8f13465761067c0b) — Singleton Smile Dental
-- 📍 **Location:** Alameda, CA, USA
+### [Senior Account Manager (Semiconductor) (CA/YM)](https://www.indeed.com/viewjob?jk=ea71fbabe2285528) — Activ8 Chicago
+- 📍 **Location:** Fremont, CA, USA
+- 💰 **Salary:** $130k/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Client Care Manager](https://www.indeed.com/viewjob?jk=c3be631458dfcdc8) — GoldLeaf Homecare Network
-- 📍 **Location:** Mountain View, CA, USA
-- 💰 **Salary:** $70k–$75k/yr
-- 🕒 **Posted:** 2026-11-01
-
-### [Program Manager, Data Science Core & GenAI Studio](https://www.indeed.com/viewjob?jk=550f32c91d7dc54c) — College Board
+### [Strategic Program Manager](https://www.indeed.com/viewjob?jk=0f845894276e33bf) — ADB Companies
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $120–$170/day
+- 💰 **Salary:** $130k/yr
 - 🕒 **Posted:** 2026-11-01
 
-### [Project Manager-Compliance & Risk Mgmt. - Pacific Northwest (Oregon, Washington & Idaho)](https://www.indeed.com/viewjob?jk=d5c2a9fcec1ee50a) — Kelvin Group
+### [Texas Auto Insurance Sales & Operations Manager (Bilingual / Remote)](https://www.indeed.com/viewjob?jk=bee9daa7c44f0474) — Kitajima Insurance Agency
 - 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-10-31
+- 💰 **Salary:** $55k–$75k/yr
+- 🕒 **Posted:** 2026-11-01
