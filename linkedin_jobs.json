@@ -1,93 +1,193 @@
 {
-  "scraped_at": "2026-11-01 09:05 UTC",
-  "total": 8,
-  "new_count": 8,
+  "scraped_at": "2026-11-01 20:27 UTC",
+  "total": 17,
+  "new_count": 17,
   "jobs": [
     {
-      "company": "Meta",
-      "title": "Finance and Business Operations Manager, Marketing",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483975250/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "salary": "$195,000.00/yr - $263,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DoorDash",
-      "title": "Associate Manager, AI Research Lab Strategy & Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4438761021/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Johnson Controls",
-      "title": "Security & Fire Project Manager",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475600995/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "salary": "$109,000.00/yr - $164,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Roku",
-      "title": "Sr. Program Manager, Content Partnerships",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423037375/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Aquent",
-      "title": "UX Producer / Digital Product Project Manager (Web Tools) [AQ-24801]",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483978240/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobot",
-      "title": "Building Automation Project Manager 2",
-      "location": "Union City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475604796/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $155,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Zenith American Solutions, Inc.",
-      "title": "Customer Care Advocate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483968664/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DoorDash",
-      "title": "Associate Manager, AI Research Lab Strategy & Operations",
+      "company": "CCIntegration, Inc.",
+      "title": "Sales Operations Administrator II",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4438746468/",
+      "url": "https://www.linkedin.com/jobs/view/4486100243/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TikTok",
+      "title": "Ticketing System Product Operations Specialist - Advertisement Team",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485404932/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Bellota Labs",
+      "title": "People Operations Generalist",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475881325/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $130,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "First Place for Youth",
+      "title": "Clinical Program Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486103192/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Experis",
+      "title": "Sr Program/Project Manager",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485420461/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "First Place for Youth",
+      "title": "County Program Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486104115/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Siemens",
+      "title": "Project Manager - Building Automation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4431273860/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MG2 Design",
+      "title": "Architecture Project Manager - Data Centers (Hybrid)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485425028/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483993522/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $180,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Multi-family Podium Project Manager - $185-225k",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483983980/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Diamond Peak Recruiting",
+      "title": "Project Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4481371464/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "salary": "$135,000.00/yr - $175,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cumming Group",
+      "title": "Senior Project Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4432915964/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Diamond Peak Recruiting",
+      "title": "Senior Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484895767/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "salary": "$150,000.00/yr - $200,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "dotSolved Systems Inc.",
+      "title": "US - Project Manager \u2013 IT Services and Cloud Solutions",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485408953/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Crux AI",
+      "title": "Data Center Operations Program Manager",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466598083/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Evlo AI",
+      "title": "People Operations Specialist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485421701/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Global Account Manager, Game Developers",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450004760/",
       "date_posted": "2026-11-01",
       "ats": "LinkedIn",
       "feeds": [
@@ -97,90 +197,190 @@
   ],
   "new_jobs": [
     {
-      "company": "Meta",
-      "title": "Finance and Business Operations Manager, Marketing",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483975250/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "salary": "$195,000.00/yr - $263,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DoorDash",
-      "title": "Associate Manager, AI Research Lab Strategy & Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4438761021/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Johnson Controls",
-      "title": "Security & Fire Project Manager",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475600995/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "salary": "$109,000.00/yr - $164,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Roku",
-      "title": "Sr. Program Manager, Content Partnerships",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423037375/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Aquent",
-      "title": "UX Producer / Digital Product Project Manager (Web Tools) [AQ-24801]",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483978240/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobot",
-      "title": "Building Automation Project Manager 2",
-      "location": "Union City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475604796/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $155,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Zenith American Solutions, Inc.",
-      "title": "Customer Care Advocate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483968664/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DoorDash",
-      "title": "Associate Manager, AI Research Lab Strategy & Operations",
+      "company": "CCIntegration, Inc.",
+      "title": "Sales Operations Administrator II",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4438746468/",
+      "url": "https://www.linkedin.com/jobs/view/4486100243/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TikTok",
+      "title": "Ticketing System Product Operations Specialist - Advertisement Team",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485404932/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Bellota Labs",
+      "title": "People Operations Generalist",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475881325/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $130,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "First Place for Youth",
+      "title": "Clinical Program Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486103192/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Experis",
+      "title": "Sr Program/Project Manager",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485420461/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "First Place for Youth",
+      "title": "County Program Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486104115/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Siemens",
+      "title": "Project Manager - Building Automation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4431273860/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MG2 Design",
+      "title": "Architecture Project Manager - Data Centers (Hybrid)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485425028/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483993522/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $180,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Multi-family Podium Project Manager - $185-225k",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483983980/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Diamond Peak Recruiting",
+      "title": "Project Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4481371464/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "salary": "$135,000.00/yr - $175,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cumming Group",
+      "title": "Senior Project Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4432915964/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Diamond Peak Recruiting",
+      "title": "Senior Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484895767/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "salary": "$150,000.00/yr - $200,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "dotSolved Systems Inc.",
+      "title": "US - Project Manager \u2013 IT Services and Cloud Solutions",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485408953/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Crux AI",
+      "title": "Data Center Operations Program Manager",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466598083/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Evlo AI",
+      "title": "People Operations Specialist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485421701/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Global Account Manager, Game Developers",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450004760/",
       "date_posted": "2026-11-01",
       "ats": "LinkedIn",
       "feeds": [
