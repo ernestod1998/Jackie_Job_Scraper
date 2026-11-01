@@ -1,50 +1,95 @@
 {
-  "scraped_at": "2026-11-01 00:01 UTC",
-  "total": 4,
-  "new_count": 4,
+  "scraped_at": "2026-11-01 09:05 UTC",
+  "total": 8,
+  "new_count": 8,
   "jobs": [
     {
-      "company": "Suddath",
-      "title": "Project Coordinator",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484095274/",
-      "date_posted": "2026-10-31",
+      "company": "Meta",
+      "title": "Finance and Business Operations Manager, Marketing",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483975250/",
+      "date_posted": "2026-11-01",
       "ats": "LinkedIn",
+      "salary": "$195,000.00/yr - $263,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "HGA",
-      "title": "Sr Project Manager",
+      "company": "DoorDash",
+      "title": "Associate Manager, AI Research Lab Strategy & Operations",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481834713/",
-      "date_posted": "2026-10-31",
+      "url": "https://www.linkedin.com/jobs/view/4438761021/",
+      "date_posted": "2026-11-01",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "CyberCoders",
-      "title": "Multi-family Podium Project Manager - $185-225k",
+      "company": "Johnson Controls",
+      "title": "Security & Fire Project Manager",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475600995/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "salary": "$109,000.00/yr - $164,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Roku",
+      "title": "Sr. Program Manager, Content Partnerships",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483950627/",
-      "date_posted": "2026-10-31",
+      "url": "https://www.linkedin.com/jobs/view/4423037375/",
+      "date_posted": "2026-11-01",
       "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "CyberCoders",
-      "title": "Multi-family Podium Project Manager - $185-225k",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483947853/",
-      "date_posted": "2026-10-31",
+      "company": "Aquent",
+      "title": "UX Producer / Digital Product Project Manager (Web Tools) [AQ-24801]",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483978240/",
+      "date_posted": "2026-11-01",
       "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobot",
+      "title": "Building Automation Project Manager 2",
+      "location": "Union City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475604796/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "salary": "$100,000.00/yr - $155,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Zenith American Solutions, Inc.",
+      "title": "Customer Care Advocate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483968664/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Associate Manager, AI Research Lab Strategy & Operations",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4438746468/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -52,47 +97,92 @@
   ],
   "new_jobs": [
     {
-      "company": "Suddath",
-      "title": "Project Coordinator",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484095274/",
-      "date_posted": "2026-10-31",
+      "company": "Meta",
+      "title": "Finance and Business Operations Manager, Marketing",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483975250/",
+      "date_posted": "2026-11-01",
       "ats": "LinkedIn",
+      "salary": "$195,000.00/yr - $263,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "HGA",
-      "title": "Sr Project Manager",
+      "company": "DoorDash",
+      "title": "Associate Manager, AI Research Lab Strategy & Operations",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481834713/",
-      "date_posted": "2026-10-31",
+      "url": "https://www.linkedin.com/jobs/view/4438761021/",
+      "date_posted": "2026-11-01",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "CyberCoders",
-      "title": "Multi-family Podium Project Manager - $185-225k",
+      "company": "Johnson Controls",
+      "title": "Security & Fire Project Manager",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475600995/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "salary": "$109,000.00/yr - $164,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Roku",
+      "title": "Sr. Program Manager, Content Partnerships",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483950627/",
-      "date_posted": "2026-10-31",
+      "url": "https://www.linkedin.com/jobs/view/4423037375/",
+      "date_posted": "2026-11-01",
       "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "CyberCoders",
-      "title": "Multi-family Podium Project Manager - $185-225k",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483947853/",
-      "date_posted": "2026-10-31",
+      "company": "Aquent",
+      "title": "UX Producer / Digital Product Project Manager (Web Tools) [AQ-24801]",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483978240/",
+      "date_posted": "2026-11-01",
       "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobot",
+      "title": "Building Automation Project Manager 2",
+      "location": "Union City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475604796/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "salary": "$100,000.00/yr - $155,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Zenith American Solutions, Inc.",
+      "title": "Customer Care Advocate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483968664/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Associate Manager, AI Research Lab Strategy & Operations",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4438746468/",
+      "date_posted": "2026-11-01",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
