@@ -1,80 +1,42 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-10-31 20:14 UTC*
+*Last updated: 2026-11-01 00:22 UTC*
 
-**16 new role(s)** since last run · 85 total in last 24h
+**8 new role(s)** since last run · 51 total in last 24h
 
-### [US Immigration Program Manager (Strategy & Operations)](https://www.indeed.com/viewjob?jk=854d26a5e3219b70) — Meta
-- 📍 **Location:** San Francisco, CA, USA
+### [US Immigration Program Manager (Strategy & Operations)](https://www.indeed.com/viewjob?jk=f246a4bc5c7c249a) — Meta
+- 📍 **Location:** Menlo Park, CA, USA
 - 💰 **Salary:** $136k–$197k/yr
 - 🕒 **Posted:** 2026-10-31
 
-### [Customer Operations Account Manager](https://www.indeed.com/viewjob?jk=4b6da0bb53041a04) — AMD
-- 📍 **Location:** San Jose, CA, USA
-- 🕒 **Posted:** 2026-10-31
-
-### [Automation Program Manager, Legal and Compliance Operations](https://www.indeed.com/viewjob?jk=6a95e294d4918806) — Meta
-- 📍 **Location:** Menlo Park, CA, USA
+### [Automation Program Manager, Legal and Compliance Operations](https://www.indeed.com/viewjob?jk=66018d8a04f75f9e) — Meta
+- 📍 **Location:** Sunnyvale, CA, USA
 - 💰 **Salary:** $97k–$139k/yr
 - 🕒 **Posted:** 2026-10-31
 
-### [New Product Technology Project Manager](https://www.indeed.com/viewjob?jk=5ae9f9d023f186d6) — Apple
-- 📍 **Location:** Cupertino, CA, USA
-- 💰 **Salary:** $145k–$218k/yr
-- 🕒 **Posted:** 2026-10-31
-
-### [Expert Program Manager - Clean Energy Transportation](https://www.indeed.com/viewjob?jk=9d6cd050044ff7a6) — Pacific Gas and Electric
-- 📍 **Location:** Oakland, CA, USA
-- 💰 **Salary:** $129k–$207k/yr
-- 🕒 **Posted:** 2026-10-31
-
-### [Senior Project Manager](https://www.indeed.com/viewjob?jk=70217a4ca93b951e) — UCSF Health
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $165k–$190k/yr
-- 🕒 **Posted:** 2026-10-30
-
-### [Dental Office Manager/Treatment Coordinator](https://www.indeed.com/viewjob?jk=eb6f3eb2f6bd7139) — Family Dentistry
-- 📍 **Location:** Fremont, CA, USA
-- 💰 **Salary:** $25–$30/hr
-- 🕒 **Posted:** 2026-10-31
-
-### [Clinic Office manager](https://www.indeed.com/viewjob?jk=3ccbe317f8768897) — Bello Allergy and Wellness Center
-- 📍 **Location:** Burlingame, CA, USA
-- 💰 **Salary:** $30–$40/hr
-- 🕒 **Posted:** 2026-10-31
-
-### [Strategic Account Manager](https://www.indeed.com/viewjob?jk=b8e626ceaa8a0632) — Hilti Group
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $103k–$113k/yr
-- 🕒 **Posted:** 2026-10-31
-
-### [Account Manager / Specialty Account Manager - TAVNEOS - San Jose, CA](https://www.indeed.com/viewjob?jk=408af21a45a2e3ab) — Amgen
+### [Account Manager / Specialty Account Manager - IgG4 (Rare Disease) - San Jose, CA](https://www.indeed.com/viewjob?jk=bf71cc386154a3fc) — Amgen
 - 📍 **Location:** San Jose, CA, USA
 - 💰 **Salary:** $145k–$215k/yr
 - 🕒 **Posted:** 2026-10-31
 
-### [Project Manager](https://www.indeed.com/viewjob?jk=6d2f62e8865ccd47) — CBX Solutions
+### [Account Manager / Specialty Account Manager - Tavneos (Rare Disease) - Oakland, CA](https://www.indeed.com/viewjob?jk=84d94efc08e4449d) — Amgen
+- 📍 **Location:** Oakland, CA, USA
+- 💰 **Salary:** $145k–$215k/yr
+- 🕒 **Posted:** 2026-10-31
+
+### [Business Analyst - Dublin/Sacramento/Rocklin](https://www.indeed.com/viewjob?jk=dba0930aa5577510) — Pacific Gas and Electric
+- 📍 **Location:** Dublin, CA, USA
+- 💰 **Salary:** $78k–$124k/yr
+- 🕒 **Posted:** 2026-10-31
+
+### [Project Manager I](https://www.indeed.com/viewjob?jk=d95aa92c0c22d437) — Computer Services
 - 📍 **Location:** Remote, USA
 - 🕒 **Posted:** 2026-10-31
 
-### [Real Estate Operations Manager](https://www.indeed.com/viewjob?jk=eee2b9fc0fb47bab) — Colleen Cotter Real Estate
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $30–$40/hr
-- 🕒 **Posted:** 2026-10-31
-
-### [Operations Manager, Marketing Agency](https://www.indeed.com/viewjob?jk=560fc4b7be00845e) — One 10 Media
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $85k–$115k/yr
-- 🕒 **Posted:** 2026-10-31
-
-### [Project Manager – RFP & Implementation Readiness](https://www.indeed.com/viewjob?jk=6011a0328c39debe) — Conduent
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $77k–$100k/yr
-- 🕒 **Posted:** 2026-10-31
-
-### [Project Manager-Compliance & Risk Mgmt. - New England Area](https://www.indeed.com/viewjob?jk=94e30a904b272613) — Kelvin Group
+### [Commercial Enablement Manager](https://www.indeed.com/viewjob?jk=20db9d44aafa595e) — Norstella
 - 📍 **Location:** Remote, USA
 - 🕒 **Posted:** 2026-10-31
 
-### [2UniFi-Enterprise Technology - Digital Business Analyst II](https://www.indeed.com/viewjob?jk=a63fec7570472807) — NBH Bank
+### [Client Enablement Specialist](https://www.indeed.com/viewjob?jk=9d9957961b0209b9) — Norstella
 - 📍 **Location:** Remote, USA
+- 💰 **Salary:** $63k–$73k/yr
 - 🕒 **Posted:** 2026-10-31
