@@ -1,8 +1,31 @@
 {
-  "scraped_at": "2026-11-02 09:19 UTC",
-  "total": 8,
-  "new_count": 8,
+  "scraped_at": "2026-11-02 10:01 UTC",
+  "total": 13,
+  "new_count": 5,
   "jobs": [
+    {
+      "company": "San Francisco Health Plan",
+      "title": "Program Manager, NCQA",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451003707/",
+      "date_posted": "2026-11-02",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Alpha School",
+      "title": "Reading Program Coordinator, Alpha - $120,000/year USD",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483813277/",
+      "date_posted": "2026-11-02",
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $120,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "BioSpace",
       "title": "Rare Disease Key Account Manager - Rheumatology-Nephrology - Northern California",
@@ -70,6 +93,17 @@
       ]
     },
     {
+      "company": "Applied Materials",
+      "title": "Internship Program Manager - B4",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480063470/",
+      "date_posted": "2026-11-02",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Crowe",
       "title": "Public Sector Strategy Project Manager",
       "location": "San Francisco, CA",
@@ -81,10 +115,32 @@
       ]
     },
     {
-      "company": "Applied Materials",
-      "title": "Internship Program Manager - B4",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480063470/",
+      "company": "Everlaw",
+      "title": "Customer Success Manager I",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486118684/",
+      "date_posted": "2026-11-02",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Deloitte",
+      "title": "QRM Support Manager - National Tax Quality Assurance (NTQA), Quality Risk",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423592952/",
+      "date_posted": "2026-11-02",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Deloitte",
+      "title": "QRM Support Manager - National Tax Quality Assurance (NTQA), Quality Risk",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424113156/",
       "date_posted": "2026-11-02",
       "ats": "LinkedIn",
       "feeds": [
@@ -94,10 +150,10 @@
   ],
   "new_jobs": [
     {
-      "company": "BioSpace",
-      "title": "Rare Disease Key Account Manager - Rheumatology-Nephrology - Northern California",
+      "company": "San Francisco Health Plan",
+      "title": "Program Manager, NCQA",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486124343/",
+      "url": "https://www.linkedin.com/jobs/view/4451003707/",
       "date_posted": "2026-11-02",
       "ats": "LinkedIn",
       "feeds": [
@@ -105,10 +161,22 @@
       ]
     },
     {
-      "company": "BioSpace",
-      "title": "Key Account Manager - Endocrinology-Ocular (Rare Disease) - San Francisco",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486115930/",
+      "company": "Alpha School",
+      "title": "Reading Program Coordinator, Alpha - $120,000/year USD",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483813277/",
+      "date_posted": "2026-11-02",
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $120,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Everlaw",
+      "title": "Customer Success Manager I",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486118684/",
       "date_posted": "2026-11-02",
       "ats": "LinkedIn",
       "feeds": [
@@ -116,32 +184,10 @@
       ]
     },
     {
-      "company": "Meitu Inc.",
-      "title": "Content Operations Manager - Photo, Video & AI Creation, US",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486125617/",
-      "date_posted": "2026-11-02",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Materials Project Manager (multiple openings)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484304873/",
-      "date_posted": "2026-11-02",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "GHD",
-      "title": "Project Manager- Highways Roads",
+      "company": "Deloitte",
+      "title": "QRM Support Manager - National Tax Quality Assurance (NTQA), Quality Risk",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4441389834/",
+      "url": "https://www.linkedin.com/jobs/view/4423592952/",
       "date_posted": "2026-11-02",
       "ats": "LinkedIn",
       "feeds": [
@@ -149,32 +195,10 @@
       ]
     },
     {
-      "company": "Crowe",
-      "title": "Public Sector Strategy Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486134070/",
-      "date_posted": "2026-11-02",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Crowe",
-      "title": "Public Sector Strategy Project Manager",
+      "company": "Deloitte",
+      "title": "QRM Support Manager - National Tax Quality Assurance (NTQA), Quality Risk",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486137039/",
-      "date_posted": "2026-11-02",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Internship Program Manager - B4",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480063470/",
+      "url": "https://www.linkedin.com/jobs/view/4424113156/",
       "date_posted": "2026-11-02",
       "ats": "LinkedIn",
       "feeds": [

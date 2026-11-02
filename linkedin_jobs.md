@@ -1,36 +1,25 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-11-02 09:19 UTC*
+*Last updated: 2026-11-02 10:01 UTC*
 
-**8 new role(s)** since last run · 8 total in last 4h
+**5 new role(s)** since last run · 13 total in last 4h
 
-### [Rare Disease Key Account Manager - Rheumatology-Nephrology - Northern California](https://www.linkedin.com/jobs/view/4486124343/) — BioSpace
+### [Program Manager, NCQA](https://www.linkedin.com/jobs/view/4451003707/) — San Francisco Health Plan
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-02
 
-### [Key Account Manager - Endocrinology-Ocular (Rare Disease) - San Francisco](https://www.linkedin.com/jobs/view/4486115930/) — BioSpace
-- 📍 **Location:** San Francisco, CA
+### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4483813277/) — Alpha School
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $120,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-11-02
 
-### [Content Operations Manager - Photo, Video & AI Creation, US](https://www.linkedin.com/jobs/view/4486125617/) — Meitu Inc.
-- 📍 **Location:** Palo Alto, CA
+### [Customer Success Manager I](https://www.linkedin.com/jobs/view/4486118684/) — Everlaw
+- 📍 **Location:** Oakland, CA
 - 🕒 **Posted:** 2026-11-02
 
-### [Materials Project Manager (multiple openings)](https://www.linkedin.com/jobs/view/4484304873/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Project Manager- Highways Roads](https://www.linkedin.com/jobs/view/4441389834/) — GHD
+### [QRM Support Manager - National Tax Quality Assurance (NTQA), Quality Risk](https://www.linkedin.com/jobs/view/4423592952/) — Deloitte
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-02
 
-### [Public Sector Strategy Project Manager](https://www.linkedin.com/jobs/view/4486134070/) — Crowe
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Public Sector Strategy Project Manager](https://www.linkedin.com/jobs/view/4486137039/) — Crowe
+### [QRM Support Manager - National Tax Quality Assurance (NTQA), Quality Risk](https://www.linkedin.com/jobs/view/4424113156/) — Deloitte
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Internship Program Manager - B4](https://www.linkedin.com/jobs/view/4480063470/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-11-02
