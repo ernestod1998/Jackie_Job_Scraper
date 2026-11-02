@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-01 21:16 UTC",
+  "scraped_at": "2026-11-02 23:57 UTC",
   "total": 2,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "State of South Carolina",
@@ -16,19 +16,32 @@
       ]
     },
     {
-      "company": "San Jose State University",
-      "title": "Project Manager and Documentation Specialist",
-      "location": "San Jose, CA",
-      "url": "https://www.governmentjobs.com/jobs/152112-1/project-manager-and-documentation-specialist",
+      "company": "County of San Mateo",
+      "title": "Public Health Programs Billing Specialist - Limited Term",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5525899-0/public-health-programs-billing-specialist-limited-term",
       "date_posted": "",
-      "salary": "$6,927.00 - $7,352.00 Monthly",
+      "salary": "$79,352.00 - $99,236.80 Annually",
       "ats": "NEOGOV",
       "feeds": [
         "general"
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "County of San Mateo",
+      "title": "Public Health Programs Billing Specialist - Limited Term",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5525899-0/public-health-programs-billing-specialist-limited-term",
+      "date_posted": "",
+      "salary": "$79,352.00 - $99,236.80 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
