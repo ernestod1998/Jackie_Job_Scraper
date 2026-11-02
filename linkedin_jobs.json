@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-02 00:34 UTC",
+  "scraped_at": "2026-11-02 01:03 UTC",
   "total": 7,
-  "new_count": 7,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Valon",
@@ -10,7 +10,6 @@
       "url": "https://www.linkedin.com/jobs/view/4485428251/",
       "date_posted": "2026-11-01",
       "ats": "LinkedIn",
-      "salary": "$155,000.00/yr - $185,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -44,19 +43,18 @@
       "url": "https://www.linkedin.com/jobs/view/4480183011/",
       "date_posted": "2026-11-01",
       "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $165,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Talently",
+      "company": "CyberCoders",
       "title": "Electrical Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471803485/",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484302494/",
       "date_posted": "2026-11-01",
       "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $180,000.00/yr",
+      "salary": "$120,000.00/yr - $180,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -74,66 +72,6 @@
       ]
     },
     {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484302494/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $180,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Valon",
-      "title": "Data Implementation Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485428251/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "salary": "$155,000.00/yr - $185,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "YMCA Teen Center",
-      "title": "Afterschool Program Manager",
-      "location": "Richmond, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485409906/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Synergist Law, P.C.",
-      "title": "Case Manager, Personal Injury",
-      "location": "San Rafael, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485412908/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Talently",
-      "title": "Electrical Project Manager",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480183011/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $165,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Talently",
       "title": "Electrical Project Manager",
       "location": "San Francisco, CA",
@@ -144,32 +82,9 @@
       "feeds": [
         "general"
       ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484305318/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $160,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484302494/",
-      "date_posted": "2026-11-01",
-      "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $180,000.00/yr",
-      "feeds": [
-        "general"
-      ]
     }
   ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
