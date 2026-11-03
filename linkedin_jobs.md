@@ -1,160 +1,91 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-11-03 04:05 UTC*
+*Last updated: 2026-11-03 09:27 UTC*
 
-**37 new role(s)** since last run · 37 total in last 4h
+**21 new role(s)** since last run · 22 total in last 4h
 
-### [CPEI Program Coordinator](https://www.linkedin.com/jobs/view/4486481746/) — Stanford Medicine Children's Health
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Customer Success Coordinator](https://www.linkedin.com/jobs/view/4485779972/) — Nextpower
-- 📍 **Location:** San Rafael, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Customer Success Coordinator](https://www.linkedin.com/jobs/view/4485789817/) — Nextpower
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Executive Operations Coordinator, Office of the COO](https://www.linkedin.com/jobs/view/4486484688/) — MatX
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [11th Grade Program Manager](https://www.linkedin.com/jobs/view/4486484503/) — SEO (Sponsors for Educational Opportunity)
+### [Senior Project Coordinator](https://www.linkedin.com/jobs/view/4486827196/) — Webcor
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-11-02
+- 🕒 **Posted:** 2026-11-03
 
-### [Senior Operations Manager (Volunteer)](https://www.linkedin.com/jobs/view/4486019049/) — Bright Mind
+### [Sales Operations Specialist](https://www.linkedin.com/jobs/view/4486802964/) — Supermicro
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4486815694/) — TEKsystems
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $55.00/hr - $60.00/hr
+- 🕒 **Posted:** 2026-11-03
+
+### [Regional Program Manager](https://www.linkedin.com/jobs/view/4486831195/) — Second Harvest of Silicon Valley
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [Assistant Project Manager - Energy (Estimating to Traveling)](https://www.linkedin.com/jobs/view/4470204820/) — Cupertino Electric, Inc.
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [Jr Business Analyst](https://www.linkedin.com/jobs/view/4486822165/) — Apex Systems
+- 📍 **Location:** Pleasanton, CA
+- 💰 **Salary:** $30.00/hr - $40.00/hr
+- 🕒 **Posted:** 2026-11-03
+
+### [GTM Enablement Manager](https://www.linkedin.com/jobs/view/4484637924/) — Teli Labs
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [Technical Enablement Manager, Customer Enablement](https://www.linkedin.com/jobs/view/4477559765/) — Micron Technology
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [Deployment & Engagement Operations Lead](https://www.linkedin.com/jobs/view/4486828113/) — Physical Intelligence
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [Benefits Program Manager](https://www.linkedin.com/jobs/view/4486035151/) — Fluidstack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $139,000.00/yr - $178,000.00/yr
+- 🕒 **Posted:** 2026-11-03
+
+### [Project Manager - Commercial](https://www.linkedin.com/jobs/view/4478714956/) — Cupertino Electric, Inc.
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-11-02
+- 🕒 **Posted:** 2026-11-03
 
-### [Access Operations Associate](https://www.linkedin.com/jobs/view/4486811067/) — Stanford Health Care
-- 📍 **Location:** Newark, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Marketing Operations Specialist](https://www.linkedin.com/jobs/view/4486008185/) — Robert Half
-- 📍 **Location:** San Ramon, CA
-- 💰 **Salary:** $35.00/hr - $45.00/hr
-- 🕒 **Posted:** 2026-11-02
-
-### [Business Analyst](https://www.linkedin.com/jobs/view/4486483751/) — Federal Reserve Bank of San Francisco
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Program Manager](https://www.linkedin.com/jobs/view/4485795866/) — AMI Network
+### [Project Manager - Commercial](https://www.linkedin.com/jobs/view/4478734130/) — Cupertino Electric, Inc.
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-02
+- 🕒 **Posted:** 2026-11-03
 
-### [Revenue Operations Associate](https://www.linkedin.com/jobs/view/4484609959/) — Outset
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $125,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-11-02
+### [Sr CoE NPI Supply Chain Program Manager (multiple openings)](https://www.linkedin.com/jobs/view/4484640279/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-11-03
 
-### [Event Operations Manager, San Francisco](https://www.linkedin.com/jobs/view/4486486253/) — Curate Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Operations Manager-CA](https://www.linkedin.com/jobs/view/4486488524/) — CVS Health
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Robot Operations Manager](https://www.linkedin.com/jobs/view/4486486589/) — Figure
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Data Center Operations Manager](https://www.linkedin.com/jobs/view/4486489396/) — Amazon Web Services (AWS)
-- 📍 **Location:** Hayward, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Business Operations Manager](https://www.linkedin.com/jobs/view/4486481881/) — Stanford Medicine Children's Health
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Vehicle Operations Supervisor](https://www.linkedin.com/jobs/view/4485798749/) — Hertz
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Global Supplier Project Manager](https://www.linkedin.com/jobs/view/4486806124/) — SoloPoint Solutions
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $60.00/hr - $70.00/hr
-- 🕒 **Posted:** 2026-11-02
-
-### [Senior Project Manager](https://www.linkedin.com/jobs/view/4486488271/) — Webcor
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-11-02
-
-### [Program Manager](https://www.linkedin.com/jobs/view/4486479581/) — Hyve Solutions
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Project Manager](https://www.linkedin.com/jobs/view/4484624494/) — Hoxton Circle
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $120,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-11-02
-
-### [Project Manager - Water/Wastewater Services](https://www.linkedin.com/jobs/view/4486477971/) — CDM Smith
-- 📍 **Location:** Concord, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4484616815/) — CyberCoders
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $120,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-11-02
-
-### [Electrical Project Manager](https://www.linkedin.com/jobs/view/4484613954/) — CyberCoders
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $110,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-11-02
-
-### [Finance Transformation Project Manager](https://www.linkedin.com/jobs/view/4460774849/) — RGP
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Compliance QA Program Manager](https://www.linkedin.com/jobs/view/4486474791/) — Square
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-11-02
-
-### [Content Business Analyst](https://www.linkedin.com/jobs/view/4486807047/) — BEPC Inc. - Business Excellence Professional Consulting
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $55.00/hr - $62.07/hr
-- 🕒 **Posted:** 2026-11-02
-
-### [Operations Supervisor](https://www.linkedin.com/jobs/view/4486491526/) — CVS Health
-- 📍 **Location:** Walnut Creek, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [WW High Velocity Sales Program Manager, HPE Networking](https://www.linkedin.com/jobs/view/4486471518/) — Hewlett Packard Enterprise
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [WW High Velocity Sales Program Manager, HPE Networking](https://www.linkedin.com/jobs/view/4486483110/) — Hewlett Packard Enterprise
+### [Manager, Analytics, Customer Experience](https://www.linkedin.com/jobs/view/4469952751/) — DoorDash
 - 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-02
+- 🕒 **Posted:** 2026-11-03
 
-### [Business Analyst, Content & Omnichannel](https://www.linkedin.com/jobs/view/4486494309/) — BCforward
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $60.00/hr - $64.00/hr
-- 🕒 **Posted:** 2026-11-02
+### [Campus Fabric PLM, Cloud Assurance and Field Enablement](https://www.linkedin.com/jobs/view/4486823228/) — Hewlett Packard Enterprise
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-11-03
 
-### [Sr. Business Analyst](https://www.linkedin.com/jobs/view/4486499077/) — Jackson Lewis P.C.
+### [Silicon IP Program Manager - 18327](https://www.linkedin.com/jobs/view/4451345408/) — Synopsys Inc
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [IT Project Manager](https://www.linkedin.com/jobs/view/4486813789/) — Happiest Minds Technologies
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [Senior Program Manager, Quote-to-Cash Transformation & M&A Integration (B5)](https://www.linkedin.com/jobs/view/4484624975/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [Materials Project Manager (multiple openings)](https://www.linkedin.com/jobs/view/4484628708/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [Associate,  DashMart - Supply Chain Profitability Strategy & Operations](https://www.linkedin.com/jobs/view/4476056033/) — DoorDash
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-02
+- 🕒 **Posted:** 2026-11-03
 
-### [Technology Vendor Manager](https://www.linkedin.com/jobs/view/4485796879/) — Intelliswift - An LTTS Company
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Marketing & Operations Manager](https://www.linkedin.com/jobs/view/4486489980/) — Boutique Recruiting
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Data Center Operations Manager](https://www.linkedin.com/jobs/view/4486494097/) — Amazon Web Services (AWS)
-- 📍 **Location:** Hayward, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [People Operations Lead](https://www.linkedin.com/jobs/view/4397418095/) — Reducto
+### [Strategic Finance / Operations Analyst](https://www.linkedin.com/jobs/view/4486805983/) — Turn/River Capital
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Technical Business Analyst](https://www.linkedin.com/jobs/view/4486008338/) — Aequor
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-11-02
+- 🕒 **Posted:** 2026-11-03
