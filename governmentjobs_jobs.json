@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-02 23:57 UTC",
-  "total": 2,
-  "new_count": 1,
+  "scraped_at": "2026-11-03 22:23 UTC",
+  "total": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "State of South Carolina",
@@ -14,34 +14,9 @@
       "feeds": [
         "general"
       ]
-    },
-    {
-      "company": "County of San Mateo",
-      "title": "Public Health Programs Billing Specialist - Limited Term",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5525899-0/public-health-programs-billing-specialist-limited-term",
-      "date_posted": "",
-      "salary": "$79,352.00 - $99,236.80 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County of San Mateo",
-      "title": "Public Health Programs Billing Specialist - Limited Term",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5525899-0/public-health-programs-billing-specialist-limited-term",
-      "date_posted": "",
-      "salary": "$79,352.00 - $99,236.80 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
