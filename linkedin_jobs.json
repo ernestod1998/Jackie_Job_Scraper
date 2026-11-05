@@ -1,13 +1,25 @@
 {
-  "scraped_at": "2026-11-04 22:16 UTC",
-  "total": 71,
-  "new_count": 10,
+  "scraped_at": "2026-11-05 03:27 UTC",
+  "total": 54,
+  "new_count": 54,
   "jobs": [
     {
-      "company": "Air Apps",
-      "title": "Project Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477368160/",
+      "company": "County of San Mateo",
+      "title": "Mental Health Program Specialist - East Palo Alto Clinic - Spanish Preferred",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482441274/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$126,921.60/yr - $158,620.80/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Center for Elders' Independence",
+      "title": "Patient Care Navigator",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486414792/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -15,43 +27,123 @@
       ]
     },
     {
-      "company": "Air Apps",
-      "title": "Technical Operations Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476492535/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Mercury",
-      "title": "Emerging Talent & Onboarding Program Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485540402/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon Lab126",
-      "title": "Program Manager, Devices & Services",
+      "company": "Integrated Resources, Inc ( IRI )",
+      "title": "Data Operations Coordinator - AI Research",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487528263/",
+      "url": "https://www.linkedin.com/jobs/view/4487585581/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Colliers",
+      "title": "Senior Marketing and Client Services Coordinator | Occupier Services Bay Area",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487584304/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Colliers",
+      "title": "Senior Marketing and Client Services Coordinator | Occupier Services Bay Area",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487577530/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SK hynix America",
+      "title": "Sales Operations and Planning Specialist (Full-Time)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485562627/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Moodys Northwest Consulting",
+      "title": "Senior Program Manager",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486547972/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $150,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Program Manager II, Supply and Materials Planning, Cloud Supply Chain",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486549978/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Planet Pharma",
+      "title": "CLINICAL PROGRAM MANAGER \u2013 REGIONAL & VENDOR OVERSIGHT",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480670437/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Vibrant Wellness",
+      "title": "Quality Assurance Manager - Clinical Laboratory",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487574870/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $150,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Links Healthcare",
+      "title": "Regional Business Office Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485571255/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Plaid",
+      "title": "Workplace Operations Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4487571771/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$114,000.00/yr - $138,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
       "company": "PwC",
-      "title": "Provider Clinical Operations Consultant, Senior Associate",
+      "title": "CTIO - Platform Support Operations Manager - Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487522552/",
+      "url": "https://www.linkedin.com/jobs/view/4487588181/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -59,373 +151,10 @@
       ]
     },
     {
-      "company": "Ztek Consulting",
-      "title": "People Operations Associate",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4485530847/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nortia Staffing - Human Resources, Accounting and Administrative Staffing",
-      "title": "Senior Recruiting Operations Coordinator",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486516972/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $60.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Martin, Wardin & Eissner Financial Group, Inc.",
-      "title": "Client Services Representative",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487537544/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Aeva",
-      "title": "Program Operations Manager",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461305487/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$132,400.00/yr - $179,200.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Career Group",
-      "title": "Office Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486511809/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $100,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "West Contra Costa Unified School District",
-      "title": "Office Manager 27TP075",
-      "location": "Richmond, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487549148/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Aston Carter",
-      "title": "HR Generalist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485523978/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$38.00/hr - $44.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Career Group",
-      "title": "Executive Assistant & Office Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4486522649/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $120,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Quanta Manufacturing Fremont",
-      "title": "Project Manager",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486533038/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bon App\u00e9tit Management Company",
-      "title": "Culinary Training Manager",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487538714/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EPITEC",
-      "title": "Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487535422/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "99 Ranch Market",
-      "title": "Customer Experience & Community Ambassador",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486526394/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$23.00/hr - $28.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Pinterest",
-      "title": "Content Enablement Intern 2027 (USA)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487524450/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Air Apps",
-      "title": "People Operations Specialist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477048669/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Air Apps",
-      "title": "Project Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477369186/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Air Apps",
-      "title": "Project Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477369182/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Air Apps",
-      "title": "Technical Operations Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476479890/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Air Apps",
-      "title": "Technical Operations Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476496324/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Air Apps",
-      "title": "Project Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477376315/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Intuitive",
-      "title": "Scientific Research Program Manager",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487539053/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$132,000.00/yr - $223,500.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Plasmidsaurus",
-      "title": "Senior Project Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4476244833/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$145,000.00/yr - $195,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Slalom",
-      "title": "Slalom Flex (Project Based) - Project Manager (Healthcare Payor)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486504675/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ManpowerGroup",
-      "title": "Supply Chain Program Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487509500/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SBM Management Services, LP",
-      "title": "Operations Manager",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478169865/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SBM Management Services, LP",
-      "title": "Operations Manager",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478171817/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Heffernan Network Insurance Brokers",
-      "title": "Finance Operations Manager",
-      "location": "Walnut Creek, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487530749/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$85,000.00/yr - $95,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Product Operations Manager (Child Safety) - Teen Experience (San Jose)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486521391/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Product Operations Manager (LLM) - TikTok Minor Safety (San Jose)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486525049/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Scale",
-      "title": "Quality Lead, Gen AI",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4487508997/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "WD",
-      "title": "Supply Chain Program Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485541007/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$164,000.00/yr - $218,700.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Dataworks",
-      "title": "Operations Lead",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4485224590/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$170,000.00/yr - $220,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nortia Staffing - Human Resources, Accounting and Administrative Staffing",
-      "title": "Senior Operations Manager",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486530164/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BNBuilders",
-      "title": "Project Manager",
+      "company": "Roblox",
+      "title": "Manager, Product Support Operations",
       "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4210777212/",
+      "url": "https://www.linkedin.com/jobs/view/4486554156/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -433,123 +162,22 @@
       ]
     },
     {
-      "company": "Dexian",
-      "title": "Environmental Project Manager #1021593",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4486539115/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $120,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Petersen Precision Engineering, LLC",
-      "title": "Quality Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486524573/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cumming Group",
-      "title": "Senior Project Manager",
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4444521051/",
+      "url": "https://www.linkedin.com/jobs/view/4485558796/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $160,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Quanta Manufacturing Fremont",
-      "title": "Project Manager 3",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487530669/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cumming Group",
-      "title": "Senior Project Manager (K-12)",
-      "location": "Richmond, CA",
-      "url": "https://www.linkedin.com/jobs/view/4448566990/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HOK",
-      "title": "Interiors - Sr Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487517851/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Therma",
-      "title": "Plumbing Service Project Manager",
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487517468/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ciarra Construction",
-      "title": "Steel Project Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4465850956/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $150,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "XL Construction",
-      "title": "Project Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4486524787/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$150,000.00/yr - $250,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Semiconductor Tools Installations & Bay Fit-up Upgrades Project Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485508812/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ciarra Construction",
-      "title": "Wood Framing Project Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4445976670/",
+      "url": "https://www.linkedin.com/jobs/view/4485577196/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "salary": "$120,000.00/yr - $180,000.00/yr",
@@ -558,10 +186,10 @@
       ]
     },
     {
-      "company": "Rexel Southern",
-      "title": "Lighting Senior Project Manager",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485540212/",
+      "company": "CDM Smith",
+      "title": "Project Manager - Transportation Services",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487576550/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -569,10 +197,10 @@
       ]
     },
     {
-      "company": "Celonis",
-      "title": "Lead Project Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4485505940/",
+      "company": "Gensler",
+      "title": "Project Manager (Design Manager) - Critical Facilities",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487579525/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -580,10 +208,43 @@
       ]
     },
     {
-      "company": "Sia Experience",
+      "company": "Applied Materials",
+      "title": "Semiconductor Tools Installations & Bay Fit-up Upgrades Project Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485552991/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CHC Hydro",
+      "title": "Project Manager",
+      "location": "Hayward, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485578035/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Industrial Electric Mfg. (IEM)",
+      "title": "Commercial Program Manager",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487594249/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "PPT Consulting",
       "title": "Web Marketing Program Manager (Contract)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487530250/",
+      "url": "https://www.linkedin.com/jobs/view/4486545963/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -591,137 +252,68 @@
       ]
     },
     {
-      "company": "Element Fleet Management",
-      "title": "Strategy & Operations Lead, Element Mobility",
+      "company": "Fisher Investments",
+      "title": "International Marketing Program Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485557769/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Endor Labs",
+      "title": "Technical Enablement Manager",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487571687/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Benchling",
+      "title": "CX Learning & Development Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487521192/",
+      "url": "https://www.linkedin.com/jobs/view/4487575458/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
+      "salary": "$122,000.00/yr - $160,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "NetApp",
-      "title": "Senior Program Manager - HR Transformation & PMO",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486522352/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$82.00/hr - $110.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Next Creation",
-      "title": "Senior Cybersecurity Program Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485511754/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$70.00/yr - $85.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SPECTRAFORCE",
-      "title": "Quality Assurance Technician",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487520793/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$35.00/hr - $45.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "U.S. Department of Veterans Affairs",
-      "title": "Advanced Medical Support Assistant (Call Center)",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487519091/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$63,094.00/yr - $82,021.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Senior Program Manager - Monetization Ads Product and Tech",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486520451/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "OpenAI",
-      "title": "Legal Discovery Program Manager",
+      "company": "Trilyon, Inc.",
+      "title": "Patient Access Representative",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486506564/",
+      "url": "https://www.linkedin.com/jobs/view/4487587571/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
-      "salary": "$216,000.00/yr - $240,000.00/yr",
+      "salary": "$25.00/hr - $32.00/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Mumba Technologies, Inc.",
-      "title": "Senior Program Manager \u2013 Oracle Fusion & Enterprise Transformation",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487521375/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nimble",
-      "title": "Strategic Customer Success Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4486085274/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Murata",
+      "company": "Power Integrations",
       "title": "Key Account Manager",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486515788/",
+      "url": "https://www.linkedin.com/jobs/view/4486566254/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
-      "salary": "$81,578.00/yr - $135,215.00/yr",
+      "salary": "$100,000.00/yr - $115,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "C.A. Fortune",
-      "title": "National Account Manager - Albertsons",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486524695/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Manager, Cloud Service Provider \u2013 Networking",
+      "company": "Applied Materials",
+      "title": "Semiconductor Tools Installations & Bay Fit-up Upgrades Project Manager",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469078243/",
+      "url": "https://www.linkedin.com/jobs/view/4485560591/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -729,10 +321,10 @@
       ]
     },
     {
-      "company": "NVIDIA",
-      "title": "Automotive Account Manager",
+      "company": "Applied Materials",
+      "title": "Strategic Supply Chain Project Manager for New Products",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469085147/",
+      "url": "https://www.linkedin.com/jobs/view/4485555967/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -740,10 +332,10 @@
       ]
     },
     {
-      "company": "EquipmentShare",
-      "title": "Territory Account Manager",
-      "location": "Newark, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487510809/",
+      "company": "Scion Staffing",
+      "title": "Senior HR Generalist",
+      "location": "Sausalito, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485574144/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -751,10 +343,10 @@
       ]
     },
     {
-      "company": "TikTok",
-      "title": "Global Partner Product Strategy & Operations, TikTok Ads",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486520538/",
+      "company": "GetInsured",
+      "title": "HR Generalist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487579283/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -765,7 +357,7 @@
       "company": "Applied Materials",
       "title": "Operations Strategic Planning & Program Manager",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485508813/",
+      "url": "https://www.linkedin.com/jobs/view/4485567205/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -773,10 +365,10 @@
       ]
     },
     {
-      "company": "NVIDIA",
-      "title": "OEM Field Enablement Manager, HPE and HPI",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478181476/",
+      "company": "Sutter Health",
+      "title": "Program Coordinator IV, Quality & Patient Safety",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486537824/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -784,10 +376,10 @@
       ]
     },
     {
-      "company": "Clarity Consultants",
-      "title": "Senior Instructional Designer",
-      "location": "San Rafael, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486516920/",
+      "company": "Boys & Girls Clubs of San Leandro",
+      "title": "Site Safety and Operations Coordinator",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4470669706/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -795,13 +387,224 @@
       ]
     },
     {
-      "company": "Modis",
-      "title": "Instructional Designer",
-      "location": "San Rafael, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486511520/",
+      "company": "Center for Social Dynamics",
+      "title": "ABA Program Manager: Spanish Speaker",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484793835/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
-      "salary": "$70.00/hr - $80.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "HP",
+      "title": "Manager, Product Operations",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487573348/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Career Group",
+      "title": "Office Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486530922/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$115,000.00/yr - $135,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "University of California, San Francisco",
+      "title": "Program Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485377974/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "R&D Radiation Protection Training Program Lead",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487569398/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "City of San Jos\u00e9",
+      "title": "Program Manager (Capital Improvement Program) - Environmental Services Department",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487558979/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Metropolis Technologies",
+      "title": "Operations Manager",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487566288/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lam Research",
+      "title": "GIS Program Manager 5",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486551188/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Uber",
+      "title": "Senior Strategic Operations Manager, GDP",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487577054/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cursor",
+      "title": "Marketing Strategy & Operations Lead",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487565574/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cursor",
+      "title": "Marketing Strategy & Operations Lead",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487568477/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "STO Building Group",
+      "title": "Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487561565/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Critchfield Mechanical, Inc.",
+      "title": "Project Manager - Plumbing",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486546476/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$130,000.00/yr - $150,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jeff King & Company Inc",
+      "title": "Project Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4487573374/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Renewyx",
+      "title": "Project Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4485548887/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$160,000.00/yr - $180,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "University of California, San Francisco",
+      "title": "Customer Experience Center Lead",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487563702/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "STO Building Group",
+      "title": "Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487553776/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Proofpoint",
+      "title": "National Channel Account Manager-ePlus,Trace3 and Defy",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487553944/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "University of California, San Francisco",
+      "title": "HR GENERALIST 4 CX",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487573354/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Bay Area Community Services (BACS)",
+      "title": "Senior HR Generalist",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486530880/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -809,10 +612,22 @@
   ],
   "new_jobs": [
     {
-      "company": "Mercury",
-      "title": "Emerging Talent & Onboarding Program Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485540402/",
+      "company": "County of San Mateo",
+      "title": "Mental Health Program Specialist - East Palo Alto Clinic - Spanish Preferred",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482441274/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$126,921.60/yr - $158,620.80/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Center for Elders' Independence",
+      "title": "Patient Care Navigator",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486414792/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -820,10 +635,10 @@
       ]
     },
     {
-      "company": "Ztek Consulting",
-      "title": "People Operations Associate",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4485530847/",
+      "company": "Integrated Resources, Inc ( IRI )",
+      "title": "Data Operations Coordinator - AI Research",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487585581/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -831,45 +646,10 @@
       ]
     },
     {
-      "company": "Aston Carter",
-      "title": "HR Generalist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485523978/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$38.00/hr - $44.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bon App\u00e9tit Management Company",
-      "title": "Culinary Training Manager",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487538714/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "99 Ranch Market",
-      "title": "Customer Experience & Community Ambassador",
+      "company": "Colliers",
+      "title": "Senior Marketing and Client Services Coordinator | Occupier Services Bay Area",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486526394/",
-      "date_posted": "2026-11-04",
-      "ats": "LinkedIn",
-      "salary": "$23.00/hr - $28.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Air Apps",
-      "title": "Project Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477369186/",
+      "url": "https://www.linkedin.com/jobs/view/4487584304/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -877,10 +657,10 @@
       ]
     },
     {
-      "company": "Air Apps",
-      "title": "Project Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477369182/",
+      "company": "Colliers",
+      "title": "Senior Marketing and Client Services Coordinator | Occupier Services Bay Area",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487577530/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -888,10 +668,10 @@
       ]
     },
     {
-      "company": "Air Apps",
-      "title": "Technical Operations Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476479890/",
+      "company": "SK hynix America",
+      "title": "Sales Operations and Planning Specialist (Full-Time)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485562627/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -899,10 +679,22 @@
       ]
     },
     {
-      "company": "Air Apps",
-      "title": "Technical Operations Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476496324/",
+      "company": "Moodys Northwest Consulting",
+      "title": "Senior Program Manager",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486547972/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$140,000.00/yr - $150,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Program Manager II, Supply and Materials Planning, Cloud Supply Chain",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486549978/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -910,10 +702,515 @@
       ]
     },
     {
-      "company": "Air Apps",
-      "title": "Project Coordinator",
+      "company": "Planet Pharma",
+      "title": "CLINICAL PROGRAM MANAGER \u2013 REGIONAL & VENDOR OVERSIGHT",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480670437/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Vibrant Wellness",
+      "title": "Quality Assurance Manager - Clinical Laboratory",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487574870/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $150,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Links Healthcare",
+      "title": "Regional Business Office Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485571255/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Plaid",
+      "title": "Workplace Operations Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4487571771/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$114,000.00/yr - $138,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "PwC",
+      "title": "CTIO - Platform Support Operations Manager - Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477376315/",
+      "url": "https://www.linkedin.com/jobs/view/4487588181/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Roblox",
+      "title": "Manager, Product Support Operations",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486554156/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485558796/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $160,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485577196/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $180,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CDM Smith",
+      "title": "Project Manager - Transportation Services",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487576550/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Gensler",
+      "title": "Project Manager (Design Manager) - Critical Facilities",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487579525/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Semiconductor Tools Installations & Bay Fit-up Upgrades Project Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485552991/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CHC Hydro",
+      "title": "Project Manager",
+      "location": "Hayward, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485578035/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Industrial Electric Mfg. (IEM)",
+      "title": "Commercial Program Manager",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487594249/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "PPT Consulting",
+      "title": "Web Marketing Program Manager (Contract)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486545963/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fisher Investments",
+      "title": "International Marketing Program Manager",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485557769/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Endor Labs",
+      "title": "Technical Enablement Manager",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487571687/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Benchling",
+      "title": "CX Learning & Development Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487575458/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$122,000.00/yr - $160,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Trilyon, Inc.",
+      "title": "Patient Access Representative",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487587571/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$25.00/hr - $32.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Power Integrations",
+      "title": "Key Account Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486566254/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$100,000.00/yr - $115,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Semiconductor Tools Installations & Bay Fit-up Upgrades Project Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485560591/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Strategic Supply Chain Project Manager for New Products",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485555967/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Scion Staffing",
+      "title": "Senior HR Generalist",
+      "location": "Sausalito, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485574144/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "GetInsured",
+      "title": "HR Generalist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487579283/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Operations Strategic Planning & Program Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485567205/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sutter Health",
+      "title": "Program Coordinator IV, Quality & Patient Safety",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486537824/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Boys & Girls Clubs of San Leandro",
+      "title": "Site Safety and Operations Coordinator",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4470669706/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Center for Social Dynamics",
+      "title": "ABA Program Manager: Spanish Speaker",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484793835/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "HP",
+      "title": "Manager, Product Operations",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487573348/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Career Group",
+      "title": "Office Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486530922/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$115,000.00/yr - $135,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "University of California, San Francisco",
+      "title": "Program Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485377974/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "R&D Radiation Protection Training Program Lead",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487569398/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "City of San Jos\u00e9",
+      "title": "Program Manager (Capital Improvement Program) - Environmental Services Department",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487558979/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Metropolis Technologies",
+      "title": "Operations Manager",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487566288/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lam Research",
+      "title": "GIS Program Manager 5",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486551188/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Uber",
+      "title": "Senior Strategic Operations Manager, GDP",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487577054/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cursor",
+      "title": "Marketing Strategy & Operations Lead",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487565574/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cursor",
+      "title": "Marketing Strategy & Operations Lead",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487568477/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "STO Building Group",
+      "title": "Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487561565/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Critchfield Mechanical, Inc.",
+      "title": "Project Manager - Plumbing",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486546476/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$130,000.00/yr - $150,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jeff King & Company Inc",
+      "title": "Project Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4487573374/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Renewyx",
+      "title": "Project Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4485548887/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "salary": "$160,000.00/yr - $180,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "University of California, San Francisco",
+      "title": "Customer Experience Center Lead",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487563702/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "STO Building Group",
+      "title": "Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487553776/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Proofpoint",
+      "title": "National Channel Account Manager-ePlus,Trace3 and Defy",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487553944/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "University of California, San Francisco",
+      "title": "HR GENERALIST 4 CX",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487573354/",
+      "date_posted": "2026-11-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Bay Area Community Services (BACS)",
+      "title": "Senior HR Generalist",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486530880/",
       "date_posted": "2026-11-04",
       "ats": "LinkedIn",
       "feeds": [
@@ -926,7 +1223,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 5,
+    "location": 12,
     "stale": 0
   }
 }
