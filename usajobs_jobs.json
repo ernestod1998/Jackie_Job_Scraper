@@ -1,41 +1,15 @@
 {
-  "scraped_at": "2026-11-04 20:55 UTC",
-  "total": 1,
-  "new_count": 1,
-  "jobs": [
-    {
-      "company": "Veterans Health Administration",
-      "title": "Advanced Medical Support Assistant (Call Center)",
-      "location": "San Bruno, California",
-      "url": "https://www.usajobs.gov/job/891595900",
-      "date_posted": "2026-11-04",
-      "salary": "Starting at $63,094 Per year (GS 6)",
-      "ats": "USAJOBS",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Veterans Health Administration",
-      "title": "Advanced Medical Support Assistant (Call Center)",
-      "location": "San Bruno, California",
-      "url": "https://www.usajobs.gov/job/891595900",
-      "date_posted": "2026-11-04",
-      "salary": "Starting at $63,094 Per year (GS 6)",
-      "ats": "USAJOBS",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "scraped_at": "2026-11-05 21:12 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 21,
+    "location": 19,
     "stale": 0
   }
 }
