@@ -1,237 +1,24 @@
 {
-  "scraped_at": "2026-11-05 22:23 UTC",
-  "total": 34,
-  "new_count": 7,
+  "scraped_at": "2026-11-06 03:23 UTC",
+  "total": 72,
+  "new_count": 72,
   "jobs": [
     {
-      "company": "Mochi Health",
-      "title": "Operations Associate, Insurance & Clinical Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486918222/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amae Health",
-      "title": "Clinical Care Coordinator",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488061313/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Teli Labs",
-      "title": "Emerging Talent & Onboarding Program Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486781960/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Akraya, Inc.",
-      "title": "Revenue Operations Specialist : 26-03358",
+      "company": "Stanford Medicine Children's Health",
+      "title": "CPEI Program Coordinator",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488039656/",
+      "url": "https://www.linkedin.com/jobs/view/4486481746/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Brailsford & Dunlavey, Inc.",
-      "title": "Assistant Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488046845/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Erin Greene Designs INC",
-      "title": "Part-Time Interior Design Administrative Assistant / Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486792682/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "MiTAC Computing",
-      "title": "Sales Operations Account Supervisor",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478174108/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Securitas Security Services USA, Inc.",
-      "title": "Assistant Account Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478962010/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Central Network Retail Group, LLC (CNRG)",
-      "title": "HR Generalist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488049601/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Zareen's Restaurants",
-      "title": "Operations Manager \u2014 AI Automation & Business Systems",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486792997/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Harvey Nash",
-      "title": "Operations Manager",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486901454/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "salary": "$40.00/hr - $42.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applicantz",
-      "title": "Process Improvement Analyst",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488033893/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "salary": "$36.00/hr - $40.40/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BAART Programs",
-      "title": "TEMPORARY Patient Access Representative (12 Week Assignment)",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488052602/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Russell Tobin",
-      "title": "Operations Coordinator V",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488051044/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "salary": "$67.02/hr - $67.02/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Celero Communications",
-      "title": "Office Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487087556/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Office Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486900276/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Operations Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486789458/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bakers Floor & Surface",
-      "title": "Estimator & Project Coordinator",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486916026/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Superhuman",
-      "title": "GRC Program Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485861741/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Aquent",
-      "title": "Operations Program Manager [AQ-25471]",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485850644/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "salary": "$92.00/hr - $102.00/hr",
       "feeds": [
         "general"
       ]
     },
     {
       "company": "University of California, San Francisco",
-      "title": "Program Manager",
+      "title": "Project Manager \u2013 Curriculum Transformation",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485377974/",
+      "url": "https://www.linkedin.com/jobs/view/4488072520/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -239,22 +26,43 @@
       ]
     },
     {
-      "company": "Valerie Health",
-      "title": "Agent Operations Lead",
+      "company": "The Coder School Berkeley",
+      "title": "Operations Manager",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486927656/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SoMa ProtoLab",
+      "title": "Events Sales & Operations Coordinator",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4486919814/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Right At School",
+      "title": "Part Time Program Manager (South San Francisco, CA)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485872883/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Rafiki Coalition for Health and Wellness",
+      "title": "Case Manager (Brandy Moore House)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469817237/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "salary": "$200,000.00/yr - $250,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Spotline, Inc.",
-      "title": "Project Manager (Veeva Vault)",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486904002/",
+      "url": "https://www.linkedin.com/jobs/view/4486944346/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -262,22 +70,180 @@
       ]
     },
     {
-      "company": "Trilyon, Inc.",
-      "title": "Accessibility Program Manager",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486787880/",
+      "company": "AbbVie",
+      "title": "Clinical Data Strategy and Operations Program Lead I - Oncology",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486909618/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
-      "salary": "$115.00/yr - $125.00/yr",
+      "salary": "$84,500.00/yr - $162,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Evlo AI",
-      "title": "HR Generalist",
+      "company": "OpenAI",
+      "title": "Product Operations Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486780702/",
+      "url": "https://www.linkedin.com/jobs/view/4486911960/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$257,000.00/yr - $285,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "LifeLong Medical Care",
+      "title": "Case Manager II",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486931315/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$26.60/hr - $30.84/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Bloom Talent",
+      "title": "Finance & Operations Associate at Early-Stage AI Venture Firm",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476498087/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$130,000.00/yr - $170,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager Associate - Commercial Lines (Pacific Time Zone)",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488082585/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager Associate - Commercial Lines (Pacific Time Zone)",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488073860/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager Associate - Commercial Lines (Pacific Time Zone)",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488072814/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager Associate - Commercial Lines (Pacific Time Zone)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488086330/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager Associate - Commercial Lines (Pacific Time Zone)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488091139/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager Associate - Commercial Lines (Pacific Time Zone)",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488071857/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Roche",
+      "title": "Global Clinical Program Lead",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488064784/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Agilent Technologies",
+      "title": "Strategic Program Manager, Global Operations Strategy & Portfolio",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488069140/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Johnson & Johnson MedTech",
+      "title": "Supply Chain Collaboration (SCC) Manager, Solutions Enablement",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488060849/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stanford Medicine Children's Health",
+      "title": "Business Operations Manager",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486481881/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "JSG (Johnson Service Group, Inc.)",
+      "title": "Member Services Navigator",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486946023/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$26.00/hr - $33.50/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "4J Therapeutics, Inc.",
+      "title": "Project Manager, Regulatory Submissions",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486538884/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -286,42 +252,21 @@
     },
     {
       "company": "CVS Health",
-      "title": "Operations Manager-CA",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488039343/",
+      "title": "Operations Supervisor",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488089422/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
+      "salary": "$18.90/hr - $27.90/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "LiveRamp",
-      "title": "Senior Customer Success Manager, Media Partnerships",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486787901/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Box",
-      "title": "Senior Customer Success Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473269477/",
-      "date_posted": "2026-11-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CDM Smith",
-      "title": "Project Manager - Water/Wastewater Services",
+      "company": "Joby Aviation",
+      "title": "Program Operations Lead",
       "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486477971/",
+      "url": "https://www.linkedin.com/jobs/view/4488074940/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -329,10 +274,274 @@
       ]
     },
     {
-      "company": "LiveRamp",
-      "title": "Technical Account Manager",
+      "company": "HDR",
+      "title": "Northern California Power Delivery Program Lead",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486931427/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon",
+      "title": "Quality Assurance Manager, Alexa Audio",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488099064/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "OPM Biosciences",
+      "title": "Quality Assurance Leader",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486344656/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TE Connectivity",
+      "title": "Quality Manager - MQE",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488078568/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Alameda Health System",
+      "title": "Patient Services Representative-Ambulatory",
+      "location": "Newark, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488081540/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DCL Logistics",
+      "title": "Project Manager",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483792843/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "E Tech Group",
+      "title": "Project Manager - Data Center - North Cal",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488086289/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488079717/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Principal Financial Group",
+      "title": "Relationship Manager - TPA Customer Care (Retirement Solutions)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486798625/",
+      "url": "https://www.linkedin.com/jobs/view/4488078840/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Newark, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488096017/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488094060/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488071949/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Union City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488081707/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488081708/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488078816/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488077858/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488088311/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488074919/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488071947/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488085526/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Hayward, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488090304/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488090307/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488076844/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488077835/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488072900/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -341,9 +550,9 @@
     },
     {
       "company": "Hamilton Families",
-      "title": "Case Manager- Stability",
+      "title": "Case Manager, THP (Bilingual)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484286580/",
+      "url": "https://www.linkedin.com/jobs/view/4484286574/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -351,10 +560,77 @@
       ]
     },
     {
-      "company": "Gensler",
-      "title": "IT Project Manager",
+      "company": "Applied Materials",
+      "title": "Semiconductor Tools Installations & Bay Fit-up Upgrades Project Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485886058/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hart Howerton",
+      "title": "Landscape Architect Project Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4486922982/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Multi-family Podium Project Manager - $185-225k",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485888256/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Operations Strategic Planning & Program Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485874729/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Strategic Supply Chain Project Manager for New Products",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485864988/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Uber",
+      "title": "Strategic Operations Associate - Global Member Engagement",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488073523/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BSI",
+      "title": "Workplace Experience & Operations Specialist",
       "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488038059/",
+      "url": "https://www.linkedin.com/jobs/view/4486916499/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -362,10 +638,10 @@
       ]
     },
     {
-      "company": "Illumio",
-      "title": "People Operations Partner",
+      "company": "BSI",
+      "title": "Workplace Experience & Operations Specialist",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478840463/",
+      "url": "https://www.linkedin.com/jobs/view/4486924302/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -373,10 +649,157 @@
       ]
     },
     {
-      "company": "TikTok",
-      "title": "Product Strategy & Operations Manager, Branding (Ads) - GBS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486786776/",
+      "company": "Standish Management, LLC",
+      "title": "Client Onboarding Senior Associate",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486925451/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Standish Management, LLC",
+      "title": "Client Onboarding Senior Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486924535/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Xaira Therapeutics",
+      "title": "Senior Project Manager, Biologics R&D \u2013 Lead Program",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486917769/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Xaira Therapeutics",
+      "title": "Senior Project Manager, Biologics R&D - Early Pipeline Programs",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486906912/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Rangam",
+      "title": "RCI-GILD-1105 CMC Project Manager (Biologics) - Foster City, CA (HYBRID)",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488061949/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$75.00/hr - $85.18/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AMAX",
+      "title": "Customer Experience and Service Ops Manager/Sr. Customer Service",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480259527/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$75,000.00/yr - $120,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "EOS Hospitality",
+      "title": "Asst Front Office Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485875526/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Uber",
+      "title": "Sr. Strategic Operations Manager - Global Membership Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488074603/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sandisk",
+      "title": "Sr. Program Manager, Security Strategy & Enablement",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488051920/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$153,600.00/yr - $261,100.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Maxonic Inc.",
+      "title": "Sr. Hardware Project/Program Manager (Semiconductor Domain)",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486060388/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$80.00/hr - $96.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lam Research",
+      "title": "Global Program Manager L&D",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486924278/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sutter Health",
+      "title": "Patient Services Representative II",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486906946/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Citi",
+      "title": "Wealth Growth Program Manager | West Coast",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486921425/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Richmond Neighborhood Center",
+      "title": "Student Support Leader",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486917761/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -386,10 +809,21 @@
   ],
   "new_jobs": [
     {
-      "company": "Mochi Health",
-      "title": "Operations Associate, Insurance & Clinical Operations",
+      "company": "Stanford Medicine Children's Health",
+      "title": "CPEI Program Coordinator",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486481746/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "University of California, San Francisco",
+      "title": "Project Manager \u2013 Curriculum Transformation",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486918222/",
+      "url": "https://www.linkedin.com/jobs/view/4488072520/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -397,10 +831,10 @@
       ]
     },
     {
-      "company": "Amae Health",
-      "title": "Clinical Care Coordinator",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488061313/",
+      "company": "The Coder School Berkeley",
+      "title": "Operations Manager",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486927656/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -408,10 +842,32 @@
       ]
     },
     {
-      "company": "Brailsford & Dunlavey, Inc.",
-      "title": "Assistant Project Manager",
+      "company": "SoMa ProtoLab",
+      "title": "Events Sales & Operations Coordinator",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4486919814/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Right At School",
+      "title": "Part Time Program Manager (South San Francisco, CA)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485872883/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Rafiki Coalition for Health and Wellness",
+      "title": "Case Manager (Brandy Moore House)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488046845/",
+      "url": "https://www.linkedin.com/jobs/view/4486944346/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -419,10 +875,58 @@
       ]
     },
     {
-      "company": "Securitas Security Services USA, Inc.",
-      "title": "Assistant Account Manager",
+      "company": "AbbVie",
+      "title": "Clinical Data Strategy and Operations Program Lead I - Oncology",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486909618/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$84,500.00/yr - $162,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "OpenAI",
+      "title": "Product Operations Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478962010/",
+      "url": "https://www.linkedin.com/jobs/view/4486911960/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$257,000.00/yr - $285,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "LifeLong Medical Care",
+      "title": "Case Manager II",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486931315/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$26.60/hr - $30.84/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Bloom Talent",
+      "title": "Finance & Operations Associate at Early-Stage AI Venture Firm",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476498087/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$130,000.00/yr - $170,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager Associate - Commercial Lines (Pacific Time Zone)",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488082585/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -430,10 +934,32 @@
       ]
     },
     {
-      "company": "Central Network Retail Group, LLC (CNRG)",
-      "title": "HR Generalist",
+      "company": "Insurance Office of America",
+      "title": "Account Manager Associate - Commercial Lines (Pacific Time Zone)",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488073860/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager Associate - Commercial Lines (Pacific Time Zone)",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488072814/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager Associate - Commercial Lines (Pacific Time Zone)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488049601/",
+      "url": "https://www.linkedin.com/jobs/view/4488086330/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -441,10 +967,10 @@
       ]
     },
     {
-      "company": "BAART Programs",
-      "title": "TEMPORARY Patient Access Representative (12 Week Assignment)",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488052602/",
+      "company": "Insurance Office of America",
+      "title": "Account Manager Associate - Commercial Lines (Pacific Time Zone)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488091139/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -452,10 +978,633 @@
       ]
     },
     {
-      "company": "Superhuman",
-      "title": "GRC Program Manager",
+      "company": "Insurance Office of America",
+      "title": "Account Manager Associate - Commercial Lines (Pacific Time Zone)",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488071857/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Roche",
+      "title": "Global Clinical Program Lead",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488064784/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Agilent Technologies",
+      "title": "Strategic Program Manager, Global Operations Strategy & Portfolio",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488069140/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Johnson & Johnson MedTech",
+      "title": "Supply Chain Collaboration (SCC) Manager, Solutions Enablement",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488060849/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stanford Medicine Children's Health",
+      "title": "Business Operations Manager",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486481881/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "JSG (Johnson Service Group, Inc.)",
+      "title": "Member Services Navigator",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486946023/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$26.00/hr - $33.50/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "4J Therapeutics, Inc.",
+      "title": "Project Manager, Regulatory Submissions",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486538884/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CVS Health",
+      "title": "Operations Supervisor",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488089422/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$18.90/hr - $27.90/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Joby Aviation",
+      "title": "Program Operations Lead",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488074940/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "HDR",
+      "title": "Northern California Power Delivery Program Lead",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486931427/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon",
+      "title": "Quality Assurance Manager, Alexa Audio",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488099064/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "OPM Biosciences",
+      "title": "Quality Assurance Leader",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486344656/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TE Connectivity",
+      "title": "Quality Manager - MQE",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488078568/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Alameda Health System",
+      "title": "Patient Services Representative-Ambulatory",
+      "location": "Newark, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488081540/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DCL Logistics",
+      "title": "Project Manager",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483792843/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "E Tech Group",
+      "title": "Project Manager - Data Center - North Cal",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488086289/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Danville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488079717/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Principal Financial Group",
+      "title": "Relationship Manager - TPA Customer Care (Retirement Solutions)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485861741/",
+      "url": "https://www.linkedin.com/jobs/view/4488078840/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Newark, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488096017/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488094060/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488071949/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Union City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488081707/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488081708/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488078816/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488077858/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488088311/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488074919/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488071947/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488085526/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Hayward, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488090304/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488090307/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488076844/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488077835/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Insurance Office of America",
+      "title": "Account Manager - Commercial Lines (Pacific Time Zone)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488072900/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hamilton Families",
+      "title": "Case Manager, THP (Bilingual)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484286574/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Semiconductor Tools Installations & Bay Fit-up Upgrades Project Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485886058/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hart Howerton",
+      "title": "Landscape Architect Project Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4486922982/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Multi-family Podium Project Manager - $185-225k",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485888256/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Operations Strategic Planning & Program Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485874729/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Strategic Supply Chain Project Manager for New Products",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485864988/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Uber",
+      "title": "Strategic Operations Associate - Global Member Engagement",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488073523/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BSI",
+      "title": "Workplace Experience & Operations Specialist",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486916499/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BSI",
+      "title": "Workplace Experience & Operations Specialist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486924302/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Standish Management, LLC",
+      "title": "Client Onboarding Senior Associate",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486925451/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Standish Management, LLC",
+      "title": "Client Onboarding Senior Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486924535/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Xaira Therapeutics",
+      "title": "Senior Project Manager, Biologics R&D \u2013 Lead Program",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486917769/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Xaira Therapeutics",
+      "title": "Senior Project Manager, Biologics R&D - Early Pipeline Programs",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486906912/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Rangam",
+      "title": "RCI-GILD-1105 CMC Project Manager (Biologics) - Foster City, CA (HYBRID)",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488061949/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$75.00/hr - $85.18/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AMAX",
+      "title": "Customer Experience and Service Ops Manager/Sr. Customer Service",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480259527/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$75,000.00/yr - $120,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "EOS Hospitality",
+      "title": "Asst Front Office Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485875526/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Uber",
+      "title": "Sr. Strategic Operations Manager - Global Membership Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488074603/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sandisk",
+      "title": "Sr. Program Manager, Security Strategy & Enablement",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488051920/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$153,600.00/yr - $261,100.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Maxonic Inc.",
+      "title": "Sr. Hardware Project/Program Manager (Semiconductor Domain)",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486060388/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "salary": "$80.00/hr - $96.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lam Research",
+      "title": "Global Program Manager L&D",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486924278/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sutter Health",
+      "title": "Patient Services Representative II",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486906946/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Citi",
+      "title": "Wealth Growth Program Manager | West Coast",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486921425/",
+      "date_posted": "2026-11-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Richmond Neighborhood Center",
+      "title": "Student Support Leader",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486917761/",
       "date_posted": "2026-11-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -468,7 +1617,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 2,
+    "location": 19,
     "stale": 0
   }
 }
