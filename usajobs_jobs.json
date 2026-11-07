@@ -1,9 +1,35 @@
 {
-  "scraped_at": "2026-11-06 20:32 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": [],
+  "scraped_at": "2026-11-07 19:01 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Psychologist  - Program Manager",
+      "location": "Palo Alto, California",
+      "url": "https://www.usajobs.gov/job/892121600",
+      "date_posted": "2026-11-06",
+      "salary": "Starting at $209,520 Per year (GS 14)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Psychologist  - Program Manager",
+      "location": "Palo Alto, California",
+      "url": "https://www.usajobs.gov/job/892121600",
+      "date_posted": "2026-11-06",
+      "salary": "Starting at $209,520 Per year (GS 14)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
