@@ -1,79 +1,74 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-11-08 00:54 UTC*
+*Last updated: 2026-11-08 09:25 UTC*
 
-**16 new role(s)** since last run · 92 total in last 24h
+**14 new role(s)** since last run · 46 total in last 24h
 
-### [Channel Account Manager](https://www.indeed.com/viewjob?jk=5ceeeb060e429fa4) — Endex
+### [Operations Coordinator](https://www.indeed.com/viewjob?jk=06d97656da7c2ca7) — MORRISON & FOERSTER
 - 📍 **Location:** San Francisco, CA, USA
-- 🕒 **Posted:** 2026-11-07
+- 💰 **Salary:** $56k–$78k/yr
+- 🕒 **Posted:** 2026-11-08
 
-### [Sales Operations Coordinator](https://www.indeed.com/viewjob?jk=0b5896b885da89f0) — Brioche Pasquier
-- 📍 **Location:** Richmond, CA, USA
-- 💰 **Salary:** $28–$31/hr
-- 🕒 **Posted:** 2026-11-07
+### [LEGAL OPERATIONS SUPERVISOR, PRACTICE SUPPORT](https://www.indeed.com/viewjob?jk=6e524080b65b5d74) — University of California Office of the President
+- 📍 **Location:** Oakland, CA, USA
+- 💰 **Salary:** $120k–$126k/yr
+- 🕒 **Posted:** 2026-11-08
 
-### [Senior SF STEM Program Manager](https://www.indeed.com/viewjob?jk=8a863741a3e2e556) — Schools, Mentoring, And Resource Team, Inc (SMART, INC)
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $85k–$90k/yr
-- 🕒 **Posted:** 2026-11-07
-
-### [Case Manager-Markham Plaza](https://www.indeed.com/viewjob?jk=ef6b815e7f7e5506) — HomeFirst
+### [Case Manager-Alura](https://www.indeed.com/viewjob?jk=91e1b0c4f86bade2) — HomeFirst
 - 📍 **Location:** San Jose, CA, USA
 - 💰 **Salary:** $32.20–$33.17/hr
 - 🕒 **Posted:** 2026-11-07
 
-### [Technical Account Manager](https://www.indeed.com/viewjob?jk=42eca709ce04a7d7) — Endex
+### [Operations Manager](https://www.indeed.com/viewjob?jk=7cde964545f51e06) — Bay Area Energy Consultant
+- 📍 **Location:** Santa Clara, CA, USA
+- 💰 **Salary:** $60k–$150k/yr
+- 🕒 **Posted:** 2026-11-08
+
+### [Assistant Project Manager](https://www.indeed.com/viewjob?jk=5eb11183e1b2c65b) — Webcor
 - 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $133k–$146k/yr
 - 🕒 **Posted:** 2026-11-07
 
-### [Account Manager](https://www.indeed.com/viewjob?jk=6572926a5d25b735) — Endex
+### [Senior Project Manager](https://www.indeed.com/viewjob?jk=519eb71580b1f024) — Webcor
 - 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $181k–$201k/yr
 - 🕒 **Posted:** 2026-11-07
 
-### [Global Key Account Manager - Hyperscalers](https://www.indeed.com/viewjob?jk=0df368f75215597c) — Desoutter GmbH
+### [Senior Project Manager, Electrical](https://www.indeed.com/viewjob?jk=a8003f8611a96578) — Webcor
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $135k–$200k/yr
+- 💰 **Salary:** $181k–$201k/yr
 - 🕒 **Posted:** 2026-11-07
 
-### [Operations Associate](https://www.indeed.com/viewjob?jk=182a4c2c9bf20658) — The Bay Club Company
+### [Senior Project Manager - MEP](https://www.indeed.com/viewjob?jk=f728307c84ec6c12) — Webcor
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $181k–$201k/yr
+- 🕒 **Posted:** 2026-11-07
+
+### [Operations Coordinator/Receptionist](https://www.indeed.com/viewjob?jk=00bc26855ff7ff73) — JFrog
 - 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $18.45–$19.45/hr
+- 💰 **Salary:** $65k–$75k/yr
 - 🕒 **Posted:** 2026-11-07
 
-### [Manager, Global Delivery Partner Enablement](https://www.indeed.com/viewjob?jk=ef5de0bb7eecb268) — Uber
+### [Program Coordinator - Hybrid/Remote](https://www.indeed.com/viewjob?jk=98a59b53b2e6579d) — SpatialGIS LLC
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $65k–$85k/yr
+- 🕒 **Posted:** 2026-11-08
+
+### [Field Medical Onboarding & Capability Development, US FME](https://www.indeed.com/viewjob?jk=4b4c62fcd6fea9e9) — Amgen
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $154k–$209k/yr
+- 🕒 **Posted:** 2026-11-08
+
+### [SECURITY OPERATIONS MANAGER - REMOTE IN CALIFORNIA](https://www.indeed.com/viewjob?jk=d55579bf550de765) — University of California Office of the President
+- 📍 **Location:** Oakland, CA, USA
+- 💰 **Salary:** $210k–$235k/yr
+- 🕒 **Posted:** 2026-11-08
+
+### [Massachusetts Utility Billing Project Manager (Tyler MUNIS)](https://www.indeed.com/viewjob?jk=5a6d9f747334f50a) — Precision Federal
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $30–$75/hr
+- 🕒 **Posted:** 2026-11-08
+
+### [Senior Account Manager, Capital Equipment - West](https://www.indeed.com/viewjob?jk=515dbf776e9fd8cb) — VITROLIFE
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $131k/yr
-- 🕒 **Posted:** 2026-11-07
-
-### [Customer Experience Management Consultant, Medallia](https://www.indeed.com/viewjob?jk=2c9562bc8cb5bfca) — Deloitte
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $87k–$171k/yr
-- 🕒 **Posted:** 2026-11-07
-
-### [Training Program Lead — Federal Health IT](https://www.indeed.com/viewjob?jk=9512f3bef25989ce) — Rackner
-- 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-11-07
-
-### [Network Operations Manager](https://www.indeed.com/viewjob?jk=abbce135ae2463ba) — Effortless Office
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $100k–$120k/yr
-- 🕒 **Posted:** 2026-11-07
-
-### [Customer Care Representative](https://www.indeed.com/viewjob?jk=cf0f4bf63719dba3) — Farmers Insurance Group
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $21.45–$38.61/hr
-- 🕒 **Posted:** 2026-11-07
-
-### [Deputy Program Manager — Federal Health IT Operations](https://www.indeed.com/viewjob?jk=6f691034dcd84965) — Rackner
-- 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-11-07
-
-### [Talent Acquisition & Onboarding Coordinator](https://www.indeed.com/viewjob?jk=85f9eeaa734a323e) — Effortless Office
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $55k–$60k/yr
-- 🕒 **Posted:** 2026-11-07
-
-### [Retirement Solutions Account Manager - Remote](https://www.indeed.com/viewjob?jk=7da09c04324eb6fd) — Core Source Global
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $70k–$90k/yr
+- 💰 **Salary:** $130k–$165k/yr
 - 🕒 **Posted:** 2026-11-07
