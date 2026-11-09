@@ -1,29 +1,39 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-11-09 01:10 UTC*
+*Last updated: 2026-11-09 10:12 UTC*
 
-**5 new role(s)** since last run · 12 total in last 24h
+**7 new role(s)** since last run · 14 total in last 24h
 
-### [Account Manager](https://www.indeed.com/viewjob?jk=6f3994d34e4085af) — Frontapp
+### [Operations Manager](https://www.indeed.com/viewjob?jk=7ae97108c99e6541) — Ulta
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $28–$35/hr
+- 🕒 **Posted:** 2026-11-09
+
+### [Instructional Designer](https://www.indeed.com/viewjob?jk=3353e4d6ee9c64d0) — Genentech
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $110k–$127k/yr
-- 🕒 **Posted:** 2026-11-08
+- 💰 **Salary:** $144k–$268k/yr
+- 🕒 **Posted:** 2026-11-09
 
-### [Account Manager](https://www.indeed.com/viewjob?jk=7f12960f5c27de67) — FRONT
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $110k–$127k/yr
-- 🕒 **Posted:** 2026-11-08
-
-### [Project Manager](https://www.indeed.com/viewjob?jk=f037f2630d9a6ec4) — Parrish-Kelley Hometown Insurance
+### [Portfolio Management Lead – Population Health](https://www.indeed.com/viewjob?jk=7f89b0865534e904) — Humana
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $50–$150/hr
-- 🕒 **Posted:** 2026-11-08
+- 💰 **Salary:** $115k–$158k/yr
+- 🕒 **Posted:** 2026-11-09
 
-### [Senior Account Manager, Consumer Electronics](https://www.indeed.com/viewjob?jk=04194a197396d80a) — Outform Group
+### [Program Delivery Lead, Benefit Enablement & Execution](https://www.indeed.com/viewjob?jk=3fae491b05d153c0) — Humana
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $125k–$140k/yr
-- 🕒 **Posted:** 2026-11-08
+- 💰 **Salary:** $115k–$158k/yr
+- 🕒 **Posted:** 2026-11-09
 
-### [TAX PROFESSIONAL – OFFICE MANAGER](https://www.indeed.com/viewjob?jk=8ae1197263d655ed) — Dominique Taylor
+### [Senior Program Delivery Professional, Benefit Enablement & Execution](https://www.indeed.com/viewjob?jk=bcf06dca2fa55ba0) — Humana
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $30k–$90k/yr
-- 🕒 **Posted:** 2026-11-08
+- 💰 **Salary:** $86k–$119k/yr
+- 🕒 **Posted:** 2026-11-09
+
+### [Remote Concierge Patient Care Coordinator](https://www.indeed.com/viewjob?jk=b07bfa6790ff373b) — Makena Health
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $26–$40/hr
+- 🕒 **Posted:** 2026-11-09
+
+### [OEM Program Manager](https://www.indeed.com/viewjob?jk=96eae723379bc9d9) — DealerOn, Inc.
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $85k/yr
+- 🕒 **Posted:** 2026-11-09
