@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-09 00:44 UTC",
-  "total": 10,
-  "new_count": 10,
+  "scraped_at": "2026-11-09 01:15 UTC",
+  "total": 11,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Alameda Health System",
@@ -89,6 +89,7 @@
       "url": "https://www.linkedin.com/jobs/view/4472673823/",
       "date_posted": "2026-11-08",
       "ats": "LinkedIn",
+      "salary": "$150,000.00/yr - $170,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -100,6 +101,7 @@
       "url": "https://www.linkedin.com/jobs/view/4470522251/",
       "date_posted": "2026-11-08",
       "ats": "LinkedIn",
+      "salary": "$170,000.00/yr - $180,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -112,6 +114,18 @@
       "date_posted": "2026-11-08",
       "ats": "LinkedIn",
       "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hays",
+      "title": "Quality Assurance Manager - Multifamily Apartments",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475271623/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "salary": "$145,000.00/yr - $160,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -119,114 +133,13 @@
   ],
   "new_jobs": [
     {
-      "company": "Alameda Health System",
-      "title": "Manager, Ambulatory & Revenue Operations",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488148561/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ulta Beauty",
-      "title": "Operations Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488817389/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Planet Pharma",
-      "title": "CLINICAL PROGRAM MANAGER \u2013 REGIONAL & VENDOR OVERSIGHT",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480670437/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Sr CoE NPI Supply Chain Program Manager (multiple openings)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487114668/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Randstad Digital Americas",
-      "title": "Service Delivery Manager",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487651944/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "salary": "$91.00/hr - $95.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Multi-family Podium Project Manager - $185-225k",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487115646/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Senior Program Manager, Quote-to-Cash Transformation & M&A Integration (B5)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487108786/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Hays",
-      "title": "Project Manager - Ground up Multifamily",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472673823/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hays",
-      "title": "MEP Project Manager - Owners Rep",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470522251/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Multi-family Podium Project Manager - $185-225k",
+      "title": "Quality Assurance Manager - Multifamily Apartments",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487120265/",
+      "url": "https://www.linkedin.com/jobs/view/4475271623/",
       "date_posted": "2026-11-08",
       "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "salary": "$145,000.00/yr - $160,000.00/yr",
       "feeds": [
         "general"
       ]
