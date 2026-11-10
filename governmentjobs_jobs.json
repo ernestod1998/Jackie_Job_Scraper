@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-08 21:15 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-11-10 00:45 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
     {
       "company": "State of South Carolina",
@@ -14,9 +14,34 @@
       "feeds": [
         "general"
       ]
+    },
+    {
+      "company": "City of San Jose",
+      "title": "Program Manager (Capital Improvement Program) - Environmental Services Department",
+      "location": "San Jose",
+      "url": "https://www.governmentjobs.com/jobs/5540569-0/program-manager-capital-improvement-program-environmental-services-department",
+      "date_posted": "",
+      "salary": "$138,531.12 - $180,092.64 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "City of San Jose",
+      "title": "Program Manager (Capital Improvement Program) - Environmental Services Department",
+      "location": "San Jose",
+      "url": "https://www.governmentjobs.com/jobs/5540569-0/program-manager-capital-improvement-program-environmental-services-department",
+      "date_posted": "",
+      "salary": "$138,531.12 - $180,092.64 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
