@@ -1081,6 +1081,21 @@
       ],
       "status": "active"
     },
+    "ashby:ande": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "Ande",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "ande",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "ashby:ando": {
       "ats": "ashby",
       "baseline_complete": true,
@@ -3076,12 +3091,12 @@
     "ashby:commure-athelas": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 3,
+      "failure_count": 4,
       "feed": "general",
-      "last_verified": "2026-10-11",
+      "last_verified": "2026-11-10",
       "name": "Athelas",
       "promoted_until": null,
-      "retry_after": "2026-11-10",
+      "retry_after": "2026-12-10",
       "slug": "Commure-Athelas",
       "sources": [
         "yc-hiring-careers"
@@ -5223,6 +5238,21 @@
       ],
       "status": "active"
     },
+    "ashby:generaltranslation": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "General Translation",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "generaltranslation",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "ashby:generate": {
       "ats": "ashby",
       "baseline_complete": false,
@@ -6794,6 +6824,7 @@
       "retry_after": null,
       "slug": "kalshi",
       "sources": [
+        "simplify",
         "wayback-cdx"
       ],
       "status": "active"
@@ -7520,17 +7551,17 @@
     "ashby:m-kop": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 2,
+      "failure_count": 3,
       "feed": "general",
-      "last_verified": "2026-11-09",
+      "last_verified": "2026-11-10",
       "name": "M-KOP",
       "promoted_until": null,
-      "retry_after": null,
+      "retry_after": "2026-12-10",
       "slug": "M-KOP",
       "sources": [
         "wayback-cdx"
       ],
-      "status": "candidate"
+      "status": "inactive"
     },
     "ashby:m-kopa": {
       "ats": "ashby",
@@ -8118,9 +8149,9 @@
     "ashby:n43-studio": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-09",
+      "last_verified": "2026-11-10",
       "name": "n43-studio",
       "promoted_until": null,
       "retry_after": null,
@@ -8493,6 +8524,141 @@
       ],
       "status": "active"
     },
+    "ashby:o": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "o",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "o",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:oak": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oak",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oak",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:oakland-feather-river-camp": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oakland-feather-river-camp",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oakland-feather-river-camp",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:oakslab": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oakslab",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oakslab",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:oasiz": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oasiz",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oasiz",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:oberst": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oberst",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oberst",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:objection": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "Objection",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "Objection",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:oboe": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oboe",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oboe",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:obrio": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "OBRIO",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "OBRIO",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
     "ashby:observable-space": {
       "ats": "ashby",
       "baseline_complete": true,
@@ -8505,7 +8671,53 @@
       "retry_after": null,
       "slug": "observable-space",
       "sources": [
-        "simplify"
+        "simplify",
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:observeinc": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "observeinc",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "observeinc",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:obsidiansystems": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "obsidiansystems",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "obsidiansystems",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:obviant": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "obviant",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "obviant",
+      "sources": [
+        "wayback-cdx"
       ],
       "status": "active"
     },
@@ -8521,7 +8733,203 @@
       "retry_after": null,
       "slug": "obvio",
       "sources": [
-        "simplify"
+        "simplify",
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:obvious": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "obvious",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "obvious",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:occam": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "Occam",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "Occam",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:ocean-atomics": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "ocean-atomics",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "ocean-atomics",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:oceanus": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oceanus",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oceanus",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:ocp": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "ocp",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "ocp",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:octane11": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "Octane11",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "Octane11",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:octoml": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "OctoML",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "OctoML",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:oden-technologies": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oden-technologies",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oden-technologies",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:odin": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "odin",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "odin",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:odin-dynamics": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "odin-dynamics",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "odin-dynamics",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:odonata": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "Odonata",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "Odonata",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:odys-aviation": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "odys-aviation",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "odys-aviation",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:odyssey": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "odyssey",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "odyssey",
+      "sources": [
+        "wayback-cdx"
       ],
       "status": "active"
     },
@@ -8537,7 +8945,23 @@
       "retry_after": null,
       "slug": "odysseyml",
       "sources": [
-        "simplify"
+        "simplify",
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:offdeal": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "offdeal",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "offdeal",
+      "sources": [
+        "wayback-cdx"
       ],
       "status": "active"
     },
@@ -11938,6 +12362,21 @@
       ],
       "status": "active"
     },
+    "ashby:verne": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "Verne Robotics",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "verne",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "ashby:verne robotics": {
       "ats": "ashby",
       "baseline_complete": true,
@@ -12544,6 +12983,21 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "xterra ai",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "ashby:xyz-reality": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "XYZ Reality",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "xyz-reality",
       "sources": [
         "simplify"
       ],
@@ -16154,12 +16608,12 @@
     "gem:dragonfly-capital-partners": {
       "ats": "gem",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-11",
+      "last_verified": "2026-11-10",
       "name": "dragonfly-capital-partners",
       "promoted_until": null,
-      "retry_after": "2026-11-10",
+      "retry_after": "2026-12-10",
       "slug": "dragonfly-capital-partners",
       "sources": [
         "wayback-cdx"
@@ -16292,12 +16746,12 @@
     "gem:dydx": {
       "ats": "gem",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-11",
+      "last_verified": "2026-11-10",
       "name": "dydx",
       "promoted_until": null,
-      "retry_after": "2026-11-10",
+      "retry_after": "2026-12-10",
       "slug": "dydx",
       "sources": [
         "wayback-cdx"
@@ -19983,17 +20437,17 @@
     "gem:menopro-com": {
       "ats": "gem",
       "baseline_complete": false,
-      "failure_count": 2,
+      "failure_count": 3,
       "feed": "general",
-      "last_verified": "2026-11-09",
+      "last_verified": "2026-11-10",
       "name": "menopro-com",
       "promoted_until": null,
-      "retry_after": null,
+      "retry_after": "2026-12-10",
       "slug": "menopro-com",
       "sources": [
         "wayback-cdx"
       ],
-      "status": "candidate"
+      "status": "inactive"
     },
     "gem:menten-ai": {
       "ats": "gem",
@@ -20973,9 +21427,9 @@
     "gem:nue-io": {
       "ats": "gem",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-09",
+      "last_verified": "2026-11-10",
       "name": "nue-io",
       "promoted_until": null,
       "retry_after": null,
@@ -21055,6 +21509,636 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "nyne-ai",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:oakrecruitment-co-uk": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oakrecruitment-co-uk",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oakrecruitment-co-uk",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:obin-ai": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "obin-ai",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "obin-ai",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:obsidian-systems": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "obsidian-systems",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "obsidian-systems",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:ocient-inc-": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "ocient-inc-",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "ocient-inc-",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:octopus": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "octopus",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "octopus",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:odo-do": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "odo-do",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "odo-do",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:odyssean": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "odyssean",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "odyssean",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:oe-consulting": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oe-consulting",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oe-consulting",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:ofone": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "ofone",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "ofone",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:oliv-ai": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oliv-ai",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oliv-ai",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:omegahhagency-com": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "omegahhagency-com",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "omegahhagency-com",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:omnea": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "omnea",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "omnea",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:on-repeat-now": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "on-repeat-now",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "on-repeat-now",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:oncko-com": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oncko-com",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oncko-com",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:ondo-finance": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "ondo-finance",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "ondo-finance",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:onesignal": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "onesignal",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "onesignal",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:onesignal-ats": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "onesignal-ats",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "onesignal-ats",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:onezyme": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "onezyme",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "onezyme",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:onfrontiers": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "onfrontiers",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "onfrontiers",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:open-door-legal": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "open-door-legal",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "open-door-legal",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:open-earth-foundation": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "open-earth-foundation",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "open-earth-foundation",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:openarc-net": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "openarc-net",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "openarc-net",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:openphone": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "openphone",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "openphone",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "gem:openphone-technologies-inc-": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "openphone-technologies-inc-",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "openphone-technologies-inc-",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "gem:openreqstaffing": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "openreqstaffing",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "openreqstaffing",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:openreqstaffing-com": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "openreqstaffing-com",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "openreqstaffing-com",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "gem:operator-search": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "operator-search",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "operator-search",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:opine": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "opine",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "opine",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:ora-so": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "ora-so",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "ora-so",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:orange-charger": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "orange-charger",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "orange-charger",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:orbital": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "orbital",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "orbital",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:orchard-agency-com": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "orchard-agency-com",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "orchard-agency-com",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:ornn": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "ornn",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "ornn",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:orphicdigital-com": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "orphicdigital-com",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "orphicdigital-com",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:osskin-com": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "osskin-com",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "osskin-com",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:outdoorly-com": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "outdoorly-com",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "outdoorly-com",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:outsourced-staff": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "outsourced-staff",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "outsourced-staff",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:ovatechnologies": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "ovatechnologies",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "ovatechnologies",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:overlay": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "overlay",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "overlay",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:overmind": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "overmind",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "overmind",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:overwatch": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "overwatch",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "overwatch",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "gem:overwatch-mission-critical-sandbox": {
+      "ats": "gem",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "overwatch-mission-critical-sandbox",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "overwatch-mission-critical-sandbox",
       "sources": [
         "wayback-cdx"
       ],
@@ -26062,12 +27146,12 @@
     "greenhouse:dandelionenergy": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-11",
+      "last_verified": "2026-11-10",
       "name": "dandelionenergy",
       "promoted_until": null,
-      "retry_after": "2026-11-10",
+      "retry_after": "2026-12-10",
       "slug": "dandelionenergy",
       "sources": [
         "wayback-cdx"
@@ -26077,12 +27161,12 @@
     "greenhouse:darkburncreative": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-11",
+      "last_verified": "2026-11-10",
       "name": "darkburncreative",
       "promoted_until": null,
-      "retry_after": "2026-11-10",
+      "retry_after": "2026-12-10",
       "slug": "darkburncreative",
       "sources": [
         "wayback-cdx"
@@ -26124,12 +27208,12 @@
     "greenhouse:darktracelimited": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-11",
+      "last_verified": "2026-11-10",
       "name": "darktracelimited",
       "promoted_until": null,
-      "retry_after": "2026-11-10",
+      "retry_after": "2026-12-10",
       "slug": "darktracelimited",
       "sources": [
         "wayback-cdx"
@@ -31579,9 +32663,9 @@
     "greenhouse:n": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-09",
+      "last_verified": "2026-11-10",
       "name": "n",
       "promoted_until": null,
       "retry_after": null,
@@ -31639,9 +32723,9 @@
     "greenhouse:n2coglassdoor": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-09",
+      "last_verified": "2026-11-10",
       "name": "n2coglassdoor",
       "promoted_until": null,
       "retry_after": null,
@@ -31729,9 +32813,9 @@
     "greenhouse:n2y": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-09",
+      "last_verified": "2026-11-10",
       "name": "n2y",
       "promoted_until": null,
       "retry_after": null,
@@ -31744,9 +32828,9 @@
     "greenhouse:naadam": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-09",
+      "last_verified": "2026-11-10",
       "name": "naadam",
       "promoted_until": null,
       "retry_after": null,
@@ -31774,9 +32858,9 @@
     "greenhouse:nabr": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-09",
+      "last_verified": "2026-11-10",
       "name": "nabr",
       "promoted_until": null,
       "retry_after": null,
@@ -31789,9 +32873,9 @@
     "greenhouse:nacelle": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-09",
+      "last_verified": "2026-11-10",
       "name": "nacelle",
       "promoted_until": null,
       "retry_after": null,
@@ -31819,9 +32903,9 @@
     "greenhouse:nacmedical": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-09",
+      "last_verified": "2026-11-10",
       "name": "nacmedical",
       "promoted_until": null,
       "retry_after": null,
@@ -31834,9 +32918,9 @@
     "greenhouse:nameless": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-09",
+      "last_verified": "2026-11-10",
       "name": "nameless",
       "promoted_until": null,
       "retry_after": null,
@@ -31849,9 +32933,9 @@
     "greenhouse:namelyexternalreferral": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-09",
+      "last_verified": "2026-11-10",
       "name": "namelyexternalreferral",
       "promoted_until": null,
       "retry_after": null,
@@ -31879,9 +32963,9 @@
     "greenhouse:nanopathdx": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-09",
+      "last_verified": "2026-11-10",
       "name": "nanopathdx",
       "promoted_until": null,
       "retry_after": null,
@@ -31909,9 +32993,9 @@
     "greenhouse:nanostring": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-09",
+      "last_verified": "2026-11-10",
       "name": "nanostring",
       "promoted_until": null,
       "retry_after": null,
@@ -32186,6 +33270,381 @@
       "slug": "nuancelabs",
       "sources": [
         "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:o1labs": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "o1labs",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "o1labs",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:o2epcminc": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "o2epcminc",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "o2epcminc",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "greenhouse:oafkenya": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oafkenya",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oafkenya",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "greenhouse:oakland": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oakland",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oakland",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:oaklineproperties": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oaklineproperties",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oaklineproperties",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "greenhouse:oaks": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oaks",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oaks",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:oanda": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oanda",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oanda",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:oarhealth": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oarhealth",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oarhealth",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:oasisgymnastics": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oasisgymnastics",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oasisgymnastics",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "greenhouse:oasishealthpartners": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oasishealthpartners",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oasishealthpartners",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "greenhouse:oasislabs": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oasislabs",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oasislabs",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:oasisnetwork": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oasisnetwork",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oasisnetwork",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:oasissecurity": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oasissecurity",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oasissecurity",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "greenhouse:oasysinternationalcorporation89": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oasysinternationalcorporation89",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oasysinternationalcorporation89",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:oath64": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oath64",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oath64",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "greenhouse:obamafoundation": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "obamafoundation",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "obamafoundation",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:obefitness": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "obefitness",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "obefitness",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:obexp": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "obexp",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "obexp",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "greenhouse:obfitness": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "obfitness",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "obfitness",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:objective": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "objective",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "objective",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:objectstream": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "objectstream",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "objectstream",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:obligo": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "obligo",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "obligo",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "greenhouse:obrienveterinarygroup": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "obrienveterinarygroup",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "obrienveterinarygroup",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "greenhouse:obscuritylabs": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "obscuritylabs",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "obscuritylabs",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:obsidiansecurity": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "obsidiansecurity",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "obsidiansecurity",
+      "sources": [
+        "wayback-cdx"
       ],
       "status": "active"
     },
@@ -36948,12 +38407,12 @@
     "greenhouse:zap": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 3,
+      "failure_count": 4,
       "feed": "general",
-      "last_verified": "2026-10-11",
+      "last_verified": "2026-11-10",
       "name": "zap",
       "promoted_until": null,
-      "retry_after": "2026-11-10",
+      "retry_after": "2026-12-10",
       "slug": "zap",
       "sources": [
         "wayback-cdx"
@@ -36978,12 +38437,12 @@
     "greenhouse:zealcareers": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 3,
+      "failure_count": 4,
       "feed": "general",
-      "last_verified": "2026-10-11",
+      "last_verified": "2026-11-10",
       "name": "zealcareers",
       "promoted_until": null,
-      "retry_after": "2026-11-10",
+      "retry_after": "2026-12-10",
       "slug": "zealcareers",
       "sources": [
         "wayback-cdx"
@@ -37038,12 +38497,12 @@
     "greenhouse:zemogajobs": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 3,
+      "failure_count": 4,
       "feed": "general",
-      "last_verified": "2026-10-11",
+      "last_verified": "2026-11-10",
       "name": "zemogajobs",
       "promoted_until": null,
-      "retry_after": "2026-11-10",
+      "retry_after": "2026-12-10",
       "slug": "zemogajobs",
       "sources": [
         "wayback-cdx"
@@ -37098,12 +38557,12 @@
     "greenhouse:zenithhealth": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 3,
+      "failure_count": 4,
       "feed": "general",
-      "last_verified": "2026-10-11",
+      "last_verified": "2026-11-10",
       "name": "zenithhealth",
       "promoted_until": null,
-      "retry_after": "2026-11-10",
+      "retry_after": "2026-12-10",
       "slug": "zenithhealth",
       "sources": [
         "wayback-cdx"
@@ -37113,12 +38572,12 @@
     "greenhouse:zenjob": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 3,
+      "failure_count": 4,
       "feed": "general",
-      "last_verified": "2026-10-11",
+      "last_verified": "2026-11-10",
       "name": "zenjob",
       "promoted_until": null,
-      "retry_after": "2026-11-10",
+      "retry_after": "2026-12-10",
       "slug": "zenjob",
       "sources": [
         "wayback-cdx"
@@ -41591,6 +43050,66 @@
       ],
       "status": "active"
     },
+    "lever:o-p-e-n": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "o-p-e-n",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "o-p-e-n",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "lever:o2ebrands": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "o2ebrands",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "o2ebrands",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "lever:oak9": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oak9",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oak9",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "lever:oakam": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oakam",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oakam",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
     "lever:oaknorth.ai": {
       "ats": "lever",
       "baseline_complete": true,
@@ -41603,7 +43122,83 @@
       "retry_after": null,
       "slug": "oaknorth.ai",
       "sources": [
-        "simplify"
+        "simplify",
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "lever:oatly": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "oatly",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oatly",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "lever:obie": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "Obie",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "Obie",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "lever:objective": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "objective",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "objective",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "lever:obol-tech": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "obol-tech",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "obol-tech",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "lever:observablehq": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "observablehq",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "observablehq",
+      "sources": [
+        "wayback-cdx"
       ],
       "status": "active"
     },
@@ -52457,7 +54052,7 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-10-20",
-      "last_success": "2026-10-27",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-18",
       "name": "Freddie Mac",
       "promoted_until": null,
@@ -52489,7 +54084,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-10-27",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-19",
       "name": "Freudenberg Group",
       "promoted_until": "2027-01-13",
@@ -52522,7 +54117,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-10-27",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-28",
       "name": "FTI Consulting",
       "promoted_until": null,
@@ -52600,10 +54195,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-10-27",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-18",
       "name": "GAP",
-      "promoted_until": "2027-01-25",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -52648,7 +54243,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-10-27",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-14",
       "name": "General Dynamics Information Technology",
       "promoted_until": null,
@@ -52680,10 +54275,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-10-27",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-13",
       "name": "GE Aerospace",
-      "promoted_until": "2027-01-25",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -52696,10 +54291,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-10-27",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-19",
       "name": "GEHA",
-      "promoted_until": "2027-01-25",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -52712,10 +54307,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-10-27",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-13",
       "name": "GE Healthcare",
-      "promoted_until": "2027-01-25",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -52776,10 +54371,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-10-27",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-18",
       "name": "Generac",
-      "promoted_until": "2027-01-25",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -52792,10 +54387,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-14",
       "name": "General Motors",
-      "promoted_until": "2027-02-01",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -52823,7 +54418,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-13",
       "name": "Genuine Parts Company",
       "promoted_until": "2027-01-25",
@@ -52887,10 +54482,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-13",
       "name": "GE Vernova",
-      "promoted_until": "2027-02-01",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -52903,10 +54498,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-15",
       "name": "GE Vernova",
-      "promoted_until": "2027-02-01",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -52952,10 +54547,10 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-10-15",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-28",
       "name": "Global Infrastructure",
-      "promoted_until": "2027-02-01",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -53000,10 +54595,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-13",
       "name": "GlobalFoundries",
-      "promoted_until": "2027-02-01",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -53032,10 +54627,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-13",
       "name": "RTX",
-      "promoted_until": "2027-02-01",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -53064,7 +54659,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-28",
       "name": "Genworth Financial",
       "promoted_until": null,
@@ -53112,7 +54707,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-19",
       "name": "Goodwin",
       "promoted_until": "2027-01-25",
@@ -53160,7 +54755,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-28",
       "name": "Granite Construction",
       "promoted_until": "2027-01-25",
@@ -53224,7 +54819,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-15",
       "name": "GSK",
       "promoted_until": "2027-01-03",
@@ -53240,7 +54835,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-14",
       "name": "Haleon",
       "promoted_until": null,
@@ -53287,10 +54882,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-15",
       "name": "Guardian Life",
-      "promoted_until": "2027-02-01",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -53304,10 +54899,10 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-10-14",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-15",
       "name": "Guidehouse",
-      "promoted_until": "2027-02-01",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -53336,10 +54931,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-28",
       "name": "Guidewire",
-      "promoted_until": "2027-02-01",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -53352,7 +54947,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-28",
       "name": "Gundersen Health System",
       "promoted_until": null,
@@ -53432,7 +55027,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-14",
       "name": "Ocean Optics",
       "promoted_until": null,
@@ -53496,10 +55091,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-13",
       "name": "Harris Computer",
-      "promoted_until": "2027-02-01",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -53544,7 +55139,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-19",
       "name": "Harris Central Appraisal District",
       "promoted_until": null,
@@ -53560,7 +55155,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-13",
       "name": "United Parcel Service (UPS)",
       "promoted_until": null,
@@ -53624,10 +55219,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-19",
       "name": "Solventum",
-      "promoted_until": "2027-02-01",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -53640,10 +55235,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-14",
       "name": "Healthfirst",
-      "promoted_until": "2027-02-01",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -53752,10 +55347,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-19",
       "name": "Henry Schein",
-      "promoted_until": "2027-01-27",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -53785,7 +55380,7 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-10-27",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-13",
       "name": "Highmark Health",
       "promoted_until": null,
@@ -53817,10 +55412,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-19",
       "name": "Hitachi",
-      "promoted_until": "2027-02-01",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -53865,10 +55460,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-19",
       "name": "HNTB",
-      "promoted_until": "2027-02-01",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -53992,10 +55587,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-14",
       "name": "Hewlett Packard (HP)",
-      "promoted_until": "2027-02-01",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -54008,10 +55603,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-03",
+      "last_success": "2026-11-10",
       "last_verified": "2026-08-15",
       "name": "Hewlett Packard (HP)",
-      "promoted_until": "2027-02-01",
+      "promoted_until": "2027-02-08",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -54022,8 +55617,9 @@
     "workday:https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/acjobsite/jobs": {
       "ats": "workday",
       "baseline_complete": true,
-      "failure_count": 0,
+      "failure_count": 1,
       "feed": "general",
+      "last_failure": "2026-11-10",
       "last_success": "2026-11-03",
       "last_verified": "2026-08-15",
       "name": "Hewlett Packard Enterprise",
@@ -57246,6 +58842,21 @@
       ],
       "status": "active",
       "url": "https://methodisthealth.wd5.myworkdayjobs.com/wday/cxs/methodisthealth/MLH/jobs"
+    },
+    "workday:https://mfs.wd1.myworkdayjobs.com/wday/cxs/mfs/mfs-careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-10",
+      "name": "MFS",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://mfs.wd1.myworkdayjobs.com/wday/cxs/mfs/MFS-Careers/jobs"
     },
     "workday:https://mgmresorts.wd5.myworkdayjobs.com/wday/cxs/mgmresorts/mgmcareers/jobs": {
       "ats": "workday",
@@ -66177,17 +67788,17 @@
   },
   "cursors": {
     "candidates": 0,
-    "discovery_prefix": 14,
+    "discovery_prefix": 15,
     "shards": {
       "0": 898,
       "1": 836,
-      "2": 765,
+      "2": 803,
       "3": 808,
       "4": 815,
       "5": 871,
       "6": 143
     },
-    "yc_companies": 198
+    "yc_companies": 201
   },
   "schema_version": 1
 }
