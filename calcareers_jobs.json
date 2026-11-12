@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-11 23:43 UTC",
+  "scraped_at": "2026-11-12 22:54 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "State Coastal Conservancy",
@@ -16,26 +16,13 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "State Coastal Conservancy",
-      "title": "SF Bay Project Manager",
-      "location": "Alameda County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538201",
-      "date_posted": "2026-11-10",
-      "salary": "$7327.00 - $9179.00",
-      "ats": "CalCareers",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 22,
+    "location": 24,
     "stale": 0
   }
 }
