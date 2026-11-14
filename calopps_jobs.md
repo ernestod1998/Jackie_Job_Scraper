@@ -1,6 +1,8 @@
 # 🏛 CalOpps — California Local-Agency Roles
-*Last updated: 2026-11-13 22:44 UTC*
+*Last updated: 2026-11-14 21:36 UTC*
 
-**0 new role(s)** since last run · 7 total in recent CalOpps postings
+**1 new role(s)** since last run · 8 total in recent CalOpps postings
 
-No new CalOpps roles since the last run.
+### [Capital Improvement Program Manager](https://www.calopps.org/millbrae/job-20784318) — Millbrae
+- 📍 **Location:** San Francisco/Peninsula
+- 💰 **Salary:** $176,566.00-$238,365.00 Annually

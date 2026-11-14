@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-13 22:44 UTC",
-  "total": 7,
-  "new_count": 0,
+  "scraped_at": "2026-11-14 21:36 UTC",
+  "total": 8,
+  "new_count": 1,
   "jobs": [
     {
       "company": "San Carlos",
@@ -10,6 +10,18 @@
       "url": "https://www.calopps.org/san-carlos/job-20787190",
       "date_posted": "",
       "salary": "$27.20-$33.07 Hourly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Millbrae",
+      "title": "Capital Improvement Program Manager",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/millbrae/job-20784318",
+      "date_posted": "",
+      "salary": "$176,566.00-$238,365.00 Annually",
       "ats": "CalOpps",
       "feeds": [
         "general"
@@ -88,13 +100,26 @@
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Millbrae",
+      "title": "Capital Improvement Program Manager",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/millbrae/job-20784318",
+      "date_posted": "",
+      "salary": "$176,566.00-$238,365.00 Annually",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 6,
+    "location": 4,
     "stale": 0
   }
 }
