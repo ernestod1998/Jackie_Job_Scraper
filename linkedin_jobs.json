@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-16 09:27 UTC",
+  "scraped_at": "2026-11-16 10:12 UTC",
   "total": 10,
-  "new_count": 10,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Google",
@@ -60,17 +60,6 @@
       ]
     },
     {
-      "company": "Telecare Corporation",
-      "title": "Case Manager III - Mental Health 152",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466362174/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Aquent",
       "title": "Operations Manager [AQ-26918]",
       "location": "Mountain View, CA",
@@ -87,6 +76,17 @@
       "title": "Sr Design Enablement, CAD",
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4473849845/",
+      "date_posted": "2026-11-16",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Telecare Corporation",
+      "title": "Case Manager III - Mental Health 152",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466362174/",
       "date_posted": "2026-11-16",
       "ats": "LinkedIn",
       "feeds": [
@@ -117,121 +117,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Google",
-      "title": "Deals Strategy and Operations Senior Associate",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490264862/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DoorDash",
-      "title": "Associate, Dasher Tasks, Strategy & Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464282710/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Telecare Corporation",
-      "title": "Case Manager II - Mental Health 152",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466408963/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Intuitive",
-      "title": "Senior Program Manager, NPI Sourcing",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4379999366/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "salary": "$154,300.00/yr - $261,100.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "gener8",
-      "title": "Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490269882/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Telecare Corporation",
-      "title": "Case Manager III - Mental Health 152",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466362174/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Aquent",
-      "title": "Operations Manager [AQ-26918]",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4489708916/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "salary": "$96.00/hr - $105.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Micron Technology",
-      "title": "Sr Design Enablement, CAD",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473849845/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applause",
-      "title": "Strategic Account Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4447186675/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Renesas Electronics",
-      "title": "Senior Staff Account Manager \u2013 OEM Sales",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4489996047/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "salary": "$142,500.00/yr - $177,900.00/yr",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
