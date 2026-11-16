@@ -1,13 +1,14 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-11-15 21:11 UTC*
+*Last updated: 2026-11-16 01:20 UTC*
 
-**2 new role(s)** since last run · 19 total in last 24h
+**2 new role(s)** since last run · 7 total in last 24h
 
-### [Strategic Account Manager](https://www.indeed.com/viewjob?jk=0f5931ef59f3a649) — Delinea
-- 📍 **Location:** Santa Clara, CA, USA
-- 💰 **Salary:** $280k–$350k/yr
+### [Front Desk / Guest Services & Spa Operations Associate - Flex](https://www.indeed.com/viewjob?jk=e2eb90f0b02a3307) — Piedmont Springs
+- 📍 **Location:** Oakland, CA, USA
+- 💰 **Salary:** $20–$22/hr
 - 🕒 **Posted:** 2026-11-15
 
-### [Senior Enterprise Account Manager](https://www.indeed.com/viewjob?jk=ec1fed155924c5d9) — Hyro
-- 📍 **Location:** Remote, USA
+### [Member Experience Generalist](https://www.indeed.com/viewjob?jk=e95c1a49b3c59dce) — AAA Mountain West Group
+- 📍 **Location:** San Ramon, CA, USA
+- 💰 **Salary:** $31–$36.90/hr
 - 🕒 **Posted:** 2026-11-15
