@@ -1,101 +1,13 @@
 {
-  "scraped_at": "2026-11-17 10:32 UTC",
-  "total": 30,
-  "new_count": 30,
+  "scraped_at": "2026-11-17 11:14 UTC",
+  "total": 34,
+  "new_count": 5,
   "jobs": [
-    {
-      "company": "Benchmark",
-      "title": "Program Coordinator I",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490981179/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
     {
       "company": "Sutter Health",
       "title": "Concierge Program Coordinator IV",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4483285069/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Content Governance Strategy Program Manager Graduate (TikTok Shop - Governance & Experience) - 2027 Start",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474697297/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Implementation Specialist I",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482998623/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Implementation Specialist I",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483204571/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SleepRes\u2122, Inc.",
-      "title": "Quality Assurance Associate",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4490196904/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "IXL Learning",
-      "title": "HR Systems & Operations Analyst",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490970699/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The Voleon Group",
-      "title": "Operations Associate (University Hire)",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457389868/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Implementation Specialist I",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483210455/",
       "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -136,13 +48,12 @@
       ]
     },
     {
-      "company": "Allied Universal",
-      "title": "Account Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4491105874/",
+      "company": "Google",
+      "title": "Business Operations and Planning Manager, OGP Business Operations",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490426758/",
       "date_posted": "2026-11-17",
       "ats": "LinkedIn",
-      "salary": "$200,000.00/yr - $214,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -248,12 +159,90 @@
       ]
     },
     {
+      "company": "TikTok",
+      "title": "Content Governance Strategy Program Manager Graduate (TikTok Shop - Governance & Experience) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474697297/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Affirm",
+      "title": "Implementation Specialist I",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483204571/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Affirm",
+      "title": "Implementation Specialist I",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483210455/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "IXL Learning",
+      "title": "HR Systems & Operations Analyst",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490970699/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SleepRes\u2122, Inc.",
+      "title": "Quality Assurance Associate",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4490196904/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Affirm",
+      "title": "Implementation Specialist I",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482998623/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Sutter Health",
       "title": "Patient Services Representative II, Endocrinology",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4483278258/",
       "date_posted": "2026-11-17",
       "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Allied Universal",
+      "title": "Account Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491105874/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $214,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -329,6 +318,61 @@
       "title": "Senior Technical Account Manager (Strategic Alliances)",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4483250593/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Develop Health",
+      "title": "Customer Success Manager (Digital Health & Pharmacy)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4475549774/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Navan",
+      "title": "Enterprise Customer Success Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4104804512/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Voleon Group",
+      "title": "Operations Associate (University Hire)",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457389868/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fairmont Hotels & Resorts",
+      "title": "Rooms Operations Training Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490195337/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fairmont Hotels & Resorts",
+      "title": "Food & Beverage Operations Training Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490197316/",
       "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -338,10 +382,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Benchmark",
-      "title": "Program Coordinator I",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490981179/",
+      "company": "Google",
+      "title": "Business Operations and Planning Manager, OGP Business Operations",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490426758/",
       "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -349,54 +393,10 @@
       ]
     },
     {
-      "company": "Sutter Health",
-      "title": "Concierge Program Coordinator IV",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483285069/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Content Governance Strategy Program Manager Graduate (TikTok Shop - Governance & Experience) - 2027 Start",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474697297/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Implementation Specialist I",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482998623/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Implementation Specialist I",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483204571/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SleepRes\u2122, Inc.",
-      "title": "Quality Assurance Associate",
+      "company": "Develop Health",
+      "title": "Customer Success Manager (Digital Health & Pharmacy)",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4490196904/",
+      "url": "https://www.linkedin.com/jobs/view/4475549774/",
       "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -404,32 +404,10 @@
       ]
     },
     {
-      "company": "IXL Learning",
-      "title": "HR Systems & Operations Analyst",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490970699/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The Voleon Group",
-      "title": "Operations Associate (University Hire)",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457389868/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Implementation Specialist I",
+      "company": "Navan",
+      "title": "Enterprise Customer Success Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483210455/",
+      "url": "https://www.linkedin.com/jobs/view/4104804512/",
       "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -437,32 +415,10 @@
       ]
     },
     {
-      "company": "SoTalent",
-      "title": "Program Manager - Corporate Insurance and Risk",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490422248/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Chick-fil-A Western Center Blvd",
-      "title": "Chick-fil-A Catering Sales Operations Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490408324/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Model Operations Lead, AI Gateway",
+      "company": "Fairmont Hotels & Resorts",
+      "title": "Rooms Operations Training Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481807558/",
+      "url": "https://www.linkedin.com/jobs/view/4490195337/",
       "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -470,199 +426,10 @@
       ]
     },
     {
-      "company": "Allied Universal",
-      "title": "Account Manager",
+      "company": "Fairmont Hotels & Resorts",
+      "title": "Food & Beverage Operations Training Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4491105874/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "salary": "$200,000.00/yr - $214,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Honey Homes",
-      "title": "Business Operations Lead",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490401589/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Uber",
-      "title": "Senior Program Leader, Global Rider CX",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490417937/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lam Research",
-      "title": "Global Trade Program Manager",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409744761/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Project & Program Manager, Quality",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4491123152/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Visa",
-      "title": "Manager, Product Management - Global Program Enablement",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483773630/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DoorDash",
-      "title": "Associate Manager, Customer Success",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481816270/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Synopsys Inc",
-      "title": "Silicon IP Program Manager - 18406",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457814228/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Synopsys Inc",
-      "title": "Silicon IP Customer Success Manager - 18275",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4447285677/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobot",
-      "title": "Project Manager",
-      "location": "North Richmond, CA",
-      "url": "https://www.linkedin.com/jobs/view/4491123775/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $170,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sutter Health",
-      "title": "Patient Services Representative II, Endocrinology",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483278258/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Adyen",
-      "title": "Senior Enterprise Account Manager, Adyen for Platforms",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483242997/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Adyen",
-      "title": "Enterprise Account Manager, Adyen for Platforms",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483257553/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flywheel",
-      "title": "TikTok Shop Account Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474286942/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Renesas Electronics",
-      "title": "Senior Staff Account Manager \u2013 OEM Sales",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4489996047/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Senior Technical Account Manager (Strategic Alliances)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483261378/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Senior Technical Account Manager (Strategic Alliances)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483249627/",
-      "date_posted": "2026-11-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Senior Technical Account Manager (Strategic Alliances)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483250593/",
+      "url": "https://www.linkedin.com/jobs/view/4490197316/",
       "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "feeds": [
