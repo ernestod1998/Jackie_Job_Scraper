@@ -1,209 +1,119 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-11-18 04:45 UTC*
+*Last updated: 2026-11-18 10:02 UTC*
 
-**47 new role(s)** since last run · 47 total in last 4h
+**28 new role(s)** since last run · 29 total in last 4h
 
-### [Engagement Management Operations Analyst](https://www.linkedin.com/jobs/view/4491776294/) — Manatt, Phelps & Phillips, LLP
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Project Coordinator Lead](https://www.linkedin.com/jobs/view/4491444847/) — Pivotal Retail Group
-- 📍 **Location:** Dublin, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Facilities Program Manager](https://www.linkedin.com/jobs/view/4491784398/) — Tesla
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Office Manager](https://www.linkedin.com/jobs/view/4491451578/) — BayOne Solutions
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Executive Assistant & Office Manager](https://www.linkedin.com/jobs/view/4491462399/) — Cypress HCM
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Payroll Data Implementation Specialist](https://www.linkedin.com/jobs/view/4491785353/) — Restaurant365
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $33.65/hr - $40.39/hr
-- 🕒 **Posted:** 2026-11-17
-
-### [Program Manager- NPI](https://www.linkedin.com/jobs/view/4490827335/) — Molex
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Client Services Associate](https://www.linkedin.com/jobs/view/4490818691/) — The Well
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-11-17
-
-### [Customer Training Specialist | Housing](https://www.linkedin.com/jobs/view/4492002098/) — EliseAI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Program Manager, Senior](https://www.linkedin.com/jobs/view/4491452820/) — Pacific Gas and Electric Company
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Business Operations Analyst (Human Data)](https://www.linkedin.com/jobs/view/4491791466/) — SpaceX Super Intelligence
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Operations Manager](https://www.linkedin.com/jobs/view/4491716960/) — PDS Health
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $30.00/hr - $40.25/hr
-- 🕒 **Posted:** 2026-11-17
-
-### [City Operations Associate](https://www.linkedin.com/jobs/view/4491460452/) — Picnic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Sr. Program Manager (Oakland, CA)](https://www.linkedin.com/jobs/view/4491770579/) — Cross Country Healthcare
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $75,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-11-17
-
-### [IBH CARE COORDINATOR - PEDIATRICS](https://www.linkedin.com/jobs/view/4490844217/) — Axis Community Health
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Product & Program Manager](https://www.linkedin.com/jobs/view/4490843309/) — Stealth Company
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Project Manager](https://www.linkedin.com/jobs/view/4491490510/) — Actalent
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $64.00/hr - $64.00/hr
-- 🕒 **Posted:** 2026-11-17
-
-### [Operations Manager II](https://www.linkedin.com/jobs/view/4491782672/) — Controlled Contamination Services
-- 📍 **Location:** Hayward, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [GTM Operations Manager, Lead Operations](https://www.linkedin.com/jobs/view/4479039508/) — Box
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Finance & Fund Operations Manager](https://www.linkedin.com/jobs/view/4491784734/) — Voy Ventures
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $130,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-11-17
-
-### [Project Manager  - Owners Rep](https://www.linkedin.com/jobs/view/4490570297/) — Hays
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-11-17
-
-### [Multi-family Podium Project Manager - $185-225k](https://www.linkedin.com/jobs/view/4490824794/) — CyberCoders
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $185,000.00/yr - $215,000.00/yr
-- 🕒 **Posted:** 2026-11-17
-
-### [Project Manager](https://www.linkedin.com/jobs/view/4491497207/) — Stanford Federal Credit Union
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $115,000.00/yr - $133,000.00/yr
-- 🕒 **Posted:** 2026-11-17
-
-### [Sr. Design Program Manager](https://www.linkedin.com/jobs/view/4491790496/) — Pinterest
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Web Marketing Program Manager (Contract)](https://www.linkedin.com/jobs/view/4491452909/) — PPT Consulting
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Security Project Coordinator](https://www.linkedin.com/jobs/view/4490835567/) — Milestone Technologies, Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Multi-family Podium Project Manager - $185-225k](https://www.linkedin.com/jobs/view/4490824792/) — CyberCoders
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $185,000.00/yr - $215,000.00/yr
-- 🕒 **Posted:** 2026-11-17
-
-### [Program Manager, Regulatory Reporting](https://www.linkedin.com/jobs/view/4468042916/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Assistant Project Manager LGA-ROW](https://www.linkedin.com/jobs/view/4490839485/) — AECOM
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Operations Supervisor](https://www.linkedin.com/jobs/view/4491720588/) — CVS Health
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $21.61/hr - $30.61/hr
-- 🕒 **Posted:** 2026-11-17
-
-### [Quality Assurance Manager - Multifamily Apartments](https://www.linkedin.com/jobs/view/4475271623/) — Hays
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $145,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-11-17
-
-### [CA - Quality Manager -  CNC, Machine Shop, AS9100, ISO9000](https://www.linkedin.com/jobs/view/4490818816/) — CyberCoders
-- 📍 **Location:** San Carlos, CA
-- 💰 **Salary:** $110,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-11-17
-
-### [New Platform Enablement Manager (HW/Ops Design Excellence)](https://www.linkedin.com/jobs/view/4469968967/) — Waymo
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Sr. Program Manager, Data Center Strategy & Planning](https://www.linkedin.com/jobs/view/4490836725/) — AMD
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Compute Capacity Strategy & Operations](https://www.linkedin.com/jobs/view/4491801065/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Assistant Sales Manager & Program Manager](https://www.linkedin.com/jobs/view/4483273722/) — JAE Electronics
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Partner & Enterprise Support Lead](https://www.linkedin.com/jobs/view/4469910757/) — Waymo
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Customer Success Manager | Housing](https://www.linkedin.com/jobs/view/4491794451/) — EliseAI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4491775912/) — Bloom Energy
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Sr. Cloud Technical Account Manager, ES - NAMER - US-Frontier AI](https://www.linkedin.com/jobs/view/4491778537/) — Amazon Web Services (AWS)
+### [Senior Program Manager, NPI Systems](https://www.linkedin.com/jobs/view/4475849268/) — Intuitive
 - 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-17
+- 💰 **Salary:** $154,300.00/yr - $261,100.00/yr
+- 🕒 **Posted:** 2026-11-18
 
-### [Strategic Partnership Account Manager](https://www.linkedin.com/jobs/view/4491797307/) — Vertisystem (A MOURI Tech Company)
+### [Regional Health Information (HIM) Operations Manager - Bay Area 901](https://www.linkedin.com/jobs/view/4458535253/) — Telecare Corporation
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Case Manager II Bilingual Spanish- Mental Health 152](https://www.linkedin.com/jobs/view/4476503479/) — Telecare Corporation
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Event Operations Manager](https://www.linkedin.com/jobs/view/4489979950/) — Lucky Strike Entertainment
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $220,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-11-17
+- 🕒 **Posted:** 2026-11-18
 
-### [Care Manager](https://www.linkedin.com/jobs/view/4491480739/) — SonicJobs
-- 📍 **Location:** Danville, CA
-- 🕒 **Posted:** 2026-11-17
+### [Manager, Revenue Operations](https://www.linkedin.com/jobs/view/4467937639/) — PayPal
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-18
 
-### [Project Manager](https://www.linkedin.com/jobs/view/4491800048/) — Actalent
+### [Operations Enablement Manager](https://www.linkedin.com/jobs/view/4483653706/) — Affirm
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Operations Enablement Lead](https://www.linkedin.com/jobs/view/4457442340/) — Affirm
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Assistant Operations Manager](https://www.linkedin.com/jobs/view/4490855614/) — U.S. AutoForce
+- 📍 **Location:** Union City, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Project Manager, Commercialization](https://www.linkedin.com/jobs/view/4490861338/) — SGX Graphics
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Senior Project Manager-Highways Roads](https://www.linkedin.com/jobs/view/4438366298/) — GHD
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Merrill Center for Family Wealth Associate-Business Support Manager](https://www.linkedin.com/jobs/view/4484282369/) — Bank of America
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [BP&S Compliance Program Coordinator](https://www.linkedin.com/jobs/view/4483684052/) — Lam Research
 - 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $55.00/hr - $62.00/hr
-- 🕒 **Posted:** 2026-11-17
+- 🕒 **Posted:** 2026-11-18
 
-### [Senior People Partner](https://www.linkedin.com/jobs/view/4491496015/) — Niantic Spatial, Inc.
+### [Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experiences) - 2026 Start](https://www.linkedin.com/jobs/view/4457400987/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Senior Program Manager, EU Cyber Resilience Act (CRA)](https://www.linkedin.com/jobs/view/4483633927/) — Micron Technology
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [R&D Project Manager（J53740）](https://www.linkedin.com/jobs/view/4460201757/) — BOE Technology
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Assistant Front Office Manager](https://www.linkedin.com/jobs/view/4476503154/) — Four Seasons
+- 📍 **Location:** East Palo Alto, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Technical Manager – Customer Success (AI Field Services | AI & ML) | USA-Remote](https://www.linkedin.com/jobs/view/4422830131/) — Neuron7.ai
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-18
+
+### [Account Manager, CPG](https://www.linkedin.com/jobs/view/4482212129/) — DoorDash
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-17
+- 🕒 **Posted:** 2026-11-18
 
-### [Exchange Operations Specialist](https://www.linkedin.com/jobs/view/4490832316/) — Crypto.com
+### [Senior Account Manager, Automotive](https://www.linkedin.com/jobs/view/4491806467/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Member Support Specialist (West Portal)](https://www.linkedin.com/jobs/view/4490867762/) — One Medical
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $70,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-11-17
+- 🕒 **Posted:** 2026-11-18
 
-### [Marketing & Communications Program Manager - FT - Days - Marketing and Communication @ MV](https://www.linkedin.com/jobs/view/4491437835/) — El Camino Health
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $69.53/hr - $104.29/hr
-- 🕒 **Posted:** 2026-11-17
+### [Regional Account Manager Associate - San Fransico Bay Area, Ca](https://www.linkedin.com/jobs/view/4491494746/) — Applied Medical
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-18
 
-### [Test Asset Program Manager](https://www.linkedin.com/jobs/view/4491762885/) — Kforce Inc
-- 📍 **Location:** San Mateo, CA
-- 💰 **Salary:** $65.00/hr - $70.00/hr
-- 🕒 **Posted:** 2026-11-17
+### [Senior Program Manager, Quote-to-Cash Transformation & M&A Integration (B5)](https://www.linkedin.com/jobs/view/4490853473/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4482500058/) — Jobot
+- 📍 **Location:** Concord, CA
+- 💰 **Salary:** $120,000.00/yr - $175,000.00/yr
+- 🕒 **Posted:** 2026-11-18
+
+### [Product Associate, Digital Onboarding  - Payments (Digital Onboarding Product & Solutions)](https://www.linkedin.com/jobs/view/4490855654/) — Archer
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $88,350.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-11-18
+
+### [Senior Associate, Merchant Strategy & Operations](https://www.linkedin.com/jobs/view/4474412037/) — DoorDash
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Senior Operations Analyst](https://www.linkedin.com/jobs/view/4483803217/) — Levi Strauss & Co.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Technical Operations Coordinator](https://www.linkedin.com/jobs/view/4476496324/) — Air Apps
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4477376315/) — Air Apps
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-18
