@@ -1,5 +1,5 @@
 # 🏛 CalCareers — California State Roles
-*Last updated: 2026-11-18 23:37 UTC*
+*Last updated: 2026-11-19 23:54 UTC*
 
 **0 new role(s)** since last run · 1 total in current CalCareers postings
 
