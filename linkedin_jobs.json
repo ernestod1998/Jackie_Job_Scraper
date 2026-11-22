@@ -1,128 +1,58 @@
 {
-  "scraped_at": "2026-11-22 03:31 UTC",
-  "total": 13,
-  "new_count": 2,
+  "scraped_at": "2026-11-22 21:41 UTC",
+  "total": 14,
+  "new_count": 14,
   "jobs": [
     {
-      "company": "Jacobs",
-      "title": "Customer Success Associate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493295764/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "salary": "$70,000.00/yr - $85,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Aquila Hash, Inc.",
-      "title": "HR Generalist",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493299947/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Drivemode",
-      "title": "People Operations Partner",
+      "company": "EPITEC",
+      "title": "Project Manager 2",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493307607/",
-      "date_posted": "2026-11-21",
+      "url": "https://www.linkedin.com/jobs/view/4493388470/",
+      "date_posted": "2026-11-22",
       "ats": "LinkedIn",
-      "salary": "$92,000.00/yr - $105,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Climactic",
-      "title": "Customer Experience Associate",
+      "company": "ARCO/Murray",
+      "title": "Project Coordinator",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466943016/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Abode",
+      "title": "Clinical Case Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493298757/",
-      "date_posted": "2026-11-21",
+      "url": "https://www.linkedin.com/jobs/view/4493391146/",
+      "date_posted": "2026-11-22",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Burlington Stores, Inc.",
-      "title": "Customer Experience Lead - Full Time",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493295792/",
-      "date_posted": "2026-11-21",
+      "company": "MongoDB",
+      "title": "Revenue Operations Manager",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460557073/",
+      "date_posted": "2026-11-22",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Applied Materials",
-      "title": "Project Manager - AI",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492333149/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Multi-family Podium Project Manager - $185-225k",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492318801/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Multi-family Podium Project Manager - $185-225k",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492335235/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Senior Program Manager, Quote-to-Cash Transformation & M&A Integration (B5)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492314973/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Materials Project Manager (multiple openings)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492326461/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "QualityAI",
-      "title": "Senior IT Project Manager - CyberSec",
+      "company": "Cumming Group",
+      "title": "Senior Project Manager",
       "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488058388/",
-      "date_posted": "2026-11-21",
+      "url": "https://www.linkedin.com/jobs/view/4432915964/",
+      "date_posted": "2026-11-22",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -132,8 +62,8 @@
       "company": "CyberCoders",
       "title": "Electrical Project Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492322555/",
-      "date_posted": "2026-11-21",
+      "url": "https://www.linkedin.com/jobs/view/4492361665/",
+      "date_posted": "2026-11-22",
       "ats": "LinkedIn",
       "salary": "$110,000.00/yr - $160,000.00/yr",
       "feeds": [
@@ -144,21 +74,53 @@
       "company": "CyberCoders",
       "title": "Electrical Project Manager",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492324452/",
-      "date_posted": "2026-11-21",
+      "url": "https://www.linkedin.com/jobs/view/4492367309/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $180,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MG2 Design",
+      "title": "Architecture Project Manager - Data Centers (Hybrid)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485425028/",
+      "date_posted": "2026-11-22",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
-    }
-  ],
-  "new_jobs": [
+    },
     {
-      "company": "Climactic",
-      "title": "Customer Experience Associate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493298757/",
-      "date_posted": "2026-11-21",
+      "company": "Applied Materials",
+      "title": "Materials Project Manager (multiple openings)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492373008/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Project Manager - AI",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492352894/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Senior Program Manager, Quote-to-Cash Transformation & M&A Integration (B5)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492353778/",
+      "date_posted": "2026-11-22",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -167,11 +129,190 @@
     {
       "company": "CyberCoders",
       "title": "Multi-family Podium Project Manager - $185-225k",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492335235/",
-      "date_posted": "2026-11-21",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492369141/",
+      "date_posted": "2026-11-22",
       "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "EY",
+      "title": "People Consulting - HR Technology - Workforce Management UKG - Senior",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475253658/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pave Talent",
+      "title": "Cybersecurity Program Manager (Only W2)",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492164173/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "EPITEC",
+      "title": "Project Manager 2",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493388470/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "ARCO/Murray",
+      "title": "Project Coordinator",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466943016/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Abode",
+      "title": "Clinical Case Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493391146/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MongoDB",
+      "title": "Revenue Operations Manager",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460557073/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cumming Group",
+      "title": "Senior Project Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4432915964/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492361665/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $160,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492367309/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $180,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MG2 Design",
+      "title": "Architecture Project Manager - Data Centers (Hybrid)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485425028/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Materials Project Manager (multiple openings)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492373008/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Project Manager - AI",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492352894/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Senior Program Manager, Quote-to-Cash Transformation & M&A Integration (B5)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492353778/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Multi-family Podium Project Manager - $185-225k",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492369141/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "EY",
+      "title": "People Consulting - HR Technology - Workforce Management UKG - Senior",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475253658/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pave Talent",
+      "title": "Cybersecurity Program Manager (Only W2)",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492164173/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -182,7 +323,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 0,
+    "location": 2,
     "stale": 0
   }
 }
