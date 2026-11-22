@@ -1,63 +1,51 @@
 # 🟦 Indeed — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-11-22 03:25 UTC*
+*Last updated: 2026-11-22 21:58 UTC*
 
-**12 new role(s)** since last run · 51 total in last 24h
+**10 new role(s)** since last run · 17 total in last 24h
 
-### [Ally Care Team (ACT) Supervisor (6811U), University Health Services #90061](https://www.indeed.com/viewjob?jk=580f994f670a6b21) — University of California Berkeley
-- 📍 **Location:** Berkeley, CA, USA
-- 💰 **Salary:** $116k–$148k/yr
-- 🕒 **Posted:** 2026-11-21
+### [Case Manager BRC-Temporary](https://www.indeed.com/viewjob?jk=b3d768aa2a66b796) — HomeFirst
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $30.96–$33.17/hr
+- 🕒 **Posted:** 2026-11-22
 
-### [Patient Services Representative (4722C), University Health Services #90084](https://www.indeed.com/viewjob?jk=f37f33a8aba98e4f) — University of California Berkeley
-- 📍 **Location:** Berkeley, CA, USA
-- 💰 **Salary:** $36.02–$40.28/hr
-- 🕒 **Posted:** 2026-11-21
+### [Bilingual Case Manager-BRC](https://www.indeed.com/viewjob?jk=afc8bdc64023e84e) — HomeFirst
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $32.20–$33.17/hr
+- 🕒 **Posted:** 2026-11-22
 
-### [Senior Program Manager, In-Market Testing & Insights](https://www.indeed.com/viewjob?jk=d06ebe7a5b1d5686) — Meta
+### [Program Manager, Cloud Partners](https://www.indeed.com/viewjob?jk=806c660d119ed166) — Anthropic
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $160k–$223k/yr
-- 🕒 **Posted:** 2026-11-21
+- 💰 **Salary:** $255k–$320k/yr
+- 🕒 **Posted:** 2026-11-22
 
-### [Strategic Partnerships & Engagement Operations Manager](https://www.indeed.com/viewjob?jk=a4402f0abbb59484) — Meta
-- 📍 **Location:** Menlo Park, CA, USA
-- 💰 **Salary:** $146k–$206k/yr
-- 🕒 **Posted:** 2026-11-21
+### [Technical Customer Success Manager](https://www.indeed.com/viewjob?jk=2185d8ab0f63b15c) — LiveX AI
+- 📍 **Location:** Palo Alto, CA, USA
+- 💰 **Salary:** $100k–$130k/yr
+- 🕒 **Posted:** 2026-11-22
 
-### [Strategic Partnerships & Engagement Operations Manager](https://www.indeed.com/viewjob?jk=20da8c996ea2fae0) — Meta
+### [Customer Account Manager – Sales & Growth](https://www.indeed.com/viewjob?jk=f500730f06bb4776) — ManageCasa Inc.
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $146k–$206k/yr
-- 🕒 **Posted:** 2026-11-21
+- 💰 **Salary:** $70k–$85k/yr
+- 🕒 **Posted:** 2026-11-22
 
-### [HR Generalist (5395C), SHARE Region - #90083](https://www.indeed.com/viewjob?jk=5af75194ff500d1f) — University of California Berkeley
-- 📍 **Location:** Berkeley, CA, USA
-- 💰 **Salary:** $32.90–$44.54/hr
-- 🕒 **Posted:** 2026-11-21
+### [Executive Assistant / Office Manager](https://www.indeed.com/viewjob?jk=0a8450bf26aaef72) — SABLE
+- 📍 **Location:** San Francisco, CA, USA
+- 🕒 **Posted:** 2026-11-22
 
-### [Senior Customer Success Manager - East](https://www.indeed.com/viewjob?jk=fc5b57a1e38fd25b) — PowerSchool Group
+### [Business Operations Manager](https://www.indeed.com/viewjob?jk=aabb95a6e057ab45) — Lark Physics, LLC
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $70k–$103k/yr
-- 🕒 **Posted:** 2026-11-21
+- 💰 **Salary:** $46k–$52k/yr
+- 🕒 **Posted:** 2026-11-22
 
-### [Pega Business Analyst](https://www.indeed.com/viewjob?jk=d03688f155d3c1ad) — General Dynamics Information Technology
+### [Project Manager (Volunteer Role)](https://www.indeed.com/viewjob?jk=1b43c486e63ce19e) — The Brickers Foundation
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $85k–$115k/yr
-- 🕒 **Posted:** 2026-11-21
+- 🕒 **Posted:** 2026-11-22
 
-### [Operations Manager](https://www.indeed.com/viewjob?jk=8792cab0dcf04b5b) — Second Chance Auto and Towing
+### [Program Manager](https://www.indeed.com/viewjob?jk=61904ace3314f5ee) — Jamison Professional Services Inc
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $59k–$72k/yr
-- 🕒 **Posted:** 2026-11-21
+- 🕒 **Posted:** 2026-11-22
 
-### [Program Manager, TAC](https://www.indeed.com/viewjob?jk=f20bd5ff05e1a5e9) — FujiFilm
+### [IT Solutions Account Manager - 100% commission Based - REMOTE](https://www.indeed.com/viewjob?jk=21bab555bd53a831) — Brand Yak
 - 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-11-21
-
-### [Project Manager (FOOD OR BEVERAGE CPG - REMOTE ROLE)](https://www.indeed.com/viewjob?jk=f36f933e6fb676b1) — LDK Talent Solutions
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $125k–$135k/yr
-- 🕒 **Posted:** 2026-11-21
-
-### [Implementation & Onboarding Specialist](https://www.indeed.com/viewjob?jk=3f023749f89d6720) — Omevi
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $69k–$83k/yr
-- 🕒 **Posted:** 2026-11-21
+- 💰 **Salary:** $108k–$119k/yr
+- 🕒 **Posted:** 2026-11-22
