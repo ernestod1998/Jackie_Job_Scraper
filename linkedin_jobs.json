@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-23 03:40 UTC",
-  "total": 13,
-  "new_count": 13,
+  "scraped_at": "2026-11-23 04:02 UTC",
+  "total": 14,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Form Energy",
@@ -22,7 +22,6 @@
       "url": "https://www.linkedin.com/jobs/view/4489154665/",
       "date_posted": "2026-11-22",
       "ats": "LinkedIn",
-      "salary": "$84,540.00/yr - $121,518.00/yr",
       "feeds": [
         "general"
       ]
@@ -34,6 +33,7 @@
       "url": "https://www.linkedin.com/jobs/view/4492359945/",
       "date_posted": "2026-11-22",
       "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $160,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -45,7 +45,6 @@
       "url": "https://www.linkedin.com/jobs/view/4492374381/",
       "date_posted": "2026-11-22",
       "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $180,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -68,7 +67,17 @@
       "url": "https://www.linkedin.com/jobs/view/4454850802/",
       "date_posted": "2026-11-22",
       "ats": "LinkedIn",
-      "salary": "$147,959.00/yr - $184,966.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Power",
+      "title": "Patient Navigator (Remote CRC)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4493593279/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -80,6 +89,7 @@
       "url": "https://www.linkedin.com/jobs/view/4476939063/",
       "date_posted": "2026-11-22",
       "ats": "LinkedIn",
+      "salary": "$128,662.00/yr - $160,807.00/yr",
       "feeds": [
         "general"
       ]
@@ -139,7 +149,6 @@
       "url": "https://www.linkedin.com/jobs/view/4480584057/",
       "date_posted": "2026-11-22",
       "ats": "LinkedIn",
-      "salary": "$95.00/hr - $95.00/hr",
       "feeds": [
         "general"
       ]
@@ -151,6 +160,7 @@
       "url": "https://www.linkedin.com/jobs/view/4482791089/",
       "date_posted": "2026-11-22",
       "ats": "LinkedIn",
+      "salary": "$65.00/hr - $75.00/hr",
       "feeds": [
         "general"
       ]
@@ -158,151 +168,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Form Energy",
-      "title": "Supplier Operations Manager, Hardware Components",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481277471/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "salary": "$84,540.00/yr - $133,666.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Form Energy",
-      "title": "Senior Purchasing Operations Associate",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4489154665/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "salary": "$84,540.00/yr - $121,518.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492359945/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492374381/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $180,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RGP",
-      "title": "Finance Transformation Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460774849/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Form Energy",
-      "title": "Staff Project Manager",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454850802/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "salary": "$147,959.00/yr - $184,966.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Form Energy",
-      "title": "Senior People Partner",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476939063/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Project Management - Project Coordinator III",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481788736/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "salary": "$41.00/hr - $51.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Project Management - Project Coordinator IV",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479892158/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "salary": "$46.00/hr - $56.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Program Management - Program Manager III",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482822768/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "salary": "$70.00/hr - $80.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Operations Manager",
-      "location": "Richmond, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479214373/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "salary": "$70.00/hr - $70.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Site Operations Manager (Richmond)",
-      "location": "Richmond, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480584057/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "salary": "$95.00/hr - $95.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Program Management - Program Manager IV",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482791089/",
+      "company": "Power",
+      "title": "Patient Navigator (Remote CRC)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4493593279/",
       "date_posted": "2026-11-22",
       "ats": "LinkedIn",
       "feeds": [
