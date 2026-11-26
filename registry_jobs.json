@@ -1,14 +1,168 @@
 {
-  "scraped_at": "2026-11-25 22:18 UTC",
-  "total": 80,
-  "new_count": 55,
+  "scraped_at": "2026-11-26 22:14 UTC",
+  "total": 69,
+  "new_count": 20,
   "jobs": [
+    {
+      "company": "Jade Global",
+      "title": "Data Conversions Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/Data-Conversions-Project-Manager_R-106642",
+      "date_posted": "Posted 3 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jade Global",
+      "title": "Experienced Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/Experienced-Project-Manager_R-104820",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jade Global",
+      "title": "Project / Program Manager \u2013 PMO",
+      "location": "San Jose, CA",
+      "url": "https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/Project---Program-Manager---PMO_R-106592",
+      "date_posted": "Posted 9 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jade Global",
+      "title": "Project / Program Manager \u2013 PMO",
+      "location": "San Jose, CA",
+      "url": "https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/Project---Program-Manager---PMO_R-106594",
+      "date_posted": "Posted 9 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jade Global",
+      "title": "Project Manager, Salesforce or Workday experience",
+      "location": "San Jose, CA",
+      "url": "https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/Project-Manager--Salesforce-or-Workday-experience_R-104725",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Johnson & Johnson",
+      "title": "Senior Local Operations Manager - Solid Tumor Oncology (1 of 4 Openings)",
+      "location": "Remote (US)",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Senior-Local-Operations-Manager---Solid-Tumor-Oncology--1-of-4-Openings-_R-113051-1",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Johnson & Johnson",
+      "title": "Lead Local Operations Manager \u2013 Solid Tumor Oncology",
+      "location": "Remote (US)",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Lead-Local-Operations-Manager---Solid-Tumor-Oncology_R-112816",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Johnson & Johnson",
+      "title": "Crowdsourcing Strategic Planning & Operations Manager",
+      "location": "Remote (US)",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Crowdsourcing-Strategic-Planning---Operations-Manager_R-109249",
+      "date_posted": "Posted 6 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Johnson & Johnson",
+      "title": "Quality Assurance Supervisor",
+      "location": "Santa Clara, California, United States of America",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Quality-Assurance-Supervisor_R-111720-1",
+      "date_posted": "Posted 3 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KBR",
+      "title": "Deputy Operations Manager",
+      "location": "Remote - U.S.",
+      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Operations-Manager--Part-Time-_R2128778",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KLA Corporation",
+      "title": "Program Lead-Enterprise Systems IDeliver",
+      "location": "Milpitas, CA",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Program-Manager-Enterprise-Systems-IDeliver_2640434",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KLA Corporation",
+      "title": "IDeliver (Tier II) Operations Lead",
+      "location": "Milpitas, CA",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/IDeliver--Tier-II--Operations-Lead_2641265",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KLA Corporation",
+      "title": "Sr. IT Operations Specialist - Corporate Events & Executive Support",
+      "location": "Milpitas, CA",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Sr-IT-Operation-Specialist---Corporate-Events---Executive-Support_2641386",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KLA Corporation",
+      "title": "Hardware Project Manager (Opto-Mechanical focus)",
+      "location": "Milpitas, CA",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Technical-Program-Project-Manager--Opto-Mechanical-focus-_2641295-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "Land O'Lakes",
       "title": "Quality Manager",
       "location": "Fremont, NE (USA)",
       "url": "https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Fremont-NE-USA/Quality-Manager_R-41076-1",
-      "date_posted": "Posted 21 Days Ago",
+      "date_posted": "Posted 22 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -19,7 +173,7 @@
       "title": "IT Development & Operations Manager - GNAL",
       "location": "6314 Remote/Teleworker US",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/IT-Development---Operations-Manager---GNAL_R-00197218",
-      "date_posted": "Posted 8 Days Ago",
+      "date_posted": "Posted 9 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -30,7 +184,7 @@
       "title": "Senior Program Manager",
       "location": "6314 Remote/Teleworker US",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Program-Manager_R-00196153",
-      "date_posted": "Posted 21 Days Ago",
+      "date_posted": "Posted 22 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -41,7 +195,7 @@
       "title": "SpouseWorks Program Manager",
       "location": "6314 Remote/Teleworker US",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/SpouseWorks-Program-Manager_R-00196699-1",
-      "date_posted": "Posted 13 Days Ago",
+      "date_posted": "Posted 14 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -52,7 +206,18 @@
       "title": "AGUN Transition Program Manager",
       "location": "6314 Remote/Teleworker US",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AGUN-Transition-Program-Manager_R-00196972",
-      "date_posted": "Posted 7 Days Ago",
+      "date_posted": "Posted 8 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Leidos",
+      "title": "Miltary Spouse Employer Partnership (MSEP) Program Manager (PM)",
+      "location": "6314 Remote/Teleworker US",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Miltary-Spouse-Employer-Partnership--MSEP--Program-Manager--PM-_R-00197690",
+      "date_posted": "Posted Yesterday",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -63,7 +228,7 @@
       "title": "Material Project Manager",
       "location": "6314 Remote/Teleworker US",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Material-Project-Manager_R-00197280",
-      "date_posted": "Posted 6 Days Ago",
+      "date_posted": "Posted 7 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -74,7 +239,7 @@
       "title": "AGUN Deployment Project Manager",
       "location": "6314 Remote/Teleworker US",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AGUN-Deployment-Project-Manager_R-00197618",
-      "date_posted": "Posted Today",
+      "date_posted": "Posted Yesterday",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -107,7 +272,7 @@
       "title": "Strategic Account Manager \u2013 Cloud and AI",
       "location": "Remote - USA - WA Metro",
       "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Remote---USA---WA-Metro/Sales-Director_20251192",
-      "date_posted": "Posted Yesterday",
+      "date_posted": "Posted 2 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -140,7 +305,7 @@
       "title": "Program Manager",
       "location": "Concord, Ontario, CA",
       "url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Concord-Ontario-CA/Program-Manager_R00268892",
-      "date_posted": "Posted 20 Days Ago",
+      "date_posted": "Posted 21 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -173,7 +338,7 @@
       "title": "Senior Staff Technical Development Program Manager",
       "location": "US-CA - Santa Clara",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/US-CA---Santa-Clara/Senior-Staff-Technical-Development-Program-Manager_2605078",
-      "date_posted": "Posted 21 Days Ago",
+      "date_posted": "Posted 22 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -184,7 +349,7 @@
       "title": "ERM Program Manager",
       "location": "Santa Clara, CA",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/ERM-Program-Manager_2604757",
-      "date_posted": "Posted Yesterday",
+      "date_posted": "Posted 2 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -195,7 +360,7 @@
       "title": "Product Manager, HR Systems and AI Enablement",
       "location": "Santa Clara, CA",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Product-Manager--HR-Systems-and-AI-Enablement_2605389",
-      "date_posted": "Posted 5 Days Ago",
+      "date_posted": "Posted 6 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -217,7 +382,7 @@
       "title": "Revenue Operations Manager (Pipeline/Pharma)",
       "location": "USA, GA, Remote",
       "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Revenue-Operations-Manager--Pipeline-Pharma-_JR0157236",
-      "date_posted": "Posted 16 Days Ago",
+      "date_posted": "Posted 17 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -239,7 +404,7 @@
       "title": "Workforce Management Coordinator",
       "location": "USA, OH, Remote",
       "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Workforce-Management-Coordinator_JR0155944",
-      "date_posted": "Posted 7 Days Ago",
+      "date_posted": "Posted 8 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -250,7 +415,7 @@
       "title": "Client Implementation and Account Management",
       "location": "USA, NC, Remote",
       "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-NC-Remote/Client-Implementation-and-Account-Management_JR0153313",
-      "date_posted": "Posted 30 Days Ago",
+      "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -261,7 +426,7 @@
       "title": "Laboratory Solutions Specialist (LSS)",
       "location": "USA, TX, Remote",
       "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Remote/Laboratory-Solutions-Specialist--LSS-_JR0153087",
-      "date_posted": "Posted 21 Days Ago",
+      "date_posted": "Posted 22 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -272,7 +437,7 @@
       "title": "Sr Clinical Project Manager",
       "location": "USA, TN, Remote",
       "url": "https://mckesson.wd3.myworkdayjobs.com/SCRI_Careers/job/USA-TN-Remote/Sr-Clinical-Project-Manager_JR0156521-1",
-      "date_posted": "Posted 19 Days Ago",
+      "date_posted": "Posted 20 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -283,7 +448,18 @@
       "title": "Clinical Implementation Specialist",
       "location": "United Kingdom - Remote; USA; Croatia",
       "url": "https://medable.wd503.myworkdayjobs.com/explore-career-opportunities/job/United-Kingdom---Remote/Clinical-Implementation-Specialist_JR100226",
-      "date_posted": "Posted 23 Days Ago",
+      "date_posted": "Posted 24 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Medline",
+      "title": "Clinical Solutions Specialist - Sacramento, CA",
+      "location": "San Francisco, California",
+      "url": "https://medline.wd5.myworkdayjobs.com/Medline/job/San-Francisco-California/Clinician-Front-Line-Care_R2621823",
+      "date_posted": "Posted 2 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -294,7 +470,7 @@
       "title": "Key Account Manager- Distribution",
       "location": "Remote - US",
       "url": "https://megger.wd3.myworkdayjobs.com/MeggerCareers/job/Remote---US/Key-Account-Manager--Distribution_JR100863",
-      "date_posted": "Posted 21 Days Ago",
+      "date_posted": "Posted 22 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -338,7 +514,7 @@
       "title": "Site Project Manager",
       "location": "Remote, United States",
       "url": "https://mhs.wd1.myworkdayjobs.com/careers/job/Remote-United-States/Site-Project-Manager_R9683",
-      "date_posted": "Posted 12 Days Ago",
+      "date_posted": "Posted 13 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -349,7 +525,7 @@
       "title": "Site Project Manager",
       "location": "Remote, United States",
       "url": "https://mhs.wd1.myworkdayjobs.com/careers/job/Remote-United-States/Site-Project-Manager_R9684",
-      "date_posted": "Posted 12 Days Ago",
+      "date_posted": "Posted 13 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -360,7 +536,7 @@
       "title": "Site Project Manager",
       "location": "Remote, United States",
       "url": "https://mhs.wd1.myworkdayjobs.com/careers/job/Remote-United-States/Site-Project-Manager_R9685-1",
-      "date_posted": "Posted 12 Days Ago",
+      "date_posted": "Posted 13 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -371,7 +547,7 @@
       "title": "Senior Project Manager",
       "location": "Remote, United States",
       "url": "https://mhs.wd1.myworkdayjobs.com/careers/job/Remote-United-States/Senior-Project-Manager_R9686",
-      "date_posted": "Posted 19 Days Ago",
+      "date_posted": "Posted 20 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -382,7 +558,7 @@
       "title": "Senior Project Manager",
       "location": "Remote, United States",
       "url": "https://mhs.wd1.myworkdayjobs.com/careers/job/Remote-United-States/Senior-Project-Manager_R9687-1",
-      "date_posted": "Posted 19 Days Ago",
+      "date_posted": "Posted 20 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -393,7 +569,7 @@
       "title": "MSP Account Manager",
       "location": "United States of America - Florida - Remote",
       "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America---Florida---Remote/MSP-Account-Manager_R6930",
-      "date_posted": "Posted Today",
+      "date_posted": "Posted Yesterday",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -404,7 +580,7 @@
       "title": "Account Manager, Mid-Market",
       "location": "United States of America - Ohio - Remote",
       "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America---Ohio---Remote/Account-Manager--Mid-Market_R6881-1",
-      "date_posted": "Posted 16 Days Ago",
+      "date_posted": "Posted 17 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -426,7 +602,7 @@
       "title": "National Sales Operations Program Coordinator",
       "location": "San Francisco - Embarcadero",
       "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/White-Plains---Hamilton/National-Sales-Operations-Program-Specialist_R_373173",
-      "date_posted": "Posted Yesterday",
+      "date_posted": "Posted 2 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -437,7 +613,7 @@
       "title": "Project Manager II-III",
       "location": "US Remote",
       "url": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Cleveland-Ohio-Office/Project-Manager-II-III_R-109671",
-      "date_posted": "Posted Yesterday",
+      "date_posted": "Posted 2 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -448,7 +624,7 @@
       "title": "STS Specialist Account Management Tier 1",
       "location": "CRI - San Jose - San Jose (City Place)",
       "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/CRI---San-Jose---San-Jose-City-Place/STS-Specialist-Account-Management-Tier-1_R428064",
-      "date_posted": "Posted 6 Days Ago",
+      "date_posted": "Posted 7 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -503,7 +679,7 @@
       "title": "Sr Project Manager",
       "location": "San Francisco, CA",
       "url": "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Silicon-Valley-CA/Sr-Project-Manager_JR-17971",
-      "date_posted": "Posted 22 Days Ago",
+      "date_posted": "Posted 23 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -514,7 +690,7 @@
       "title": "Project Manager",
       "location": "San Francisco, CA",
       "url": "https://mydpr.wd5.myworkdayjobs.com/11212017/job/San-Francisco-CA/Project-Manager_JR-17974",
-      "date_posted": "Posted 22 Days Ago",
+      "date_posted": "Posted 23 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -536,50 +712,17 @@
       "title": "Apprenticeships & Training Coordinator-Electrical",
       "location": "San Francisco, CA",
       "url": "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Atlanta-GA/Apprenticeships---Training-Coordinator-Electrical_JR-16878",
-      "date_posted": "Posted 29 Days Ago",
+      "date_posted": "Posted 30 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Nelnet",
-      "title": "Implementation Project Manager 1",
-      "location": "Remote",
-      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Remote/Implementation-Project-Manager-1_R23359",
-      "date_posted": "Posted 7 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nelnet",
-      "title": "Onboarding Configuration Specialist I",
-      "location": "Remote",
-      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Onboarding-Configuration-Specialist-I_R23248",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nelnet",
-      "title": "Customer Success Manager",
-      "location": "Remote",
-      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Remote/Customer-Success-Manager_R23122-1",
-      "date_posted": "Posted 27 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Neogen",
-      "title": "Strategic Account Manager",
-      "location": "Remote",
-      "url": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Remote/Strategic-Account-Manager_REQ-10839",
+      "company": "NorthAB",
+      "title": "Revenue Operations Manager",
+      "location": "US - Remote",
+      "url": "https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Revenue-Operations-Manager_JR101785",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -587,10 +730,21 @@
       ]
     },
     {
-      "company": "Northeastern University",
-      "title": "Operations Manager - Department of Public Safety",
-      "location": "Oakland, CA",
-      "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Oakland-CA/Operations-Manager---Department-of-Public-Safety_R137807",
+      "company": "NorthAB",
+      "title": "Senior Sales Operations Associate",
+      "location": "US - Remote",
+      "url": "https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Senior-Sales-Operations-Associate_JR102153",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NorthAB",
+      "title": "Implementation Manager",
+      "location": "US - Remote",
+      "url": "https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Implementation-Manager_JR102048",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -598,286 +752,11 @@
       ]
     },
     {
-      "company": "Northeastern University",
-      "title": "Faculty Operations Coordinator",
-      "location": "Oakland, CA",
-      "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Oakland-CA/Faculty-Operations-Coordinator_R143357",
-      "date_posted": "Posted 7 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Northeastern University",
-      "title": "Aquatics Operations Coordinator SEIU",
-      "location": "Oakland, CA",
-      "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Oakland-CA/Aquatics-Operations-Coordinator-SEIU_R141637",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Novanta",
-      "title": "Key Account Manager",
-      "location": "Remote - US",
-      "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Remote---US/Key-Account-Manager_R009785",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Novartis",
-      "title": "Dir, MAPS (Market Access Patient Services)/Medical Data Partnerships Lead",
-      "location": "Remote Position (USA)",
-      "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Remote-Position-USA/Dir--MAPS--Market-Access-Patient-Services--Medical-Data-Partnerships-Lead_REQ-10086345-1",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Lifecycle Operations Project Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Lifecycle-Operations-Project-Manager_JR2030346-1",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "NVIS Lifecycle Operations Project Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIS-Lifecycle-Operations-Project-Manager_JR2030423",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Program Manager, Creative Operations",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Program-Manager--Creative-Operations_JR2017929",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior RMA Customer Experience Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-RMA-Customer-Experience-Manager_JR2019970-1",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Technical Support Lead - Ethernet and AI Infrastructure",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Support-Lead---Ethernet-and-AI-Infrastructure_JR2027017-1",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Customer Program Manager \u2013 AI Platform",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Customer-Program-Manager---AI-Platform_JR2021831-1",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Integrated Technical Customer Program Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Integrated-Technical-Customer-Program-Manager_JR2029909",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Contact Center Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Contact-Center-Manager_JR2017193",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Product Program Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Program-Manager_JR2027434",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior NPI Program Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-NPI-Program-Manager_JR2016872",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior NPI Program Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-NPI-Program-Manager_JR2021498",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Cloud Sales Enablement Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Sales-Enablement-Manager_JR2020098",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Technical Training Lead - NCI Program",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Training-Lead---NCI-Program_JR2029864",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Manager, Hyperscale and AI Native",
-      "location": "US, CA, Remote",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Account-Manager--Hyperscale-and-AI-Native_JR2023413-1",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Manager - Financial Services",
-      "location": "US, NY, Remote",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-Remote/Senior-Account-Manager---Financial-Services_JR2027065",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Federal Account Manager, Disruptor Tech",
-      "location": "US, CA, Remote",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Federal-Account-Manager--Disruptor-Tech_JR2028409",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Manager, SI Factory Segment Sales- Global Public Sector",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Manager--Supercomputing-and-Global-Public-Sector-and-US-Federal-Government_JR2028625",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Account Manager - Semiconductor",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Account-Manager---Semiconductor_JR2024960",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Manager \u2013 Medtech",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Manager---Medtech_JR2028784-1",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Manager \u2013 Digital Health Accounts",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Manager---Digital-Health-Accounts_JR2029299",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Account Manager, Media and Entertainment",
-      "location": "US, NC, Remote",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Remote/Account-Manager--Media-and-Entertainment_JR2029663-1",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Manager - Semiconductor Ecosystem",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Manager---Semiconductor-Ecosystem_JR2021317",
-      "date_posted": "Posted Today",
+      "company": "NorthAB",
+      "title": "Account Manager -Retention",
+      "location": "US - Remote",
+      "url": "https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Account-Manager--Retention_JR102145",
+      "date_posted": "Posted 8 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -886,32 +765,21 @@
   ],
   "new_jobs": [
     {
-      "company": "Leidos",
-      "title": "AGUN Deployment Project Manager",
-      "location": "6314 Remote/Teleworker US",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AGUN-Deployment-Project-Manager_R-00197618",
-      "date_posted": "Posted Today",
+      "company": "Jade Global",
+      "title": "Data Conversions Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/Data-Conversions-Project-Manager_R-106642",
+      "date_posted": "Posted 3 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Megger",
-      "title": "Key Account Manager- Distribution",
-      "location": "Remote - US",
-      "url": "https://megger.wd3.myworkdayjobs.com/MeggerCareers/job/Remote---US/Key-Account-Manager--Distribution_JR100863",
-      "date_posted": "Posted 21 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Megger",
-      "title": "Key Account Manager- Industrial",
-      "location": "Remote - US",
-      "url": "https://megger.wd3.myworkdayjobs.com/MeggerCareers/job/Remote---US/Key-Account-Manager--Industrial_JR100772",
+      "company": "Jade Global",
+      "title": "Experienced Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/Experienced-Project-Manager_R-104820",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -919,10 +787,32 @@
       ]
     },
     {
-      "company": "Megger",
-      "title": "Key Account Manager",
-      "location": "Remote - US",
-      "url": "https://megger.wd3.myworkdayjobs.com/MeggerCareers/job/Remote---US/Key-Account-Manager_JR100482-1",
+      "company": "Jade Global",
+      "title": "Project / Program Manager \u2013 PMO",
+      "location": "San Jose, CA",
+      "url": "https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/Project---Program-Manager---PMO_R-106592",
+      "date_posted": "Posted 9 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jade Global",
+      "title": "Project / Program Manager \u2013 PMO",
+      "location": "San Jose, CA",
+      "url": "https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/Project---Program-Manager---PMO_R-106594",
+      "date_posted": "Posted 9 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jade Global",
+      "title": "Project Manager, Salesforce or Workday experience",
+      "location": "San Jose, CA",
+      "url": "https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/Project-Manager--Salesforce-or-Workday-experience_R-104725",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -930,131 +820,32 @@
       ]
     },
     {
-      "company": "Merative",
-      "title": "Manager, Product Operations & UX",
-      "location": "Remote \u2013 United States",
-      "url": "https://merative.wd12.myworkdayjobs.com/External_Career_Site/job/Remote--United-States/Manager--Product-Operations---UX_JR01772",
-      "date_posted": "Posted 30+ Days Ago",
+      "company": "Johnson & Johnson",
+      "title": "Senior Local Operations Manager - Solid Tumor Oncology (1 of 4 Openings)",
+      "location": "Remote (US)",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Senior-Local-Operations-Manager---Solid-Tumor-Oncology--1-of-4-Openings-_R-113051-1",
+      "date_posted": "Posted 2 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "FORTNA",
-      "title": "Site Project Manager",
-      "location": "Remote, United States",
-      "url": "https://mhs.wd1.myworkdayjobs.com/careers/job/Remote-United-States/Site-Project-Manager_R9683",
-      "date_posted": "Posted 12 Days Ago",
+      "company": "Johnson & Johnson",
+      "title": "Lead Local Operations Manager \u2013 Solid Tumor Oncology",
+      "location": "Remote (US)",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Lead-Local-Operations-Manager---Solid-Tumor-Oncology_R-112816",
+      "date_posted": "Posted 2 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "FORTNA",
-      "title": "Site Project Manager",
-      "location": "Remote, United States",
-      "url": "https://mhs.wd1.myworkdayjobs.com/careers/job/Remote-United-States/Site-Project-Manager_R9684",
-      "date_posted": "Posted 12 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "FORTNA",
-      "title": "Site Project Manager",
-      "location": "Remote, United States",
-      "url": "https://mhs.wd1.myworkdayjobs.com/careers/job/Remote-United-States/Site-Project-Manager_R9685-1",
-      "date_posted": "Posted 12 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "FORTNA",
-      "title": "Senior Project Manager",
-      "location": "Remote, United States",
-      "url": "https://mhs.wd1.myworkdayjobs.com/careers/job/Remote-United-States/Senior-Project-Manager_R9686",
-      "date_posted": "Posted 19 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "FORTNA",
-      "title": "Senior Project Manager",
-      "location": "Remote, United States",
-      "url": "https://mhs.wd1.myworkdayjobs.com/careers/job/Remote-United-States/Senior-Project-Manager_R9687-1",
-      "date_posted": "Posted 19 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Mimecast",
-      "title": "MSP Account Manager",
-      "location": "United States of America - Florida - Remote",
-      "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America---Florida---Remote/MSP-Account-Manager_R6930",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Mimecast",
-      "title": "Account Manager, Mid-Market",
-      "location": "United States of America - Ohio - Remote",
-      "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America---Ohio---Remote/Account-Manager--Mid-Market_R6881-1",
-      "date_posted": "Posted 16 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Mimecast",
-      "title": "Account Manager, Senior Commercial",
-      "location": "United States of America - Colorado - Remote",
-      "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America---Colorado---Remote/Account-Manager--Senior-Commercial_R6790-1",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Marsh",
-      "title": "National Sales Operations Program Coordinator",
-      "location": "San Francisco - Embarcadero",
-      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/White-Plains---Hamilton/National-Sales-Operations-Program-Specialist_R_373173",
-      "date_posted": "Posted Yesterday",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "MRI Software",
-      "title": "Project Manager II-III",
-      "location": "US Remote",
-      "url": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Cleveland-Ohio-Office/Project-Manager-II-III_R-109671",
-      "date_posted": "Posted Yesterday",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Merck",
-      "title": "STS Specialist Account Management Tier 1",
-      "location": "CRI - San Jose - San Jose (City Place)",
-      "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/CRI---San-Jose---San-Jose-City-Place/STS-Specialist-Account-Management-Tier-1_R428064",
+      "company": "Johnson & Johnson",
+      "title": "Crowdsourcing Strategic Planning & Operations Manager",
+      "location": "Remote (US)",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Crowdsourcing-Strategic-Planning---Operations-Manager_R-109249",
       "date_posted": "Posted 6 Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1062,10 +853,21 @@
       ]
     },
     {
-      "company": "M&T Bank",
-      "title": "Commercial Payments Sr. Account Manager",
-      "location": "Remote, USA",
-      "url": "https://mtb.wd5.myworkdayjobs.com/MTB/job/Remote-USA/Senior-Inside-Sales-Account-Manager_R90327",
+      "company": "Johnson & Johnson",
+      "title": "Quality Assurance Supervisor",
+      "location": "Santa Clara, California, United States of America",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Quality-Assurance-Supervisor_R-111720-1",
+      "date_posted": "Posted 3 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KBR",
+      "title": "Deputy Operations Manager",
+      "location": "Remote - U.S.",
+      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Operations-Manager--Part-Time-_R2128778",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1073,65 +875,10 @@
       ]
     },
     {
-      "company": "MultiCare Health System",
-      "title": "Business Operations Analyst-Revenue Cycle",
-      "location": "Remote, USA",
-      "url": "https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Business-Operations-Analyst-Revenue-Cycle_JR79845",
-      "date_posted": "",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "MultiCare Health System",
-      "title": "Project Manager Sr",
-      "location": "Remote, USA",
-      "url": "https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Project-Manager-Sr_JR84294",
-      "date_posted": "",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "MultiCare Health System",
-      "title": "Program Manager, Research Compliance & Quality Assurance",
-      "location": "Remote, USA",
-      "url": "https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Program-Manager--Research-Compliance---Quality-Assurance_JR81077",
-      "date_posted": "",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DPR Family of Companies",
-      "title": "Sr Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Silicon-Valley-CA/Sr-Project-Manager_JR-17971",
-      "date_posted": "Posted 22 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DPR Family of Companies",
-      "title": "Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://mydpr.wd5.myworkdayjobs.com/11212017/job/San-Francisco-CA/Project-Manager_JR-17974",
-      "date_posted": "Posted 22 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DPR Family of Companies",
-      "title": "Project Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://mydpr.wd5.myworkdayjobs.com/11212017/job/San-Francisco-CA/Project-Coordinator_JR-16676",
+      "company": "KLA Corporation",
+      "title": "Program Lead-Enterprise Systems IDeliver",
+      "location": "Milpitas, CA",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Program-Manager-Enterprise-Systems-IDeliver_2640434",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1139,54 +886,10 @@
       ]
     },
     {
-      "company": "DPR Family of Companies",
-      "title": "Apprenticeships & Training Coordinator-Electrical",
-      "location": "San Francisco, CA",
-      "url": "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Atlanta-GA/Apprenticeships---Training-Coordinator-Electrical_JR-16878",
-      "date_posted": "Posted 29 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nelnet",
-      "title": "Implementation Project Manager 1",
-      "location": "Remote",
-      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Remote/Implementation-Project-Manager-1_R23359",
-      "date_posted": "Posted 7 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nelnet",
-      "title": "Onboarding Configuration Specialist I",
-      "location": "Remote",
-      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Onboarding-Configuration-Specialist-I_R23248",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nelnet",
-      "title": "Customer Success Manager",
-      "location": "Remote",
-      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Remote/Customer-Success-Manager_R23122-1",
-      "date_posted": "Posted 27 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Neogen",
-      "title": "Strategic Account Manager",
-      "location": "Remote",
-      "url": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Remote/Strategic-Account-Manager_REQ-10839",
+      "company": "KLA Corporation",
+      "title": "IDeliver (Tier II) Operations Lead",
+      "location": "Milpitas, CA",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/IDeliver--Tier-II--Operations-Lead_2641265",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1194,10 +897,10 @@
       ]
     },
     {
-      "company": "Northeastern University",
-      "title": "Operations Manager - Department of Public Safety",
-      "location": "Oakland, CA",
-      "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Oakland-CA/Operations-Manager---Department-of-Public-Safety_R137807",
+      "company": "KLA Corporation",
+      "title": "Sr. IT Operations Specialist - Corporate Events & Executive Support",
+      "location": "Milpitas, CA",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Sr-IT-Operation-Specialist---Corporate-Events---Executive-Support_2641386",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1205,21 +908,10 @@
       ]
     },
     {
-      "company": "Northeastern University",
-      "title": "Faculty Operations Coordinator",
-      "location": "Oakland, CA",
-      "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Oakland-CA/Faculty-Operations-Coordinator_R143357",
-      "date_posted": "Posted 7 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Northeastern University",
-      "title": "Aquatics Operations Coordinator SEIU",
-      "location": "Oakland, CA",
-      "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Oakland-CA/Aquatics-Operations-Coordinator-SEIU_R141637",
+      "company": "KLA Corporation",
+      "title": "Hardware Project Manager (Opto-Mechanical focus)",
+      "location": "Milpitas, CA",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Technical-Program-Project-Manager--Opto-Mechanical-focus-_2641295-1",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1227,10 +919,32 @@
       ]
     },
     {
-      "company": "Novanta",
-      "title": "Key Account Manager",
-      "location": "Remote - US",
-      "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Remote---US/Key-Account-Manager_R009785",
+      "company": "Leidos",
+      "title": "Miltary Spouse Employer Partnership (MSEP) Program Manager (PM)",
+      "location": "6314 Remote/Teleworker US",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Miltary-Spouse-Employer-Partnership--MSEP--Program-Manager--PM-_R-00197690",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Medline",
+      "title": "Clinical Solutions Specialist - Sacramento, CA",
+      "location": "San Francisco, California",
+      "url": "https://medline.wd5.myworkdayjobs.com/Medline/job/San-Francisco-California/Clinician-Front-Line-Care_R2621823",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NorthAB",
+      "title": "Revenue Operations Manager",
+      "location": "US - Remote",
+      "url": "https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Revenue-Operations-Manager_JR101785",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1238,10 +952,21 @@
       ]
     },
     {
-      "company": "Novartis",
-      "title": "Dir, MAPS (Market Access Patient Services)/Medical Data Partnerships Lead",
-      "location": "Remote Position (USA)",
-      "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Remote-Position-USA/Dir--MAPS--Market-Access-Patient-Services--Medical-Data-Partnerships-Lead_REQ-10086345-1",
+      "company": "NorthAB",
+      "title": "Senior Sales Operations Associate",
+      "location": "US - Remote",
+      "url": "https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Senior-Sales-Operations-Associate_JR102153",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NorthAB",
+      "title": "Implementation Manager",
+      "location": "US - Remote",
+      "url": "https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Implementation-Manager_JR102048",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1249,242 +974,11 @@
       ]
     },
     {
-      "company": "NVIDIA",
-      "title": "Lifecycle Operations Project Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Lifecycle-Operations-Project-Manager_JR2030346-1",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "NVIS Lifecycle Operations Project Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIS-Lifecycle-Operations-Project-Manager_JR2030423",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Program Manager, Creative Operations",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Program-Manager--Creative-Operations_JR2017929",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior RMA Customer Experience Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-RMA-Customer-Experience-Manager_JR2019970-1",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Technical Support Lead - Ethernet and AI Infrastructure",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Support-Lead---Ethernet-and-AI-Infrastructure_JR2027017-1",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Customer Program Manager \u2013 AI Platform",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Customer-Program-Manager---AI-Platform_JR2021831-1",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Integrated Technical Customer Program Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Integrated-Technical-Customer-Program-Manager_JR2029909",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Contact Center Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Contact-Center-Manager_JR2017193",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Product Program Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Program-Manager_JR2027434",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior NPI Program Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-NPI-Program-Manager_JR2016872",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior NPI Program Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-NPI-Program-Manager_JR2021498",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Cloud Sales Enablement Manager",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Sales-Enablement-Manager_JR2020098",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Technical Training Lead - NCI Program",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Training-Lead---NCI-Program_JR2029864",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Manager, Hyperscale and AI Native",
-      "location": "US, CA, Remote",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Account-Manager--Hyperscale-and-AI-Native_JR2023413-1",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Manager - Financial Services",
-      "location": "US, NY, Remote",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-Remote/Senior-Account-Manager---Financial-Services_JR2027065",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Federal Account Manager, Disruptor Tech",
-      "location": "US, CA, Remote",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Federal-Account-Manager--Disruptor-Tech_JR2028409",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Manager, SI Factory Segment Sales- Global Public Sector",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Manager--Supercomputing-and-Global-Public-Sector-and-US-Federal-Government_JR2028625",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Account Manager - Semiconductor",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Account-Manager---Semiconductor_JR2024960",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Manager \u2013 Medtech",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Manager---Medtech_JR2028784-1",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Manager \u2013 Digital Health Accounts",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Manager---Digital-Health-Accounts_JR2029299",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Account Manager, Media and Entertainment",
-      "location": "US, NC, Remote",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Remote/Account-Manager--Media-and-Entertainment_JR2029663-1",
-      "date_posted": "Posted Today",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Account Manager - Semiconductor Ecosystem",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Manager---Semiconductor-Ecosystem_JR2021317",
-      "date_posted": "Posted Today",
+      "company": "NorthAB",
+      "title": "Account Manager -Retention",
+      "location": "US - Remote",
+      "url": "https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Account-Manager--Retention_JR102145",
+      "date_posted": "Posted 8 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
