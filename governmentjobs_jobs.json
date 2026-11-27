@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-26 01:02 UTC",
+  "scraped_at": "2026-11-27 01:04 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of South San Francisco",
@@ -16,20 +16,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of South San Francisco",
-      "title": "Program Manager - Public Works",
-      "location": "South San Francisco, CA",
-      "url": "https://www.governmentjobs.com/jobs/153969-1/program-manager-public-works",
-      "date_posted": "",
-      "salary": "$153,296.00 - $186,347.00 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
