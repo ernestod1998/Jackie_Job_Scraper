@@ -1,25 +1,33 @@
 # 🔥 LinkedIn — Ops / Support / Care Roles (SF Bay Area + US Remote)
-*Last updated: 2026-11-26 11:32 UTC*
+*Last updated: 2026-11-27 00:30 UTC*
 
-**5 new role(s)** since last run · 31 total in last 4h
+**7 new role(s)** since last run · 7 total in last 4h
 
-### [Senior Territory Account Manager](https://www.linkedin.com/jobs/view/4493497950/) — Biocon Biologics
+### [Materials Project Manager (multiple openings)](https://www.linkedin.com/jobs/view/4493863115/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-11-26
+
+### [Senior Program Manager, Quote-to-Cash Transformation & M&A Integration (B5)](https://www.linkedin.com/jobs/view/4493848671/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-11-26
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4495551491/) — Kitchell
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-11-26
+
+### [Senior Project Manager](https://www.linkedin.com/jobs/view/4495565124/) — Kitchell
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-26
 
-### [Program Lead-Enterprise Systems IDeliver](https://www.linkedin.com/jobs/view/4468921733/) — KLA
-- 📍 **Location:** Milpitas, CA
+### [Multi-family Podium Project Manager - $185-225k](https://www.linkedin.com/jobs/view/4493842894/) — CyberCoders
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-26
 
-### [Strategy & Operations Generalist](https://www.linkedin.com/jobs/view/4442203824/) — Fluidstack
+### [Multi-family Podium Project Manager - $185-225k](https://www.linkedin.com/jobs/view/4493844819/) — CyberCoders
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $138,000.00/yr - $147,000.00/yr
+- 💰 **Salary:** $185,000.00/yr - $215,000.00/yr
 - 🕒 **Posted:** 2026-11-26
 
-### [Product Manager, Trust and Safety](https://www.linkedin.com/jobs/view/4468929383/) — Chime
+### [Senior Associate, Business Operations (growth-stage startup)](https://www.linkedin.com/jobs/view/4493837866/) — Jerry
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-11-26
-
-### [MBA Business Operations Intern, Summer 2027](https://www.linkedin.com/jobs/view/4487504662/) — GoFundMe
-- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-26
