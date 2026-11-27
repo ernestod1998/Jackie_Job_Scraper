@@ -4,9 +4,9 @@
     "ashby:0": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-26",
+      "last_verified": "2026-11-27",
       "name": "0",
       "promoted_until": null,
       "retry_after": null,
@@ -19,9 +19,9 @@
     "ashby:01c": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-26",
+      "last_verified": "2026-11-27",
       "name": "01c",
       "promoted_until": null,
       "retry_after": null,
@@ -34,9 +34,9 @@
     "ashby:0;": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-26",
+      "last_verified": "2026-11-27",
       "name": "0;",
       "promoted_until": null,
       "retry_after": null,
@@ -49,9 +49,9 @@
     "ashby:0; }": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-26",
+      "last_verified": "2026-11-27",
       "name": "0; }",
       "promoted_until": null,
       "retry_after": null,
@@ -210,6 +210,21 @@
         "wayback-cdx"
       ],
       "status": "inactive"
+    },
+    "ashby:120ft-factory": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "120ft-factory",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "120ft-factory",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
     },
     "ashby:18c78c4427514cebaa7039bbf8a8c249": {
       "ats": "ashby",
@@ -5270,6 +5285,21 @@
       ],
       "status": "active"
     },
+    "ashby:freshpaint": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "Freshpaint",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "freshpaint",
+      "sources": [
+        "yc-hiring-careers"
+      ],
+      "status": "active"
+    },
     "ashby:fs-studio": {
       "ats": "ashby",
       "baseline_complete": true,
@@ -9595,12 +9625,12 @@
     "ashby:p": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-28",
+      "last_verified": "2026-11-27",
       "name": "P",
       "promoted_until": null,
-      "retry_after": "2026-11-27",
+      "retry_after": "2026-12-27",
       "slug": "P",
       "sources": [
         "wayback-cdx"
@@ -9641,12 +9671,12 @@
     "ashby:pace": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-28",
+      "last_verified": "2026-11-27",
       "name": "Pace",
       "promoted_until": null,
-      "retry_after": "2026-11-27",
+      "retry_after": "2026-12-27",
       "slug": "Pace",
       "sources": [
         "wayback-cdx"
@@ -9687,12 +9717,12 @@
     "ashby:pacificfusion": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-28",
+      "last_verified": "2026-11-27",
       "name": "pacificfusion",
       "promoted_until": null,
-      "retry_after": "2026-11-27",
+      "retry_after": "2026-12-27",
       "slug": "pacificfusion",
       "sources": [
         "wayback-cdx"
@@ -15199,17 +15229,17 @@
     "ashby:z-_ugtwucbjgbi_izealn9glysvnk8sgdwhm7cpmsux5tz8rt3xa2ig9mklhjdkjb7s09ekpbuuehsjfskhsyc4-5vcensmq4x_rihjlnrp1nmtvokfsi75hghdsue6e-udpgl0jt9bmludjtxdffxdbds5gyeifosiytpdnnrdecbhrnn0wkyxvoq2rxbqj-abrmomrdea-znrubui2w9sbftcdxwlsjktzsisfpki0a_abszz0r4v1nyqh1epoamziszm5csvj1l9bkmgp1hbfucj4clltcucwt8_upbiaocfxl9r1-swmwc35duhky7_ucjac7dq9tdhkpuzbpvgkmaaghdiq98qynixkswexneuh9c8xbnuvymomzw4ubbhkzk31ecgiybpboq": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 2,
+      "failure_count": 3,
       "feed": "general",
-      "last_verified": "2026-11-26",
+      "last_verified": "2026-11-27",
       "name": "Z-_ugtwUCbjgBI_izeaLn9GlySVNk8SGdWhm7CpmSux5tZ8rt3xa2ig9mklhjdKjb7S09EKpbuueHSJFSkHSyc4-5VcenSmq4X_rihjlnrP1NmTvokFSI75hGHdsuE6E-UdpGl0Jt9BMluDJtXDFfxdbdS5GYEIFosIytPDnnrDECbHRNn0wKyxvOq2RxBqj-AbRMOMRDEA-zNRUBui2w9SBFTCDxWlsJKtzsiSFPkI0A_AbsZZ0r4V1NYQH1EpoaMZIsZM5cSVJ1L9bKMGP1HBfUCJ4CLltCucwt8_UPBiaoCfxl9R1-SwmWc35dUHky7_UcjAC7dQ9tdHkPuzbPvgKMaaghdiQ98QyNIxkswEXNEuH9C8xbNUvYmOmzw4UBBhKZk31ecgiYBPBOQ",
       "promoted_until": null,
-      "retry_after": null,
+      "retry_after": "2026-12-27",
       "slug": "Z-_ugtwUCbjgBI_izeaLn9GlySVNk8SGdWhm7CpmSux5tZ8rt3xa2ig9mklhjdKjb7S09EKpbuueHSJFSkHSyc4-5VcenSmq4X_rihjlnrP1NmTvokFSI75hGHdsuE6E-UdpGl0Jt9BMluDJtXDFfxdbdS5GYEIFosIytPDnnrDECbHRNn0wKyxvOq2RxBqj-AbRMOMRDEA-zNRUBui2w9SBFTCDxWlsJKtzsiSFPkI0A_AbsZZ0r4V1NYQH1EpoaMZIsZM5cSVJ1L9bKMGP1HBfUCJ4CLltCucwt8_UPBiaoCfxl9R1-SwmWc35dUHky7_UcjAC7dQ9tdHkPuzbPvgKMaaghdiQ98QyNIxkswEXNEuH9C8xbNUvYmOmzw4UBBhKZk31ecgiYBPBOQ",
       "sources": [
         "wayback-cdx"
       ],
-      "status": "candidate"
+      "status": "inactive"
     },
     "ashby:zafran-security": {
       "ats": "ashby",
@@ -15229,17 +15259,17 @@
     "ashby:zamp": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 2,
+      "failure_count": 3,
       "feed": "general",
-      "last_verified": "2026-11-26",
+      "last_verified": "2026-11-27",
       "name": "zamp",
       "promoted_until": null,
-      "retry_after": null,
+      "retry_after": "2026-12-27",
       "slug": "zamp",
       "sources": [
         "wayback-cdx"
       ],
-      "status": "candidate"
+      "status": "inactive"
     },
     "ashby:zania": {
       "ats": "ashby",
@@ -15281,6 +15311,21 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "zefr",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "ashby:zeit-ai": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "Zeit AI (YC S24)",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "zeit-ai",
       "sources": [
         "simplify"
       ],
@@ -24842,12 +24887,12 @@
     "gem:pave-dev": {
       "ats": "gem",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-28",
+      "last_verified": "2026-11-27",
       "name": "pave-dev",
       "promoted_until": null,
-      "retry_after": "2026-11-27",
+      "retry_after": "2026-12-27",
       "slug": "pave-dev",
       "sources": [
         "wayback-cdx"
@@ -25023,12 +25068,12 @@
     "gem:perpetuity-finance": {
       "ats": "gem",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-28",
+      "last_verified": "2026-11-27",
       "name": "perpetuity-finance",
       "promoted_until": null,
-      "retry_after": "2026-11-27",
+      "retry_after": "2026-12-27",
       "slug": "perpetuity-finance",
       "sources": [
         "wayback-cdx"
@@ -29000,6 +29045,96 @@
       ],
       "status": "inactive"
     },
+    "greenhouse:1": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "1",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "1",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "greenhouse:100thieves": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "100thieves",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "100thieves",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:100x": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "100x",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "100x",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:1021creative": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "1021creative",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "1021creative",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "greenhouse:103644278": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "103644278",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "103644278",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "greenhouse:1047games": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "1047games",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "1047games",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
     "greenhouse:10alabs": {
       "ats": "greenhouse",
       "baseline_complete": true,
@@ -29012,7 +29147,8 @@
       "retry_after": null,
       "slug": "10alabs",
       "sources": [
-        "simplify"
+        "simplify",
+        "wayback-cdx"
       ],
       "status": "active"
     },
@@ -29028,7 +29164,128 @@
       "retry_after": null,
       "slug": "10beauty",
       "sources": [
-        "simplify"
+        "simplify",
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "greenhouse:10pearls": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "10pearls",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "10pearls",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:10thousanddesign": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "10thousanddesign",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "10thousanddesign",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:10up": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "10up",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "10up",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:10xgenomics": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "10xgenomics",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "10xgenomics",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:12jlkfsk": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "12jlkfsk",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "12jlkfsk",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "greenhouse:12twenty": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "12twenty",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "12twenty",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "greenhouse:143studiosinc": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "143studiosinc",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "143studiosinc",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:1456754456yhgbhfg": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "1456754456yhgbhfg",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "1456754456yhgbhfg",
+      "sources": [
+        "wayback-cdx"
       ],
       "status": "active"
     },
@@ -30833,6 +31090,21 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "armada",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:artefact": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-27",
+      "name": "Artefact",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "artefact",
       "sources": [
         "simplify"
       ],
@@ -40795,12 +41067,12 @@
     "greenhouse:pactlabs": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-28",
+      "last_verified": "2026-11-27",
       "name": "pactlabs",
       "promoted_until": null,
-      "retry_after": "2026-11-27",
+      "retry_after": "2026-12-27",
       "slug": "pactlabs",
       "sources": [
         "wayback-cdx"
@@ -46638,17 +46910,17 @@
     "greenhouse:zagster": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 2,
+      "failure_count": 3,
       "feed": "general",
-      "last_verified": "2026-11-26",
+      "last_verified": "2026-11-27",
       "name": "zagster",
       "promoted_until": null,
-      "retry_after": null,
+      "retry_after": "2026-12-27",
       "slug": "zagster",
       "sources": [
         "wayback-cdx"
       ],
-      "status": "candidate"
+      "status": "inactive"
     },
     "greenhouse:zam": {
       "ats": "greenhouse",
@@ -46683,17 +46955,17 @@
     "greenhouse:zanbato": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 2,
+      "failure_count": 3,
       "feed": "general",
-      "last_verified": "2026-11-26",
+      "last_verified": "2026-11-27",
       "name": "zanbato",
       "promoted_until": null,
-      "retry_after": null,
+      "retry_after": "2026-12-27",
       "slug": "zanbato",
       "sources": [
         "wayback-cdx"
       ],
-      "status": "candidate"
+      "status": "inactive"
     },
     "greenhouse:zap": {
       "ats": "greenhouse",
@@ -46713,17 +46985,17 @@
     "greenhouse:zapier": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 2,
+      "failure_count": 3,
       "feed": "general",
-      "last_verified": "2026-11-26",
+      "last_verified": "2026-11-27",
       "name": "zapier",
       "promoted_until": null,
-      "retry_after": null,
+      "retry_after": "2026-12-27",
       "slug": "zapier",
       "sources": [
         "wayback-cdx"
       ],
-      "status": "candidate"
+      "status": "inactive"
     },
     "greenhouse:zaviant": {
       "ats": "greenhouse",
@@ -51665,12 +51937,12 @@
     "lever:p-1ai": {
       "ats": "lever",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-28",
+      "last_verified": "2026-11-27",
       "name": "P-1AI",
       "promoted_until": null,
-      "retry_after": "2026-11-27",
+      "retry_after": "2026-12-27",
       "slug": "P-1AI",
       "sources": [
         "wayback-cdx"
@@ -51725,12 +51997,12 @@
     "lever:pachyderm": {
       "ats": "lever",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-28",
+      "last_verified": "2026-11-27",
       "name": "pachyderm",
       "promoted_until": null,
-      "retry_after": "2026-11-27",
+      "retry_after": "2026-12-27",
       "slug": "pachyderm",
       "sources": [
         "wayback-cdx"
@@ -54645,32 +54917,32 @@
     "lever:z1.app": {
       "ats": "lever",
       "baseline_complete": false,
-      "failure_count": 2,
+      "failure_count": 3,
       "feed": "general",
-      "last_verified": "2026-11-26",
+      "last_verified": "2026-11-27",
       "name": "z1.app",
       "promoted_until": null,
-      "retry_after": null,
+      "retry_after": "2026-12-27",
       "slug": "z1.app",
       "sources": [
         "wayback-cdx"
       ],
-      "status": "candidate"
+      "status": "inactive"
     },
     "lever:z1media": {
       "ats": "lever",
       "baseline_complete": false,
-      "failure_count": 2,
+      "failure_count": 3,
       "feed": "general",
-      "last_verified": "2026-11-26",
+      "last_verified": "2026-11-27",
       "name": "z1media",
       "promoted_until": null,
-      "retry_after": null,
+      "retry_after": "2026-12-27",
       "slug": "z1media",
       "sources": [
         "wayback-cdx"
       ],
-      "status": "candidate"
+      "status": "inactive"
     },
     "lever:z1tech": {
       "ats": "lever",
@@ -54706,17 +54978,17 @@
     "lever:zadarastorage": {
       "ats": "lever",
       "baseline_complete": false,
-      "failure_count": 2,
+      "failure_count": 3,
       "feed": "general",
-      "last_verified": "2026-11-26",
+      "last_verified": "2026-11-27",
       "name": "zadarastorage",
       "promoted_until": null,
-      "retry_after": null,
+      "retry_after": "2026-12-27",
       "slug": "zadarastorage",
       "sources": [
         "wayback-cdx"
       ],
-      "status": "candidate"
+      "status": "inactive"
     },
     "lever:zaimler": {
       "ats": "lever",
@@ -54736,17 +55008,17 @@
     "lever:zaius": {
       "ats": "lever",
       "baseline_complete": false,
-      "failure_count": 2,
+      "failure_count": 3,
       "feed": "general",
-      "last_verified": "2026-11-26",
+      "last_verified": "2026-11-27",
       "name": "zaius",
       "promoted_until": null,
-      "retry_after": null,
+      "retry_after": "2026-12-27",
       "slug": "zaius",
       "sources": [
         "wayback-cdx"
       ],
-      "status": "candidate"
+      "status": "inactive"
     },
     "lever:zambezi": {
       "ats": "lever",
@@ -54781,32 +55053,32 @@
     "lever:zapbatt": {
       "ats": "lever",
       "baseline_complete": false,
-      "failure_count": 2,
+      "failure_count": 3,
       "feed": "general",
-      "last_verified": "2026-11-26",
+      "last_verified": "2026-11-27",
       "name": "zapbatt",
       "promoted_until": null,
-      "retry_after": null,
+      "retry_after": "2026-12-27",
       "slug": "zapbatt",
       "sources": [
         "wayback-cdx"
       ],
-      "status": "candidate"
+      "status": "inactive"
     },
     "lever:zapsurgical": {
       "ats": "lever",
       "baseline_complete": false,
-      "failure_count": 2,
+      "failure_count": 3,
       "feed": "general",
-      "last_verified": "2026-11-26",
+      "last_verified": "2026-11-27",
       "name": "zapsurgical",
       "promoted_until": null,
-      "retry_after": null,
+      "retry_after": "2026-12-27",
       "slug": "zapsurgical",
       "sources": [
         "wayback-cdx"
       ],
-      "status": "candidate"
+      "status": "inactive"
     },
     "lever:zartis": {
       "ats": "lever",
@@ -68718,10 +68990,10 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-11-02",
-      "last_success": "2026-11-26",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-13",
       "name": "Marsh",
-      "promoted_until": "2027-02-24",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -68954,7 +69226,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-19",
       "name": "Movado Group",
       "promoted_until": null,
@@ -68970,7 +69242,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-15",
       "name": "Marathon Petroleum",
       "promoted_until": null,
@@ -68986,10 +69258,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-26",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-19",
       "name": "MRI Software",
-      "promoted_until": "2027-02-24",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -69033,7 +69305,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-26",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-15",
       "name": "Merck",
       "promoted_until": "2027-02-24",
@@ -69081,7 +69353,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-20",
       "name": "Memorial Sloan Kettering Cancer Center",
       "promoted_until": null,
@@ -69130,10 +69402,10 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-11-05",
-      "last_success": "2026-11-26",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-15",
       "name": "M&T Bank",
-      "promoted_until": "2027-02-24",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -69193,10 +69465,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-26",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-13",
       "name": "MultiCare Health System",
-      "promoted_until": "2027-02-24",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -69240,7 +69512,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-16",
       "name": "7-Eleven",
       "promoted_until": null,
@@ -69257,10 +69529,10 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-11-19",
-      "last_success": "2026-11-26",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-19",
       "name": "DPR Family of Companies",
-      "promoted_until": "2027-02-24",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -69351,10 +69623,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-26",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-28",
       "name": "NorthAB",
-      "promoted_until": "2027-02-24",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -69587,13 +69859,13 @@
     "workday:https://nelnet.wd1.myworkdayjobs.com/wday/cxs/nelnet/mynelnet/jobs": {
       "ats": "workday",
       "baseline_complete": true,
-      "failure_count": 1,
+      "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-11-26",
-      "last_success": "2026-11-25",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-15",
       "name": "Nelnet",
-      "promoted_until": "2027-02-23",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -69606,10 +69878,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-25",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-28",
       "name": "Neogen",
-      "promoted_until": "2027-02-23",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -69871,7 +70143,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-20",
       "name": "Nordic",
       "promoted_until": null,
@@ -69903,7 +70175,7 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-11-04",
-      "last_success": "2026-11-25",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-13",
       "name": "Nordstrom",
       "promoted_until": "2027-02-18",
@@ -69919,10 +70191,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-25",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-15",
       "name": "Northeastern University",
-      "promoted_until": "2027-02-23",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -69966,10 +70238,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-25",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-19",
       "name": "Novanta",
-      "promoted_until": "2027-02-23",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -69982,10 +70254,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-25",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-28",
       "name": "Novartis",
-      "promoted_until": "2027-02-23",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -70141,10 +70413,10 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-11-18",
-      "last_success": "2026-11-25",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-13",
       "name": "NVIDIA",
-      "promoted_until": "2027-02-23",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -70173,7 +70445,7 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-11-16",
-      "last_success": "2026-11-25",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-13",
       "name": "NXP Semiconductors",
       "promoted_until": "2027-02-04",
@@ -70232,10 +70504,10 @@
     "workday:https://ochsner.wd1.myworkdayjobs.com/wday/cxs/ochsner/ochsner/jobs": {
       "ats": "workday",
       "baseline_complete": true,
-      "failure_count": 1,
+      "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-11-25",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-13",
       "name": "Ochsner Health System",
       "promoted_until": "2027-02-04",
@@ -70437,7 +70709,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-19",
       "name": "OPTrust",
       "promoted_until": null,
@@ -70468,7 +70740,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-20",
       "name": "Oregon State Government",
       "promoted_until": null,
@@ -70531,7 +70803,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-13",
       "name": "Oshkosh",
       "promoted_until": null,
@@ -70805,7 +71077,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-28",
       "name": "Owens & Minor",
       "promoted_until": "2027-02-13",
@@ -70852,7 +71124,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-28",
       "name": "PacificSource",
       "promoted_until": null,
@@ -70868,7 +71140,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-13",
       "name": "Amentum",
       "promoted_until": "2027-02-18",
@@ -70976,7 +71248,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-10-20",
       "name": "Pentair",
       "promoted_until": null,
@@ -71266,10 +71538,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-13",
       "name": "PNC Financial Services",
-      "promoted_until": "2027-02-18",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -71283,7 +71555,7 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-10-23",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-28",
       "name": "Harris Williams",
       "promoted_until": null,
@@ -71314,7 +71586,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-09-09",
       "name": "Point32Health",
       "promoted_until": "2027-02-18",
@@ -71501,10 +71773,10 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-10-25",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-15",
       "name": "Proofpoint",
-      "promoted_until": "2027-02-18",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -71532,10 +71804,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-15",
       "name": "Prudential Financial",
-      "promoted_until": "2027-02-18",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -71563,7 +71835,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-13",
       "name": "Prysmian Cables & Systems",
       "promoted_until": null,
@@ -71579,7 +71851,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-16",
       "name": "PennState University",
       "promoted_until": null,
@@ -71625,10 +71897,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-20",
       "name": "Public Partnerships (PPL)",
-      "promoted_until": "2027-02-18",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -71736,7 +72008,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-13",
       "name": "Q2",
       "promoted_until": null,
@@ -71767,10 +72039,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-20",
       "name": "QTS",
-      "promoted_until": "2027-02-18",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -71798,7 +72070,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-20",
       "name": "Rocket Companies",
       "promoted_until": null,
@@ -71875,7 +72147,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-29",
       "name": "Rakuten International",
       "promoted_until": null,
@@ -72029,10 +72301,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-20",
       "name": "Slate Auto",
-      "promoted_until": "2027-02-18",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -72090,7 +72362,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-16",
       "name": "Regal Rexnord",
       "promoted_until": "2027-01-30",
@@ -72121,7 +72393,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-29",
       "name": "Regions Bank",
       "promoted_until": null,
@@ -72215,10 +72487,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-22",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-13",
       "name": "LexisNexis Risk Solutions",
-      "promoted_until": "2027-02-20",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -72291,10 +72563,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-22",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-16",
       "name": "Republic Services",
-      "promoted_until": "2027-02-20",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -72322,10 +72594,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-22",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-15",
       "name": "Resmed",
-      "promoted_until": "2027-02-20",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -72432,10 +72704,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-22",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-16",
       "name": "RingCentral",
-      "promoted_until": "2027-02-20",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -72448,7 +72720,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-20",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-29",
       "name": "Rio Tinto",
       "promoted_until": null,
@@ -72480,10 +72752,10 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-11-20",
-      "last_success": "2026-11-22",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-16",
       "name": "Protiviti",
-      "promoted_until": "2027-02-20",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -72526,10 +72798,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-22",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-16",
       "name": "Roche",
-      "promoted_until": "2027-02-20",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -72572,7 +72844,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-22",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-20",
       "name": "Rocket Software",
       "promoted_until": "2027-02-20",
@@ -72588,10 +72860,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-22",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-29",
       "name": "Rockwell Automation",
-      "promoted_until": "2027-02-20",
+      "promoted_until": "2027-02-25",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -72636,7 +72908,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-13",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-29",
       "name": "Rogue Fitness",
       "promoted_until": null,
@@ -72669,7 +72941,7 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-10-30",
-      "last_success": "2026-11-13",
+      "last_success": "2026-11-27",
       "last_verified": "2026-08-15",
       "name": "Rolls-Royce",
       "promoted_until": null,
@@ -72822,7 +73094,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-13",
+      "last_success": "2026-11-27",
       "last_verified": "2026-09-03",
       "name": "Saab",
       "promoted_until": null,
@@ -72884,9 +73156,9 @@
     "workday:https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/external_career_site/jobs": {
       "ats": "workday",
       "baseline_complete": true,
-      "failure_count": 0,
+      "failure_count": 1,
       "feed": "general",
-      "last_failure": "2026-11-13",
+      "last_failure": "2026-11-27",
       "last_success": "2026-11-22",
       "last_verified": "2026-08-13",
       "name": "Salesforce",
@@ -77690,17 +77962,17 @@
   },
   "cursors": {
     "candidates": 0,
-    "discovery_prefix": 27,
+    "discovery_prefix": 28,
     "shards": {
       "0": 141,
       "1": 891,
       "2": 954,
       "3": 971,
       "4": 967,
-      "5": 960,
+      "5": 1016,
       "6": 543
     },
-    "yc_companies": 249
+    "yc_companies": 252
   },
   "schema_version": 1
 }
