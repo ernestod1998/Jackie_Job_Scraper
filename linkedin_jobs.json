@@ -1,159 +1,280 @@
 {
-  "scraped_at": "2026-11-28 00:16 UTC",
-  "total": 14,
-  "new_count": 2,
+  "scraped_at": "2026-11-28 10:12 UTC",
+  "total": 25,
+  "new_count": 25,
   "jobs": [
     {
-      "company": "Telecare Corporation",
-      "title": "Case Manager II - Mental Health 121",
+      "company": "Fin",
+      "title": "Partner Enablement Specialist 3",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488432797/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Micron Technology",
+      "title": "Executive Search Program Coordinator (Contract)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469663839/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Morrison Foerster",
+      "title": "Operations Coordinator",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488480058/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "xTool Official",
+      "title": "Marketing Operations Specialist(Part time)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4496009881/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "3 Day Blinds",
+      "title": "Onboarding Field Trainer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487341614/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "3 Day Blinds",
+      "title": "Onboarding Field Trainer",
       "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495899329/",
-      "date_posted": "2026-11-27",
+      "url": "https://www.linkedin.com/jobs/view/4487345456/",
+      "date_posted": "2026-11-28",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "OpenAI",
-      "title": "Program Manager, Recruiting Events",
+      "company": "CVS Health",
+      "title": "Operations Manager-CA",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495575894/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CVS Health",
+      "title": "Operations Manager - CA",
+      "location": "Richmond, CA",
+      "url": "https://www.linkedin.com/jobs/view/4496021332/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "salary": "$24.18/hr - $38.18/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Manager, New Verticals - In-Store Data Platform Strategy & Operations",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495350240/",
-      "date_posted": "2026-11-27",
+      "url": "https://www.linkedin.com/jobs/view/4486294226/",
+      "date_posted": "2026-11-28",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Waymo",
-      "title": "Partner & Enterprise Support Lead",
+      "company": "Four Seasons",
+      "title": "Assistant Front Office Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469910757/",
-      "date_posted": "2026-11-27",
+      "url": "https://www.linkedin.com/jobs/view/4471860019/",
+      "date_posted": "2026-11-28",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494217712/",
-      "date_posted": "2026-11-27",
+      "company": "University of California Office of the President",
+      "title": "SECURITY OPERATIONS MANAGER - REMOTE IN CALIFORNIA",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4487388021/",
+      "date_posted": "2026-11-28",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "CyberCoders",
-      "title": "Multi-family Podium Project Manager - $185-225k",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494208866/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Project Management - Project Coordinator IV",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490046757/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$53.00/hr - $63.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jerry",
-      "title": "People Operations Generalist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494215721/",
-      "date_posted": "2026-11-27",
+      "company": "HDR",
+      "title": "Power Program Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4442225017/",
+      "date_posted": "2026-11-28",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Jerry",
-      "title": "People Operations & Compliance Specialist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494221368/",
-      "date_posted": "2026-11-27",
+      "company": "University of California Office of the President",
+      "title": "LEGAL OPERATIONS SUPERVISOR, PRACTICE SUPPORT",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4487370814/",
+      "date_posted": "2026-11-28",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Jerry",
-      "title": "HR Generalist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494210848/",
-      "date_posted": "2026-11-27",
+      "company": "Lam Research",
+      "title": "Program/Project Manager 5",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461914730/",
+      "date_posted": "2026-11-28",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Mirador Law",
-      "title": "Bilingual Client Services Coordinator - Pleasanton, CA",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495335552/",
-      "date_posted": "2026-11-27",
+      "company": "Intuitive",
+      "title": "Program Manager - Systems",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471645396/",
+      "date_posted": "2026-11-28",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "The Bay Club Company",
-      "title": "Operations Associate",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4496001054/",
-      "date_posted": "2026-11-27",
+      "company": "CVS Health",
+      "title": "Operations Supervisor",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495590345/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "salary": "$20.65/hr - $29.65/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Duck Creek Technologies",
+      "title": "Services Project Manager III",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4476035055/",
+      "date_posted": "2026-11-28",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "LandCare LLC",
-      "title": "Account Manager (Commercial Landscaping)",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495344374/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LandCare LLC",
-      "title": "Account Manager (Commercial Landscaping)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495347238/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
+      "company": "Atelier Ten",
+      "title": "Senior Environmental Designer / Project Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494218596/",
-      "date_posted": "2026-11-27",
+      "url": "https://www.linkedin.com/jobs/view/4471676813/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Oracle",
+      "title": "Program Manager 4",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486617621/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Samsara",
+      "title": "Sr. Customer Success Strategy Manager, New Products",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488417664/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Samsara",
+      "title": "Sr. Customer Success Strategy Manager, New Products",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488413827/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Axiom",
+      "title": "Legal Operations Specialist - California",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486280500/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Deloitte",
+      "title": "Customer Experience Management Consultant, Medallia",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488144830/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Deloitte",
+      "title": "Customer Experience Management Consultant, Medallia",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488141945/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sutter Health",
+      "title": "Patient Advocate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470006361/",
+      "date_posted": "2026-11-28",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -162,22 +283,277 @@
   ],
   "new_jobs": [
     {
-      "company": "Telecare Corporation",
-      "title": "Case Manager II - Mental Health 121",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495899329/",
-      "date_posted": "2026-11-27",
+      "company": "Fin",
+      "title": "Partner Enablement Specialist 3",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488432797/",
+      "date_posted": "2026-11-28",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "OpenAI",
-      "title": "Program Manager, Recruiting Events",
+      "company": "Micron Technology",
+      "title": "Executive Search Program Coordinator (Contract)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469663839/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Morrison Foerster",
+      "title": "Operations Coordinator",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495350240/",
-      "date_posted": "2026-11-27",
+      "url": "https://www.linkedin.com/jobs/view/4488480058/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "xTool Official",
+      "title": "Marketing Operations Specialist(Part time)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4496009881/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "3 Day Blinds",
+      "title": "Onboarding Field Trainer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487341614/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "3 Day Blinds",
+      "title": "Onboarding Field Trainer",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487345456/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CVS Health",
+      "title": "Operations Manager-CA",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495575894/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CVS Health",
+      "title": "Operations Manager - CA",
+      "location": "Richmond, CA",
+      "url": "https://www.linkedin.com/jobs/view/4496021332/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "salary": "$24.18/hr - $38.18/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Manager, New Verticals - In-Store Data Platform Strategy & Operations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486294226/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Four Seasons",
+      "title": "Assistant Front Office Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471860019/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "University of California Office of the President",
+      "title": "SECURITY OPERATIONS MANAGER - REMOTE IN CALIFORNIA",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4487388021/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "HDR",
+      "title": "Power Program Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4442225017/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "University of California Office of the President",
+      "title": "LEGAL OPERATIONS SUPERVISOR, PRACTICE SUPPORT",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4487370814/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lam Research",
+      "title": "Program/Project Manager 5",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461914730/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Intuitive",
+      "title": "Program Manager - Systems",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471645396/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CVS Health",
+      "title": "Operations Supervisor",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495590345/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "salary": "$20.65/hr - $29.65/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Duck Creek Technologies",
+      "title": "Services Project Manager III",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4476035055/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Atelier Ten",
+      "title": "Senior Environmental Designer / Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471676813/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Oracle",
+      "title": "Program Manager 4",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486617621/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Samsara",
+      "title": "Sr. Customer Success Strategy Manager, New Products",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488417664/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Samsara",
+      "title": "Sr. Customer Success Strategy Manager, New Products",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488413827/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Axiom",
+      "title": "Legal Operations Specialist - California",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486280500/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Deloitte",
+      "title": "Customer Experience Management Consultant, Medallia",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488144830/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Deloitte",
+      "title": "Customer Experience Management Consultant, Medallia",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488141945/",
+      "date_posted": "2026-11-28",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sutter Health",
+      "title": "Patient Advocate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470006361/",
+      "date_posted": "2026-11-28",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -189,7 +565,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 1,
+    "location": 0,
     "stale": 0
   }
 }
