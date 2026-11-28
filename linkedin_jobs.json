@@ -1,13 +1,13 @@
 {
-  "scraped_at": "2026-11-28 00:00 UTC",
-  "total": 13,
-  "new_count": 13,
+  "scraped_at": "2026-11-28 00:16 UTC",
+  "total": 14,
+  "new_count": 2,
   "jobs": [
     {
-      "company": "Mirador Law",
-      "title": "Bilingual Client Services Coordinator - Pleasanton, CA",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495335552/",
+      "company": "Telecare Corporation",
+      "title": "Case Manager II - Mental Health 121",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495899329/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -15,21 +15,10 @@
       ]
     },
     {
-      "company": "Apex Systems",
-      "title": "Project Management - Project Coordinator IV",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490046757/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "IntelliPro",
-      "title": "Customer Operations Specialist",
+      "company": "OpenAI",
+      "title": "Program Manager, Recruiting Events",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495885384/",
+      "url": "https://www.linkedin.com/jobs/view/4495350240/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -50,22 +39,10 @@
     {
       "company": "CyberCoders",
       "title": "Electrical Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494218596/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4494217712/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $180,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -78,6 +55,18 @@
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Apex Systems",
+      "title": "Project Management - Project Coordinator IV",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490046757/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$53.00/hr - $63.00/hr",
       "feeds": [
         "general"
       ]
@@ -116,6 +105,17 @@
       ]
     },
     {
+      "company": "Mirador Law",
+      "title": "Bilingual Client Services Coordinator - Pleasanton, CA",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495335552/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "The Bay Club Company",
       "title": "Operations Associate",
       "location": "San Jose, CA",
@@ -142,6 +142,17 @@
       "title": "Account Manager (Commercial Landscaping)",
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4495347238/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494218596/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -151,10 +162,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Mirador Law",
-      "title": "Bilingual Client Services Coordinator - Pleasanton, CA",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495335552/",
+      "company": "Telecare Corporation",
+      "title": "Case Manager II - Mental Health 121",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495899329/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -162,133 +173,10 @@
       ]
     },
     {
-      "company": "Apex Systems",
-      "title": "Project Management - Project Coordinator IV",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490046757/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "IntelliPro",
-      "title": "Customer Operations Specialist",
+      "company": "OpenAI",
+      "title": "Program Manager, Recruiting Events",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495885384/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Waymo",
-      "title": "Partner & Enterprise Support Lead",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469910757/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494218596/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Electrical Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494217712/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $180,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CyberCoders",
-      "title": "Multi-family Podium Project Manager - $185-225k",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494208866/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$185,000.00/yr - $215,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jerry",
-      "title": "People Operations Generalist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494215721/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jerry",
-      "title": "People Operations & Compliance Specialist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494221368/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jerry",
-      "title": "HR Generalist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494210848/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The Bay Club Company",
-      "title": "Operations Associate",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4496001054/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LandCare LLC",
-      "title": "Account Manager (Commercial Landscaping)",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495344374/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LandCare LLC",
-      "title": "Account Manager (Commercial Landscaping)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495347238/",
+      "url": "https://www.linkedin.com/jobs/view/4495350240/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
