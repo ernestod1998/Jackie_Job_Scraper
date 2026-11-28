@@ -1,13 +1,35 @@
 {
-  "scraped_at": "2026-11-27 11:28 UTC",
-  "total": 38,
-  "new_count": 2,
+  "scraped_at": "2026-11-28 00:00 UTC",
+  "total": 13,
+  "new_count": 13,
   "jobs": [
     {
-      "company": "Houlihan Lokey",
-      "title": "Marketing Operations Coordinator",
+      "company": "Mirador Law",
+      "title": "Bilingual Client Services Coordinator - Pleasanton, CA",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495335552/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Apex Systems",
+      "title": "Project Management - Project Coordinator IV",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490046757/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "IntelliPro",
+      "title": "Customer Operations Specialist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488099475/",
+      "url": "https://www.linkedin.com/jobs/view/4495885384/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -15,67 +37,10 @@
       ]
     },
     {
-      "company": "Total Vision",
-      "title": "Patient Care Coordinator",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460428051/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Denali Therapeutics",
-      "title": "Biosample Operations Associate",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471176418/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cupertino Electric, Inc.",
-      "title": "Assistant Project Manager - Energy (Estimating to Traveling)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469016891/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Fluidstack",
-      "title": "Office Manager",
+      "company": "Waymo",
+      "title": "Partner & Enterprise Support Lead",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422599035/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$133,000.00/yr - $158,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CVS Health",
-      "title": "Operations Manager-CA",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495575894/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$22.34/hr - $36.34/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DoorDash",
-      "title": "Research Operations Manager",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485858913/",
+      "url": "https://www.linkedin.com/jobs/view/4469910757/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -83,10 +48,10 @@
       ]
     },
     {
-      "company": "DoorDash",
-      "title": "Research Operations Manager",
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485861771/",
+      "url": "https://www.linkedin.com/jobs/view/4494218596/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -94,54 +59,34 @@
       ]
     },
     {
-      "company": "eBay",
-      "title": "Manager, AG Strategy & Operations",
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485853079/",
+      "url": "https://www.linkedin.com/jobs/view/4494217712/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $180,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Jobgether",
-      "title": "Villa Operations Supervisor - Remote (San Francisco Bay Area)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4495078442/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobgether",
-      "title": "Sr Strategy & Operations Manager, In-person - Remote (San Francisco Bay Area)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4495078429/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CVS Health",
-      "title": "Operations Supervisor",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495590345/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lumentum",
-      "title": "Senior Program Manager, Business Operations Transformation",
+      "company": "CyberCoders",
+      "title": "Multi-family Podium Project Manager - $185-225k",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477069756/",
+      "url": "https://www.linkedin.com/jobs/view/4494208866/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jerry",
+      "title": "People Operations Generalist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494215721/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -149,10 +94,10 @@
       ]
     },
     {
-      "company": "FUJIFILM Dimatix, Inc.",
-      "title": "Quality Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459550960/",
+      "company": "Jerry",
+      "title": "People Operations & Compliance Specialist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494221368/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -160,165 +105,10 @@
       ]
     },
     {
-      "company": "Google",
-      "title": "Senior Program Manager, Learning Design and Content Management",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495083754/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Google",
-      "title": "Senior Program Manager, Learning Design and Content Management",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495089511/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobot",
-      "title": "Building Automation Project Manager 2",
-      "location": "Union City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486205998/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "STO Building Group",
-      "title": "Project Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488038123/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bio-Techne",
-      "title": "Senior Project Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488049553/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lam Research",
-      "title": "Program/Project Manager 5",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469619040/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lam Research",
-      "title": "Global Program Manager L&D",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486924278/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nextpower",
-      "title": "Program Manager - Robotics",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469040387/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HDR",
-      "title": "Northern California Power Delivery Program Lead",
-      "location": "Walnut Creek, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486931427/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Revolution Medicines",
-      "title": "Program Management Office Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4471183518/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "WD",
-      "title": "Global Incentives Compensation Program Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459976543/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Abby Care",
-      "title": "Senior Product Manager, AI Clinical Care",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478833663/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$170,000.00/yr - $230,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BDO USA",
-      "title": "Tax Experienced Senior, Private Client Services",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469312192/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BDO USA",
-      "title": "Tax Experienced Senior, Private Client Services",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469304407/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Tenet Healthcare",
+      "company": "Jerry",
       "title": "HR Generalist",
-      "location": "San Ramon, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469188400/",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494210848/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -326,88 +116,10 @@
       ]
     },
     {
-      "company": "Enlyte",
-      "title": "Medical Field Case Manager",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486941890/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Shyld AI",
-      "title": "Customer Success Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4495082713/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Mochi Health",
-      "title": "Operations Associate, Insurance & Clinical Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486918222/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Fluidstack",
-      "title": "People Partner, DC Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4442636183/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$178,000.00/yr - $232,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DoorDash",
-      "title": "Associate Manager, Strategy & Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459550688/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DoorDash",
-      "title": "Manager, Sales Strategy & Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469382271/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Prevost",
-      "title": "Customer Support Manager - Plains USA",
-      "location": "Hayward, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460049029/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bio-Techne",
-      "title": "Service Support Manager",
+      "company": "The Bay Club Company",
+      "title": "Operations Associate",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470994663/",
+      "url": "https://www.linkedin.com/jobs/view/4496001054/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -415,10 +127,21 @@
       ]
     },
     {
-      "company": "Jobgether",
-      "title": "Call Center Manager - Remote (San Francisco Bay Area)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4495062999/",
+      "company": "LandCare LLC",
+      "title": "Account Manager (Commercial Landscaping)",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495344374/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "LandCare LLC",
+      "title": "Account Manager (Commercial Landscaping)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495347238/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -428,22 +151,144 @@
   ],
   "new_jobs": [
     {
-      "company": "Fluidstack",
-      "title": "Office Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422599035/",
+      "company": "Mirador Law",
+      "title": "Bilingual Client Services Coordinator - Pleasanton, CA",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495335552/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
-      "salary": "$133,000.00/yr - $158,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Mochi Health",
-      "title": "Operations Associate, Insurance & Clinical Operations",
+      "company": "Apex Systems",
+      "title": "Project Management - Project Coordinator IV",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490046757/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "IntelliPro",
+      "title": "Customer Operations Specialist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486918222/",
+      "url": "https://www.linkedin.com/jobs/view/4495885384/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Waymo",
+      "title": "Partner & Enterprise Support Lead",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469910757/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494218596/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Electrical Project Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494217712/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $180,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CyberCoders",
+      "title": "Multi-family Podium Project Manager - $185-225k",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494208866/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jerry",
+      "title": "People Operations Generalist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494215721/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jerry",
+      "title": "People Operations & Compliance Specialist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494221368/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jerry",
+      "title": "HR Generalist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494210848/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Bay Club Company",
+      "title": "Operations Associate",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4496001054/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "LandCare LLC",
+      "title": "Account Manager (Commercial Landscaping)",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495344374/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "LandCare LLC",
+      "title": "Account Manager (Commercial Landscaping)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495347238/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -456,7 +301,7 @@
     "seniority": 0,
     "domain": 0,
     "role": 0,
-    "location": 2,
+    "location": 1,
     "stale": 0
   }
 }
